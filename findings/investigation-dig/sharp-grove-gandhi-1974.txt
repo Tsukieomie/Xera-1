@@ -1,0 +1,264 @@
+'. -~_;, .·,··,,_.: :~'..''.- }• :'._. .... ·,. ___;....... .. . -.-f'!l );:.,- , . .. r,_;.. "-"_.-i-'' : t· t ~ 
+-/i ',..t-,-' ,:tr,,•;, - ------:__-..,_~ ;'" ;_,I ."' I> :J. 
+. ;:; :.#_:,:.~· ' . ' ·. ._,:.re_~~: t -
+. if./rrrns r ' ::"•"Jf' _.; -; ~ ,' 
+,t;/~..,Y!· .• '. .. 0: ¢.: ",; . ; . . . -
+. ;//~ .:~~n,ni1i.ictf1e value:;' for f and f~ iiven in Tahle TL The me:L-.ure<l 
+· · .. ,. ,. :.; · ,w,;'t'i,t:•;n:i 1c·al 0,fue,-for-tfie 1111_r-onled ca.,.-i di,-ai:ree by on!~· 12 pcr­
+/r-;,:.·. Cl.-11: .,·:rht:,• larj!er di"crep:mey at 20 K is prirnarilv due, to th llll~ 
+•-~·- 1:;1:ii_uty ii; the exaf'! tempe_ratnre of the nitrr,g~n cold-lo. u.,ed. 
+-; ... ~ ~;;;,::: .Jor: the 11°i.~e me:~,un:rnen ts1 the 'refa1 lvely larl,.(e ~cmnd-s ge con­
+;;,.,,•· P, • tril,ut'i11n (;\II I\), a11d the rieglcct of other po:;:;ible noi:;e: 11rces like 
+·;' ,.-·· ·. rhe 1)11mp-lie,a1inJ!: efie<:t ['.J]. . · 
+1 . This mea.,.urc,_I noi:<e tempernture of only 40 K 
+imprnv(smcnt r;i the n.oise performance by. an orde of magnit.nde · 
+:i,; ,·,m1p:1red to prcvfon~ly rcpr,rte<f 1111cooled amri 1fiers in this fre­
+qu.ene~-. rans.:e [Ii]. B:L~ed on these_ results it i;; • It th:i.t. amplifiers 
+11,ith s11ch low noise performan«-e which are n <led in many i-aJi­
+oi_::1£-try :i11d··millirneler-wave radi,i-a.-;tr<mom applications can .be 
+i.le~·el11pc<I 11p to freq11en<'ies of.at least !JOG .z. . 
+•.------ . ' . 
+.r;~· 
+/('.,.,.f>,,;;J ' 
+,.,y_ i 
+' , y followinJ!: list mav not. be eonrnlet<', but. ~h,,nlr! l'1e :\drq11:1te for~ the 
+intended purpose: • ~-
+l) R. '.\fu,;_0 .,n-Ge11n11 and P_ Bri,~onea11, 
+d'impedances a (·n11pl:i:.u· dirr-,·t if en hyp 
+,ti-ad. Sri., vol. 2:io. PP- i 2,,,;-12.:;i,, '.\Ta \150. . . 
+2) A. I. ZYknv, "lmped:rn<·e me:i.-. \'fl1P1iis h~- ~leans 11f dirt•c~· 
+tinnal cn11pl1:rs," Jfcris. T,-.ch., v _ :i. pJI. '.?ll-·21.'i, '.\lar. l!J5'l. ·: 
+:r, K. Chandr:t, IL l'ar,ha . and I!. C. h:11m:ir, "'.\lea.,mern<:nt 
+nf im1wd:\11C'e ar mi!TII\\" C freq11en!'i(•,: 11,i1,g dire,·'t ior,al ('otq,ll·r 
+all(! adj11.,table ,h11 · <·ifr11it," l'rnc. 111.-1. f:lt:r. [;'ny., v11l. rI4, 
+pp. 105:H6,'i,'i,. - JV. l!Hi7. .: 
+4) P.. K·. J and \'. 1,. n:trir, ;'Vnlt:.i/!e ~t:imlinir-waVt'. ratio 
+mea.,;1rem t by cm,., <:llttpler," Int. J. Efrctnm., 1:i;I. 2!J, no. 2 
+8'.J, 1!)7(1 
+' 
+' ;_ 
+J 
+i 
+\ ·I 
+' 
+,[ 
+i 
+f 
+t 
+t · . ACKKOWLEDG1 NT · ~-, . · · , 
+The a11thor: wish~ -to thank Dr.· R. ~ fatt:rnch of th University 
+1if\'ir,:;i1'ii,L for hi,s :;upport' anti r;ir de eloping the iun_ctio s. He also 
+wi~he;; to thank L. Piz~iconi, wh . computed the whi,;ker. stray ·, 
+:f 
+, .... ,a;" 
+' . 
+/ 
+I 
+t11J:)atita11ce. 
+II). H,. L. Stover et al., in f)i ,st 1973 ·Int. Solid-State Circuits Cunf .. 
+· P.eh. I !),J. pp .. ~0-81. . . , 
+1:tl J,. F;drich. P. Hard,~. a d R. G. 1V!'.st. "'Lovr loss lfi°K-coobhle 
+· l\inctl"n <·ircuraro·rs for the millimeter "·ave ran~!'." prea!'nlPd a.t 
+tli~.-1\1,:i Europ.-an :\lir. i,wi.ve Conf •• lln1,-....,ls. Hcl:,:i11m, Sel)t. 1073. 
+f3! );, lloul<linz. ,\l:rrrn1·, r.'J .. vol. 3. f.P· 40-~.5. Jan. J!HlO_ 
+.!ti rf/ .. \la,·:Hlat. ,J .. E/rrl rm'. Cvntr., vo. 1.5. pp. 51-.54, Jul)· 1!)63. ; 
+[5j. F.; W.; Sar,!.. ''"A n ,v proeednre for c.ii,·ularing varactor Q from 
+i.n111<'rlane-, v-,ro,,s iias, Olt'asuremPnts.'' 1 EEE Trans. Jficrnu:circ 
+Th,·1,r~ 1'uh .. \'•)I. ITT-lo. ·,;p_ S-E,-i-,;o, \.kt,, 1a6il. ' 
+[61 .J. Ell rich. "'A par m,'tri<; ,Llnplitier for-rn GHz," Proc. IEEE (Lett.). 
+· ~'t,1 .. i\!J'. pp. ll~· -ll26., Jul~· l!li'l. 
+{7J :.L: W. Sl1arp\e -. Bell Sys!. Tech. J .. vol. 35. pp, 138,S--1420, Nov. 
+t!•ff6:, ' . . 4 - . ~ • . " ' . . _· 
+[81 Tc P. ·.r. .. e an C. A. Il4rrus. ":\ mil!imetf'r-wave quadrupler and 
+.at). up-cnnv1- tf>r u.;ing- planar-di1!:..:sed ;;a!ltum arsenide varactor 
+dfo(t1•s·• .. "· /L .E Tn,>iS .. '1iccuu:a:i: .1'f•,;·,.,r, Tech .. vol. l\ITT-ltl,.pp. 
+•\·'.'-;-.:.•H)rJ \ a•· T'fti ... 
+'..~,.~: It::. (~~h'n.: .L . .,. t:._ .. t')icken.s. J.nrl J. \\". Dozi~r .. in 1969 Dir,e."t Int. 
+-~1-J,l~l.•Jli"/lC. ;.':;!/.''ll;J,. ')p. :!:!.'."l-:.!:il. 
+~._l.f}: J. r;·.:iri<· .. ··Pa.ran1r-!rk~ ampliflcation o{ .miLJi.rneter wavPs usin1,: 
+·.-;:.~~_r, .. r:,-•.,1dt=-s-: f-:·p-:,:dt.;., J211u•nt,ais. u.nd lin1it.ations," 1EEJ•; ·r,ans.· 
+.',!1cr-,;·,:r.,· The,.·,1/' ]',ch. (Con-es;, .. :,. voL )[TT-18. pp. lli3-Jli';,. 
+I>.i:-"'"-!; · .!i_;:;n-. · .· · 
+'' ,·•. L: . .. B;,.,_,k,;·.,-!i and K. L. Koueh11e. &micnrufuct.or-Diode Para­
+·:'r,,·i' i,· .-lrc,,,U:/,.·,:;. En.~lewood Clit!,. :S. J.: Pren.tice-Ha.11. 1()61. 
+l!.1j,. K ·c;.arr:red?::. ~!l Di(Jr:Jt· lnt. Con_F. Svliri-State Circuits, I96T>. p_p. .-1· -2.:.:i.•.,• . 
+. A Freq~erit 
+alled to publi:;b.ed work describing an 
+impedance-measuring circw · thaf is frequently reiffvented. · 
+,,,,//f. . 
+A#stract-Attenti'oc 
+' ' . ' : ' / ' 
+.,\; 1\:f1mb<:r qf paper.s have appea ' .in which the VSWR or im-
+p;;d:m<;e' j~. lllf.:~s11red by ~lid in~ a ~hor circuit in one si'de arm of !I. 
+,i'irh:iirin:.d coupler and ob~ervilii:; the re::: on.,;e of a detector located 
+iri' tli,• ,irlu·r·sid'e arm. In n.ddition, this iJc has been reinvented on 
+t"·" Ji1!i:rt>11t occasions of which the uutho 'is aware, and the in­
+\·,mi;,r~· di\! not 'plibli"h· their independent ':1'" - when informe,.l of 
+1,n .. :i,,.1i--. •Wflrk. 
+· C,,rbcs111cully, it appe:Lrs· worlhwhile to call at. ntion of micro­
+w:,·,•1• ,,.,~ineer~ to publication,; which deal with t is topic. The 
+. . '.lJl'n.\l~•.·r:'1:l n•,•~I ,·,•u .January I, I. 197-1. 
+l:l~·i• .. i1,t.,1,"r ·i:,; "".ith thP- El1•ctron1:i.g-111.~tics Division, Xa.tiona.l llureau 
+"r. >t .1 n,J:..r.d.""_. Uol~hJf•r. Colo. h0:102,. 
+., - ~. " • 
+,-
+Generation of Acoustic Signals by Pulsed 
+Microwave Energy 
+_\:<,I) 0'.\[ P. GANl)HI ., ,-;,­
+Abstrai:t-'A discussion of the production of sound when short; 
+microwave pulses are directed at an absorber is presented. Possible 
+mechanisms of the phenomenon are presented. These mechanisms 
+may be important for a better understanding of the so-calied micro- • 
+· wave "hearing" effect. 
+\. ' ' 
+. '· ·~ 
+This letter is intended to de,;crihe a pheuomenon first notict.,:i in -· 
+our hboratory during ~01ne preliminary experiments designed tq ~, 
+further elucidate the mechani:im (,;) re.,;pon:;il,le for "hearing" pulsed 
+'microwave expo:;ure (e.g., [ I }-[:1 ]) . While :i tt1~mpting t.o shield 
+portions of the be:ul fmm RF radiation by 11sinp: :t <·:ubon~imp:-cg­
+nat~d polyurethane microwave ab~orber (Emer:;on and Cumming 
+Eccosorb WG4 with a _surface area of :{ilti cm:),· it was noticed 
+that the apparent locus of the "sound" mo\·ed from the observer's 
+~· to the absorber. That is, the absorber acted as a transducer 
+from tnirrowave energy to. an acou.,tic si~n.1!: Thi~ observation, to 
+tire be:,t. of our kno~:led:!f, ha:; not been de~criped in the literature 
+~ may serve :\S an important due to the mechanism mediating 
+\be ''t,ea.rbg'' ,o_f pubed microwave signals. 
+\. 
+1'hat the signal from the ·ab:;orber · is :i,:n11:;tic is prov('.fl hy the 
+~ta presented in Fr:;. 1 where the en;;emble rnrn of 50 epochs, each 
+25.6 ms long, is plotted. These ifata were cullected with a General 
+·~o model 155IC sound level meter fitted with a 1.561).P,5 micro­
+phone. The microphone was aceiustii-ally coupled to the absorber 
+:vil!o one of two cont-shapr<l guides, 1.4:.? or 0. 7:3 m l0ng, re;;pedively; 
+the,;e guiues were made uf construction papt>r. The recorder out.put 
+of. the sound meter was led thrnui:;h a :Krnha-Hite model 3:3.J3R 
+bandpass filter (set to p:1$S l,j0--2:i0tl Hz), to an HP f,)urier :rnalyzer 
+model ,5451..\ where the sign:ils were digitized and the 50 ep•>chs 
+were summed at 512 equi,pacl·d san,ple points; the ,:impling .inte:rval 
+.w11s, tl'ieref ore, 50 µ.s. · · · 
+· f.iti:. 1 (a} repre~erti;; one sud; en~emble sum when the microphone 
+wa~ 1.4:.? m from rht, :ihsc,rbt•r. The sound arrived :it, and. activated, 
+the mic-rojilwne :1pprn\i1,1:i1t•h' -UiS 111 . .-; aitPr the tri.~i,:t'r pul.,e was 
+:i.pplied lo the Applied \! i,-rm,·ave Laboratnril'.-.. Inc., mn,.h,J PG.'iKB 
+pube signal sourct'. The ilUtput W:tS radiat<-d b~- a :\'.-\HI)..\ 646 
+horn which has a phy~il'al apPrt un, of .'i:1.;; X :,~Hi 1·111. \\'hen the 
+dist.ance fr.,rn the alhurl,er to the mi<'roph1111e w:.L< 0.7: . .; m, the sound 
+arrived apµroxirna1 el.Y 3.:.?'.l lib aflt'r the t rig:;er signal [Fig. 1 (b) ]. 
+)~anuscript rt·cPi\·ed 01:toh~r _:;!.l. 1 !t_;:~: re\·:.-.Pd .J:inua.ry 11. 1974. 
+\ .r. C. Sl,J;Lrp_and Ii. .\1. tirovP'°;\r~ w11h tiJP It,·partm+\nt of ;\ficrowave 
+·}'tp~arch. \\"~1\ter Ht•,·d Arm) lnstitUtP of H,·:.:.t•:lrcll, \\"ash~11>,:;1on. 0. C . 
+:::bo1:.:. , 
+. \0. P. Canrtl1i is with tiu· DPpartrn.-n! of Elt.~trical Engint•·ering, 
+U11iver.;itl·of Cud,. :-:all Lake City, Utah l<·IIU. 
+' 
+,.'\ ( 
+\ 
+\ . ;., 
+.\ 
+I 
+' 
+11-:n: Tll.l\'S.\CTl():\"S O\' ,11cH011·.1vf: Tllf:OHY .\\'I) Tf:n,-._,,Jt,, \,,. 
+CONE ~ENGTH • 1.42 M~TERS 
+---r J_• 100 \.OLTS CONE LENGTH • 0. 78 METERS 
+"'fv--
+-I-•-100_\IOI. __ TS ____ A_S_B_A_BO_VE_, BVT--_N_O_CO_N_E __ 
+H •1.28 m .... 
+Fi_,;. I. EnsemhltJ sum of 50 2-5.6-mi 'epochs fr()m output of sound 
+qwu1r. · (a) :-;uun4l n1t"'tf'r acoustka11y couplPrl to ahsorber ,·ia a 1.42-
+111 pap<•r conH. (b) Sarno as (a), P.XCt:µt, transn1ission distance was rr.­
+d•w,•d to o.;·s m. (cl ~ame as (h). exc.,pt the cone was remo\'ecl which 
+t'.·n,t,,d rn acoustically deco11plc the sound mNer from tha absorber. 
+In uath of these _two cn~es, the t.ime dt'lay observed l!:1 consistent, 
+witl1in cxperimcnt;i.l and measurement errors, with the transit time 
+nf ~•i1111d a., (':11<:ubted from the velocity of sound of 3:J2 rn/FJ, .If the 
+c•ine1 wl1ic\i ser,eJ as the acoustic coupler between :i.bsorber o.nd 
+rnicniphur:e, was removed, there was no pickup of a detectable 
+aconsiic ;;ign:il: the artifact caused by t-he RF coupling with the 
+micr.pplwne and associated electronics i5 ·clear and unambiguous 
+[.Fi~. l (c)]. . 
+For the data presented here the microwave pulses were 14 µ5 
+lung; each pulse ;vas rapdomly triggered b:,,: t.he random binary 
+output of an HP noise generator model 3722A set to give approx­
+irn,.tP-ly 3 pu!:;e,;/s. Equjpment was not ,,.vailable to me:i.sure the 
+power clensit~· direttly. However, by u~ing a Pacific '.\Ieasurements,, 
+Inc., peak P'>we, meter '.\Iodel 1018, an HP dual directional coupler 
+:i;odel 7,SD-1 l, and suitable attenuaton;, the net transmitted power 
+·.1·:,~ uc:ter:11ir.d to be -1,.jOO W/pulse. This yid<ls a calculated power 
+de;i.-it:,· f,x a c:,.,rking dist.:rnc·e between O.:) and 0.6 m of approx­
+i:n:llely 7.,>l:'i !i\\-/m=. For the dat:l pre;;ented in Fig. 1 the carrier 
+frequenc:y w:,.-; 15()(1 ..\lHz. In subse<1uent tests, using the same 
+setup. little din"ei'ence wa~ found in the qu:i.lity or amplitude of the 
+acou,1i-:: si~r:ii when the c-arrier frE'l1uenc,- wa::i .chantred from 120() 
+:hrnugh l.liUil '-lnt:i 2-1.50 :\IHz. Dete_ciab!e '.,ounds, could be produced 
+in various ~ize;; and ~h:i.pes of ab;;c:.-b'ei-e,en to pieces as sm:i.ll :i.s 
+4 mm~ by 2 mm thick. Savernl types of absorber produced :i.udible 
+:;uumls :~;; did loo.,elv crumpled aluminum foil. The threshold 
+power/pube. for ::i.udibiiity, under le'"~ than ide:i.l conditions, was 
+of the order of 27,'i W peak, for o.q estimated peak power density 
+in the range from 0.-16 to 0.92 kW/ni'. While the observations made 
+. . . · _ l'-f. 7 r - 2 1- : s----f;~ :2., ,h 
+w,_th the n11c:rnph11rt(' w,:n· d,,,,,! Wil It r-tnd111,,I,· 'o 7L [ . l!••tp·r t', \ <I 7 
+wave pul,1·,,, 11•,,b wt•r1• 1·1111d11.-11·d with rl'"lll·,rl. . ··.··\ 
+• • •. ..... ' \ ft ; I• \•I•' t 
+with rrpt>1111,,n r,,,,., up'" ,;1111 p1tl,1·,·:',-. Tl,,• . 1 ·. I . · · " 
+• • •" 1 1 1 t , • J I r , .• ~ , , • , 
+the :.i.h~orbcr ~(•em()tl t n t r:v·k I he rrpel i 1 i .. 11 r·it : f I I · · 
+pulses. · 
+1 11 
+"' ~:.i, • • l ·., 
+One of several likely expl:rn:i.t inns for this ph"n,,, 11 ,.,,, -it • . : 
+!hat r:.i.d_i:itinn· prc,:;11rc i, exeri1•d fJn "11rfa,·t'>' wltid, ·,\,; -~: .·, ·. 
+rn m:i~mtu<le anrl/.-,r nril.'111:ttion (,f i111pi11g:in~ t-1 .. ,·,ri,· .11 .,; • : • 
+field~ .. For a ''pl'rfcet" :tl,surber, ti,,, r:uliaii,, 11 pri--,.,',r;, , ... ' 
+from impingement 11_f sud1 pube p,m<,r (7.:,-L-, k\\"_ ,,,, , 
+calm lated tn be '.l-G X 10-• dy11/1·rn' "·!tile th,: v,d,:o-., f--r" .... 
+reflector w1,uld he twice a:-;_ mu('h [-tJ. [1 i., intt•n,,;li,,.: , .. :. ',,. 
+although the:;e p·re,:rnre levels arc cxtn:1111,ly :-;rnall,.1111 .• ,. '"··,. , • 
+the thre:-hnld of audible ~ound pre,,;ur<'>' [:J]. · · 
+. To prn<lu('e the :i.lumi11um foil '\1rn11d'' it \\':L,· 11 ,,,.,,.._-:.r\' ;,. , . 
+the fnil in :-;u('h a m:tnner (presumably) a., to n·,111 ,-,. 11,; .• 1,.-·, •. 0 
+th~ vibr:.i.t_ing lip. With the mi,-rnwavt~ :tl1.--;,,rl>1·r, pi·rh:q,. 1.· .. , _. 
+of 1t,.; re:;1hency, surh spe1·1:d procedures are 111 11 tt•r,.,._,,,rv. 
+· Further wurk i:; in prog:re,s to ehl(·id:otc the 111('1·),,",·i,:11 11 ., .,. 1 
+in this phenomenon :llld to det1·n11i111: whctlff'.r 11,,. ,.__,,,.;. : .... 
+mechani,m may l.,e applic:t.l.>le to rite ,,,-,·,dl(•d luir11 :rn .. ,,,.,.,"_ .•. , 
+pub~<l rn1er"wave eneq._o:\'. It i:; pn,,,_,ible th:1.I 11i,_.r,· :,r,· ,.:! .. -: . , , .• 
+du<'lllln mr.1 hani,ms .ti. 1,ork, both i11 this ,,1111plilil',I 111 ,.J, I :-i· : • 
+the real sit11:ttion. For C\ample, bon,i i, k111m·11 to li:lvt• 101,.,,. '· ...• 
+properlir,:,; and the dilTeren~e ,.,f poll.'11i'ial n·:;11lti1,~ fr .. 111 1 •••• ,· ,', •• 
+form:.1.tion li:1s lwen 1111::cs11rl'1I. If ,·itl11:r the radiatio 11 ltf',, ... ,: .... 
+eketro,-trictive for<·<·s arc s11lfil'i1:nt. i11 the irradi:ir,-,1 n:i:,. 11 :,\ • 
+engender such a poterili:tl di1Terrr,1·c, th,·11 there ,·n11ld l,l' .11 , , ·". 
+tric·:tlly me,Jia 1 ed scns:tl ion. A bn, t h,·rc cu11ld la: 11 irt·,·1 :1, ... 1 .: 
+excitation .of the ,rndi1ory or~a11 vi:. bone eor1d111·ii .. n ,,f , 11 • \. ~ 
+vi?ration or the basilar 111embra11e may cl,irectly ,-.,11pll' wi1h :t.~ 
+microwave e·11er!sY· It. i~ entirely pus.,ible th:it. more tlt:111 ., 1,, ... ; 
+these mechanisms are t1perating when humans "scn,,e'' mirr,,.,. ·" r 
+pul:ie.5. 
+ACKXOWLEDG:'-fENT 
+The authors wish to th:i.nk T. J. a\ndrew.~ and P. \". K. llr111<n (. r 
+their a,;:;i;;tance in re~olvill;?: many of the tcch11il'al :inti i11,tn111 ... :,­
+tation problems enc'<.,untercd while m:tkine: the:<e .-,h,avalit>n•. Tr,,-.. 
+especia.lly wish to thank· Dr. J. C. Lin fur. hi~ ht•lp iu ~l'l t i11~ u;, : 1.'.­
+microwave appa,ratus durin~ the initial pha.,e nf thi:; rt':-l':1n·h. 
+P..EFERENCES 
+Ill ..\. H. Frey, " . .\nditnry system response to radio rr .. qu~ncy .. n,-~p _ .. 
+Anusp. -'ffrl .. vol. :J'.?. pp. l l-lt.J-11-12. 1961. 
+[21 A.H. Frey aml H. '.\lesso,11s:f'r, Jr .. "llum,.,1--p .. rc<';,tion ,,r illu,:o;r.,, 
+t,io:n v.ith pulsed uitra-high frt>"qucncy elce1rumaj.::'.netic •·n,·r~·~. · 
+.Sci,•nre. w,I. ISi. pp: :i.-,f,-'.!5S, 1973. , 
+[31• • .\. \\", Gu_,:. E: '.\f. Taylor. I.I . ..\shleman. and J.C. Liu. "'.\!i,·r,,,.,.,r 
+interaction with tile audiforv SYStPms of hum:i11s and c·:\t:"' ... ;n 
+I L::EE-S-.\fTT J 111. ,'1icrvu·ar,: S1/111p. JJir1. Ted,. /',1p, ,:s: J11111· I '.>:"1 
+pp. 3'.!1-3:!3. 
+[-1] .J_. A. Strntton, Elcctr,1ma911clic Th,·•Jry._ New York: '.\li-t,rn•·-ll1it 
+· 19-11, pp, 97-100. 
+' " "<--~ 
+.::-..... . ; ' .,. . ' 
+:. "" l'-, , . .;..,.. "'"\ . ......__ 
+.,, ~-.......,.. 
+''> . 
+... , ,.._, 
+·, 

@@ -1,0 +1,93 @@
+{
+  "page_metadata": {
+    "page": 1,
+    "total": 18275978,
+    "limit": 10,
+    "next": 2,
+    "previous": null,
+    "hasNext": true,
+    "hasPrevious": false
+  },
+  "results": [
+    {
+      "id": "cbdb07be-5758-a39f-25c6-4c97ce7c37b6-P",
+      "duns": "080210863",
+      "uei": "SKRVFAEVEDD9",
+      "name": "",
+      "recipient_level": "P",
+      "amount": 0.0
+    },
+    {
+      "id": "79a3f17f-f52d-cac6-968a-8e3f0431eeeb-R",
+      "duns": null,
+      "uei": null,
+      "name": "~",
+      "recipient_level": "R",
+      "amount": 0.0
+    },
+    {
+      "id": "bc047e0b-6e6d-2b4b-89a1-d23aa8b3d4d7-R",
+      "duns": null,
+      "uei": null,
+      "name": "=",
+      "recipient_level": "R",
+      "amount": 0.0
+    },
+    {
+      "id": "9e0e70c1-043a-58b3-49c2-47196f43bdff-R",
+      "duns": null,
+      "uei": null,
+      "name": "_",
+      "recipient_level": "R",
+      "amount": 0.0
+    },
+    {
+      "id": "bd80c647-0180-006c-eb72-b41c0bc285c0-R",
+      "duns": null,
+      "uei": null,
+      "name": "_____",
+      "recipient_level": "R",
+      "amount": 0.0
+    },
+    {
+      "id": "3a65829d-4b32-597c-d160-20055e4c7e19-R",
+      "duns": null,
+      "uei": null,
+      "name": "-",
+      "recipient_level": "R",
+      "amount": 0.0
+    },
+    {
+      "id": "f020dc2f-d531-e1b5-4960-5069f5e54cd3-R",
+      "duns": null,
+      "uei": null,
+      "name": "--",
+      "recipient_level": "R",
+      "amount": 0.0
+    },
+    {
+      "id": "28002fcf-d2c9-2ab7-6e11-30a65c3c561b-R",
+      "duns": null,
+      "uei": null,
+      "name": "---",
+      "recipient_level": "R",
+      "amount": 0.0
+    },
+    {
+      "id": "de4baa3c-abb1-540b-5a07-3dde40989016-R",
+      "duns": null,
+      "uei": null,
+      "name": "----",
+      "recipient_level": "R",
+      "amount": 0.0
+    },
+    {
+      "id": "f9ab56b2-37a6-9177-b819-5d6c11e47529-R",
+      "duns": null,
+      "uei": null,
+      "name": "-----",
+      "recipient_level": "R",
+      "amount": 0.0
+    }
+  ]
+}

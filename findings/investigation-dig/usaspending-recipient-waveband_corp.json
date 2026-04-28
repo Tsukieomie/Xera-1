@@ -1,0 +1,47 @@
+{
+  "name": "WAVEBAND CORPORATION",
+  "alternate_names": [
+    "WAVE BAND CORPORATION"
+  ],
+  "duns": "839439684",
+  "uei": "WCCXCS4P9XX8",
+  "recipient_id": "1325084f-f575-8878-3137-4ae38728099f-C",
+  "recipient_level": "C",
+  "parent_id": "c1b45f68-30f2-cc4f-d151-169001068edb-P",
+  "parent_name": "SIERRA NEVADA COMPANY, LLC",
+  "parent_duns": "094373495",
+  "parent_uei": "DD2QET4D27T3",
+  "parents": [
+    {
+      "parent_duns": "094373495",
+      "parent_name": "SIERRA NEVADA COMPANY, LLC",
+      "parent_id": "c1b45f68-30f2-cc4f-d151-169001068edb-P",
+      "parent_uei": "DD2QET4D27T3"
+    }
+  ],
+  "business_types": [
+    "category_business",
+    "manufacturer_of_goods",
+    "small_business",
+    "woman_owned_business"
+  ],
+  "location": {
+    "address_line1": "15245 ALTON PKWY STE 100",
+    "address_line2": null,
+    "address_line3": null,
+    "foreign_province": null,
+    "city_name": "IRVINE",
+    "county_name": null,
+    "state_code": "CA",
+    "zip": "92618",
+    "zip4": "2618",
+    "foreign_postal_code": null,
+    "country_name": "UNITED STATES",
+    "country_code": "USA",
+    "congressional_code": null
+  },
+  "total_transaction_amount": 0,
+  "total_transactions": 0,
+  "total_face_value_loan_amount": 0,
+  "total_face_value_loan_transactions": 0
+}

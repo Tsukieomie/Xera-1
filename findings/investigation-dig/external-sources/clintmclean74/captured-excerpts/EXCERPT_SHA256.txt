@@ -1,0 +1,2 @@
+06723827fd4b512373f1cd882dc3040b2ae145875ee75cb46a5c61229c84d6f4  /Users/kenny/Desktop/Akwei_NSA_Investigation/investigation-dig/external-sources/clintmclean74/captured-excerpts/Hodgkin-HuxleyCode-README.md.head20.txt
+bf93be7fd00ef81499570e165f9e396833bf466643c6e7295ee6dbbd2cf79029  /Users/kenny/Desktop/Akwei_NSA_Investigation/investigation-dig/external-sources/clintmclean74/captured-excerpts/SDRSpectrumAnalyzer-README.head30.txt

@@ -1,0 +1,881 @@
+HUMAN AUDITORY PERCEPTION OF PULSED RADIOFREQUENCY ENERGY
+J.A. Elder and C. K. Chou
+Motorola Florida Research Laboratories
+8000 W. Sunrise Blvd.
+Plantation, FL 33322
+Corresponding author: Joe A. Elder, Ph.D.
+ Motorola Florida Research Laboratories, 8000 W. Sunrise Blvd., Plantation, FL 33322
+Telephone: (954) 723-4895
+Fax: (954) 723-5611
+Email: joe.elder@motorola.com
+Running title: Auditory Perception of RF Pulses
+Elder, page 1
+ABSTRACT
+Human auditory perception of pulses of radiofrequency (RF) energy is a well-established
+phenomenon that is dependent upon the energy in a single pulse and not on average power
+density.  RF-induced sounds can be characterized as the perception of subtle sounds because, in
+general, a quiet environment is required for the sounds to be heard.  The sound is similar to other
+common sounds such as a click, buzz, hiss, knock or chirp.  Effective radiofrequencies range
+from 216 to 10,000 MHz, but an individual’s ability to hear RF-induced sounds is dependent
+upon high-frequency acoustic hearing in the kHz range.  The fundamental frequency of RF-
+induced sounds is independent of the radiofrequency but dependent upon head dimensions.  The
+detection of RF-induced sounds is similar to acoustic sound detection once the cochlea is
+stimulated; however, the site of conversion of RF energy to acoustic energy is peripheral to the
+cochlea.  The thermoelastic expansion theory explains the RF hearing phenomenon.  RF-induced
+sounds involve the perception, via bone conduction, of thermally generated sound transients, that
+is, audible sounds are produced by rapid thermal expansion resulting from only a 5 x 10
+-6 oC
+temperature rise in tissue at the threshold level due to absorption of the energy in the RF pulse.
+The experimental weigh-of-evidence excludes direct stimulation of the central nervous system by
+RF pulses.  The perception of RF-induced sounds near the threshold exposure level is considered
+to be a biological effect without an accompanying health effect.  This conclusion is supported by
+a comparison of pressures induced in the body by RF pulses and by clinical ultrasound
+procedures.
+Key Words: RF hearing, microwave, thermoelastic
+Elder, page 2
+INTRODUCTION
+          In their review article on the radiofrequency (RF) hearing phenomenon, Chou et al. (1982)
+wrote:
+“The earliest report we have found on the auditory perception of pulsed microwaves
+appeared in 1956 as an advertisement of the Airborne Instruments Laboratory in
+Vol. 44 of the Proceedings of the IRE.  The advertisement described observations
+made in 1947 on the hearing of sounds that occurred at the repetition rate of a radar
+while the listener stood close to a horn antenna. When the observers first told their
+coworkers in the Laboratory of their hearing experiences, they encountered skepticism
+and rather pointed questions about their mental health.”
+      The skepticism surrounding early reports of RF hearing, such as the one quoted above,
+was based on our understanding of human hearing.  The ear was known to be exquisitely
+sensitive to pressure waves and, at that time, to have no sensitivity to electromagnetic waves at
+microwave frequencies (300 MHz – 300 GHz).  The skepticism helps to explain why the first
+systematic study of this phenomenon by Frey (1961) did not appear until many years after the
+development of radar in the early 1940’s.  Frey described the perception of transient buzzing
+sounds by human subjects exposed to RF radiation from a rotating radar antenna.  The apparent
+location of the sound, which was described as a short distance behind the head, was the same
+regardless of the body’s orientation to the radar (Frey, 1961).  In later reports (Frey, 1962, 1963),
+RF hearing was described as a “buzz, clicking, hiss or knocking” sound.  Table 1 contains
+descriptions of these and other sounds reported by human beings exposed to pulsed RF fields.
+When a metal shield of aluminum flyscreen was placed between the subject and the radar, no RF
+Elder, Page 3
+sounds were heard (Frey and Messenger, 1973).  The sensitive area for detecting RF sounds was
+described as a region over the temporal lobe of the brain, because the placement of a small piece
+of metal screen (5 x 5 cm) over this area completely stopped the sound (Frey, 1962).  The
+subjects in Frey (1961) reported an increase in the RF sound level when earplugs were used to
+reduce the ambient noise level, an observation confirmed by others (Guy et al., 1975).
+The “sound was something like that of a bee buzzing on a window, but with, perhaps,
+more high frequencies” according to Ingalls (1967) who used two radars like those described in
+Frey (1961).  The sound seemed to come from about a meter or two above the head.  In another
+report (Constant, 1967), the RF sound was described as being in the area of the ear on the side
+opposite to the one that was irradiated.  All subjects experienced a buzzing sensation at a pulse
+repetition rate (PRR) greater than 100/s, whereas individual pulses were heard at a PRR below
+100/s.  Cain and Rissmann (1978) reported that human subjects heard distinct clicks either inside
+the head or behind the head when exposed to pulsed fields.  Individual pulses were heard as
+distinct and separate clicks, and short pulse trains as chirps with the tone pitch corresponding to
+the PRR by two of the study investigators in Guy et al. (1975).  The RF-induced sound appeared
+to originate from within or near the back of the head.  This report also included the note that   
+transmitted digital codes could be accurately interpreted by the subject when the pulse generator
+was keyed manually.  Two reports from Russian scientists described the perception of pulsed RF
+signals as polytonal sounds and tinnitus (Tyazhelov et al., 1979; Khizhnyak et al., 1980).
+These studies show that human perception of pulsed RF radiation, resulting in sounds that
+vary with modulation of the signal, is a well-established phenomenon.  The following sections
+describe the effective radiation parameters including thresholds for RF hearing, the dependence
+Elder, Page 4
+ of RF hearing on acoustic hearing, the mechanism responsible for human perception of pulsed
+RF fields, and a discussion of the significance of the effect.  Additional information is available
+in reviews by Chou et al. (1982); Elder (1984); Lin (1978, 1989, 1990, 2001); Postow and
+Swicord (1996) and Stewart (2000).
+EFFECTIVE RF RADIATION PARAMETERS
+A summary of RF radiation parameters used in human studies is shown in Table 1.  The
+parameters include frequency, PRR, pulse width, peak power density, average power density,
+and energy density/pulse.  Threshold values for RF hearing have been reported in several studies
+and these are shown in the table also.
+RF hearing has been reported at frequencies ranging from 216 to 10,000 MHz (see Table
+1).  Although Ingalls (1967) mentioned 10,000 MHz as an effective frequency, other
+investigators found that lower frequencies (8900 and 9500 MHz) at very high exposure levels did
+not induce RF sounds.  For example, the frequency of 8900 MHz was not effective at an average
+power density of 25 mW/cm
+2 and peak power density of 25,000 mW/cm2 (Frey, 1962).  At 216
+MHz, the lowest effective frequency reported in the literature, the average power density
+threshold was 4 mW/cm
+2 and the peak power density was 670 mW/cm2 (Frey, 1963).  The lowest
+threshold value expressed in units of average incident power density is 0.001 mW/cm2 (Cain and
+Rissmann, 1978).   This low value was due to the slow PRR of only 0.5/s (Table 1) because, for a
+given peak power, average power density depends on the pulse repetition rate. The hearing
+phenomenon, however, has been shown to depend on the energy in a single pulse and not on
+average power density.  Guy et al. (1975) found that the threshold for RF hearing of pulsed
+Elder, page 5
+2450-MHz radiation was related to an energy density of 40 µJ/cm2 per pulse, or energy
+absorption per pulse of 16 µJ/g, regardless of the peak power of the pulse or the pulse width (less
+than 32 µs); calculations showed that each pulse at this energy density would increase tissue
+temperature by about 10-6 oC.
+A review of the table reveals that many of the threshold values were determined in a very
+quiet environment or subjects used earplugs or earmuffs to decrease the ambient noise level.  As
+mentioned in the Introduction, earplugs were used by the subjects in Frey’s first report in 1961.
+Thus, investigators were generally aware that a quiet environment was required because, in many
+cases, the normal noise levels in laboratory and outdoor environments masked the perception of
+RF sounds.  In Guy et al. (1975), for example, the threshold value cited above was obtained in a
+very quiet environment having a background noise level of only 45 dB.  When earplugs were
+used, the threshold level for one subject decreased from 40 to 28 µJ/cm
+2.  The threshold for a
+subject with a hearing deficit was much higher, approximately 135 µJ/cm2.
+DEPENDENCE OF RF HEARING ON ACOUSTIC HEARING
+The advertisement from Airborne Instruments Laboratory (1956) stated that two persons
+with hearing loss above 5 kHz did not perceive RF sounds as well as did observers with normal
+hearing up to 15 kHz.  Later studies provided more information on the relationship between
+acoustic and RF hearing.  Frey (1961) reported that a necessary condition for perceiving the RF
+sound was the ability to hear audiofrequencies above approximately 5 kHz, although not
+necessarily by air conduction.  This conclusion was based on results with subjects with normal or
+defective hearing.  One subject with normal air-conduction hearing below 5 kHz failed to hear
+the microwave pulses; the person was subsequently found to have a substantial loss in bone-
+Elder, page 6
+conduction hearing.  Another subject with good bone-conduction hearing but with poor air-
+conduction hearing perceived the RF sound at approximately the same power density that
+induced threshold perception in subjects with normal hearing.  In a later study, humans were
+shown to match sounds caused by repetitive exposure to a pair of RF pulses in the MHz range to
+acoustic frequencies near 4.8 kHz (Frey and Eichert, 1985).
+In addition to determining standard audiograms that measure hearing thresholds for air
+conduction at acoustic frequencies of 250 to 8000 Hz and for bone conduction to 4000 Hz, Cain
+and Rissmann (1978) measured the hearing ability of eight subjects over the frequency range of 1
+to 20 kHz.  They found that although there was no apparent correlation between the ability to
+perceive pulsed RF fields at 3000 MHz and hearing ability as measured by standard audiograms,
+there was a strong correlation between the RF-hearing threshold and thresholds to air-conducted
+acoustic signals above 8 kHz.  For example, three of the subjects who had normal hearing below
+4 kHz, but a hearing deficit at frequencies above 8 kHz, could not hear RF sounds under
+conditions in which the other subjects could perceive RF sounds.  The studies by Frey (1961),
+Frey and Eichert (1985) and Cain and Rissmann (1978) show RF hearing to depend on high-
+frequency hearing in the range of about 5 to 8 kHz and bone-conduction hearing at lower
+acoustic frequencies.  Calculated values of fundamental frequencies of RF sound in the human
+head based on animal data or models are somewhat similar, e.g., 7-10 kHz (Chou et al., 1977),
+13 kHz  (Lin 1977) and 7-9 kHz (Watanabe et al., 2000); the results of these three studies are
+described in more detail below.
+Elder, page 7
+SIMILARITY OF AUDITORY RESPONSE TO MICROWAVE AND CONVENTIONAL
+ACOUSTIC STIMULI
+The auditory pathway by which acoustic waves detected by the ear become interpreted as
+sound in the brain is known in some detail and several studies have been done to determine if the
+electrophysiological response of the auditory pathway to RF pulses is similar to the response to
+acoustic stimuli.  The first stage of sound transduction is mechanical distortion of cochlear hair
+cells that result in cochlear microphonics, electrical potentials that mimic the sonic waveforms of
+acoustic stimuli.  Subsequent to the detection of sound by the cochlea, electric potentials
+associated with the detection of sound may be recorded by electrodes placed in neurons at
+various locations along the auditory pathway.
+In 1962, Frey proposed that RF hearing might be a result of direct cortical or neural
+stimulation but the results of later studies described in this review showed that Frey’s theory was
+incorrect.  His proposal was based, in part, on his failure to demonstrate that RF pulses stimulate
+the cochlea, that is, cochlear microphonics were not recorded at power densities much higher
+than those required to elicit auditory nerve responses (Frey, 1967).  Guy et al. (1975) also failed
+to measure cochlear microphonics but determined that the failure was due to insufficient
+absorption of RF energy.  In 1975, Chou et al. reported their success in overcoming the technical
+problems that had prevented investigators from recording cochlear microphonics from RF-
+exposed animals. The results showed that pulses of RF energy activated the cochlea because
+cochlear microphonics were recorded that were similar to those evoked by acoustic stimuli.  The
+demonstration that RF sounds are perceived by the normal auditory system via the cochlea
+provided evidence against the proposal that RF pulses directly simulated the central nervous
+Elder, page 8
+ system.
+Taylor and Ashleman (1974) and Guy et al. (1975) showed the importance of the cochlea
+by finding that destruction of the cochlea abolished RF-evoked potentials recorded at higher
+levels in the auditory pathway.  These results indicated that the locus of the initial interaction of
+pulse-modulated microwave energy with the auditory system is peripheral to the cochlea.
+In cats with an undamaged cochlea, Taylor and Ashleman (1974) measured the
+electrophysiological response in three successive levels of the cat auditory nervous system
+(eighth cranial nerve, medial geniculate nucleus, and primary auditory cortex) to both acoustic
+and pulsed-microwave (2450-MHz) stimuli.  They found similar responses to microwave stimuli
+and conventional acoustic stimuli.  Lebovitz and Seaman (1977a,b) reached the same conclusion
+based on the similar response of single auditory neurons in the cat to pulsed 915-MHz fields and
+acoustic clicks.  The detection of these electric potentials in auditory neurons was expected based
+on the results of studies that demonstrated subjective auditory perception (Frey, 1962), auditory
+evoked potentials (Taylor and Ashleman, 1974), and cochlear microphonics (Chou et al., 1975).
+It is known that acoustic stimuli can cause evoked potentials, called “cross-modal”
+responses, in central nervous system sites outside the auditory pathway.  Similar “cross-modal”
+responses due to the auditory response to RF pulses were recorded by Guy et al. (1975).  This
+finding indicated that electric potentials recorded from any CNS location could be misinterpreted
+as a direct interaction of RF energy with the particular neural system in which the recording was
+made, as reported by Frey (1967).
+In an experiment in which the thresholds of evoked electrical responses from the medial-
+geniculate body in the auditory pathway in cats were determined as a function of background
+noise, Guy et al. (1975) found that as the noise level (50- to 15,000-Hz bandwidth) increased
+Elder, page 9
+from 60 to 80 dB, there was only a negligible increase in the threshold for microwave stimuli, a
+moderate increase in the threshold for a piezoelectric bone-conduction source, and a large
+increase in the threshold for loudspeaker-produced stimuli.  The finding that the evoked response
+to microwave stimuli did not increase in relation to background noise, which included acoustic
+frequencies to 15,000 Hz, indicated that pulsed RF energy interacted with the high-frequency
+portion of the auditory system.
+Additional support for the dependence of RF hearing on high-frequency hearing was
+provided by theoretical analysis of acoustic vibrations induced in the heads of animals and
+humans based on thermal expansion in spheres exposed to pulses of RF energy (Lin, 1977).  The
+frequency of the induced sound was found to be a function of head size and of acoustic
+properties of brain tissue; hence, the acoustic pitch perceived by a given subject is the same
+regardless of the frequency of RF radiation.  The calculations of Lin show that the fundamental
+frequency predicted by the model varies inversely with the radius of the head, i.e., the larger the
+radius, the lower the frequency of the perceived RF sound.  The estimated fundamental
+frequency of vibration in guinea pigs, cats, and adult humans were 45, 38, and 13 kHz,
+respectively; the frequency for an infant human head was estimated to be about 18 kHz.  These
+calculations provide further evidence that a necessary condition for auditory perception by adult
+humans is the ability to hear sound waves at frequencies above about 5 kHz (Frey, 1961;
+Rissmann and Cain, 1975).
+The results of Lin (1977) appear to be in good agreement with the measurements of Chou
+et al. (1975), who found cochlear microphonics of 50 kHz in guinea pigs exposed to RF pulses.
+In a later report, Chou et al. (1977) found the frequency of cochlear microphonics in guinea pigs
+and cats to correlate well with the longest dimension of the brain cavity and, based on these data,
+Elder, page 10
+estimated the frequency of the microwave-induced cochlear microphonics in human beings to be
+between 7 and 10 kHz.
+Gandhi and Riazi (1986) calculated RF hearing thresholds at 30-300 GHz, but there is
+little if any physiological significance of these calculations to RF hearing because a) the
+fundamental frequencies in the head are on the order of several hundred kilohertz, well above the
+maximum acoustic frequency of 20 kHz for human hearing, and b) there are no reports of human
+perception of RF pulses at frequencies higher than 10 GHz (see Table 1).
+The results of the above studies of evoked electrical potentials in the auditory system,
+including the demonstration of pulsed-RF-evoked cochlear microphonics, strongly indicate that
+the detection of RF-induced auditory sensations is similar to that of acoustic sound detection, the
+site of conversion from RF to acoustic energy is peripheral to the cochlea, the fundamental
+frequency of RF sound is independent of the radiofrequency but dependent upon the dimensions
+of the head, and the pulsed RF energy interacts with the high-frequency portion of the auditory
+system.  To hear RF sounds, one must be exposed to pulses of RF energy in the MHz range and
+be capable of hearing acoustic waves in the kHz range.
+MECHANISM OF RF HEARING: THERMOELASTIC EXPANSION
+One of the first challenges to Frey’s proposal of direct neural stimulation (Frey, 1961,
+1962) came from Sommer and von Gierke (1964) who suggested that stimulation of the cochlea
+through electromechanical field forces by air or bone conduction appeared to be a more likely
+explanation of the RF hearing phenomenon.  Other scientists who helped lay the foundation for
+identifying the mechanism are White (1963) and Gournay (1966).  White (1963) showed that
+Elder, page 11
+pressure waves could be detected in water exposed to pulses of RF energy and his analysis of
+waves in this system predicted that, as a result of thermal expansion, the resulting temperature
+gradient would generate stress waves that propagate away from the site of energy absorption.
+Gournay (1966) extended White’s analysis to show that for single long pulses, the induced stress
+wave is a function of peak power density and, for shorter pulses, the stress wave is a function of
+the peak power density and pulse width (or energy density per pulse).
+Foster and Finch (1974) extended Gournay's analysis to a physiological solution exposed
+to RF pulses similar to those that produce sounds in humans.  They showed both theoretically
+and experimentally that pressure changes would result from the absorption of RF pulses which
+could produce significant acoustic energy in the solution.  They concluded that audible sounds
+were produced by rapid thermal expansion, resulting from only a 5 x 10
+-6 oC temperature rise in
+the physiological solution, due to absorption of the energy in the RF pulse.  This conclusion led
+to their proposal that thermoelastic expansion is the mechanism for RF hearing.  This mechanism
+is consistent with the following results.
+1) RF pulses that would elicit sounds perceived by a human produced acoustic transients
+recorded with a hydrophone immersed in a solution (0.15 N KCl) having an electrical
+conductivity similar to that of tissue.  In addition, acoustic transients were detected in
+blood, muscle, and brain exposed in vitro to pulses of RF energy.
+2) The RF-induced pressure wave generated in distilled water inverted in phase when the
+water was cooled below 4 °C, and the response vanished at 4 °C, in agreement with the
+temperature dependence of the thermoelastic properties of water.
+3) The thermoelastic theory predicts that the maximal pressure in the medium is
+Elder, page 12
+4) proportional to the total energy of the pulse for short pulses and is proportional to the
+peak power for long pulses.  The relationship between pulse width and the RF-generated
+acoustic transient in the KCl solution was consistent with the theory.
+Based on these findings, Foster and Finch concluded that RF-induced sounds involve
+perception, via bone conduction, of the thermally generated sound transients caused by the
+absorption of energy in RF pulses.  The pulse can be sufficiently brief (50 
+µs) such that the
+maximum increase in tissue temperature after each pulse is very small (<10-5 oC).  The peak
+power intensity of the pulse, however, must be moderately intense (typically 500 to 5000
+mW/cm
+2 at the surface of the head).  These values are within the range of effective peak power
+intensities of 90-50,000 mW/cm2 in the human studies shown in Table 1.
+A year before the thermoelastic theory was proposed by Foster and Finch (1974), Frey and
+Messenger (1973) published the results of a human study that are in agreement with the theory.
+That is, the loudness of the RF hearing sensation in the human subjects depended upon the
+incident-peak-power density for pulse widths <30 
+µs; for shorter pulses, their data show that
+loudness is a function of the total energy per pulse.  The threshold dependence on pulse width
+reported by Chou and Guy (1979) is in agreement with the predictions of the thermoelastic
+mechanism.  They showed that the threshold for RF hearing in guinea pigs, as measured by
+auditory brainstem-evoked electrical responses, is related to the incident energy per pulse for
+pulse widths <30 
+µs and is related to the peak power for longer pulses.
+The results on threshold and loudness may be summarized as follows.  The energy in the first
+30 µs or so of the pulse determines the threshold and loudness levels regardless of pulse widths
+greater than about 30 µs.  For wider pulses (>90 µs), loudness is related to peak power rather than
+Elder, page 13
+energy because the energy associated with the first 30 µs of the pulse increases directly with peak
+power.  Thus, if sufficient energy is deposited within a 30-µs period, an RF-induced sound will
+result without regard to pulse width.  And, for pulses >30 µs, loudness increases with an increase
+in peak power.  Thus, the auditory response undergoes a gradual transition from an energy-
+related effect at pulse widths <30 
+µs to an effect dependent on peak power at pulse widths >90 µs
+(Frey and Messenger, 1973; Chou and Guy, 1979).
+A psychophysical experiment with 18 subjects examined the adequacy of the
+thermoelastic hypothesis and the perceptual qualities of RF-induced sounds (Tyazhelov et al.,
+1979).  Audiofrequency signals were presented alternately to or concurrently with microwave
+pulses (see Table 1) under conditions in which the subject could adjust the amplitude, frequency,
+and phase of the audio signal.  Long pulses (~100 
+µs) resulted in a lower pitch of the RF sound
+and two subjects who had a high-frequency auditory limit of 10 kHz could not hear short RF
+pulses but could hear long pulses.  These observations on human perception of long pulses are
+consistent with the results of electrophysiological responses in cats, that is, long pulses of 250 to
+300 
+µs led to a decrease in sensitivity of high-frequency auditory responses (Lebovitz and
+Seaman 1977).  Tyazhelov et al. (1979) concluded that the thermoelastic hypothesis adequately
+explained some of their findings for RF pulses of high peak power and short width (<50 
+µs), but
+they questioned the applicability of the hypothesis to some observations involving near-threshold
+pulses of low-power, long-duration, and high-repetition rate [see Chou et al. (1982) for a critique
+of Tyazhelov et al. (1979)].  In a subsequent paper, Tyazhelov and colleagues suggested that the
+thermoelastic theory accounted for the low frequency, but not the high frequency, RF sounds
+(Khizhnyak et al., 1980); however, no other reports have been found that support their proposed
+Elder, page 14
+model for high frequency RF sounds.
+Other animal studies, in addition to those already discussed, support and extend our
+understanding of RF hearing and the thermoelastic mechanism.  Several investigators have
+determined the threshold for the RF-induced auditory sensation in laboratory animals (Table 2).
+In cats exposed to pulses of 918- and 2450-MHz radiation, the threshold was related to the
+incident energy density per pulse.  The cat’s threshold energy density per pulse was about one-
+half of the human threshold (Guy et al., 1975).  The thresholds in Cain and Rissmann (1978) are
+in general agreement with the results in Guy et al. (1975), but a lower threshold was reported by
+Seaman and Lebovitz (1989).  At higher frequencies between 8670 and 9160 MHz, Guy et al.
+(1975b) found that the threshold values of power density and of energy density per pulse were an
+order of magnitude higher than those at 918 and 2450 MHz (Table 2), but it is noted that no
+auditory response was obtained at the two higher frequencies unless the brain was exposed by
+removing part of the skull.
+In guinea pigs, the threshold dependence on pulse width was found to be in agreement
+with the predictions of the thermoelastic expansion mechanism; that is, the threshold was related
+to the incident energy per pulse for short pulse widths (<30 
+µs) and was related to the peak power
+for longer pulses.  At the shortest pulse width (10 µs), the threshold was about 6 µJ/g (Chou and
+Guy, 1979).
+Chou et al. (1985) documented the dose response relationship of the auditory brainstem-
+evoked response (BER) in rats exposed to pulses of 2450 MHz fields in circularly polarized
+waveguides.  The results were consistent with the thermal expansion theory because the same
+BER response was evoked when the incident energy density or absorbed energy density per
+Elder, page 15
+pulse was the same, regardless of pulse width.
+By measuring acoustic pressure waves with a miniature hydrophone transducer implanted
+in the brains of rats, cats and guinea pigs exposed to pulses of RF energy, Olsen and Lin (1983)
+confirmed earlier theoretical predictions of pressure waves in the head.  In later work, Lin et al.
+(1988) observed that the speed of RF-induced pressure waves in the cat brain was similar to that
+of conventional acoustic wave propagation.  These results support the thermoelastic expansion
+theory.
+The hypothesis of Foster and Finch (1974) predicts that the RF hearing effect is related to
+thermoelastically induced mechanical vibrations in the head.  Vibrations of this type can be
+produced by other means, such as by a laser pulse or by a pulsed piezoelectric crystal in contact
+with the skull (Chou et al., 1976).  Frey and Coren (1979) used a holographic technique to test
+whether the skull and the tissues of the head of an animal have the predicted vibrations when
+exposed to a pulsed RF field.  No displacements were recorded, but a subsequent paper by Chou
+et al. (1980) demonstrated that the holographic technique used by Frey and Coren (1979) did not
+have the sensitivity to detect displacements related to vibrations from microwave-induced
+thermoelastic expansion in biological tissues.
+Wilson et al. (1980) described an autoradiographic technique in which [
+14C]2-deoxy-D-
+glucose was used to map auditory activity in the brain of rats exposed to acoustic stimuli and to
+pulsed- and continuous-wave radiation.  With this technique, in vivo determination of metabolic
+activity (i.e., glucose utilization and associated functional activity in the brain) can be visualized.
+Prior to exposure to the acoustic stimuli or to microwaves, one middle ear was ablated to block
+detection of sound waves in one side of the head.  The expected bilateral asymmetry of
+Elder, page 16
+radioactive tracer uptake in the auditory system of rats exposed to acoustic clicks or weak
+background noise was demonstrated.  In contrast, a symmetrical uptake of tracer was found in
+the brain of animals exposed to pulsed radiation.  These autoradiographic results confirmed the
+finding that RF hearing does not involve the middle ear (Frey, 1961; Chou and Galambos, 1979).
+Unexpectedly, Wilson et al. (1980) found similar patterns of radioactive tracer uptake in the
+auditory system of rats exposed to continuous wave radiation and to pulsed radiation.  These
+results with a continuous wave field, however, have not been independently replicated and there
+are no known reports of continuous wave signals causing RF-induced sound in humans or
+experimental animals.
+In summary, evidence from both human and laboratory animal studies indicates that
+thermoelastic expansion is the mechanism that explains the RF hearing phenomenon.  The
+evidence includes measurements of acoustic transients in water, physiological (KCl) solution,
+and tissues (Foster and Finch, 1974) as well as in muscle-simulating materials (Olsen and
+Hammer, 1980); the relationship of the threshold value to pulse duration (Foster and Finch,1974;
+Frey and Messenger, 1973; Chou and Guy, 1979); the characteristics of the RF-induced cochear
+microphonics in laboratory animals (Chou et al., 1975, 1977) and  calculations of the
+fundamental frequencies in the human head (Lin 1978; Chou et al., 1977) that correlate well with
+the perception of high frequency sounds in the kHz range.
+SIGNIFICANCE OF RF HEARING
+      The potential for human exposure to pulsed fields that could induce RF hearing raises two
+questions in regard to the significance of the effect.  One, what is the psychological impact of RF
+Elder, page 17
+sounds?  Two, aside from the perception of sounds, what is the physiological significance of
+exposure to pulsed RF radiation at intensities at and above the threshold for hearing?
+      The perception of RF sounds at threshold exposure levels is considered to be a biological
+effect without a health effect and, therefore, is not an adverse effect.
+1 This conclusion is based on
+the following points.  The sounds associated with RF hearing are not unusual but are similar to
+other common sounds such as a click, buzz, hiss, knock or chirp (see Table 1).  Furthermore, RF
+hearing can be characterized as the perception of subtle sounds because, in general, a quiet
+environment is required for the sounds to be heard.  It was noted in this review that most of the
+human subjects in the studies listed in Table 1 used earplugs to create conditions sufficiently
+quiet to hear RF sounds.  The apparent location of the sounds, however, may vary from within,
+behind or above the head.  Under some exposure situations that may lead to prolonged periods of
+RF sounds, the sounds might become an annoyance but our knowledge of the effective exposure
+conditions is sufficient to develop measures to eliminate RF sounds determined to be annoying.
+One solution is to move farther away from the source.  A review of the human studies in Table 1
+reveals that most of the studies were done in laboratory settings in which the subjects were a few
+feet from the RF antenna.  In three of the four field studies, the distance of the subjects from the
+radar ranged from about six feet up to several hundred feet.  Such close proximity was needed to
+achieve the effective, moderately high, peak power intensities ranging from 90-50,000 mW/cm
+2
+(see Table 1).  This information on distance and effective exposure levels indicates that anyone
+                                                     
+1 An adverse effect is a biological effect characterized by a harmful change in health. For example, such changes can
+include organic disease, impaired mental function, behavioral dysfunction, reduced longevity, and defective or
+deficient reproduction. Adverse effects do not include: 1. Biological effects without a health effect. 2. Changes in
+subjective feelings of well-being that are a result of anxiety about RF effects or impacts of RF infrastructure that are
+not related to RF emissions. 3. Indirect effects caused by electromagnetic interference with electronic devices. These
+indirect effects are covered by other standards. (This definition was developed by the IEEE CES SCC28/SC4
+Revision Working Group.)
+Elder, page 18
+reporting RF hearing would be relatively close to a pulsed source operating in the 216 –10,000
+MHz range (Table 1).  If it is not possible to increase the distance from the source, remediation
+measures could include metal shielding and changes in the operating procedure of the RF device.
+      Aside from the perception of sound, it is important to address the physiological significance
+of exposure to RF pulses at the threshold for hearing.  One approach is to compare the magnitude
+of the pressure of the RF-induced acoustic wave in the head to pressures from other sources.
+Based on calculated pressures resulting from the absorbed energy of 915-MHz pulses in human
+head models, Watanabe et al. (2000) found the RF-induced pressure at the hearing threshold to
+be only 0.18 Pa. This threshold value is more than 42,000X lower than ultrasound-induced
+pressure (7700 Pa, spatial peak temporal average) during medical diagnosis, which includes
+exposure of the fetus; the factor would be much greater if the comparison was to the higher
+spatial peak temporal power of the ultrasound pulses.  Another comparison shows that the
+pressure at the RF hearing threshold is 1,000,000X lower than the pressures at the surface of the
+brain that produce changes in the EEG and moderate brain damage (1.5 X 10
+5 Pa and 3 X 105 Pa,
+respectively) based on studies of traumatic head injury (see Raslear et al., 1993, p. 476).  When
+compared to pressures exerted by medical ultrasound exposure and traumatic injury, it is highly
+unlikely that the RF hearing effect at the threshold level is hazardous with regard to the strength
+of the pressure waves, the dominant force in comparison to electrostrictive force and radiation
+pressure (see Guy et al., 1975; Gandhi and Riazi, 1986).  The comparison with ultrasound
+pressures suggests that RF-induced pressures would have to be several orders of magnitude
+greater than the pressure at the hearing threshold to cause adverse effects.
+      Very high intensity RF pulses will induce adverse effects such as convulsions and a state of
+Elder, page 19
+unconsciousness (stun effect) as demonstrated by Guy and Chou (1982).  These authors
+determined the threshold for these effects in rats exposed to a single, high intensity, 915-MHz
+pulse that caused an elevation in brain temperature of 8 
+oC resulting in petit or grand mal seizures
+lasting for one minute after exposure, followed by a four-to-five-minute unconscious state.  The
+brain temperature returned to normal within five minutes after exposure and the animals began
+moving when the brain temperature returned to within 1 
+oC of normal.  Limited histopathological
+examination of four exposed rats revealed significant changes including neuronal demyelination
+at one day after exposure and brain swelling at one month after exposure.  The threshold for the
+stun effect was 680 J, regardless of peak power and pulse width, or about 28 kJ/kg, expressed in
+terms of peak specific absorption.  The stun threshold, a clearly adverse effect, is about
+100,000X higher than the thresholds for auditory responses in rats (5-180 mJ/kg) and humans
+(16 mJ/kg) (Guy et al., 1975).
+          Small but significant changes in the otoacoustic emissions from the cochlea may serve as
+an indicator of outer hair cell subclinical or clinical pathology.  A recently published paper found
+no functional changes in otoacoutic emissions of RF-exposed rats at average SARs in the head of
+0.2 (950 MHz) and 1 W/kg (936 and 950 MHz) (Marino et al., 2000).  Although the field was
+not pulsed and RF sounds would not occur, this report is important because it addresses
+potentially functional effects in the auditory system of exposed animals.
+Elder, page 20
+CONCLUSIONS
+Human perception of pulses of RF radiation is a well-established phenomenon that is not
+an adverse effect.  RF-induced sounds are similar to other common sounds such as a click, buzz,
+hiss, knock or chirp.  Furthermore, the phenomenon can be characterized as the perception of
+subtle sounds because, in general, a quiet environment is required for the sounds to be heard.
+The detection of RF-induced auditory sensations is similar to acoustic sound detection
+once the cochlea is stimulated; however, the site of conversion from RF to acoustic energy is
+peripheral to the cochlea.  To hear the sounds, individuals must be capable of hearing high-
+frequency acoustic waves in the kHz range and the exposure to pulsed RF fields must be in the
+MHz range.  The effective radiofrequencies reported in the literature range from 216 to 10,000
+MHz.
+The hearing phenomenon depends on the energy in a single pulse and not on average
+power density.  Guy et al. (1975) found that the threshold for RF-induced hearing of pulsed
+2450-MHz radiation was related to an energy density of 40 µJ/cm
+2 per pulse, or energy
+absorption per pulse of 16 µJ/g.
+The thermoelastic expansion theory explains the phenomenon, that is, audible sounds are
+produced by rapid thermal expansion, resulting from only a 5 x 10-6 oC temperature rise in tissue
+due to absorption of the energy in the RF pulse.  The experimental weight-of-evidence does not
+support direct stimulation of the central nervous system by RF pulses.  No published reports
+support the suggestion by Tyazhelov et al. (1979) that the theory does not explain all
+characteristics of RF hearing.
+Elder, page 21
+A comparison with routine ultrasound pressures during medical diagnosis, including
+exposure of the fetus, suggests that RF-induced pressures more than about five orders of
+magnitude greater than the pressure at the hearing threshold would be unlikely to cause
+significant biological effects.
+REFERENCES
+Airborne Instruments Laboratory. 1956.  An Observation on the Detection by the Ear of
+Microwave Signals.  Proceedings of the IRE 44:2A.
+Cain, CA, Rissmann, WJ. 1978. Mammalian Auditory Responses to 3.0 GHz Microwave Pulses.
+IEEE Trans. Biomed. Eng., BME-25:288-293.
+Chou, CK, Galambos, R, Guy, AW, Lovely, RH. 1975. Cochlear Microphonics Generated by
+Microwave Pulses.  J. Microwave Power, 10:361-367.
+Chou, CK, Guy, AW, Galambos, R. 1976. Microwave-Induced Auditory Response: Cochlear
+Microphonics. In: Biological Effects of Electromagnetic Waves, Vol. 1, C.C. Johnson and
+M.L. Shore, eds. HEW Publication (FDA) 77-8010, Rockville, Maryland. pp 89-103.
+Chou, CK, Guy, AW, Galambos, R. 1977. Characteristics of Microwave-Induced Cochlear
+Microphonics. Radio Sci., 12(6):221-227.
+Chou, CK, Guy, AW. 1979. Microwave-Induced Auditory Responses in Guinea Pigs:
+Relationship of Threshold and Microwave-Pulse Duration. Radio Sci., 14(6S):193-197.
+Chou, CK,  Galambos, R. 1979. Middle-Ear Structures Contribute Little to Auditory Perception
+of Microwaves. J. Microwave Power, 14:321-326.
+Elder, page 22
+Chou, CK, Guy, AW, Foster, KR Galambos, R, Justesen, DR. 1980. Holographic Assessment of
+Microwave Hearing. Science, 209:1143-1144.
+Chou, CK, Guy, AW, Galambos, R.  1982  Auditory Perception of Radio-Frequency
+Electromagnetic Fields.  J. Acoust. Soc. Am., 71(6):1321-1334.
+Chou, CK, Yee, KC, Guy, AW. 1985.  Auditory Response in Rats Exposed to 2,450 MHz
+Electromagnetic Fields in a Circularly Polarized Waveguide.  Bioelectromagnetics,
+6:323-326.
+Constant, PC, Jr. 1967. Hearing EM Waves. Digest of the Seventh International Conference on
+Medical and Biological Engineering, B. Jacobson, ed. Department of Medical
+Engineering, Karolinska Institute, Stockholm, Sweden. P. 349.
+Elder, JA 1984.  Special Senses. In: Biological Effect of Radiofrequency Radiation, Elder, J.A.,
+Cahill, D.R., editors. U.S. Environmental Protection Agency (EPA-600/8-83-026F),
+1984, pp 5-64 – 5-78. (Available as Report No. PB 85-120-848 from National Technical
+Information Service, Springfield, VA.)
+Foster, KR, Finch, ED. 1974. Microwave Hearing: Evidence for Thermoacoustic Auditory
+Stimulation by Pulsed Microwaves. Science, 185:256-258.
+Frey, AH. 1961. Auditory System Response to Radio Frequency Energy. Aerospace Med.,
+32:1140-1142.
+Frey, AH. 1962.  Auditory System Response to Radio Frequency Energy.  Aerospace Med.,
+32:1140-1142.
+Frey, AH. 1963. Some Effects on Human Subjects of Ultra-High-Frequency Radiation. Am. J.
+Med. Electron. 2:28-31.
+Elder, page 23
+Frey, AH. 1967. Brain Stem Evoked Responses Associated with Low-Intensity Pulsed UHF
+Energy. J. Appl. Physiol., 23:984-988.
+Frey, AH, Eichert, ES. 1985. Psychophysical Analysis of Microwave Sound Perception. J.
+Bioelectricity 4:1-14.
+Frey, AH, Messenger, R.  1973.  Human Perception of Illumination with Pulsed Ultrahigh-
+Frequency Electromagnetic Energy.  Science, 181:356-358.
+Frey, AW and Coren, E. 1979. Holographic Assessment of Hypothesized Microwave Hearing
+Mechanism. Science 206:232-234.
+Gandhi, OP, Riazi, A. 1986. Absorption of Millimeter Waves by Human Beings and Its
+Biological Implications.  IEEE Transactions on Microwave Theory and Techniques
+MTT-34: 228-235.
+Gournay, LS. 1966. Conversion of Electromagnetic to Acoustic Energy by Surface Heating. J.
+Acous. Soc. Amer. 40:1322-1330.
+Guy, AW, Chou, CK. 1982. Effects of High-Intensity Microwave Pulse Exposure of Rat Brain.
+Radio Science 17(5S):169S-178S.
+Guy, AW, Chou, CK, Lin JC, Christensen D.  1975.  Microwave-Induced Acoustic Effects in
+Mammalian Auditory Systems and Physical Materials.  Ann. N.Y. Acad. Sci. 247:194-
+215.
+Ingalls, CE. 1967. Sensation of Hearing in Electromagnetic Fields. NY State J. Medicine
+67:2992-2997.
+Khizhnyak, EP, Shorokhov VV, Tyazhelov, VV. 1980. Two Types pf Microwave Auditory
+Sensation and Their Possible Mechanism.  In: Proceedings of the URSI Symposium,
+Elder, page 24
+Ondes Electromagnetiques et Biologie (Electromagnetic Waves and Biology), A.
+Berteaud and B. Servantie, editors, Jouy en Josas, pp. 101-103.
+Lebovitz, RM, Seaman, RL. 1977a. Microwave Hearing: The Response of Single Auditory
+Neurons in the Cat to Pulsed Microwave Radiation. Radio Sci., 12(6S) 229-236.
+Lebovitz, RM, Seaman RL. 1977b. Single Auditory Unit Responses to Weak, Pulsed Microwave
+Radiation. Brain Research 126:370-375.
+Lin, JC. 1977. Theoretical Calculation of Frequencies and Thresholds of Microwave-Induced
+Auditory Signals. Radio Sci. 12(6S):237-242.
+Lin, JC. 1978. Microwave Auditory Effects and Applications.  Charles C. Thomas, Springfield,
+Illinois, 221 pages.
+Lin, JC. 1989. Pulsed Radiofrequency Field Effects in Biological Tissues.  In Electromagnetic
+interaction with Biological Systems, J.C. Lin, editor, Plenum Press, NY, pp 165-177.
+Lin, JC. 1990. Auditory Perception of Pulsed Microwave Radiation.  In Biological Effects and
+Medical Applications of Electromagnetic Energy, O.P. Gandhi, editor, Prentice Hall,
+Englewood Cliffs, NJ, Chapter 12, pp 275-318.
+Lin, JC. 2001. Hearing Microwaves: The Microwave Auditory Phenomenon. IEEE Antennas and
+Propagation Magazine,43:166-168. 
+Lin, JC, Su, JL, Wang, Y. 1988. Microwave-Induced Thermoelastic Pressure Wave Propagation
+in the Cat Brain. Bioelectromagnetics 9:141-147.
+Marino, C, Cristalli, G, Galloni, P, Pasqualetti, P, Piscitelli, M,  Lovisolo, GA. 2000. Effects of
+Microwaves (900 MHz) on the Cochlear Receptor: Exposure Systems and Preliminary
+Results. Radiation and Environmental Biophysics 39:131-136.
+Elder, page 25
+Olsen, RG, Hammer WC. 1980. Microwave-Induced Pressure Waves in a Model of Muscle
+Tissue. Bioelectromagnetics 1:45-54.
+Olsen, RG, Lin, JC. 1983. Microwave-Induced Pressure Waves in Mammalian Brains.  IEEE
+Transactions on Biomedical Engineering BME-30:289-294.
+Postow, E, Swicord, ML. 1996. Modulated Fields and “Window” Effects.  In Handbook of
+Biological Effects of Electromagnetic Fields, C. Polk and E. Postow, editors, CRC Press,
+Boca Raton, FL, pp 542-545.
+Raslear, TG, Akyel, Y, Bates, F, Belt, M, Lu, ST. 1993. Temporal Bisection in Rats: The Effects
+of High-Peak-Power Pulsed Microwave Irradiation.  Bioelectromagnetics 14:459-478.
+Rissmann, WJ, Cain, CA. 1975. Microwave Hearing in Mammals. Proc. Natl. Elec. Cong.,
+30:239-244.
+Seaman, RL, Lebovitz  RM. 1989. Thresholds of Cat Cochlear Nucleus Neurons to Microwave
+Pulses. Bioelectromagnetics 10:147-160.
+Sommer, HC, von Gierke, HE. 1964. Hearing Sensations in Electric Fields. Aerospace Med.,
+35:834-839.
+Taylor, EM,  Ashleman, BT. 1974. Analysis of Central Nervous System Involvement in the
+Microwave Auditory Effect. Brain Res. 74:201-208.
+Tyazhelov, VV, Tigranian, RE, Khizhniak, EO,  Akoev, IG. 1979. Some Peculiarities of
+Auditory Sensations Evoked by Pulsed Microwave Fields. Radio Sci., 14(6S):259-263.
+Watanabe, Y, Tanaka, T, Taki, M, Watanabe, S. 2000. FDTD Analysis of Microwave Hearing
+Effect. IEEE Transactions on Microwave Theory and Techniques, 49:2126-2132.
+Elder, page 26
+Wilson, BS, Zook, JM, Joines, WT, Casseday JH. 1980. Alterations in Activity at Auditory
+Nuclei of the Rat Induced by Exposure to Microwave Radiation: Autoradiographic
+Evidence Using [
+14C]2-Deoxy-D-Glucose. Brain Res., 187:291-306.
+White, RM. 1963. Generation of Elastic Waves by Transient Surface Heating. J. Applied
+Physics, 34:3559-3567.
+Table 1.  Summary of Human Studies Describing Auditory Effects of Pulsed RF Radiation
+Exposure Conditions                      
+       Number    Frequency      Pulse    Pulse       Peak Power Av. Power         Energy Density
+Effect    Comment          of            (MHz)        Repetition    Width       Density Density         Per  Pulse              Nois e Level Reference
+       Subjects             Rate (s -1)     (us)        (mW/cm 2) (mW/cm 2)           (µJ/cm2)      (dB)
+RF hearing: heard
+repetition rate of radar
+as  “high frequency
+components”
+Not
+given
+  1,300 600 2 (peak power
+~0.5 MW)
+Airborne Instruments Lab (1956)
+RF hearing:
+“distinct”
+clicks
+Threshold
+Values
+8   3,000 0.5 5
+10
+15
+2500
+225-2,000
+300-1,000
+0.006
+0.001-0.01
+0.002-0.007
+12.5
+2.3-20.0
+4.5-15.0
+45 (+plastic
+foam earmuffs)
+Cain and Rissmann (1978);
+Rissmann and Cain (1975)
+RF hearing:
+buzz heard
+at PRR>100;
+individual
+pulses heard
+at PRR<100
+No auditory response
+No auditory
+Response
+3   3,000
+  6,500
+  3,000
+  6,500
+  9,500
+<100-1,000
+<100-1,000
+<100-1,000
+<100-1,000
+<100-1,000
+1-2
+1-2
+0.5
+0.5
+0.5-2
+2,500-50,000
+2,500-50,000
+10,000-100,000
+10,000-100,000
+2,500-100,000
+5
+5
+5
+5
+5
+40 Constant  (1967)
+RF hearing: “buzz,
+clicking, hiss, or
+knocking”
+Threshold
+values
+Not
+given
+     216
+     425
+     425
+     425
+     425
+-
+27
+27
+27
+27
+-
+125
+250
+500
+1,000
+670
+263
+271
+229
+254
+4.0
+1.0
+1.9
+3.2
+7.1
+70-90 (+ear
+stopples)
+Frey (1962,1963)
+No auditory
+Response
+  8,900 400 2.5 25,000 25 70-90 (+ear
+stopples)
+Frey (1962)
+RF hearing: Matched
+RF sound to 4.8 kHz
+acoustic sounds
+Subjects
+were
+trained
+musicians
+3   1,200 12.5-
+50
+<0.5 Frey and Eichert (1985)
+RF hearing:
+“buzzing sound”
+4   1,245
+  1,245
+50
+50
+10
+70
+370
+90
+0.19
+0.32
+Frey and Messenger (1973)
+RF hearing: “clicks,
+chirps”
+Threshold
+values
+2   2,450 3 1-32 1,250-40,000 0.1 40* 45 Guy et al. (1975)
+RF hearing:
+Buzz
+Threshold
+values
+(not at 10
+GHz)
+Not
+given
+  1,310
+  2,982
+10,000
+244
+400
+   -
+6
+1
+-
+(12 v/cm)
+(18 v/cm)
+0.3
+0.18
+    -
+Ingalls (1967)
+RF hearing: “tinitus” Not
+given
+     - 100-20,000 10-160 - - Khizhnyak et al. (1980)
+RF hearing: polytonal
+sound
+18      800 1,000-1,200 10-30 >500 - - 40  (+ear
+stopples)
+Tyazhelov et al. (1979)
+*Calculated peak-absorbed-energy density per pulse is 16 mJ/kg.
+Table 2.  Summary of Studies Concerning Threshold Values for Auditory-Evoked Potentials in Animals
+     Exposure Conditions                                                                        
+ Energy       Peak Absorbed
+           Repetition       Pulse   Peak Power         Av. Power    Density              Energy y
+Effect             Species      Frequency          Rate             Width   Density               Density            Per Pulse            Density Per           Reference
+                             (n)         (MHz)              (s -1)              (µs)   (mW/cm 2)            (mW/cm2)         (µJ/cm2)              (µJ/g)
+Response
+obtained with
+scalp
+electrodes
+Cat (2)
+[also dog
+and
+chinchill
+a]
+3000 0.5 5
+10
+15
+2,200, 2,800
+1,300
+580
+11, 14
+13
+8.7
+Cain and
+Rissmann
+(1978);
+Rissmann and
+Cain (1975)
+Response
+obtained
+from round
+window with
+carbon lead
+Guinea
+pig (5)
+918 100 1-10 * * 20 Chou et al.
+1975)
+Response
+obtained with
+carbon-
+loaded
+Teflon
+electrodes
+Guinea
+pig
+(n not
+given)
+918 30 10-500 62-156 0.02-1.4 1.56-46.8 6-180 Chou and Guy
+(1979)
+Electrode
+implanted in
+brain stem
+Cat (11) 1200-1525 12-130 10 60 0.03 Frey (1967)
+Response
+obtained
+from medial
+geniculate
+with glass
+electrode
+Cat (2) 918
+2450
+8,670-
+9,160
+1
+1
+1
+3-32
+0.5-32
+32
+800-5,800
+600-35,6000
+14,800-38,800
+0.017-0.028
+0.015-0.047
+0.472-1.24
+17.4-28.3
+15.2-47.0
+472-1,240
+12-3-20.0
+8.7-26.7
+Guy et al.
+(1975)
+Response
+obtained
+from
+individual
+auditory
+neurons with
+glass
+electrode
+Cat
+(n not
+given)
+915 <10 25-250 - 1.0 - 4-40 Lebovitz and
+Seaman (1977)
+Neuronal
+action
+potentials in
+cochlea
+Cat 915 20-700 0.6 Seaman and
+Lebovitz (1989)
+*Direct comparison of power density in the circular waveguide exposure system to free-field power density is improper because the efficiency of energy coupling is
+10 times higher than for free-field exposure (See Chou et al. 1975, p. 362).

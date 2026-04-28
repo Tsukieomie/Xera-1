@@ -1,0 +1,562 @@
+ofworkers(17)andhasrecentlybeen
+proposedasanonradiativemodelfor
+aromatichydrocarbon-inducedcarcino-
+genesis(18).
+Thereisnoexperimentalevidence
+relatingchemiluminescenceto any
+mechanismforcarcinogenesis.How-
+ever,cigarettesmokecontainsrelatively
+stablecarcinogensthatmay be'met-
+abolicallyactivated.Thespontaneous
+chemiluminescenceobservedindicates
+thepotentialfortheproductionofelec-
+tronicallyexcitedstateswithinthelung
+overandabovethosemetabolicallypro-
+ducedexcitedstatesproposedbyAn-
+derson.Thephotonemissionofciga-
+rettesmokeprovidesaminimumnum-
+berfortheexcitedstateproductmole-
+culesformedchemically.
+Exceptforbioluminescence,inwhich
+an evolutionaryselectionhasbeen
+madeforchemiluminescentsubstrates
+thatgivehighphotonyields,most
+chemiluminescentreactionshavevery
+lowphotonyields.Thedetectionof
+photonemissionproducedby these
+highlyexergonicchemicalreactionsis
+inonesensefortuitous;nonradiative
+pathwaysandfluorescencequenching
+mighthave beensoefficientastomake
+theluminescence,andthereforethe
+presenceofthesereactions,undetecta-
+ble.A possibleinterferenceinexperi-
+mentson thepromotionofcarcino-
+genesisoftarsbyphotoexcitationcan
+beinferredfromtheself-absorption
+effectshowninFig.2a.A methodfor
+paintingtarsontheskinsofmiceand
+rabbitscallsfora50percentsolution
+(weighttovolume)inacetone(12).
+Thisslurryproducesa thicklayerof
+tarsothatincidentlightisabsorbedby
+theouterlayersoftarmolecules-
+thosenotincontactwithorabsorbed
+bytheskin.Inviewofthetransient
+natureoftheunstableradicalsinciga-
+rettesmokeandtheirpossibleinvolve-
+mentinthepromotionofcarcinogene-
+sisbyactivationofcarcinogensalready
+present,or asactivatedcarcinogens
+themselves,itwouldappearthatexperi-
+mentsattemptingtorelatecigarette
+smoketocarcinogenesisshouldalso
+mimicthetruephysiologicaltimeex-
+posuresofthetestorganismstothe
+observedchemiluminescence[seealso
+(3)].
+Carcinogenicaromatichydrocarbons
+arepresentintheairwebreatheasthe
+resultoftheburningoforganicmateri-
+al,exclusiveoftobacco.Whentarsand
+otherlatentcarcinogenicmoleculesare
+alreadypresentinthelungs,theinhala-
+tionofchemiluminescentprecursorsin
+smokefromanysource,aswellas
+256
+fromtobacco,couldresultinachemi-
+callymediatedelectronicexcitationof
+thesemolecules,thatis,a promotion
+ofcarcinogenesis.Thelong-livednature
+ofthechemiluminescencefromsmoke
+impliesthat,whilesmokerswhoinhale
+subjecttheirlungstorelativelyhighin-
+tensitiesofchemiluminescencebecause
+ofparticulateretention,thechemilumi-
+nescentemissionthatoccursfromex-
+haledsmokeandtheside-streamsmoke
+subjectssmokersandnonsmokersalike
+toasignificantchemiluminescentdose.
+H.H.SELIGER
+W.H.BIGGLEY
+J.P.HAMMAN
+McCollumn-PrattInstituteand
+DepartmentofBiology,JohnsHopkins
+University,Baltimore,Maryland21218
+ReferencesandNotes
+1.H. H. Seliger,in Chemiluminescenceand
+Bioluminescence,M. J. Cormier,D. M.
+Hercules,J.Lee,Eds.(Plenum,New York,
+1973),p.461.
+2.G.M. Barenboim,A.N. Domanskii,K.K.
+Turoverov,LuminescenceofBiopolyntersand
+Cells(Plenum,New York,1969).
+3.We areindebtedto Dr.RichardSteele,
+TulaneUniversitySchoolofMedicine,and
+Prof.J.Stauff,UniversityofFrankfurtam
+Main,forthischanceremarkduringa con-
+ferenceonchemiluminescenceinOctober1972.
+We thankoneofthereviewersfortherefer-
+encetoStauff'sreportonhisoriginalobserva-
+tion[J.Stauff,G.Reske,I.Simo,Z.Natur-
+forsch.TeilC 28,469(1973)].
+4.W. H.Biggley,E.Swift,R.J.Buchanan,H.
+H.Seliger,J.Gen.Physiol.54,96(1969).
+5.H. H.SeligerandR.A.Morton,inPhoto-
+physiology,A.C.Giese,Ed.(AcademicPress,
+New York,1968),vol.4,p.274.
+6.C.LagercrantzandM. Yhland,ActaChem.
+Scand.17,1299(1963).
+7.H.H.SeligerandR.A.Morton,inPhoto-
+physiology,A.C.Geise,Ed.(AcademicPress,
+New York,1968),vol.4,p.290.
+8.A detaileddescriptionofthespectralmeasure-
+mentsandthekineticmeasurementsisin
+preparation.
+9.H.H.Seliger,J.Chem.Phys.40,3133(1964).
+10.Cigaretteswerechosenfromthe1972Federal
+TradeCommissionlistoftarandnicotinecon-
+Whenaperson'sheadisilluminated
+withpulsedmicrowaveenergy,hecan
+perceive"clicks"insynchronywiththe
+individualmicrowavepulses(1-3).The
+pulsesmustbe moderatelyintense
+(typically0.5to5 watt/cm2atthe
+surfaceofthehead).However,theycan
+besufficientlybrief(50ltsecorless)
+thatthemaximumincreaseintissue
+temperatureaftereachpulseisvery
+small(<10-5IC).Thisistheonly
+tentof 130cigarettebrands[reprintedin
+ConsumerReports(Orangeburg,N.Y.,1972),
+p.4711.Tarandnicotinecontentoftheciga-
+rettesassayedforsmokechemiluminescence
+rangedoverfactorsof30and20,respectively.
+11.H.H.Seliger,J.B.Buck,W. 0.Fastie,W.
+D.McElroy,Biol.Bull.127,159(1964).
+12.E.L.WynderandD.Hoffmann,Tobaccoand
+TobaccoSmoke(AcademicPress,New York,
+1967).
+13.T.TakeshitaandH.Ohe,Sci.Pap.Cent.Res.
+Inst.No.106(JapanMonopolyCorp.,1964).
+p.163.
+14.H. H. SeligerandW. D. McElroy,Science
+138,683(1962).
+15.W. Anderson,Nature(Lond.)160,892(1947).
+16.W. BUngeler,Klin.Wochenschr.16,1012
+(1937);Z.Krebsforsch.46,130(1937);H.F.
+Blum,PhotodynamicActionand Diseases
+CautsedbyLight(Reinhold,New York,1941);
+M. A.O'NealandA.C.Griffin,CancerRes.
+17,911(1957);A.C.Griffin,R.E.Hakim,
+J.Knox,J.Invest.Dermatol.31,289(1958);
+F.Urbach,ibid.32,373(1959);B.A.Kihi-
+man,Exp.CellRes.17,590(1959);Nature
+(Lond.)183,976 (1959);L. Santamaria,
+RecentContrib.CancerRes.Italy1,167
+(1960); andG. Prino,inResearch
+ProgressinOrganic,BiologicalandMedical
+Chemistry,U.GalloandL.Santamaria,Eds.
+(SocietaEditorialeFarmaceutica,Milano,
+1964),p.259;L.Santamaria,G.G.Giordano,
+M. Alfice,F.Cascione,Nature(Lond.)210,
+824(1966);J.S.BellinandG. Oster,in
+ProgressinPhotobiology,B.Christensenand
+B. Buchmann,Eds.(Elsevier,New York,1961),p.254;J.H. EpsteinandW. L.
+Epstein,J.Invest.Dermatol.39,455(1962);
+J.H.Epstein,J.Natl.CancerInst.34,741
+(1965); ,W.L.Epstein,T.Nakai,ibid.
+38,19(1967);J.D.SpikesinPhotophysiology,
+A.C.Giese,Ed.(AcademicPress,NewYork,
+1968),vol.3,chap.2;H.E.Kubitschek,Proc.
+Natl.Acad.Sci.U.S.A.55,269(1966).
+17.C.S.FooteandS.Wexler,J.Am. Chem.
+Soc.86,3879(1964);E.H.White,J.Wiecko,
+D.R.Roswell,ibid.91,5194(1969);E.H.
+WhiteandC.C.Wei,ibid.92,2167(1970);
+E.H.White,E.Rapaport,H.H.Seliger,T.
+A.Hopkins,Bioorg.Chem.1,92(1971);A.
+A.Lamola,Biochem.Biophys.Res.Commun.
+43,893(1971).18.N.P.Buu-HoiandS.S.Sung,Naturwissen-
+schaften57,135(1970).
+19.We thankProf.R.Ballentineforvaluable
+discussionsduringthecourseofthiswork.
+SupportedinpartunderAEC Divisionof
+BiologyandMedicinecontractAT(11-1)3277
+andAEC DivisionofEnvironmentalBiology
+contractAT(11-1)3278.Contribution781of
+McCollum-PrattInstituteandDepartmentof
+Biology,JohnsHopkinsUniversity.J.P.H.is
+a NationalInstitutesofHealthpredoctoral
+fellow.
+29March1974
+unequivocalbiologicaleffectofmicro-
+waveradiationthatisnotaccompanied
+byorproducedbyobservabletissue
+heating.Becauseofthecurrentdebate
+overpossibleeffectsonthecentralner-
+voussystemoflow-power,radio-fre-
+quencyradiation(2),itappearsim-
+portanttounderstandtheunderlying
+mechanismsforthisphenomenon.
+Electrophysiologicalexperimentsin
+catshavedemonstratedthepresenceof
+SCIENCE,VOL.185
+MicrowaveHearing:EvidenceforThermoacousticAuditory
+StimulationbyPulsedMicrowaves
+Abstract.Acoustictransientscanbethermallygeneratedinwaterbypulsed
+microwaveenergy.Thepeakpressurelevelofthesetransients,measuredwithin
+theaudiblefrequencybandasafunctionofthemicrowavepulseparameters,is
+adequatetoexplainthe"clicks"heardbypeopleexposedtomicrowaveradiation.
+ on May 28, 2012www.sciencemag.orgDownloaded from 
+auditoryevokedresponsesafterex-
+posuretopulsedmicrowaveradiation
+identicaltothatwhichelicits"clicks"
+inhumans(3).Inthestudyreported
+hereweshowthatthissameradiation
+generatessubstantial(>10dyne/cm2)
+soundtransientsinwater,themajor
+constituentofsofttissue.The peak
+pressurelevelofthesetransients,mea-
+sLiredwithintheaudiblefrequency
+bandasa functionofthemicrowave
+pulseparameters,isconsistentwith
+psychophysicalobservationsof the
+loudnessandthresholdofthismicro-
+wave"hearing"effect.We believethat
+the"clicks"aretheperception,bybone
+conduction,ofthesethermallygener-
+atedsoundtransients.
+Theconversionofelectromagneticto
+acousticenergybythesurfaceheating
+ofa liquidiswellknown(4,5),for
+example,in connectionwithshock
+wavesproducedbyaQ-switchedlaser
+(6).Itisapparentthatpulsedmicro-
+waveenergyisalsocapableofgenerat-
+ingacoustictransientsinabsorbentma-
+terials.To illustratethiseffect,assume
+thatauiniformbeamofelectromagnetic
+energyofintensity1,(inwattsper
+squarecentimeter)isdirectedatthe
+surfaceofa fluidwithanabsorption
+coefficienta.The radiationintensity
+1(x)atadistancex fromthesuLrface
+isgivenby
+1(x)- ITexp(-ax)
+whereT isthefractionoftheincident
+energytransmittedintothefluid,the
+remainingenergybeingreflected.For
+2450-Mhzmicrowaveenergyincident
+uponphysiologicalsaline(oruponsoft
+tissue)at37°C,TandI/aareapproxi-
+mately0.4and1cm,respectively(7).
+Assumethatthebeamisturnedonat
+timet= 0 andoffattimet= T.The
+fluidwillexpandasitisheatedbythis
+pulseandsendouta pressurewave.
+Themaximumvelocity,11,ofanysmall
+elementofthefluidwillbeproportional
+bothtothemaximumrateoftempera-
+turerise(aTl,)/C,)Jp,whereC,,isthe
+heatcapacityatconstantpressure,Jis
+themechanicalequivalentofheat,and
+p isthefluiddensity)andto,B,the
+volumecoefficientofthermalexpan-
+sion.Sincetheinstantaneoussound
+pressureisdirectlyproportionaltothe
+particlevelocity,anapproximatemea-
+sureofthepeaksoundpressurepro-
+ducedbytheabsorbedenergyis(5)
+_CpflT (1)Pt,- d()
+wherecisthevelocityofsoundinthe
+fluid.A carefulcalculationmusttake
+19JULY 1974
+E
+-,100psec4-
+Fig.1.Oscilloscopetracesshowingthe
+acoustictransient(uppertrace)producedbya 27-lAsec,2450-Mhzmicrowavepulse
+ofintensity5.3watt/cm2(lowertrace)
+incidentupon0.15NKCIsolutionat250C.
+Thesolutionwas containedina cubic
+Lucitetank,30cm onaside.Thelatency
+betweenthemicrowavepulseandthefirst
+recordedtransientisequaltothepropaga-
+tiontimeofsoundfromthefrontsurface
+ofthetanktothehydrophone;areflection
+fromtherearsurfaceofthetankisalso
+shown.Thismicrowavepulsewouldelicit
+a "click"inmostsubjects.
+intoaccounttheboundaryconditions
+uponthefluid.Itcanbeshown(5)that
+a pulseofelectromagneticenergyof
+durationT directedata free(thatis,
+unconstrained)fluidsurfaceshouldpro-
+ducebotha positiveanda negative
+pressuretransient,ofpeakamplitude
+P.na=-+- (Po/2)[I- exp(-acx)](2)
+correspondingtotheleadingandtrail-
+ingedgesofthepulse,respectively.For
+incidentenergyofintensity1watt/cm2
+totallyabsorbedbywaterat370C,
+(P,,/2)isapproximately6.5dyne/CM2.
+We haveverifiedthesepredictions,
+Llsinga sensitive,electricallywell-
+shieldedhydrophone(anexperimental
+modelonloanfromChesapeakeInstru-
+mentCorporation)andcontainersof
+variousgeometriesfilledwith0.1SN
+KCIsolution.A microwavegenerator
+(AppliedMicrowaveLaboratoriesmodel
+PH-40)coupledtoa standardgain
+horn(Wavelinemodel299)wasused
+toproducepulsesof2450-Mhzradia-
+tionwithamaximumpeakintensityof
+approximately10watt/cm2andwidths
+of2to27Itsec.Themicrowavepower
+densitywasmeasuredwitha probe
+(Nardamodel8300).Allmeasurements
+werecarriedoutinananechoiccham-
+berlinedwithmicrowave-absorbent
+material.
+A typicalresultshowingpositiveand
+negativepressuretransientswithP,I,.R=
+20dyne/cm2isgiveninFig.1.The
+solution,at25°C,wascontainedina
+cubicLucitetank,30cm ona side.
+The27-1'secpulsehadapeakintensity
+ofapproximately5.3watt/cm2atthe
+fluidsurface.Mostpersonsexposedto
+thisradiationwouldheara distinct
+"click."If60percentoftheincident
+microwavepowerisassumedtobere-
+flectedbythewatersurface,Eq.2pre-
+dictsa peaksoundpressureof 10
+dyne/cm2;consideringtherelatively
+largeerrorsinherentin microwave
+powermeasurementsandthenonuni-
+formsurfaceheatingproducedbythe
+divergingbeam,theagreementbetween
+Fig.I andthetheoryissatisfactory.
+Theshapeofthetransientresembles
+thatpredictedin(5)butisdistortedby
+thepresenceoftheLucitewall.That
+thesignalisduetothermalexpansion
+ofthewaterwasconfirmedbyusinga
+Fig.2.Thepeaksound
+pressureof themicro- I
+wave-generatedacoustic 1
+transient,asa function C100
+ofthemicrowavepulse E
+widthandfilterband- ' 98.
+width.Filterbandwidth:'
+0,200hertzto60khz;
+, 200hertzto40khz; C4.96 \
+A,200hertzto30khz; c\
+0,200hertzto20khz.
+The0.15NKC1solution o 94\
+wasina largerectan-
+gularexpandedpolysty- X 92
+renetank,at250C.The
+soundpressureswerein-
+creasedby 2.9db to a 90
+simulatemeasurements
+at370C.Thedottedlines ."
+indicatethe function . "
+P,,ocL,(Eq.1).This 2 5 10 152025
+figureshowsthat,for Pulsewidth(jsec)
+shortpulses,Poccor,in
+agreementwithpsychophysicalobservationsofthemicrowave"hearing"effect.The
+microwaveintensitywasadjustedsothattheincidentenergydensityperpulsewas80
+,4j/cm2,thethresholdformicrowave"hearing"inanaveragesubject.
+257
+ on May 28, 2012www.sciencemag.orgDownloaded from 
+sampleofdistilledwaterandcooling
+thesolution.Between00and40Cthe
+signalwasinvertedandat40Cthesig-
+nalvanished,inagreementwiththe
+temperaturedependenceofthethermal
+expansioncoefficientofwater.Wehave
+alsoobservedinvitroacoustictran-
+sientsproducedbymicrowavepulsesin
+suchtissuesasblood,muscle,and
+brain;similartransientshavebeenob-
+servedinvitrointissueafterirradia-
+tionbyaQ-switchedlaser(8).
+Thefirstreflectionfromtherear
+surfaceofthetankisshowninFig.1.
+Superficially,theinitialtransientand
+thefollowingseriesofreflections(the
+"flutterecho")resemblea burstof
+whitenoise,whichisexponentially
+dampedwithatimeconstantofabout
+3msecasthesoundenergyistrans-
+ferredtothewallsofthecontainer.
+Thefrequencyspectrumoftheburst
+dependsuponthemicrowavepulse
+lengthanduponthegeometryofthe
+container;shorteningthemicrowave
+pulsesimilarlyshortenstheinitialtran-
+sientbutdoesnotalterthedecaytime
+ofthereflectedpulses.
+Usinga variableband-passfilter
+(Kron-Hite),we havemeasuredthe
+bandpressurelevelsoftheacoustic
+transientsthatfollowmicrowavepulses
+ofdifferentwidths(Fig.2).Thesolution
+at25°Cwascontainedinalargeex-
+pandedpolystyrenetank.Thepressure
+levelswereincreasedby2.9dbtosim-
+ulatemeasurementsat370C.Theinci-
+denttotalenergydensityperpulse,
+I0T,waskeptconstantat80uj/cm2.
+Thisistheapproximateaveragethresh-
+oldformicrowave"hearing"inhu-
+mansubjectswithnormalhearingex-
+posedto2450-Mhzradiation,forpulses
+shorterthanabout25,usecrepeatedat
+arateofthreepersecond(3).Forrela-
+tivelylongpulses,Fig.2 showsthat
+thePma,xoftheburstisdirectlypro-
+portionaltoJ0,consistentwithEq.2.
+Forshorterpulses,Pn,a.dependsupon
+IOTanduponthefilterbandwidth.This
+isduetotheexponentialfactorinEq.
+2andtothebroadenedspectraldistri-
+butionofthetransients.Withinthe
+frequencybandaudiblebybonecon-
+duction(200hertzto20khz),thetran-
+sitionoccursatpulsewidthsof20to
+25 /Asec.In a psychophysicalstudy
+FreyandMessengershowed,forpulsed
+1245-Mhzradiation,thattheloudness
+ofthemicrowave"hearing"sensation
+dependsonlyuponIoforpulsewidths
+greaterthanabout30,usec;forshorter
+pulses,theirdatashowthattheloud-
+nessisafunctionoftheproduct,4oT
+258
+(1).Theseresultsareconsistentwith
+ourobservations.
+We observethatinwateramicro-
+wavepulse,atthethresholdformicro-
+wave"hearing"inhumans,produces
+pressuretransientsofapproximately90
+dbrelativeto0.0002-dyne/cm2peak
+amplitudewithinthefrequencyband
+200hertzto20khz.Ifoccurringwith-
+inthehead,thisstimuluscouldelicit
+a"click"whensomeofthesounden-
+ergyiscoupledintotheskull.Neither
+thedurationoftheflutterechopro-
+ducedinsidetheheadbyamicrowave
+pulsenorthethresholdforperception
+ofthisunusualstimulusisknown.
+However,90dbisabovetheexpected
+threshold(-80db)forperception,by
+boneconduction,ofmillisecondbursts
+ofwhitenoiseincidentuponasubject's
+skullinwater(9).Itisthereforerea-
+sonabletobelievethatthesethermally
+inducedtransientselicitthemicrowave
+"hearing"sensationsinhumans.
+KENNETHR.FOSTER
+EDWARDD.FINCH
+NavalMedicalResearchInstitute,
+NationalNavalMedicalCenter,
+Bethesda,Maryland20014
+carbide.
+Ithasbeenshown(1,2)thattransi-
+tionmetalcarbideshavemanyofthe
+desirablecatalyticpropertiesof"noble"
+metals(suchasPtandPd)withre-
+specttohydrogenoxidationandhydro-
+genolysisreactions,butthereisno
+detailedunderstandingofthisphenom-
+enon.LevyandBoudart(2)havepro-
+posedthattheincreasedcatalyticactiv-
+ityofWC overW isduetothe
+donationofelectronsbycarbontothe
+W Sdband,resultinginanelectronic
+structuresimilartothatofPt.Inthis
+reportwetesttheirhypothesisbydi-
+rectlycomparingthedensityofunfilled
+electronicstatesintheconduction
+bandsofW,WC,andPtbysoftx-ray
+appearancepotentialspectroscopy
+(SXAPS)(3,4).Themeasurementsare
+sensitivetothecatalyticallyactiveout-
+ermostfewatomiclayers.Contraryto
+ReferencesandNotes
+1.A.H.FreyandR.Messenger,Jr.,Science
+181,356(1973);A.H.Frey,J.Appi.Physiol.17,689(1962).
+2.A.H.Frey,Inst.Elec.Electron.Eng.Trans.
+MicrowaveTheoryTech.MTT-19,153(1971).
+3.A.W. Guy,E.M. Taylor,B.Ashleman,
+J.C.Lin,Inst.Elec.Eleciron.Eng.Int.
+Symp.DigestTech.Pap.G-MTT (1973),p.
+321;A.W. Guy,C.K. Chou,J.C.Lin,
+D. Christensen,Proc.N.Y. Acad.Sc.,in
+press.
+4.R.M.White,1.Appl.Phys.34,3559(1963).
+5.L.S.Gournay,J.Acoust.Soc.Am.40,1322
+(1966).Thequantity, isthevolumecoeffi-
+cientofthermalexpansion,notthelinear
+coefficientasstatedbyGournay.Thiscanbe
+demonstratedbyanindependentderivationof
+thefundamentaldifferentialequationfor
+thermallydrivenpressurewavesinfluids,
+equation9 ofthisreference,fromthefirst-
+orderacousticequationsfora fluid[see
+F.A.Firestone,intheAmericanInstituteof
+PhysicsHandbook,D.E.Gray,Ed.(McGraw-
+Hill,NewYork,1957),p.3-33.
+6.C.L.Hu,J.Acoust.Soc.Am.46,728(1969).
+7.H. N. KritikosandH. P.Schwan,Inst.
+Elec.Electron.Eng.Trans.Biomed.Eng.
+BME-19,53(1972).
+8.S.F.ClearyandP.E.Hamrick,J.Acoust.
+Soc.Am. 46,1037(1969).
+9.W.R.ThurlowandR.Bowman,ibid.29,281
+(1957);P.M. Hamilton,ibid.,p.792.
+10.We thanktheChesapeakeInstrumentCor-
+porationof Shadyside,Maryland,forthe
+generousloanofthehydrophoneusedin
+thiswork.SupportedbytheBureauofMedi-
+cineandSurgeryWorkUnitNo.MF51.524.-
+015.0018BE7X.The opinionsor assertions
+containedhereinaretheprivateonesofthe
+authorsand arenotto be construedas
+officialorreflectingtheviewsoftheNavy
+Departmentorthenavalserviceatlarge.
+12March1974 a
+thehypothesisofLevyandBoudart,
+we findthatthewidthoftheunoc-
+cupiedportionoftheSdbandofW
+actuallyincreasesongoingfromW to
+WC.Asexpected,wefindthattheun-
+occupiedportionoftheSdbandofPt
+isquitenarrow,indicatingthatthe
+bandisalmostcompletelyfilled.
+InSXAPSonemonitorsthetotal
+x-rayemissionfroma samplebom-
+bardedwithelectronsasafunctionof
+theenergyoftheincidentelectron
+beam.Theresultingcurveexhibitsdis-
+tinctstructurecorrespondingtothe
+excitationprobabilitiesforcorelevel
+electronssuperimposedonasmoothly
+increasingbremsstrahlungbackground.
+Thebackgroundissuppressedrelative
+totheexcitationstructurebydiffer-
+entiatingthecurvewithrespecttoen-
+ergy.Neglectingthefinitelifetimeof
+SCIENCE,VOL.185
+SurfaceElectronicPropertiesofTungsten,
+TungstenCarbide,andPlatinum
+Abstract.Thelocalelectronicstructuresofthesurfaceregionsoftungsten,
+tungstencarbide,andplatinumhavebeencompared.Contrarytothehypothesis
+thattheplatinum-likecatalyticactivityoftungstencarbideresultsfromthecon-
+tributionofcarbonvalenceelectronstotheSdbandoftungsten,thewidthof
+theunfilledportionofthedbandincreasesongoingfromtungstentotungsten
+ on May 28, 2012www.sciencemag.orgDownloaded from 

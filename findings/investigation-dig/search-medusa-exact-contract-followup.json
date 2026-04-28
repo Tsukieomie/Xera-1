@@ -1,0 +1,127 @@
+{
+  "search_id": "search_afc3237c871d4764953bfc3bb77837d1",
+  "status": "ok",
+  "results": [
+    {
+      "url": "https://sam.gov/fpds",
+      "title": "Contract Award Data in SAM.gov | SAM.gov",
+      "publish_date": null,
+      "excerpts": [
+        "# Contract Awards in SAM.gov\n\n**Legacy Website**\n\nGSA continues to create a more modern and unified user experience for the entities that want to do business or currently are doing business with the federal award community while reducing costs for the government and the taxpayer.\n\nThe Federal Procurement Data System\u2019s ( [FPDS.gov](https://links-2.govdelivery.com/CL0/http:%2F%2Ffpds.gov%2F%3Futm_medium=email%26utm_source=govDelivery/1/01010198336a59b3-f4a84542-2057-49c3-8ce0-a421d67890ec-000000/44iFbGjWO_vok17i2MErJ3rL3LLaYMitXOH0KivG--c=414) ) capabilities will transition to SAM.gov on an incremental basis to make way for a modernized procurement data system within SAM.gov\n\n**ezSearch**\n\n##### **TO WATCH A TRAINING VIDEO ABOUT CONTRACT AWARD SEARCHING IN SAM.GOV, CLICK** [**HERE**](https://www.youtube.com/watch?v=EfaaXKbyelM)\n\nGSA has completed the transition of ezSearch functionalities to [SAM.gov](http://sam.gov) , and decommissioned ezSearch on February 24, 2026 .\nThe [contract award search](https://sam.gov/search) function in SAM.gov allows users to search federal procurement data and to filter by keyword, agency, and legal business name.  Results are available to anyone with a [SAM.gov](http://sam.gov) account, including contractors, agencies, and the public.\n\nThe federal government procurement data found in SAM.gov\u2019s search is mostly used for policy and trend analysis.  Search results contain publicly available information about all unclassified contract actions exceeding the micro-purchase threshold and any modifications to those actions that change previously reported data, regardless of dollar value.\n\nWith the transition of ezSearch into SAM.gov, we also made some improvements to the functionality, including:\n\n* Creating effective navigation between Contract Opportunities, Contract Awards and Subaward Reporting domains.\n* Offering the search filters that are widely used.\n* Developing Pickers for search filters, the functionality that does not exist in FPDS.gov.\n* Developing search filters to be more intuitive and to allow partial searches which do not exist in [FPDS.gov](https://links-2.govdelivery.com/CL0/http:%2F%2Ffpds.gov%2F%3Futm_medium=email%26utm_source=govDelivery/1/01010198336a59b3-f4a84542-2057-49c3-8ce0-a421d67890ec-000000/44iFbGjWO_vok17i2MErJ3rL3LLaYMitXOH0KivG--c=414) .\n\nNASA Specific Awards have not been transitioned to [SAM.gov](http://sam.gov) .  NASA Award data may be obtained from the [SAM Data Bank](https://sam.gov/reports/awards/standard) or FPDS Advanced Search.\n\n**Atom Feed**\n\nATOM Feed will be replaced with the [SAM.gov Contract Awards API](https://open.gsa.gov/api/contract-awards/) in [open.gsa.gov](http://open.gsa.gov/) .\n\nThe new API will include the following enhancements:\n\n* Direct & On-Demand Queries\n* Advanced, Granular Search\n* Flexible Formats (JSON, CSV)\n* Richer Data (Deleted Contracts, etc.)"
+      ]
+    },
+    {
+      "url": "https://sam.gov/contract-data",
+      "title": "Contract Data | SAM.gov",
+      "publish_date": null,
+      "excerpts": [
+        "**Government users:** We encourage you to request a contract data role if you need access to restricted data such as DoD\u2019s 90-day award data.\n\n* [Request a federal role](https://sam.gov/profile/request-role)\n\n## Contract Award Reports\n\nThere are pre-formatted standard reports, advanced Ad Hoc reports, and controlled Administrative reports within the Data Bank.\n\n* [List of available standard reports](https://www.fsd.gov/gsafsd_sp?id=kb_article_view&sysparm_article=KB0029880)\n* [What are contract data ad hoc reports?](https://www.fsd.gov/gsafsd_sp/en/what-are-contract-data-ad-hoc-reports?id=kb_article_view&sys_kb_id=dc983a0c975d66905f6ef21de053af8d)\n* [What are the available contract data static reports?](https://www.fsd.gov/gsafsd_sp/en/what-are-the-available-contract-data-static-reports?id=kb_article_view&sys_kb_id=06e15a60478dea50da6ff9ee626d43df)\n* [Reference guide for standard reports](https://www.fsd.gov/gsafsd_sp?id=kb_article_view&sysparm_article=KB0029881)\n* Go to Contract Award Reports\n\n## Manage Contract Awards\n\nFederal users can manage contract award records by selecting the \"manage contract awards\" button and logging in with the legacy FPDS credentials.\n\n* [Frequently Asked Questions](https://www.fsd.gov/gsafsd_sp?id=kb_category&kb_category=03d35e9a1b2a2a900033c915624bcbfa)\n* [Go to Contract Award Login](https://secure.login.gov/openid_connect/authorize?response_type=code&client_id=urn:gov:gsa:openidconnect.profiles:sp:sso:gsa:prod_fpds&scope=openid+email&redirect_uri=https://www.fpds.gov/common/jsp/loginsso.jsp&nonce=XIdVv6LZi1tVvD6AiILd99ZbIE8ozViN_iJcc_PFpW8&state=fZ23fA9zsv5gPwTyd-dmMiTa3gnsaE2q1UrQ0KD9jLA&acr_values=http://idmanagement.gov/ns/assurance/loa/1)\n\n## Connect to Data Services\n\n* [How to use data services](http://fsd.gov/gsafsd_sp/en/how-do-i-use-data-services?id=kb_article_view&sysparm_article=KB0029694)\n* [Go to public contract award API](https://www.fpds.gov/fpdsng_cms/index.php/en/worksite.html)\n## System Accounts\n\n* [Creating a system account](https://www.fsd.gov/gsafsd_sp?id=kb_article_view&sysparm_article=KB0035680)\n* [Renewing a system account Password](https://www.fsd.gov/gsafsd_sp?id=kb_article_view&sysparm_article=KB0017666)\n* [Go to public contract award API](https://www.fpds.gov/fpdsng_cms/index.php/en/worksite.html)\n\n## Help\n\n* [Frequently Asked Questions](https://www.fsd.gov/gsafsd_sp?id=kb_category&kb_category=bb9f7a401b4f64108aa3a8eae54bcb1c&kb_id=f66d8e6cdb76d4100d73f81d0f9619c6)\n* [Glossary Terms](https://www.fsd.gov/gsafsd_sp?id=kb_category&kb_category=d9cfb6801b4f64108aa3a8eae54bcbc5&kb_id=f66d8e6cdb76d4100d73f81d0f9619c6)\n* [Videos](https://www.fsd.gov/gsafsd_sp?id=kb_category&kb_category=63afba401b4f64108aa3a8eae54bcb13&kb_id=f66d8e6cdb76d4100d73f81d0f9619c6)\n\n[](https://www.gsa.gov)\n\nWARNING\n\nThis is a U.S. General Services Administration Federal Government computer system that is **\"FOR OFFICIAL USE ONLY.\"** This system is subject to monitoring."
+      ]
+    },
+    {
+      "url": "https://sam.gov/opp/e71063ccdfdcf8ec0ca17e4795f4e09e/view",
+      "title": "SAM.gov",
+      "publish_date": null,
+      "excerpts": [
+        "SAM.gov ... SAM.gov"
+      ]
+    },
+    {
+      "url": "https://www.usaspending.gov/recipient",
+      "title": "Federal Award Recipient Profiles | USAspending",
+      "publish_date": null,
+      "excerpts": [
+        "P Parent Recipient C Child Recipient R Recipient 1-50 of 18,275,957 results 1 2 3 ... 365,520"
+      ]
+    },
+    {
+      "url": "https://www.sbir.gov/awards/62073",
+      "title": "Award | SBIR",
+      "publish_date": null,
+      "excerpts": [
+        "Total Award Amount: $69,977 Contract Number: M67854-04-C-1013 Agency Tracking Number: N032-0874 Solicitation Topic Code: N/A Solicitation Number: N/A"
+      ]
+    },
+    {
+      "url": "https://www.sbir.gov/awards/218175",
+      "title": "Award | SBIR",
+      "publish_date": null,
+      "excerpts": [
+        "Total Award Amount: $1,000,000 Contract Number: M67854-25-C-6512 Agency Tracking Number: N231-004-0819 Solicitation Topic Code: N231-004 Solicitation Number: 23.1"
+      ]
+    },
+    {
+      "url": "https://sam.gov/workspace/contract/opp/864ef21f11e24f2491864c4111b0bc72/view",
+      "title": "SAM.gov",
+      "publish_date": null,
+      "excerpts": [
+        "This is a U.S. General Services Administration Federal Government computer system that is \"FOR OFFICIAL USE ONLY.\" This system is subject to monitoring. Individuals found performing unauthorized activities are subject to disciplinary action including criminal prosecution. This system contains Controlled Unclassified Information (CUI). All individuals viewing, reproducing or disposing of this"
+      ]
+    },
+    {
+      "url": "http://usaspending.gov/",
+      "title": "USAspending.gov",
+      "publish_date": null,
+      "excerpts": [
+        "\"USAspending is the official open data source of federal spending information. Targeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no matching award or application records in Grants.gov, SAM.gov, USAspending.gov, COPS Office award lists, FEMA grant pages, BJA award pages, NHTSA listings, state portals, or local news within the 2025-04-20 to 2026-04-20 window.\nUSAspending is the official open data source of federal spending information. Targeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office award lists, FEMA grant pages, BJA award pages, NHTSA listings, state portals and local news returned no matching award or application records in Grants.gov, SAM.gov, USAspending.gov, COPS Office award lists, FEMA grant pages, BJA award pages, NHTSA listings, state portals, or local news within the 2025-04-20 to 2026-04-20 window.\nSearches executed for the target entity and technology keywords (ERP, finance, utility-billing, CMMS, property-tax, electronic payments, community-development software) with coverage after 2025-04-23 returned no matching federal awards for the target entity within the coverage window.\nUSAspending is the official open data source of federal spending information. Targeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no matching award or application records in Grants.gov, SAM.gov, USAspending.gov, COPS Office award lists, FEMA grant pages, BJA award pages, NHTSA listings, state portals, or local news within the 2025-04-24 to 2026-04-24 window.\nSearches executed for the target entity and technology keywords (ERP, finance, utility-billing, CMMS, property-tax, electronic payments, community-development software) with coverage after 2025-04-23 returned no matching federal awards for the target entity within the coverage window. USAspending is the official open data source of federal spending information. Targeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no matching award or application records in Grants.gov, SAM.gov, USAspending.gov, COPS Office award lists, FEMA grant pages, BJA award pages, NHTSA listings, state portals, or local news within the 2025-04-20 to 2026-04-20 window. (USAspending.gov; last verified: 2026-04-24)\nTargeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no matching award or application records in Grants.gov, SAM.gov, USAspending.gov, COPS Office award lists, FEMA grant pages, BJA award pages, NHTSA listings, state portals, or local news within the 2025-04-20 to 2026-04-20 window.\nSearches executed for the target entity and technology keywords (ERP, finance, utility-billing, CMMS, property-tax, electronic payments, community-development software) with coverage after 2025-04-23 returned no matching federal awards for the target entity within the coverage window. (USAspending.gov; last verified: 2026-04-24)\nTargeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no matching award or application records in Grants.gov, SAM.gov, USAspending.gov ... within the 2025-04-24 to 2026-04-24 window. (USAspending.gov; last verified: 2026-04-24)\nSearches executed for the target entity and technology keywords (ERP, finance, utility-billing, CMMS, property-tax, electronic payments, community-development software) with coverage after 2025-04-23 returned no matching federal awards for the target entity within the coverage window. USAspending is the official open data source of federal spending information. Targeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no matching award or application records in Grants.gov, SAM.gov, USAspending.gov, COPS Office award lists, FEMA grant pages, BJA award pages, NHTSA listings, state portals, or local news within the 2025-04-20 to 2026-04-20 window.\nUSAspending is the official open data source of federal spending information. Targeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no matching award or application records in Grants.gov, SAM.gov, USAspending.gov ... within the 2025-04-24 to 2026-04-24 window. (last verified: 2026-04-24)\nUSAspending is the official open data source of federal spending information. Targeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office award lists, FEMA grant pages, BJA award pages, NHTSA listings, state portals, or local news returned no matching award or application records in Grants.gov, SAM.gov, USAspending.gov, COPS Office award lists, FEMA grant pages, BJA award pages, NHTSA listings, state portals, or local news within the 2025-04-20 to 2026-04-20 window.\nUSAspending is the official open data source of federal spending information. Targeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no matching award or application records in Grants.gov, SAM.gov, USAspending.gov, COPS Office award lists, FEMA grant pages, BJA award pages, NHTSA listings, state portals, or local news within the 2025-04-20 to 2026-04-20 window.\nTargeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no matching award or application records in Grants.gov, SAM.gov, USAspending.gov, COPS Office award lists, FEMA grant pages, BJA award pages, NHTSA listings, state portals, or local news within the 2025-04-24 to 2026-04-24 window. (USAspending.gov; last verified: 2026-04-24)\n\"Targeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no matching award or application records in Grants.gov, SAM.gov, USAspending.gov, COPS Office award lists, FEMA grant pages, BJA award pages, NHTSA listings, state portals, or local news within the 2025-04-24 to 2026-04-24 window. (USAspending.gov; last verified: 2026-04-24)\"\nTargeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no matching award or application records in Grants.gov, SAM.gov, USAspending.gov, COPS Office award lists, FEMA grant pages, BJA award pages, NHTSA listings, state portals, or local news within the 2025-04-24 to 2026-04-24 window.\nSearches executed for the target entity and technology keywords ... with coverage after 2025-04-23 returned no matching federal awards for the target entity within the coverage window. (USAspending.gov; last verified: 2026-04-24)"
+      ]
+    },
+    {
+      "url": "https://www.usaspending.gov/award/CONT_AWD_N0024221F0030_9700_GS35F228BA_4732",
+      "title": "CONTRACT to WAVEBAND COMMUNICATIONS, INC. | USAspending",
+      "publish_date": null,
+      "excerpts": [
+        "View a summary page of this 2021 CONTRACT to WAVEBAND COMMUNICATIONS, INC. from the Department of Defense."
+      ]
+    },
+    {
+      "url": "http://sam.gov/search?keywords=tacittx",
+      "title": "",
+      "publish_date": null,
+      "excerpts": [
+        "SAM.gov search page for 'tacittx' (Entity Information). The page displays SAM search interface and filters; no entity registration results for 'tacittx' were returned in our extraction."
+      ]
+    },
+    {
+      "url": "http://usaspending.gov/search?search=Tacit Therapeutics",
+      "title": "",
+      "publish_date": null,
+      "excerpts": [
+        "Search Award Data - USAspending.gov (advanced search page). Use filters to start your search. No specific award records shown for 'Tacit Therapeutics' on the search results page returned."
+      ]
+    },
+    {
+      "url": "https://www.navysbir.com/04_1/173.htm",
+      "title": "N04-004 - Wide-band 2-D Electronically Beam-Steering ...",
+      "publish_date": null,
+      "excerpts": [
+        "N04-004 - Wide-band 2-D Electronically Beam-Steering Radiating Aperture u001a"
+      ]
+    },
+    {
+      "url": "http://sam.gov/",
+      "title": "SAM.gov",
+      "publish_date": null,
+      "excerpts": [
+        "SAM.gov \u2014 entity and award registration/search portal. Targeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no awards/applications for the specified technology categories for the target entity within the coverage window.\nSearches of public procurement portals and web searches (including SAM.gov) returned no public RFPs, RFIs, or procurement notices related to modernization of ERP, utility billing, property tax, finance, CMMS, or community development systems for municipal entities in the reviewed coverage window.\nSAM.gov \u2014 entity and award registration/search portal. Targeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no public RFPs, RFIs, or procurement notices related to modernization of ERP, utility billing, property tax, finance, CMMS, or community development systems for municipal entities in the reviewed coverage window. (SAM.gov; last verified: 2026-04-24)\nTargeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no public RFPs, RFIs, or procurement notices related to modernization of ERP, utility billing, property tax, finance, CMMS, or community development systems for municipal entities in the reviewed coverage window.\nSAM.gov \u2014 entity and award registration/search portal. Targeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no public RFPs, RFIs, or procurement notices related to modernization of ERP, utility billing, property tax, finance, CMMS, or community development systems for municipal entities in the reviewed coverage window.\nSAM.gov \u2014 entity and award registration/search portal. Targeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no awards/applications for the specified technology categories for the target entity within the coverage window. (SAM.gov; last verified: 2026-04-24)\nSearches of public procurement portals and web searches (including SAM.gov) returned no public RFPs, RFIs, or procurement notices related to modernization of ERP, utility billing, property tax, finance, CMMS, or community development systems for municipal entities in the reviewed coverage window. (SAM.gov; last verified: 2026-04-24)\nTargeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no awards/applications for the specified technology categories for the target entity within the coverage window.\n\"SAM.gov \u2014 entity and award registration/search portal. Targeted searches across Grants.gov, SAM.gov, USAspending.gov, COPS Office, FEMA, BJA, NHTSA, state portals and local news returned no public RFPs, RFIs, or procurement notices related to modernization of ERP, utility billing, property tax, finance, CMMS, or community development systems for municipal entities in the reviewed coverage window. (SAM.gov; last verified: 2026-04-24)\""
+      ]
+    },
+    {
+      "url": "http://usaspending.gov/search?keywords=Subtle Medical",
+      "title": "",
+      "publish_date": null,
+      "excerpts": [
+        "Search results for 'Subtle Medical' on USAspending.gov returned no award records for that recipient name (site search produced no matching contract award entries)."
+      ]
+    },
+    {
+      "url": "http://sbir.gov",
+      "title": "| SBIR",
+      "publish_date": null,
+      "excerpts": [
+        "+ Annual Report Archive\n* Portfolio\n  \n  Interact with our SBIR/STTR portfolio\u2019s data sets\n  \n    + Portfolio - Award Data\n    + Portfolio - Company Data\n    + API Documentation\n  \n    + Data Resources\n    + Data Dictionary\n* Apply\n  \n  Better understand the application process and eligibility\n  \n    + Apply\n    + Find Topics and Solicitations\n    + Frequently Asked Questions (FAQ)\n  \n    + Lab to Market Hub\n    + Program Tutorials\n* Community\n  \n  Stay connected with our innovation ecosystem\n  \n    + Community\n    + Event Spotlight\n    + News and Events\n  \n    + [Newsletter Sign-up](https://share.hsforms.com/1x9GR73-zTrGq021OvemHVApv9kv)\n    + Federal and State Technology (FAST)\n    + Growth Accelerator Fund Competition (GAFC)\n\n[SBIR.gov](https://sbir.gov) has transitioned to a new and more secure identity verification and login feature. You may experience temporary delays when accessing your accounts.\n\n# SBIR/STTR - America's Seed Fund - Powered by SBA\n\n## America's Seed Fund\n ... \nThe SBIR and STTR programs fund a portfolio of startups and small businesses across technology areas and markets to stimulate technological innovation, meet Federal research and development (R&D) needs, and increase commercialization to transition R&D into impact.\n\n* Program Overview\n* Participating Agencies\n\n### Is SBIR right for me?\n\n* I'm a small business with fewer than 500 employees\n* My company's technology could help support government missions\n* I'm looking for equity-free funding to develop my ideas\n\nFind Out More\n\n* Site Map\n* [Privacy Policy](https://www.sba.gov/page/privacy-act-system-records-notices-sorns)\n* Report Fraud, Waste & Abuse\n* [Open Government](https://www.sba.gov/about-sba/open-government)\n* [Advocacy](https://advocacy.sba.gov)\n* [SBA Inspector General](https://www.sba.gov/about-sba/oversight-advocacy/office-inspector-general)\n* [SBA Connect Accessibility](https://connect.sba.gov/Home/Accessibility)\n\n**Small Business Innovation Research (SBIR)\nand Small Business Technology Transfer (STTR)**\n\n[USA.gov](https://www.usa.gov/)\n\n[SBA.gov](https://www.sba.gov/)\n\n[](https://x.com/sbirgov)\n\n[Subscribe to our Newsletter \u2192](https://share.hsforms.com/1x9GR73-zTrGq021OvemHVApv9kv)\n\n**Need website support or have feedback?**\n\nContact Us"
+      ]
+    }
+  ],
+  "warnings": []
+}

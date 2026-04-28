@@ -1,0 +1,71 @@
+{
+  "search_id": "search_07529b2cf7984514bc34b627825033a0",
+  "status": "ok",
+  "results": [
+    {
+      "url": "https://github.com/dwavesystems",
+      "title": "D-Wave Quantum Inc. \u00b7 GitHub",
+      "publish_date": null,
+      "excerpts": [
+        "dwavesystems/dwave-ocean-sdk\u2019s past year of commit activity\n  \n  Python 518 Apache-2.0 181 25 6 Updated Apr 20, 2026\n* dwave-graphs Public\n  \n  A package providing graphs and algorithms relevant to working with the D-Wave quantum computers.\n  \n  ### Uh oh! There was an error while loading. Please reload this page . dwavesystems/dwave-graphs\u2019s past year of commit activity\n  \n  Python 93 Apache-2.0 60 33 (1 issue needs help) 5 Updated Apr 9, 2026\n* dwave-samplers Public\n  \n  Classical algorithms for solving binary quadratic models\n  \n   dwavesystems/dwave-samplers\u2019s past year of commit activity\n  \n  Python 17 Apache-2.0 21 5 0 Updated Apr 2, 2026\n* dimod Public\n  \n  A shared API for QUBO/Ising samplers.\n  \n   dwavesystems/dimod\u2019s past year of commit activity\n  \n  Python 140 Apache-2.0 86 153 12 Updated Mar 30, 2026\n* dwave-cloud-client Public\n  \n  A minimal implementation of the REST interface used to communicate with D-Wave Solver API (SAPI) servers.\n  \n  ### Uh oh!\nThere was an error while loading. Please reload this page . dwavesystems/dwave-cloud-client\u2019s past year of commit activity\n  \n  Python 62 Apache-2.0 42 75 1 Updated Mar 30, 2026\n* dwave-system Public\n  \n  An API for easily incorporating the D-Wave system as a sampler, either directly or through Leap's cloud-based hybrid samplers\n  \n  ### Uh oh! There was an error while loading. Please reload this page . dwavesystems/dwave-system\u2019s past year of commit activity\n  \n  Python 96 Apache-2.0 65 79 (1 issue needs help) 4 Updated Mar 4, 2026\n* dwave-gate Public\n  \n  dwave-gate is a software package for constructing, modifying and running quantum circuits on the provided state-vector simulator.\n  \n  ### Uh oh! There was an error while loading. Please reload this page . dwavesystems/dwave-gate\u2019s past year of commit activity\n  \n  Python 16 Apache-2.0 10 8 3 Updated Feb 13, 2026\n\nView all repositories\n\n#### People\n\n      \n\n#### Top languages\n\nLoading\u2026\n\n### Uh oh!\nThere was an error while loading. Please reload this page . #### Most used topics\n\nLoading\u2026\n\n### Uh oh!\n\nThere was an error while loading. Please reload this page .\n\n## Footer\n\nYou can\u2019t perform that action at this time."
+      ]
+    },
+    {
+      "url": "https://docs.github.com/v3/repos",
+      "title": "REST API endpoints for repositories",
+      "publish_date": null,
+      "excerpts": [
+        "# REST API endpoints for repositories\n\nUse the REST API to create, manage and control the workflow of public and private GitHub repositories.\n\n## Links\n\n* [REST API endpoints for repository attestations](/en/rest/repos/attestations)\n\n  Use the REST API to manage repository attestations.\n\n* [REST API endpoints for repository autolinks](/en/rest/repos/autolinks)\n\n  Use the REST API to add autolinks to external resources.\n\n* [REST API endpoints for repository push rule bypass requests](/en/bypass-requests)\n\n  Use the REST API to manage repository push rule bypass requests.\n\n* [REST API endpoints for repository contents](/en/rest/repos/contents)\n\n  Use the REST API to create, modify, and delete Base64 encoded content in a repository.\n\n* [REST API endpoints for custom properties](/en/rest/repos/custom-properties)\n\n  Use the REST API to list the custom properties assigned to a repository by the organization.\n\n* [REST API endpoints for forks](/en/rest/repos/forks)\nUse the REST API to manage repository forks.\n\n* [REST API endpoints for Git LFS](/en/lfs)\n\n  Use the REST API to enable or disable Git Large File Storage (LFS) for a repository.\n\n* [REST API endpoints for repositories](/en/rest/repos/repos)\n\n  Use the REST API to manage repositories on GitHub.\n\n* [REST API endpoints for rule suites](/en/rest/repos/rule-suites)\n\n  Use the REST API to manage rule suites for repositories.\n\n* [REST API endpoints for rules](/en/rest/repos/rules)\n\n  Use the REST API to manage rulesets for repositories. Rulesets control how people can interact with selected branches and tags in a repository.\n\n* [REST API endpoints for repository tags](/en/tags)\n\n  Use the REST API to manage tags for a repository.\n\n* [REST API endpoints for repository webhooks](/en/rest/repos/webhooks)\n\n  Use the REST API to create and manage webhooks for your repositories."
+      ]
+    },
+    {
+      "url": "https://docs.github.com/en/rest/repos/repos",
+      "title": "REST API endpoints for repositories",
+      "publish_date": null,
+      "excerpts": [
+        "# REST API endpoints for repositories\n\nUse the REST API to manage repositories on GitHub.\n\n\n> [!NOTE]\n> Most endpoints use `Authorization: Bearer <YOUR-TOKEN>` and `Accept: application/vnd.github+json` headers, plus `X-GitHub-Api-Version: 2026-03-10`. Curl examples below omit these standard headers for brevity.\n\n\n## List organization repositories\n\n```\nGET /orgs/{org}/repos\n```\n\nLists repositories for the specified organization.\nNote\n\nIn order to see the security_and_analysis block for a repository you must have admin permissions for the repository or be an owner or security manager for the organization that owns the repository. For more information, see \"Managing security managers in your organization.\"\n\n\n### Parameters\n\n\n#### Headers\n\n\n- **`accept`** (string)\n  Setting to `application/vnd.github+json` is recommended.\n\n\n\n#### Path and query parameters\n\n- **`org`** (string) (required)\n  The organization name. The name is not case sensitive.\n\n- **`type`** (string)\nSpecifies the types of repositories you want returned.\n  Default: `all`\n  Can be one of: `all`, `public`, `private`, `forks`, `sources`, `member`\n\n- **`sort`** (string)\n  The property to sort the results by.\n  Default: `created`\n  Can be one of: `created`, `updated`, `pushed`, `full_name`\n\n- **`direction`** (string)\n  The order to sort by. Default: asc when using full_name, otherwise desc.\n  Can be one of: `asc`, `desc`\n\n- **`per_page`** (integer)\n  The number of results per page (max 100). For more information, see \"Using pagination in the REST API.\"\n  Default: `30`\n\n- **`page`** (integer)\n  The page number of the results to fetch. For more information, see \"Using pagination in the REST API.\"\n  Default: `1`\n\n\n\n\n\n\n### HTTP response status codes\n\n\n- **200** - OK\n\n\n\n\n### Code examples\n\n\n\n#### Example\n\n**Request:**\n\n```curl\ncurl -L \\\n  -X GET \\\n  https://api.github.com/orgs/ORG/repos\n```\n\n**Response schema (Status: 200):**\n\nArray of `Minimal Repository`:"
+      ]
+    },
+    {
+      "url": "https://repos.ecosyste.ms/hosts/GitHub/repositories/dwavesystems/dwave-gate/readme",
+      "title": "dwavesystems/dwave-gate readme | GitHub | Ecosyste.ms: Repos",
+      "publish_date": null,
+      "excerpts": [
+        "Source: https://github.com/dwavesystems/dwave-gate JSON API: repos.ecosyste.ms PURL: pkg:github/dwavesystems/dwave-gate Repository Details Stars16 Forks9 Open issues12 Licenseapache-2.0 LanguagePython Size438 KB Created atover 3 years ago Updated at3 months ago Pushed at3 months ago Last synced at19 days ago Dependencies parsed at Pending"
+      ]
+    },
+    {
+      "url": "https://docs.github.com/rest/repos/repos",
+      "title": "REST API endpoints for repositories - GitHub Docs",
+      "publish_date": null,
+      "excerpts": [
+        "- Enable Dependabot security updates\n        - Disable Dependabot security updates\n        - List CODEOWNERS errors\n        - List repository contributors\n        - Create a repository dispatch event\n        - Check if immutable releases are enabled for a repository\n        - Enable immutable releases\n        - Disable immutable releases\n        - List repository languages\n        - Check if private vulnerability reporting is enabled for a repository\n        - Enable private vulnerability reporting for a repository\n        - Disable private vulnerability reporting for a repository\n        - List repository tags\n        - List repository teams\n        - Get all repository topics\n        - Replace all repository topics\n        - Transfer a repository\n        - Check if vulnerability alerts are enabled for a repository\n        - Enable vulnerability alerts\n        - Disable vulnerability alerts\n        - Create a repository using a template\n        - List public repositories\n- List repositories for the authenticated user\n        - Create a repository for the authenticated user\n        - List repositories for a user\n    + Rule suites\n    + Rules\n    + Webhooks\n* Search\n  \n    + Search\n* Secret scanning\n  \n    + Push protection\n    + Secret scanning\n* Security advisories\n  \n    + Global security advisories\n    + Repository security advisories\n* Teams\n  \n    + Members\n    + Teams\n* Users\n  \n    + Attestations\n    + Blocking users\n    + Emails\n    + Followers\n    + GPG keys\n    + Git SSH keys\n    + Social accounts\n    + SSH signing keys\n    + Users\n\nThe REST API is now versioned. For more information, see \" About API versioning .\"\n\n* REST API /\n* Repositories /\n* Repositories\n\n# REST API endpoints for repositories\n\nUse the REST API to manage repositories on GitHub.\n\n## List organization repositories\n\nLists repositories for the specified organization.\n\nNote"
+      ]
+    },
+    {
+      "url": "https://docs.github.com/en/rest",
+      "title": "GitHub REST API documentation",
+      "publish_date": null,
+      "excerpts": [
+        "# GitHub REST API documentation\n\nCreate integrations, retrieve data, and automate your workflows with the GitHub REST API.\n\n## Recommended\n\n* [Quickstart for GitHub REST API](/en/rest/quickstart)\n\n  Learn how to get started with the GitHub REST API.\n\n* [Getting started with the REST API](/en/rest/using-the-rest-api/getting-started-with-the-rest-api)\n\n  Learn how to use the GitHub REST API.\n\n* [Authenticating to the REST API](/en/rest/authentication/authenticating-to-the-rest-api)\n\n  You can authenticate to the REST API to access more endpoints and have a higher rate limit.\n\n* [Best practices for using the REST API](/en/rest/using-the-rest-api/best-practices-for-using-the-rest-api)\n\n  Follow these best practices when using GitHub's API.\n\n* [Rate limits for the REST API](/en/rest/using-the-rest-api/rate-limits-for-the-rest-api)\n\n  Learn about REST API rate limits, how to avoid exceeding them, and what to do if you do exceed them.\n* [Keeping your API credentials secure](/en/rest/authentication/keeping-your-api-credentials-secure)\n\n  Follow these best practices to keep your API credentials and tokens secure.\n\n* [Scripting with the REST API and JavaScript](/en/rest/guides/scripting-with-the-rest-api-and-javascript)\n\n  Write a script using the Octokit.js SDK to interact with the REST API.\n\n* [Troubleshooting the REST API](/en/rest/using-the-rest-api/troubleshooting-the-rest-api)\n\n  Learn how to diagnose and resolve common problems for the REST API.\n\n* [Using pagination in the REST API](/en/rest/using-the-rest-api/using-pagination-in-the-rest-api)\n\n  Learn how to navigate through paginated responses from the REST API.\n\n## Links\n\n### Getting started\n\n* [About the REST API](/en/rest/about-the-rest-api/about-the-rest-api)\n\n  Get oriented to the REST API documentation.\n\n* [Quickstart for GitHub REST API](/en/rest/quickstart)\n\n  Learn how to get started with the GitHub REST API.\n\n## Articles"
+      ]
+    },
+    {
+      "url": "http://docs.github.com/rest/repos",
+      "title": "",
+      "publish_date": null,
+      "excerpts": [
+        "# REST API endpoints for repositories\n\nUse the REST API to create, manage and control the workflow of public and private GitHub repositories.\n\n## Links\n\n* [REST API endpoints for repository attestations](/en/rest/repos/attestations)\n\n  Use the REST API to manage repository attestations.\n\n* [REST API endpoints for repository autolinks](/en/rest/repos/autolinks)\n\n  Use the REST API to add autolinks to external resources.\n\n* [REST API endpoints for repository push rule bypass requests](/en/bypass-requests)\n\n  Use the REST API to manage repository push rule bypass requests.\n\n* [REST API endpoints for repository contents](/en/rest/repos/contents)\n\n  Use the REST API to create, modify, and delete Base64 encoded content in a repository.\n\n* [REST API endpoints for custom properties](/en/rest/repos/custom-properties)\n\n  Use the REST API to list the custom properties assigned to a repository by the organization.\n\n* [REST API endpoints for forks](/en/rest/repos/forks)\nUse the REST API to manage repository forks.\n\n* [REST API endpoints for Git LFS](/en/lfs)\n\n  Use the REST API to enable or disable Git Large File Storage (LFS) for a repository.\n\n* [REST API endpoints for repositories](/en/rest/repos/repos)\n\n  Use the REST API to manage repositories on GitHub.\n\n* [REST API endpoints for rule suites](/en/rest/repos/rule-suites)\n\n  Use the REST API to manage rule suites for repositories.\n\n* [REST API endpoints for rules](/en/rest/repos/rules)\n\n  Use the REST API to manage rulesets for repositories. Rulesets control how people can interact with selected branches and tags in a repository.\n\n* [REST API endpoints for repository tags](/en/tags)\n\n  Use the REST API to manage tags for a repository.\n\n* [REST API endpoints for repository webhooks](/en/rest/repos/webhooks)\n\n  Use the REST API to create and manage webhooks for your repositories."
+      ]
+    },
+    {
+      "url": "https://deepwiki.com/dwavesystems",
+      "title": "dwavesystems | DeepWiki",
+      "publish_date": "2025-08-27",
+      "excerpts": [
+        "DeepWiki provides up-to-date documentation you can talk to, for dwavesystems. Think Deep Research for GitHub - powered by Devin."
+      ]
+    }
+  ],
+  "warnings": []
+}

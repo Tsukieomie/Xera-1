@@ -1,0 +1,53 @@
+{
+  "name": "WAVEBAND COMMUNICATIONS, INC.",
+  "alternate_names": [
+    "WAVEBAND COMMUNICATIONS  INC.",
+    "WAVEBAND COMMUNICATIONS  L.L.C.",
+    "WAVEBAND COMMUNICATIONS LLC",
+    "WAVEBAND COMMUNICATIONS, INC",
+    "WAVEBAND COMMUNICATIONS, L.L.C."
+  ],
+  "duns": "825066785",
+  "uei": "MLVLHFM1P989",
+  "recipient_id": "c0b1f200-2f30-9840-a06f-b04752d55da7-P",
+  "recipient_level": "P",
+  "parent_id": "c0b1f200-2f30-9840-a06f-b04752d55da7-P",
+  "parent_name": "WAVEBAND COMMUNICATIONS, INC.",
+  "parent_duns": "825066785",
+  "parent_uei": "MLVLHFM1P989",
+  "parents": [
+    {
+      "parent_id": "c0b1f200-2f30-9840-a06f-b04752d55da7-P",
+      "parent_duns": "825066785",
+      "parent_uei": "MLVLHFM1P989",
+      "parent_name": "WAVEBAND COMMUNICATIONS, INC."
+    }
+  ],
+  "business_types": [
+    "category_business",
+    "corporate_entity_not_tax_exempt",
+    "small_business",
+    "special_designations",
+    "subchapter_s_corporation",
+    "us_owned_business"
+  ],
+  "location": {
+    "address_line1": "1912 LIBERTY RD",
+    "address_line2": "SPC 14",
+    "address_line3": null,
+    "foreign_province": null,
+    "city_name": "SYKESVILLE",
+    "county_name": null,
+    "state_code": "MD",
+    "zip": "21784",
+    "zip4": "6690",
+    "foreign_postal_code": null,
+    "country_name": "UNITED STATES",
+    "country_code": "USA",
+    "congressional_code": "02"
+  },
+  "total_transaction_amount": 0.0,
+  "total_transactions": 15,
+  "total_face_value_loan_amount": 0.0,
+  "total_face_value_loan_transactions": 0
+}

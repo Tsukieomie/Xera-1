@@ -1,0 +1,66 @@
+[
+  {
+    "recipient_id": "c1b45f68-30f2-cc4f-d151-169001068edb-C",
+    "name": "SIERRA NEVADA COMPANY, LLC",
+    "duns": "094373495",
+    "uei": "DD2QET4D27T3",
+    "amount": 378603806.0,
+    "state_province": "NV"
+  },
+  {
+    "recipient_id": "c7f04ad8-94b7-0e6f-e07d-253a5c8a12e6-C",
+    "name": "SIERRA SPACE CORP",
+    "duns": "118060775",
+    "uei": "DPT6YML4HHK5",
+    "amount": 126330344.6,
+    "state_province": "CO"
+  },
+  {
+    "recipient_id": "c9cc25c9-c614-8e51-6452-304561b2edca-C",
+    "name": "SIERRA NEVADA COMPANY, LLC",
+    "duns": "079142893",
+    "uei": "G1YKV4VHL8Q5",
+    "amount": 12493873.4,
+    "state_province": "FL"
+  },
+  {
+    "recipient_id": "a7788257-1829-6d41-4224-064979e4b441-C",
+    "name": "SIERRA NEVADA COMPANY, LLC",
+    "duns": "784372257",
+    "uei": "EK33E4RHGHC5",
+    "amount": 6822738.04,
+    "state_province": "MD"
+  },
+  {
+    "recipient_id": "8ffe8b52-7ff1-5b4b-2036-a7d71105dadc-C",
+    "name": "SIERRA NEVADA COMPANY, LLC",
+    "duns": "809705523",
+    "uei": "FKHDH3WKV2R1",
+    "amount": 681442.92,
+    "state_province": "OH"
+  },
+  {
+    "recipient_id": "dad0ebe0-c252-51a8-9d6e-6b7845e447b7-C",
+    "name": "SIERRA NEVADA COMPANY, LLC",
+    "duns": "845273635",
+    "uei": "TZJAWXDZNE38",
+    "amount": 46150.0,
+    "state_province": "VA"
+  },
+  {
+    "recipient_id": "4f78408d-181f-b4c0-d5b4-d1b3b5986579-C",
+    "name": "KUTTA TECHNOLOGIES, LLC",
+    "duns": "089294263",
+    "uei": "K7F2J2K5V4F7",
+    "amount": 0,
+    "state_province": "AZ"
+  },
+  {
+    "recipient_id": "c8044c0c-67b4-9ac2-c54b-d864664a763d-C",
+    "name": "SIERRA NEVADA COMPANY, LLC",
+    "duns": "032607172",
+    "uei": "JKNLPXLBSLS4",
+    "amount": 0,
+    "state_province": "CO"
+  }
+]

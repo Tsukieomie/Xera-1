@@ -1,0 +1,103 @@
+{
+  "search_id": "search_beb5043a9d9b44ddbb17cf7ea2256955",
+  "status": "ok",
+  "results": [
+    {
+      "url": "https://patents.google.com/patent/US4877027A/en",
+      "title": "US4877027A - Hearing system - Google Patents",
+      "publish_date": null,
+      "excerpts": [
+        "This invention relates to a hearing system for human beings in which high frequency electromagnetic energy is projected through the air to the head of a human being and the electromagnetic energy is modulated to create signals that can be discerned by the human being regardless of the hearing ability of the person.\n\nTHE PRIOR ART\n\nVarious types of apparatus and modes of application have been proposed and tried to inject intelligible sounds into the heads of human beings. Some of these have been devised to simulate speech and other sounds in deaf persons and other systems have been used to inject intelligible signals in persons of good hearing, but bypassing the normal human hearing organs.\n\nU.S. Pat. No. 3,629,521 issued Dec. 21, 1971 describes the use of a pair of electrodes applied to a person's head to inject speech into the head of a deaf person. An oscillator creates a carrier in the range of 18 to 36 KHz that is amplitude modulated by a microphone.\nScience magazine volume 181, page 356 describes a hearing system utilizing a radio frequency carrier of 1.245 GHz delivered through the air by means of a waveguide and horn antenna. The carrier was pulsed at the rate of 50 pulses per second. The human test subject reported a buzzing sound and the intensity varied with the peak power.\n\nSimilar methods of creating \"clicks\" inside the human head are reported in I.E.E.E. Transactions of Biomedical Engineering, volume BME 25, No. 3, May 1978.\n\nThe transmission of intelligible speech by audio modulated Microwave is described in the book Microwave Auditory Effects and Applications by James C. Lin 1978 publisher Charles C. Thomas.\n\nBRIEF SUMMARY OF THE INVENTION\n\nI have discovered that a pulsed signal on a radio frequency carrier of about 1,000 megahertz (1000 MHz) is effective in creating intelligible signals inside the head of a person if this electromagnetic (EM) energy is projected through the air to the head of the person.\nIntelligible signals are applied to the carrier by microphone or other audio source and I cause the bursts to be frequency modulated. The bursts are composed of a group of pulses. The pulses are carefully selected for peak strength and pulse width. Various objects, advantages and features of the invention will be apparent in the specification and claims.\n\nBRIEF DESCRIPTION OF THE DRAWINGS\n\nIn the drawings forming an integral part of this specification:\n\nFIG. 1 is a block diagram of the system of the invention.\n\nFIG. 2 is a diagram of an audio wave which is the input to be perceived by the recipient.\n\nFIG. 3 is a diagram on the same time coordinate as FIG. 2 showing bursts that are frequency modulated by the wave form of FIG. 2.\n\nFIG. 4 shows, on an enlarged time coordinate, that each vertical line depicted in FIG. 3 is a burst of pulses. (A burst is a group of pulses).\n\nFIG. 5 shows, on a further enlarged time coordinate, a single continues pulse, Depicted as a vertical line in FIG. 4."
+      ]
+    },
+    {
+      "url": "https://www.reddit.com/r/HighStrangeness/comments/i8ghid/us_patent_4877027_sound_is_induced_in_the_head_of",
+      "title": "US Patent 4877027: \"Sound is induced in the head of a ...",
+      "publish_date": null,
+      "excerpts": [
+        "US Patent 4877027: \"Sound is induced in the head of a ...\nUS Patent 4877027: \"Sound is induced in the head of a person by radiating the head with microwaves in the range of 100 mega hertz to 10,000"
+      ]
+    },
+    {
+      "url": "https://electronics.stackexchange.com/questions/594719/decoding-demodulating-audio-data-in-patent-us4877027a",
+      "title": "circuit design - Decoding/Demodulating audio data in Patent US4877027A - Electrical Engineering Stack Exchange",
+      "publish_date": "2021-11-12",
+      "excerpts": [
+        "utm_medium=referral&utm_source=electronics-community&utm_campaign=side-bar&utm_content=explore-teams)\n3. Stack Internal\n4. Bring the best of human thought and AI automation together at your work. [Learn more](https://stackoverflow.co/internal/?utm_medium=referral&utm_source=electronics-community&utm_campaign=side-bar&utm_content=explore-teams-compact)\n\n**Stack Internal**\n\nKnowledge at work\n\nBring the best of human thought and AI automation together at your work.\n\n[Explore Stack Internal](https://stackoverflow.co/internal/?utm_medium=referral&utm_source=electronics-community&utm_campaign=side-bar&utm_content=explore-teams-compact-popover)\n\n# [Decoding/Demodulating audio data in Patent US4877027A [closed]](/questions/594719/decoding-demodulating-audio-data-in-patent-us4877027a)\n\nAsk Question\n\nAsked 4 years, 4 months ago\n\nModified 4 years, 4 months ago\n\nViewed 683 times\n\n\\-3\n\n\\\\$\\\\begingroup\\\\$\n\n**Closed** . This question needs to be more focused . It is not currently accepting answers.\n* * *\n\n**Want to improve this question?** Guide the asker to update the question so it focuses on a single, specific problem. Narrowing the question will help others answer the question concisely. You may edit the question if you feel you can improve it yourself. If edited, the question will be reviewed and might be reopened.\n\nClosed 4 years ago .\n\nImprove this question\n\nI'm interested in decoding/demodulation audio/voice data sent using microwave pulses as described in this patent: [US4877027A - Hearing system](https://patents.google.com/patent/US4877027A/en)\n\n[](https://i.sstatic.net/4Ehjn.png \"Block diagram and graphs\")\n\nIn the patent it's shown that voices or any other audio recording can be sent to human head with specially modulated and pulsed microwave signals. As per my understanding it just uses FM modulation of audio within 1-100 KHz carrier range. Obviously it should be in higher range due to Nyquist bandwidth requirement of 20-40 KHz for high fidelity audio.\nThere are 100 Khz-20 MHz bursts within 1-100 KHz FM modulated audio, but I think for demodulation it's not required. Am I correct with assumption that carrier wave of microwave signals should not be required in order to demodulate the audio in that case?\n\nWhat is your thoughts on how its audio can be demodulated using as basic circuit as possible?\n\nCan anyone provide me circuit ideas on how to do it?\n\nI have measured with a spectrum analyser some abnormal signals not seen before and I'm hearing voices in my head. I know it's being sent to me with microwave pulses from transmitter sources.\n\nI'm not electronics engineer myself, but would be glad to get some circuit ideas and can ask from electronics engineer to build such device for me to test if I can demodulate voices.\n\n* circuit-design\n* microwave\n* frequency-modulation\n\nShare\n\nCite\n\nFollow\n\nedited Nov 12, 2021 at 11:48\n\nGreenonline\n\n2,178 10 10 gold badges 27 27 silver badges 41 41 bronze badges\n\nasked Nov 12, 2021 at 11:02\n\nAzad"
+      ]
+    },
+    {
+      "url": "https://pubchem.ncbi.nlm.nih.gov/patent/US-2023059691-A1",
+      "title": "Silent Speech and Silent Listening System - Patent US ...",
+      "publish_date": null,
+      "excerpts": [
+        "Silent Speech and Silent Listening System - Patent US ...\nThe wireless transmission device ( 122 ) generates a radio frequency signal corresponding to the speech neural impulses. A speech generating device ( 130 ) is"
+      ]
+    },
+    {
+      "url": "https://uslawexplained.com/prior_art",
+      "title": "Prior Art Explained: The Ultimate Guide for Inventors and ...",
+      "publish_date": null,
+      "excerpts": [
+        "In the world of inventions and patents, prior art is exactly that: the entire body of public knowledge that existed before the exact moment you filed your patent application. It is any evidence that your invention is not new or is an obvious next step."
+      ]
+    },
+    {
+      "url": "https://patents.justia.com/assignee/waves-audio-ltd",
+      "title": "Patents Assigned to Waves Audio Ltd. - Justia Patents Search",
+      "publish_date": null,
+      "excerpts": [
+        "* [Find a Lawyer](https://www.justia.com/lawyers)\n* [Ask a Lawyer](https://answers.justia.com/)\n* [Research the Law](https://www.justia.com/)\n* [Law Schools](https://www.justia.com/law-schools/)\n* [Laws & Regs](https://law.justia.com/)\n* [Newsletters](https://connect.justia.com/case-law-summary-newsletters)\n* [Marketing Solutions](https://www.justia.com/marketing/)\n  \n    + [Justia Connect](https://www.justia.com/marketing/connect/)\n    + [Pro Membership](https://www.justia.com/marketing/connect/)\n    + [Practice Membership](https://www.justia.com/marketing/connect/)\n    + [Public Membership](https://www.justia.com/marketing/connect/)\n  \n    + [Justia Lawyer Directory](https://www.justia.com/marketing/lawyer-directory/)\n    + [Platinum Placements](https://www.justia.com/marketing/lawyer-directory/platinum/)\n    + [Gold Placements](https://www.justia.com/marketing/lawyer-directory/gold/)\n  \n    + [Justia Elevate](https://www.justia.com/marketing/elevate/)\n    + [SEO](https://www.justia.\ncom/marketing/elevate/search-engine-optimization/)\n    + [Websites](https://www.justia.com/marketing/elevate/law-firm-websites/)\n    + [Blogs](https://www.justia.com/marketing/elevate/law-blogs/)\n  \n    + [Justia Amplify](https://www.justia.com/marketing/amplify/)\n    + [PPC Management](https://www.justia.com/marketing/amplify/cpc-ppc/)\n    + [Google Business Profile](https://www.justia.com/marketing/amplify/google-business-profile/)\n    + [Social Media](https://www.justia.com/marketing/amplify/social-media-networking/)\n  \n    + [Justia Onward Blog](https://onward.justia.com/)\n\n[Justia](https://www.justia.com) Patents Patents Assigned to Waves Audio Ltd.\n\nPatents Assigned to Waves Audio Ltd.\n\n* ###### Control of an electrostatic acoustic device\n  \n  **Patent number:** 12348927\n  \n  **Abstract:** Controlling operation of an electrostatic acoustic device including a membrane and an electrode disposed proximate to the membrane.\nA probe signal varying at radio frequency is injected into the electrode. A current or charge signal is detected by converting the current or charge signal to a modulated voltage signal. The current or charge signal includes an audio signal varying at audio frequencies modulating the radio frequency of the probe signal. The modulated voltage signal is demodulated to produce an audio output signal varying at audio frequency. The audio output signal is transformed to produce an error signal. A control signal is input to the electrostatic acoustic device responsive to the error signal. The control signal is configured to cancel at least in part a mechanical response of the membrane due to ambient noise.\n  \n  **Type:** Grant\n  \n  **Filed:** February 14, 2024\n  \n  **Date of Patent:** July 1, 2025\n  \n  **Assignee:** Waves Audio Ltd.\n  \n  **Inventors:** Gabriel Zeltzer, Meir Shaashua\n* ###### Electrostatic earphone with adjustable acoustic transparency\n  \n  **Patent number:** 12047727"
+      ]
+    },
+    {
+      "url": "https://dev.to/patentscanai/how-to-find-prior-art-for-a-patent-creative-search-methods-5e00",
+      "title": "How to Find Prior Art for a Patent: Creative Search Methods",
+      "publish_date": "2025-05-12",
+      "excerpts": [
+        "In this article, we'll explore how to find prior art for a patent through creative and unconventional methods that go beyond the basics. Whether you're an independent inventor, a patent professional, or an IP researcher, this guide offers actionable insights to strengthen your patent search."
+      ]
+    },
+    {
+      "url": "https://patentimages.storage.googleapis.com/9b/5d/e1/5e51efb79c085d/US4877027.pdf",
+      "title": "United States Patent (19) 11 Patent Number: 4,877,027 Oct. 31 ...",
+      "publish_date": null,
+      "excerpts": [
+        "Science magazine volume 181, page 356 describes a hearing system utilizing a radio frequency carrier of 1.245 GHz delivered through the air by means of a waveguide and horn antenna."
+      ]
+    },
+    {
+      "url": "https://patents.justia.com/patent/4877027",
+      "title": "U.S. Patent for Hearing system Patent (Patent # 4,877,027 ...",
+      "publish_date": null,
+      "excerpts": [
+        "U.S. Pat. No. 3,629,521 issued Dec. 21, 1971 describes the use of a pair of electrodes applied to a person's head to inject speech into the head of a deaf person. An oscillator creates a carrier in the range of 18 to 36 KHz that is amplitude modulated by a microphone."
+      ]
+    },
+    {
+      "url": "http://bbb.org/us/ok/tulsa/profile/hearing-assistive-devices/sebotek-hearing-systems-llc-1025-38001247",
+      "title": "Fetched web page",
+      "publish_date": null,
+      "excerpts": [
+        "(918) 388-9000\n2488 East 81st Street, Suite 200 Tulsa, OK 74137\nSebotek Hearing Systems\nSebotek Hearing Systems, LLC\nSebotek Hearing Systems, LLC\n2488 East 81st Street, Suite 200\nTulsa, OK 74137\nThis company states it is a manufacturer of hearing instruments.\nThis company states it is a manufacturer of hearing instruments. Overview. Sebotek Hearing Systems, LLC. 2488 East 81st Street, Suite 200. Tulsa\nThis company states it is a manufacturer of hearing instruments. Overview. Sebotek Hearing Systems, LLC. 2488 East 81st Street, Suite 200. Tulsa, OK 74137. Get\nVisit Website](https://sebotek.com/)(918) 388-9000\ngo"
+      ]
+    },
+    {
+      "url": "http://preqin.com/data/profile/asset/whisper-ai--inc-/395466",
+      "title": "Whisper.ai, Inc. Asset Profile - Preqin",
+      "publish_date": null,
+      "excerpts": [
+        "Whisper. ai, Inc. is a company that provides hearing aid systems using artificial intelligence, hardware, and software. The company developed the Whisper Hearing System, an AI-powered, updateable hearing aid designed to improve hearing experiences by continuously learning and adapting to users' environments."
+      ]
+    },
+    {
+      "url": "http://mapquest.com/us/oklahoma/sebotek-hearing-systems-412973118",
+      "title": "Sebotek Hearing Systems, 2488 E 81st St, Ste 2000, Tulsa, OK 74137, US - MapQuest",
+      "publish_date": null,
+      "excerpts": [
+        "SeboTek Hearing Systems, LLC is a leading provider of cutting-edge hearing care delivery solutions based in Tulsa, OK. With a mission to offer the best in class services, they are committed to improving the lives of individuals with hearing impairments.\nSince 2019, SeboTek Hearing Systems has been dedicated to delivering innovative solutions that enhance hearing capabilities, ensuring a higher quality of life for their clients.\nGet more information for Sebotek Hearing Systems in Tulsa, OK. See reviews, map, get the address, and find directions. 2488 E 81st St, Ste 2000, Tulsa, OK, 74137. SeboTek Hearing Systems, LLC is a leading provider of cutting-edge hearing care delivery solutions based in Tulsa,"
+      ]
+    }
+  ],
+  "warnings": []
+}

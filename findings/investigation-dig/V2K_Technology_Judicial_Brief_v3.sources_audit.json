@@ -1,0 +1,534 @@
+[
+  {
+    "num": 1,
+    "entry": "1. Frey AH (1962). JAP 17(4):689. DOI:10.1152/jappl.1962.17.4.689 https://journals.physiology.org/doi/10.1152/jappl.1962.17.4.689",
+    "urls": [
+      "https://journals.physiology.org/doi/10.1152/jappl.1962.17.4.689"
+    ],
+    "domains": [
+      "journals.physiology.org"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 2,
+    "entry": "2. NASEM (2020). Assessment of Illness in U.S. Govt Employees. DOI:10.17226/25889 https://www.ncbi.nlm.nih.gov/books/NBK566408/",
+    "urls": [
+      "https://www.ncbi.nlm.nih.gov/books/NBK566408/"
+    ],
+    "domains": [
+      "www.ncbi.nlm.nih.gov"
+    ],
+    "cats": [
+      "unknown"
+    ],
+    "quality": "mixed"
+  },
+  {
+    "num": 3,
+    "entry": "3. Lin JC & Wang Z (2007). Health Physics 92(6):621. DOI:10.1097/01.HP.0000250644.84530.e2 https://pubmed.ncbi.nlm.nih.gov/17495664/",
+    "urls": [
+      "https://pubmed.ncbi.nlm.nih.gov/17495664/"
+    ],
+    "domains": [
+      "pubmed.ncbi.nlm.nih.gov"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 4,
+    "entry": "4. Dagro AM et al. (2021). Science Advances 7(44). DOI:10.1126/sciadv.abd8405 https://pmc.ncbi.nlm.nih.gov/articles/PMC8555891/",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC8555891/"
+    ],
+    "domains": [
+      "pmc.ncbi.nlm.nih.gov"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 5,
+    "entry": "5. Justesen DR (1975). American Psychologist 30(3):391. https://zoryglaser.com/wp-content/uploads/2020/05/MICROWAVES-AND-BEHAVIOR.pdf",
+    "urls": [
+      "https://zoryglaser.com/wp-content/uploads/2020/05/MICROWAVES-AND-BEHAVIOR.pdf"
+    ],
+    "domains": [
+      "zoryglaser.com"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  },
+  {
+    "num": 6,
+    "entry": "6. Brunkan WB (1989). US Patent 4,877,027 - Hearing System. https://patents.google.com/patent/US4877027A",
+    "urls": [
+      "https://patents.google.com/patent/US4877027A"
+    ],
+    "domains": [
+      "patents.google.com"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 7,
+    "entry": "7. Malech RG (1976). US Patent 3,951,134A - Remote monitoring and altering brain waves. https://patents.google.com/patent/US3951134A/en",
+    "urls": [
+      "https://patents.google.com/patent/US3951134A/en"
+    ],
+    "domains": [
+      "patents.google.com"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 8,
+    "entry": "8. Flanagan PF (1972). US Patent 3,647,970. DIA Secrecy Order No. 756,124. https://patents.google.com/patent/US3647970A/en",
+    "urls": [
+      "https://patents.google.com/patent/US3647970A/en"
+    ],
+    "domains": [
+      "patents.google.com"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 9,
+    "entry": "9. Flanagan PF (1968). US Patent 3,393,279 - Nervous System Excitation Device. https://patents.google.com/patent/US3393279A/en",
+    "urls": [
+      "https://patents.google.com/patent/US3393279A/en"
+    ],
+    "domains": [
+      "patents.google.com"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 10,
+    "entry": "10. Hodgkin AL & Huxley AF (1952). J Physiology 117(4):500. Nobel 1963. https://pmc.ncbi.nlm.nih.gov/articles/PMC3424715/",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3424715/"
+    ],
+    "domains": [
+      "pmc.ncbi.nlm.nih.gov"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 11,
+    "entry": "11. Nobel Committee (2021). Receptors for Temperature and Touch. https://www.nobelprize.org/prizes/medicine/2021/advanced-information/",
+    "urls": [
+      "https://www.nobelprize.org/prizes/medicine/2021/advanced-information/"
+    ],
+    "domains": [
+      "www.nobelprize.org"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  },
+  {
+    "num": 12,
+    "entry": "12. Lee JH et al. (2024). Nat Commun 15:526. DOI:10.1038/s41467-023-44230-x https://www.nature.com/articles/s41467-023-44230-x",
+    "urls": [
+      "https://www.nature.com/articles/s41467-023-44230-x"
+    ],
+    "domains": [
+      "www.nature.com"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 13,
+    "entry": "13. Li J et al. (2021). PNAS 118(28):e2101207118. DOI:10.1073/pnas.2101207118 https://www.pnas.org/doi/10.1073/pnas.2101207118",
+    "urls": [
+      "https://www.pnas.org/doi/10.1073/pnas.2101207118"
+    ],
+    "domains": [
+      "www.pnas.org"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 14,
+    "entry": "14. Hoffman BU et al. (2022). PNAS 119(21):e2115821119. DOI:10.1073/pnas.2115821119 https://www.pnas.org/doi/10.1073/pnas.2115821119",
+    "urls": [
+      "https://www.pnas.org/doi/10.1073/pnas.2115821119"
+    ],
+    "domains": [
+      "www.pnas.org"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 15,
+    "entry": "15. Kallweit N et al. (2016). Sci Reports. DOI:10.1038/srep28141 https://www.nature.com/articles/srep28141",
+    "urls": [
+      "https://www.nature.com/articles/srep28141"
+    ],
+    "domains": [
+      "www.nature.com"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 16,
+    "entry": "16. DARPA N3 Program (2019). Nonsurgical Brain-Machine Interfaces. https://www.darpa.mil/news/2019/nonsurgical-brain-machine-interfaces",
+    "urls": [
+      "https://www.darpa.mil/news/2019/nonsurgical-brain-machine-interfaces"
+    ],
+    "domains": [
+      "www.darpa.mil"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 17,
+    "entry": "17. Martin E et al. (2025). Nat Commun. DOI:10.1038/s41467-025-63020-1 https://doi.org/10.1038/s41467-025-63020-1",
+    "urls": [
+      "https://doi.org/10.1038/s41467-025-63020-1"
+    ],
+    "domains": [
+      "doi.org"
+    ],
+    "cats": [
+      "unknown"
+    ],
+    "quality": "mixed"
+  },
+  {
+    "num": 18,
+    "entry": "18. FDA PMA P150038 - ExAblate Neuro (2016). https://www.accessdata.fda.gov/cdrh_docs/pdf15/P150038B.pdf",
+    "urls": [
+      "https://www.accessdata.fda.gov/cdrh_docs/pdf15/P150038B.pdf"
+    ],
+    "domains": [
+      "www.accessdata.fda.gov"
+    ],
+    "cats": [
+      "unknown"
+    ],
+    "quality": "mixed"
+  },
+  {
+    "num": 19,
+    "entry": "19. MEDUSA weapon. Navy/WaveBand Corp, 2003-2004. https://en.wikipedia.org/wiki/MEDUSA_(weapon)",
+    "urls": [
+      "https://en.wikipedia.org/wiki/MEDUSA_(weapon)"
+    ],
+    "domains": [
+      "en.wikipedia.org"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  },
+  {
+    "num": 20,
+    "entry": "20. DIA (1972). Controlled Offensive Behavior - USSR. SECRET/declassified 2003. https://www.cia.gov/readingroom/document/cia-rdp96-00788r001300010001-7",
+    "urls": [
+      "https://www.cia.gov/readingroom/document/cia-rdp96-00788r001300010001-7"
+    ],
+    "domains": [
+      "www.cia.gov"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 21,
+    "entry": "21. CIA FOIA 00017376. MKULTRA Subproject 119 (1960). https://www.cia.gov/readingroom/document/00017376",
+    "urls": [
+      "https://www.cia.gov/readingroom/document/00017376"
+    ],
+    "domains": [
+      "www.cia.gov"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 22,
+    "entry": "22. NSArchive (2022). Moscow Signals Declassified. https://nsarchive.gwu.edu/briefing-book/intelligence-russia-programs/2022-09-13/moscow-signals-declassified-microwave",
+    "urls": [
+      "https://nsarchive.gwu.edu/briefing-book/intelligence-russia-programs/2022-09-13/moscow-signals-declassified-microwave"
+    ],
+    "domains": [
+      "nsarchive.gwu.edu"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 23,
+    "entry": "23. Goldsmith JR (2012). Microwaves in the Cold War. PMC3509929. https://pmc.ncbi.nlm.nih.gov/articles/PMC3509929/",
+    "urls": [
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC3509929/"
+    ],
+    "domains": [
+      "pmc.ncbi.nlm.nih.gov"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 24,
+    "entry": "24. Politico (March 6, 2023). Giordano rebuttal of IC dismissal. https://www.politico.com/news/2023/03/06/havana-syndrome-pentagon-research-00085686",
+    "urls": [
+      "https://www.politico.com/news/2023/03/06/havana-syndrome-pentagon-research-00085686"
+    ],
+    "domains": [
+      "www.politico.com"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  },
+  {
+    "num": 25,
+    "entry": "25. Small Wars Journal (December 2021). SOF Neurowarfare / Giordano SOFWERX. https://smallwarsjournal.com/2021/12/12/changing-hearts-and-brains-sof-must-prepare-now-neurowarfare/",
+    "urls": [
+      "https://smallwarsjournal.com/2021/12/12/changing-hearts-and-brains-sof-must-prepare-now-neurowarfare/"
+    ],
+    "domains": [
+      "smallwarsjournal.com"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  },
+  {
+    "num": 26,
+    "entry": "26. BBC (September 2021). Brain as 21st Century battle-scape. https://www.bbc.com/news/world-58396698",
+    "urls": [
+      "https://www.bbc.com/news/world-58396698"
+    ],
+    "domains": [
+      "www.bbc.com"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  },
+  {
+    "num": 27,
+    "entry": "27. ACLU. IMSI Catcher / Stingray documentation. https://www.aclu.org/cases/aclu-v-fbi-foia-case-for-fbi-records-related-to-nondisclosure-agreements-for-cell-site-simulators",
+    "urls": [
+      "https://www.aclu.org/cases/aclu-v-fbi-foia-case-for-fbi-records-related-to-nondisclosure-agreements-for-cell-site-simulators"
+    ],
+    "domains": [
+      "www.aclu.org"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  },
+  {
+    "num": 28,
+    "entry": "28. WaPo (Dec 4, 2013). NSA CO-TRAVELER / FASCIA. https://www.washingtonpost.com/world/national-security/nsa-tracking-cellphone-locations-worldw ide-snowden-documents-show/2013/12/04/5492873a-5cf2-11e3-bc56-c6ca94801fac_story.html",
+    "urls": [
+      "https://www.washingtonpost.com/world/national-security/nsa-tracking-cellphone-locations-worldw"
+    ],
+    "domains": [
+      "www.washingtonpost.com"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  },
+  {
+    "num": 29,
+    "entry": "29. Analog Devices. Phased Array Antenna Patterns Part 1. https://www.analog.com/en/resources/analog-dialogue/articles/phased-array-antenna-patterns-part1.html",
+    "urls": [
+      "https://www.analog.com/en/resources/analog-dialogue/articles/phased-array-antenna-patterns-part1.html"
+    ],
+    "domains": [
+      "www.analog.com"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  },
+  {
+    "num": 30,
+    "entry": "30. NIJ/OJP. AKELA ASTIR Final Report, Grant 2009-SQ-B9-K113. https://www.ojp.gov/pdffiles1/nij/grants/240231.pdf",
+    "urls": [
+      "https://www.ojp.gov/pdffiles1/nij/grants/240231.pdf"
+    ],
+    "domains": [
+      "www.ojp.gov"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 31,
+    "entry": "31. CBS 60 Minutes (March 8, 2026). US Military Tested Device / Havana Syndrome. https://www.cbsnews.com/news/us-military-tested-device-that-may-be-tied-to-havana-syndrome-60-minutes-transcript/",
+    "urls": [
+      "https://www.cbsnews.com/news/us-military-tested-device-that-may-be-tied-to-havana-syndrome-60-minutes-transcript/"
+    ],
+    "domains": [
+      "www.cbsnews.com"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  },
+  {
+    "num": 32,
+    "entry": "32. CNN (January 13, 2026). Havana Syndrome Device / Pentagon. https://www.cnn.com/2026/01/13/politics/havana-syndrome-device-pentagon-hsi ===== PAGE 25 ===== V2K TECHNOLOGY: A JUDICIAL BRIEF ON THE SCIENCE PAGE 25 ALL SOURCES: PEER-REVIEWED SCIENCE | GRANTED US PATENTS | GOVERNMENT DOCUMENTS | CONFIRMED REPORTING",
+    "urls": [
+      "https://www.cnn.com/2026/01/13/politics/havana-syndrome-device-pentagon-hsi"
+    ],
+    "domains": [
+      "www.cnn.com"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  },
+  {
+    "num": 33,
+    "entry": "33. Washington Examiner (March 2026). Crawford / HPSCI IC retraction. https://www.washingtonexaminer.com/opinion/beltway-confidential/4498095/ri ck-crawford-drags-intelligence-community-toward-havana-syndrome-truth/",
+    "urls": [
+      "https://www.washingtonexaminer.com/opinion/beltway-confidential/4498095/ri"
+    ],
+    "domains": [
+      "www.washingtonexaminer.com"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  },
+  {
+    "num": 34,
+    "entry": "34. HAVANA Act, Pub. L. 117-46 (October 8, 2021). https://www.govinfo.gov/app/details/COMPS-16540",
+    "urls": [
+      "https://www.govinfo.gov/app/details/COMPS-16540"
+    ],
+    "domains": [
+      "www.govinfo.gov"
+    ],
+    "cats": [
+      "primary"
+    ],
+    "quality": "high"
+  },
+  {
+    "num": 35,
+    "entry": "35. EHT v. FCC, No. 20-1025 (D.C. Cir. 2021). https://law.justia.com/cases/federal/appellate-courts/cadc/20-1025/20-1025-2021-08-13.html",
+    "urls": [
+      "https://law.justia.com/cases/federal/appellate-courts/cadc/20-1025/20-1025-2021-08-13.html"
+    ],
+    "domains": [
+      "law.justia.com"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  },
+  {
+    "num": 36,
+    "entry": "36. Daubert v. Merrell Dow Pharmaceuticals, 509 U.S. 579 (1993). https://supreme.justia.com/cases/federal/us/509/579/",
+    "urls": [
+      "https://supreme.justia.com/cases/federal/us/509/579/"
+    ],
+    "domains": [
+      "supreme.justia.com"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  },
+  {
+    "num": 37,
+    "entry": "37. AFSA v. State Dept., No. 1:24-cv-03385 (D.D.C. Feb. 13, 2026). https://news.bloomberglaw.com/litigation/state-department-fails-to-toss-havana-syndrome-benefit-suit",
+    "urls": [
+      "https://news.bloomberglaw.com/litigation/state-department-fails-to-toss-havana-syndrome-benefit-suit"
+    ],
+    "domains": [
+      "news.bloomberglaw.com"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  },
+  {
+    "num": 38,
+    "entry": "38. Lenzi v. State Department, settlement March 2023. https://www.steptoe.com/en/news-publications/Steptoe-Reaches-Settlement-for-Pro-Bono-Client -in-Havana-Syndrome-Disability-Discrimination-and-Retaliation-Case.html",
+    "urls": [
+      "https://www.steptoe.com/en/news-publications/Steptoe-Reaches-Settlement-for-Pro-Bono-Client"
+    ],
+    "domains": [
+      "www.steptoe.com"
+    ],
+    "cats": [
+      "secondary"
+    ],
+    "quality": "medium"
+  }
+]

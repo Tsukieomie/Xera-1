@@ -1,0 +1,57 @@
+{
+  "name": "SIERRA NEVADA COMPANY, LLC",
+  "alternate_names": [
+    "ADVANCED COUNTERMEASURE SYSTS",
+    "PMI",
+    "SIERRA NEVADA COMPANY  LLC",
+    "SIERRA NEVADA CORP",
+    "SIERRA NEVADA CORPORATION",
+    "SIERRA SPACE CORP"
+  ],
+  "duns": "094373495",
+  "uei": "DD2QET4D27T3",
+  "recipient_id": "c1b45f68-30f2-cc4f-d151-169001068edb-P",
+  "recipient_level": "P",
+  "parent_id": "c1b45f68-30f2-cc4f-d151-169001068edb-P",
+  "parent_name": "SIERRA NEVADA COMPANY, LLC",
+  "parent_duns": "094373495",
+  "parent_uei": "DD2QET4D27T3",
+  "parents": [
+    {
+      "parent_id": "c1b45f68-30f2-cc4f-d151-169001068edb-P",
+      "parent_duns": "094373495",
+      "parent_uei": "DD2QET4D27T3",
+      "parent_name": "SIERRA NEVADA COMPANY, LLC"
+    }
+  ],
+  "business_types": [
+    "category_business",
+    "corporate_entity_not_tax_exempt",
+    "limited_liability_corporation",
+    "manufacturer_of_goods",
+    "other_than_small_business",
+    "special_designations",
+    "subchapter_s_corporation",
+    "us_owned_business",
+    "woman_owned_business"
+  ],
+  "location": {
+    "address_line1": "444 SALOMON CIR",
+    "address_line2": null,
+    "address_line3": null,
+    "foreign_province": null,
+    "city_name": "SPARKS",
+    "county_name": null,
+    "state_code": "NV",
+    "zip": "89434",
+    "zip4": "9651",
+    "foreign_postal_code": null,
+    "country_name": "UNITED STATES",
+    "country_code": "USA",
+    "congressional_code": "02"
+  },
+  "total_transaction_amount": 24098691.86,
+  "total_transactions": 48,
+  "total_face_value_loan_amount": 0.0,
+  "total_face_value_loan_transactions": 0
+}
