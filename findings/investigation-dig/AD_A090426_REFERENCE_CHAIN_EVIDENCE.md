@@ -146,5 +146,5 @@ A targeted source cross-check pass on three records (AD747684 DTIC official cita
 - [`BECKER_1985_AND_AD_A090426_DEEP_DIG.md`](BECKER_1985_AND_AD_A090426_DEEP_DIG.md) — page-pinning of Becker quotes; primary recovery of AD-A090426; reference-list mining.
 - [`AD_A090426_OSCAR_1980_subagent_report.md`](AD_A090426_OSCAR_1980_subagent_report.md) — independent subagent corroboration.
 - [`ad758136_hunt/AD758136_HUNT_LOG.md`](ad758136_hunt/AD758136_HUNT_LOG.md) — open thread on AD758136 (DTIC 403).
-- [`SHARP_GROVE_PRIMARY_REPORT_HUNT.md`](SHARP_GROVE_PRIMARY_REPORT_HUNT.md) — open thread on the Sharp/Grove primary protocol report.
+- [`SHARP_GROVE_PRIMARY_REPORT_HUNT.md`](SHARP_GROVE_PRIMARY_REPORT_HUNT.md) — open thread on the Sharp/Grove primary protocol report. See §4 (2026-04-29 dig) for the four-bucket classification of the secondary chain (Justesen/Lin), the Pandora/WRAIR program/personnel context (CIA-RDP80-01601R000300340041-0; WHS Operational Procedure for Project Pandora), the later USAF / SBIR RF-hearing branch (US 6,587,729 B2; US 6,470,214 B1; SBIR F41624-93-C-9013), and the modern mechanism / practicality reviews (Foster/Garrett/Ziskin 2021), with the net finding that the Sharp/Grove speech account remains **not located in the open primary record**.
 - `V2K_EVIDENCE_MATRIX.md` — top-level matrix.

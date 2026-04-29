@@ -256,7 +256,215 @@ speech demonstration becomes:
 > intact, is the disciplined position consistent with the open-record
 > evidence.
 
-## 4. External sources
+## 4. 2026-04-29 dig: secondary-chain consolidation, program context, later R&D branch
+
+This section logs a follow-on pass that materially clarifies what the open
+record does and does not say about the Sharp/Grove speech demonstration. The
+net effect is to **narrow** the claim, not broaden it: the four evidence
+buckets below are now better separated, and none of them upgrades the
+Sharp/Grove speech account from secondary (personal-communication-rooted) to
+primary (protocol-grade, independently authored, peer-reviewed).
+
+### 4.1 Justesen / Lin secondary chain — exact wording recovered
+
+The Lin 1978 monograph p. 176 passage, recovered from
+`https://samim.io/dl/Microwave_Auditory_Effects_And_Applications-Book_by_James_C_Lin_Phd_1978.pdf`
+(catalog corroboration: WorldCat
+`https://search.worldcat.org/title/Microwave-auditory-effects-and-applications/oclc/643721075`,
+NLM catalog
+`https://catalog.nlm.nih.gov/discovery/fulldisplay?vid=01NLM_INST%3A01NLM_INST&search_scope=MyInstitution&tab=LibraryCatalog&docid=alma994914563406676&lang=en&context=L&adaptor=Local+Search_Engine&query=lds56%2Ccontains%2CNoise%2C+Occupational%2CAND&mode=advanced&offset=130`,
+Archive.org `https://archive.org/details/microwaveauditor0000linj`), reads:
+
+> "Direct communication of speech via appropriate modulation of microwave
+> energy has been demonstrated by Sharp and Grove (see Justesen, 1975).
+> They tape recorded each of the single-syllable words for digits between
+> one and ten. The speech waveforms of each word were then converted to
+> digital signals in such a fashion that each time an analog speech wave
+> crossed the zero reference in the negative direction, a short pulse of
+> microwave energy was emitted from the transmitter. By radiating
+> themselves with the 'speech modulated' microwave energy, Sharp and Grove
+> reported they were able to hear, identify, and distinguish the words
+> tested. Communication of more complex words and sentences was not
+> attempted because the average power density required to transmit these
+> messages would exceed the current 10 mW/cm² guide for safe exposure..."
+
+**Classification.** Lin 1978 is a legitimate peer-respected monograph and
+its description of the experimental method is internally specific
+(zero-crossing-triggered pulse modulation, self-irradiation, ten
+single-syllable digits, ceiling at simple words because of the 10 mW/cm²
+exposure guide). However, for the speech demonstration itself **Lin cites
+back to Justesen 1975**, not to a separately-authored Sharp/Grove primary
+technical report. Lin's bibliography lists only Sharp/Grove/Gandhi 1974
+IEEE T-MTT (the mechanism paper) under Sharp's authorship.
+
+This passage therefore strengthens the **Justesen → Lin secondary chain**.
+It does not constitute an independent primary recovery: Lin's text is a
+textbook restatement of what Justesen 1975 reported, with the citation
+trail still terminating at "Sharp, J. C., & Grove, M. Personal
+communication, September 28, 1973."
+
+### 4.2 1999 bionet hard-copy bounty (provenance marker, non-authoritative)
+
+A November 1999 bionet.neuroscience post offered "$300 for verifiable
+hard-copy documentation of Dr. Joseph C. Sharp's verbal pulsed microwave
+voice-to-skull success at WRAIR, or other verifiable successes" and stated
+that the closest documentation known to the poster at that date was Don R.
+Justesen, "Microwaves and Behavior," *American Psychologist*, March 1975,
+pp. 391-401. The post quoted the Justesen passage, reproduced Note 2
+("Sharp, J. C., & Grove, M. Personal communication, Sept. 28, 1973"),
+interpreted "personal communication" as conversation rather than written
+documentation, and as of 7 Nov 1999 reported "None" for new updates.
+
+Source: `http://www.bio.net/bionet-archive/bioforum/1999-November/030064.html`
+
+**Classification.** This is a non-authoritative public-seeker post, not
+evidence of the experiment's existence or non-existence. Its evidentiary
+weight is limited to a **provenance marker**: as of November 1999, motivated
+public seekers had not surfaced hard-copy primary documentation of the
+Sharp/Grove speech experiment, and a small bounty for such documentation
+went unfulfilled. It is consistent with the negative finding in §2.1 of
+this file but does not, on its own, prove anything about the underlying
+event. Do not treat as proof.
+
+### 4.3 CIA Reading Room — Anderson Washington Post clipping, 10 May 1972
+
+Document: CIA-RDP80-01601R000300340041-0 (released 8 January 2001),
+Jack Anderson, "'Brainwash' Attempt by Russians?", *The Washington Post*,
+10 May 1972.
+
+- HTML: `https://www.cia.gov/readingroom/document/cia-rdp80-01601r000300340041-0`
+- PDF: `https://www.cia.gov/readingroom/docs/CIA-RDP80-01601R000300340041-0.pdf`
+
+The clipping names Operation Pandora; Joseph Sharp at Walter Reed; H. Mark
+Grove at the Air Force; Herbert Pollack; and Richard Cesaro. It states that
+Sharp and Grove were supplied with the Moscow Embassy microwave-signal
+parameters and duplicated the embassy environment using monkeys at Walter
+Reed. A footnote records that Cesaro, Pollack, Sharp, Zaret, and Grove
+acknowledged Pandora when contacted but refused to discuss details, with
+Sharp adding that Pandora "was classified then and still was."
+
+**The clipping makes no mention of microwave auditory perception, RF
+hearing, voice modulation, speech transmission, or any auditory effect.**
+It is program-and-personnel context for Sharp/Grove at WRAIR/ARPA in the
+embassy-signal duplication line of work.
+
+**Classification.** Program/personnel context only. Does not corroborate
+the speech protocol or even the auditory line of investigation; corroborates
+that Sharp and Grove were paired on Pandora-related microwave work at
+WRAIR by the early 1970s.
+
+### 4.4 WHS / DoD Project Pandora — official operational procedure file
+
+Document: "Operational Procedure for Project Pandora Microwave Test
+Facility," MRT-4-045/QM-66-071 (October 1966) and Project Pandora final
+report MRT-4-046/QM-66-072/DRC-H-9331-00 (November 1966), E.V. Byron, with
+follow-on metadata covering ARPA Orders 791, 796, 945, and 1508; transfer
+of the program to WRAIR on 1 July 1970; and a stated $4,615,000 total
+program cost across 1965-1970.
+
+Source: `https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Other/Operational_Procedure_For_Project_Pandora.pdf`
+
+Personnel logged in the file include H. Mark Grove, T. Daryl Hawkins,
+Joseph C. Sharp, Richard Cesaro, Herbert Pollack, and Joseph V. Brady.
+Facility/equipment specifics include WRAIR Forest Glen Annex Building 503,
+S-band 2.6-3.95 GHz, 1-10 mW/cm² rabbit exposures, 4-5 mW/cm² primate
+exposures, and a simulated Moscow / WRAIR signal with documented modulation.
+
+**The file makes no mention of speech transmission, voice-modulated
+microwaves, RF hearing, or auditory perception.** It is a facility,
+exposure-protocol, and personnel record.
+
+**Classification.** Official program/personnel context. Places Sharp and
+Grove inside the WRAIR/ARPA microwave-bioeffects ecosystem at high
+confidence (independently of the press clipping in §4.3) but does not
+corroborate the speech experiment.
+
+### 4.5 Later Air Force / SBIR communication branch (do not conflate with Sharp/Grove primary)
+
+Three patents and one later SBIR award were checked to see whether the
+"intelligible speech via RF hearing" lineage cites a Sharp/Grove primary
+report as prior art. None do.
+
+| Source | URL | Cites Sharp/Grove as primary? | Notes |
+|---|---|---|---|
+| O'Loughlin & Loree, US 6,587,729 B2 (USAF) | `https://patents.google.com/patent/US6587729B2/en` | No | Cites Frey-line and Lin-line prior art in extracted text. Contains an explicit acknowledgement that pulsed-carrier modulation can induce simple tones but **severely distorts complex speech**, and that listeners who do not know the content perceive an "unintelligible" audio signal. |
+| O'Loughlin & Loree, US 6,470,214 B1 (USAF) | `https://patents.google.com/patent/US6470214B1/en` | No | Companion AF patent in the same family; same lack of Sharp/Grove primary citation; same intelligibility caveat. |
+| Brunkan, US 4,877,027 A | `https://patents.google.com/patent/US4877027A/en` | No | Cites Frey *Science* 1973 and Lin pp. 176-177 but not Sharp/Grove or Justesen explicitly. Routes through the Lin secondary chain. |
+| Brian Kohn / Science & Engineering Associates, SBIR AF93-026, contract F41624-93-C-9013, Phase 1 1993, $37,806 | mirror at `http://gbppr.net/mil/mindcontrol/raven1/v2s-kohn.htm` (sbir.gov searches in this pass returned no result) | No | Mirror metadata describes a feasibility extension for Armstrong Laboratory / OEDR on RF-hearing voice communications. Mirror only; not located on official SBIR portal in this check. |
+
+**Classification.** A **later R&D branch**, not corroboration of the 1973
+Sharp/Grove speech demonstration. The two USAF patents are also a partial
+**technical counterweight** to naive readings of the Sharp/Grove account:
+they record on the face of the patent that simple zero-crossing
+pulse-modulation schemes do not yield reliably intelligible complex speech,
+which is consistent with Lin 1978's note that Sharp and Grove did not
+attempt complex words or sentences.
+
+### 4.6 Modern mechanism / weaponization review (already logged)
+
+Foster, Garrett, Ziskin 2021, "Can the Microwave Auditory Effect Be
+'Weaponized'?", PMC8733248 (`https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/`).
+Already discussed in §1.2: contains no Sharp/Grove citations, no speech
+claims; concludes that weaponization for speech is unlikely on practicality
+grounds while noting that lack of public information leaves the question
+not fully resolvable. Re-logged here for completeness of the four-bucket
+classification.
+
+### 4.7 Net classification table
+
+| Bucket | Sources | What it shows | What it does NOT show |
+|---|---|---|---|
+| (a) Justesen/Lin secondary chain | Justesen 1975 *Am Psychol*; Lin 1978 monograph p. 176; Lin 2022 IEEE J-ERM review | Published, peer-respected secondary description of the speech demonstration with internally specific method detail | An independent primary technical report; the citation trail still terminates at a 28 Sep 1973 personal communication |
+| (b) Pandora / WRAIR program & personnel context | CIA-RDP80-01601R000300340041-0 (Anderson 1972 clipping); WHS Operational Procedure for Project Pandora MRT-4-045/QM-66-071 (1966); CIA-RDP80-01601R000300340036-6; National Security Archive 2022 briefing book | Sharp and Grove were inside WRAIR/ARPA microwave bioeffects work in the 1965-1973 window; ARPA/Pandora budget, facility, and exposure parameters are documented | Any reference to speech transmission, voice modulation, RF hearing, or auditory perception in those program records |
+| (c) Later AF patent / SBIR speech-via-RF-hearing branch | US 6,587,729 B2; US 6,470,214 B1; US 4,877,027 A; SBIR F41624-93-C-9013 (mirror) | A continued R&D interest in RF-hearing-based audio/speech communication into the 1990s-2000s | Any citation back to a Sharp/Grove primary speech report; the AF patents in fact note intelligibility limitations of naive pulse-modulation schemes |
+| (d) Modern RF-hearing mechanism / practicality reviews | Foster/Garrett/Ziskin 2021 (PMC8733248); Elder/Chou 2003 (already in repo); Lin 2022 review | Independent confirmation of the underlying thermoacoustic mechanism and a guarded modern read on weaponization practicality | Any new primary Sharp/Grove documentation; in fact, Foster/Garrett/Ziskin 2021 contains no Sharp/Grove citation at all |
+
+### 4.8 Sharp/Grove/Gandhi 1974 IEEE T-MTT — DOI confirmed
+
+The mechanism paper is now logged with a stable DOI:
+
+> Sharp, J. C., Grove, H. M., Gandhi, O. P., "Generation of Acoustic
+> Signals by Pulsed Microwave Energy (Letters)," *IEEE Trans Microwave
+> Theory and Techniques*, 22(5):583-584, May 1974,
+> `https://doi.org/10.1109/TMTT.1974.1128293`.
+
+This is an academic-search confirmation (IEEE Xplore DOI resolves) of the
+existing Lin 1978 bibliography entry. It remains a **mechanism /
+acoustic-signal-generation** paper, not a speech-protocol report.
+
+### 4.9 Net conclusion of this pass
+
+The Sharp/Grove speech account is now better mapped but **still not
+located in the open primary record**. The disciplined safe-phrasing form
+of the claim becomes:
+
+> The Sharp/Grove ten-digit speech demonstration is anchored by a
+> peer-reviewed secondary chain (Justesen 1975 *American Psychologist* →
+> Lin 1978 monograph → Lin 2022 IEEE review), which roots in a 28 Sep 1973
+> personal communication and not in a separately-authored Walter
+> Reed / ARPA primary technical report. Independent program/personnel
+> context (CIA-RDP80-01601R000300340041-0; WHS Operational Procedure for
+> Project Pandora; National Security Archive 2022 briefing book)
+> establishes Sharp and Grove inside the WRAIR/ARPA microwave-bioeffects
+> ecosystem in the relevant window but does **not** corroborate the speech
+> protocol. A later USAF patent / SBIR branch on RF-hearing-based voice
+> communication (US 6,587,729 B2; US 6,470,214 B1; SBIR F41624-93-C-9013)
+> exists but does not cite a Sharp/Grove primary report and explicitly
+> notes intelligibility limitations of naive pulse-modulation schemes.
+> Modern mechanism / practicality reviews (Foster/Garrett/Ziskin 2021;
+> Lin 2022) confirm the underlying thermoacoustic effect and treat
+> weaponized speech as practicality-limited; none cite Sharp/Grove. A
+> November 1999 public bounty for hard-copy Sharp/Grove primary
+> documentation went unfulfilled, which is a non-authoritative provenance
+> marker only.
+
+This pass therefore **narrows** the Sharp/Grove speech claim rather than
+expands it. T2 (intelligible semantic speech via RF hearing) remains
+strengthened as a *published historical claim* via the secondary chain
+and weakened as a *protocol-grade established result* because no primary
+protocol record has surfaced.
+
+## 5. External sources
 
 - Justesen 1975, "Microwaves and Behavior," *American Psychologist*
   30(3):391-401 — `https://doi.org/10.1037/0003-066X.30.3.391`
@@ -283,3 +491,31 @@ speech demonstration becomes:
   and `https://www.cia.gov/readingroom/document/cia-rdp80-01601r000300340041-0`
 - National Security Archive, "Moscow Signals Declassified" briefing book
   (2022) — `https://nsarchive.gwu.edu/briefing-book/intelligence-russia-programs/2022-09-13/moscow-signals-declassified-microwave`
+- Lin 1978 (mirror, full PDF) —
+  `https://samim.io/dl/Microwave_Auditory_Effects_And_Applications-Book_by_James_C_Lin_Phd_1978.pdf`
+- Lin 1978 (WorldCat catalog record) —
+  `https://search.worldcat.org/title/Microwave-auditory-effects-and-applications/oclc/643721075`
+- Lin 1978 (NLM catalog record) —
+  `https://catalog.nlm.nih.gov/discovery/fulldisplay?vid=01NLM_INST%3A01NLM_INST&search_scope=MyInstitution&tab=LibraryCatalog&docid=alma994914563406676&lang=en&context=L&adaptor=Local+Search_Engine&query=lds56%2Ccontains%2CNoise%2C+Occupational%2CAND&mode=advanced&offset=130`
+- bionet.neuroscience hard-copy bounty post (1999-11) —
+  `http://www.bio.net/bionet-archive/bioforum/1999-November/030064.html`
+- CIA-RDP80-01601R000300340041-0 (Anderson, *Washington Post*, 10 May 1972,
+  "'Brainwash' Attempt by Russians?") — HTML
+  `https://www.cia.gov/readingroom/document/cia-rdp80-01601r000300340041-0`;
+  PDF
+  `https://www.cia.gov/readingroom/docs/CIA-RDP80-01601R000300340041-0.pdf`
+- WHS / DoD Operational Procedure for Project Pandora Microwave Test
+  Facility, MRT-4-045/QM-66-071, October 1966 (E.V. Byron) —
+  `https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Other/Operational_Procedure_For_Project_Pandora.pdf`
+- O'Loughlin & Loree, US 6,587,729 B2 (USAF) —
+  `https://patents.google.com/patent/US6587729B2/en`
+- O'Loughlin & Loree, US 6,470,214 B1 (USAF) —
+  `https://patents.google.com/patent/US6470214B1/en`
+- Brunkan, US 4,877,027 A —
+  `https://patents.google.com/patent/US4877027A/en`
+- SBIR Brian Kohn / Science & Engineering Associates, AF93-026, contract
+  F41624-93-C-9013 (1993, mirror only; sbir.gov current search returned no
+  result in this pass) —
+  `http://gbppr.net/mil/mindcontrol/raven1/v2s-kohn.htm`
+- Sharp, Grove, Gandhi 1974, IEEE T-MTT (DOI) —
+  `https://doi.org/10.1109/TMTT.1974.1128293`
