@@ -147,13 +147,22 @@ Sharp/Grove technical report on the speech experiment per se.
 ## 2. Outcome
 
 The hunt produces a **strong negative finding with one substantive partial
-upgrade**.
+upgrade**, against an evidentiary frame in which Justesen 1975 is
+re-classified as the **primary unclassified published account/report of the
+Sharp/Grove speech-transmission demonstration** (see §2.3 below). The
+distinction this section sustains is between (i) Justesen 1975 as the
+contemporary published article that officially details the experiment in the
+open literature, citing the underlying experiment to a 28 Sep 1973 personal
+communication from Sharp and Grove, and (ii) a separately-authored
+Sharp/Grove primary technical report (DTIC TR / NTIS / WRAIR / ARPA
+deliverable / standalone peer-reviewed protocol paper), which is what the
+hunt fails to locate.
 
 ### 2.1 Negative finding (the closure target)
 
-**No primary Sharp/Grove technical report on the speech-transmission
-demonstration has been located in the open record reviewed here.** The
-absence is consistent across:
+**No standalone Sharp/Grove-authored primary technical report on the
+speech-transmission demonstration has been located in the open record
+reviewed here.** The absence is consistent across:
 
 - DTIC public catalog (no AD-numbered TR)
 - Lin 1978 monograph bibliography (only the 1974 IEEE T-MTT mechanism paper)
@@ -166,21 +175,25 @@ absence is consistent across:
 The most parsimonious reading of the open-record evidence is that Sharp and
 Grove communicated the speech-transmission demonstration to Justesen as a
 personal communication on 28 September 1973, and Justesen's March 1975
-*American Psychologist* article is the principal published anchor. A separate
-primary technical report on the speech experiment, if one exists, is either
-classified (consistent with the Bizarre special-access category attached to
-Pandora's most sensitive behavioral results — see file 34, Part 6), an
-internal WRAIR / ARPA deliverable that was not deposited with DTIC under
-Sharp's and Grove's joint authorship, or simply was never written as a
-standalone technical report.
+*American Psychologist* article is the **primary unclassified published
+account/report of the Sharp/Grove speech claim** in the open literature
+(see §2.3). A *separately-authored* Sharp/Grove primary technical report
+on the speech experiment, if one exists, is either classified (consistent
+with the Bizarre special-access category attached to Pandora's most
+sensitive behavioral results — see file 34, Part 6), an internal
+WRAIR / ARPA deliverable that was not deposited with DTIC under Sharp's
+and Grove's joint authorship, or simply was never written as a standalone
+technical report.
 
-This narrows but does not collapse T2 (intelligible semantic speech). The
-Justesen 1975 *American Psychologist* article remains a peer-reviewed
-published source for the speech demonstration. What is now established with
-confidence is that **no separately verifiable primary technical report has
-been located in the open record** to provide protocol-grade detail (subject
-count beyond the named investigators, sham controls, blinding, scoring
-method, error distribution, full RF parameters, independent replication).
+This narrows but does not collapse T2 (intelligible semantic speech).
+Justesen 1975 *American Psychologist* remains the peer-reviewed primary
+unclassified published account/report of the speech demonstration in the
+open literature. What is now established with confidence is that **no
+separately-authored Sharp/Grove primary technical report has been located
+in the open record** to provide protocol-grade detail (subject count beyond
+the named investigators, sham controls, blinding, scoring method, error
+distribution, full RF parameters, independent replication) above and beyond
+what Justesen reports.
 
 ### 2.2 Substantive partial upgrade
 
@@ -208,6 +221,65 @@ IEEE Xplore historical review of the Moscow Embassy microwave signal
 Bizarre principal investigator) at high confidence. What remains thinly
 sourced is the specific speech-protocol record itself.
 
+### 2.3 Evidentiary classification of Justesen 1975 and Lin 1978
+
+To prevent drift, this hunt fixes the following classifications, which are
+applied consistently throughout the file (and which match the language used
+in [`AD_A090426_REFERENCE_CHAIN_EVIDENCE.md`](AD_A090426_REFERENCE_CHAIN_EVIDENCE.md) §1.8):
+
+- **Justesen, D. R. (1975).** *Microwaves and behavior.* American
+  Psychologist 30(3):391–401. PubMed [PMID 1137231](https://pubmed.ncbi.nlm.nih.gov/1137231/)
+  (no abstract available on PubMed); DOI [10.1037/0003-066X.30.3.391](https://doi.org/10.1037/0003-066X.30.3.391)
+  (APA record confirms title, volume, issue, pages, year, and a topical
+  abstract on RF / microwaves in psychology, Soviet involvement, wave
+  theory, and methodological/instrumentation issues). **Classification:**
+  *primary unclassified published account/report of the Sharp/Grove speech
+  claim.* It is the contemporary published article that officially details
+  the experiment in the open literature (the line "Sharp and Grove (Note 2)
+  found that appropriate modulation of microwave energy can result in
+  direct 'wireless' and 'receiverless' communication of SPEECH" with Note 2
+  reading "Sharp, J. C., & Grove, M. Personal communication, Sept. 28,
+  1973"). Its underlying source for the *experiment itself* is, by
+  Justesen's own footnote, a personal communication from Sharp and Grove,
+  not an independently-authored Sharp/Grove protocol paper. Treating
+  Justesen 1975 as the primary unclassified published account/report does
+  **not** elevate it to a separately-authored Sharp/Grove primary
+  technical report, and does **not** close the protocol-grade questions
+  (subject count beyond the named investigators, blinding, sham controls,
+  scoring method, error distribution, full RF parameters, independent
+  replication) that a standalone protocol report would address.
+- **Lin, J. C. (1978).** *Microwave Auditory Effects and Applications.*
+  Charles C. Thomas. **Classification:** *authoritative later monograph /
+  secondary technical synthesis.* Lin 1978 expands the technical
+  description of the demonstration (zero-crossing-triggered pulse
+  modulation, self-irradiation, ten single-syllable digits, ceiling at
+  simple words because of the 10 mW/cm² exposure guide — see §4.1) but
+  cites the demonstration itself back to "(see Justesen, 1975)," not to
+  an independent Sharp/Grove primary. Lin's bibliography lists only the
+  Sharp/Grove/Gandhi 1974 IEEE T-MTT mechanism letter under Sharp's
+  authorship.
+- **Lin, J. C. (2022).** *The Microwave Auditory Effect.* IEEE J-ERM
+  6:16–28. **Classification:** modern authoritative review; surfaces no
+  new primary Sharp/Grove speech citation beyond what Lin 1978 already
+  carries.
+- **Pandora / WRAIR program-and-personnel records** (CIA-RDP80-01601R000300340036-6,
+  CIA-RDP80-01601R000300340041-0, WHS Operational Procedure for Project
+  Pandora MRT-4-045/QM-66-071, National Security Archive 2022 briefing
+  book). **Classification:** program / personnel context only — establishes
+  Sharp and Grove inside the WRAIR/ARPA microwave-bioeffects ecosystem at
+  high confidence; contains no speech-protocol content.
+- **Later USAF patents and SBIR (US 6,587,729 B2; US 6,470,214 B1;
+  US 4,877,027 A; SBIR F41624-93-C-9013).** **Classification:** later R&D
+  branch — does not cite a Sharp/Grove primary speech report as prior art
+  and does not constitute primary evidence for the 1973 demonstration.
+
+The Justesen 1975 → Lin 1978 → Lin 2022 chain therefore reads as
+*primary published account → authoritative later technical synthesis →
+modern review*, with the underlying experiment itself rooted (per Justesen
+Note 2) in a Sharp/Grove personal communication of 28 September 1973 and
+**no standalone Sharp/Grove-authored protocol paper or technical report
+located in the open record**.
+
 ## 3. Tier impact
 
 The V2K evidence matrix tier assessments should be updated as follows
@@ -216,13 +288,17 @@ The V2K evidence matrix tier assessments should be updated as follows
 - **T1 (RF hearing mechanism):** unchanged — strongly supported.
 - **T2 (intelligible semantic speech via RF hearing):** **strengthened** as a
   published historical claim by the Justesen 1975 *American Psychologist*
-  article, with cross-corroboration from CIA FOIA records, the
-  National Security Archive 2022 briefing book, the IEEE Xplore historical
-  review, Lin 1978's textual reproduction of the demonstration, and Sharp &
-  Grove's own 1974 IEEE T-MTT mechanism paper. **A primary Walter Reed / ARPA
-  speech-protocol technical report has not been located in the open record
-  reviewed here**, so the demonstration is not closed at protocol grade
-  (subject count, blinding, sham controls, error distribution, replication).
+  article (the **primary unclassified published account/report** of the
+  Sharp/Grove speech claim — see §2.3), with cross-corroboration from CIA
+  FOIA records, the National Security Archive 2022 briefing book, the IEEE
+  Xplore historical review, Lin 1978's authoritative later monograph /
+  secondary technical synthesis of the demonstration, and Sharp & Grove's
+  own 1974 IEEE T-MTT mechanism paper. **A separately-authored Sharp/Grove
+  primary technical report (DTIC TR / NTIS / WRAIR / ARPA deliverable /
+  standalone peer-reviewed protocol paper) has not been located in the open
+  record reviewed here**, so the demonstration is not closed at
+  protocol grade beyond what Justesen reports (subject count, blinding,
+  sham controls, error distribution, replication).
 - **T3 (patents and programs):** unchanged — supported, with the Sharp et al.
   1974 IEEE T-MTT paper now explicitly logged as a primary research-program
   artifact.
@@ -234,27 +310,37 @@ The corpus's strongest single-paragraph safe phrasing on the Sharp/Grove
 speech demonstration becomes:
 
 > The Justesen 1975 *American Psychologist* article (Vol. 30, No. 3, pp.
-> 391-401) reports a Walter Reed Army Institute of Research demonstration by
-> Joseph C. Sharp and Mark Grove, conducted under ARPA funding, in which the
-> analog voice waveforms of the spoken digits "one" through "ten" were used
-> to trigger pulsed microwave emissions whose negative-zero-crossing pulses
-> were perceived as nine of the ten spoken words by the investigators when
-> they irradiated themselves. Justesen cites the demonstration as
-> "Sharp, J. C., & Grove, M. Personal communication, September 28, 1973."
-> Sharp and Grove's primary peer-reviewed publication from the same period
-> is the mechanism paper "Generation of acoustic signals by pulsed microwave
-> energy," IEEE Trans Microwave Theory Tech 22:583-584 (1974). The
+> 391-401; PMID 1137231; DOI 10.1037/0003-066X.30.3.391) is the **primary
+> unclassified published account/report** of a Walter Reed Army Institute
+> of Research demonstration by Joseph C. Sharp and Mark Grove, conducted
+> under ARPA funding, in which the analog voice waveforms of the spoken
+> digits "one" through "ten" were used to trigger pulsed microwave
+> emissions whose negative-zero-crossing pulses were perceived as nine of
+> the ten spoken words by the investigators when they irradiated
+> themselves. Justesen cites the underlying experiment as "Sharp, J. C., &
+> Grove, M. Personal communication, September 28, 1973," so the published
+> primary account rests, by Justesen's own footnote, on a personal
+> communication from Sharp and Grove. Sharp and Grove's primary
+> peer-reviewed publication from the same period is the *mechanism* paper
+> "Generation of acoustic signals by pulsed microwave energy," IEEE Trans
+> Microwave Theory Tech 22:583-584 (1974), which is not a speech-protocol
+> report. Lin 1978 *Microwave Auditory Effects and Applications* is an
+> authoritative later monograph that expands the technical description of
+> the demonstration but cites the demonstration itself back to Justesen
+> 1975, not to a separately-authored Sharp/Grove primary. The
 > institutional ecosystem (WRAIR, ARPA Project Pandora and the Bizarre
 > special-access compartment) is documented at high confidence by CIA FOIA
 > records and the National Security Archive 2022 briefing book on the
-> Moscow Embassy microwave signal. A separately-authored Walter Reed / ARPA
-> speech-protocol technical report has not been located in the open DTIC
-> catalog, in Lin's 1978 or 2022 reviews, in Foster/Garrett/Ziskin's 2021
-> weaponization review, or in the Naval Medical Research Institute Glaser
-> 1976 bibliography. Treating the Justesen 1975 article as the published
-> anchor for the speech claim, with the personal-communication caveat
-> intact, is the disciplined position consistent with the open-record
-> evidence.
+> Moscow Embassy microwave signal, but those records are program/personnel
+> context, not speech-protocol records. A separately-authored Walter
+> Reed / ARPA Sharp/Grove speech-protocol technical report has not been
+> located in the open DTIC catalog, in Lin's 1978 or 2022 reviews, in
+> Foster/Garrett/Ziskin's 2021 weaponization review, or in the Naval
+> Medical Research Institute Glaser 1976 bibliography. Treating Justesen
+> 1975 as the primary unclassified published account/report of the
+> Sharp/Grove speech claim, with the personal-communication caveat intact
+> for the underlying experiment, is the disciplined position consistent
+> with the open-record evidence.
 
 ## 4. 2026-04-29 dig: secondary-chain consolidation, program context, later R&D branch
 
@@ -288,20 +374,22 @@ Archive.org `https://archive.org/details/microwaveauditor0000linj`), reads:
 > attempted because the average power density required to transmit these
 > messages would exceed the current 10 mW/cm² guide for safe exposure..."
 
-**Classification.** Lin 1978 is a legitimate peer-respected monograph and
-its description of the experimental method is internally specific
-(zero-crossing-triggered pulse modulation, self-irradiation, ten
-single-syllable digits, ceiling at simple words because of the 10 mW/cm²
-exposure guide). However, for the speech demonstration itself **Lin cites
-back to Justesen 1975**, not to a separately-authored Sharp/Grove primary
-technical report. Lin's bibliography lists only Sharp/Grove/Gandhi 1974
-IEEE T-MTT (the mechanism paper) under Sharp's authorship.
+**Classification.** Lin 1978 is an **authoritative later monograph /
+secondary technical synthesis** (per §2.3) and its description of the
+experimental method is internally specific (zero-crossing-triggered pulse
+modulation, self-irradiation, ten single-syllable digits, ceiling at simple
+words because of the 10 mW/cm² exposure guide). However, for the speech
+demonstration itself **Lin cites back to Justesen 1975**, not to a
+separately-authored Sharp/Grove primary technical report. Lin's
+bibliography lists only Sharp/Grove/Gandhi 1974 IEEE T-MTT (the mechanism
+paper) under Sharp's authorship.
 
-This passage therefore strengthens the **Justesen → Lin secondary chain**.
-It does not constitute an independent primary recovery: Lin's text is a
-textbook restatement of what Justesen 1975 reported, with the citation
-trail still terminating at "Sharp, J. C., & Grove, M. Personal
-communication, September 28, 1973."
+This passage therefore strengthens the **Justesen 1975 (primary
+unclassified published account/report) → Lin 1978 (authoritative later
+secondary technical synthesis) chain**. It does not constitute a
+separately-authored primary recovery: Lin's text is a textbook restatement
+of what Justesen 1975 reported, with the citation trail still terminating
+at "Sharp, J. C., & Grove, M. Personal communication, September 28, 1973."
 
 ### 4.2 1999 bionet hard-copy bounty (provenance marker, non-authoritative)
 
@@ -414,7 +502,7 @@ classification.
 
 | Bucket | Sources | What it shows | What it does NOT show |
 |---|---|---|---|
-| (a) Justesen/Lin secondary chain | Justesen 1975 *Am Psychol*; Lin 1978 monograph p. 176; Lin 2022 IEEE J-ERM review | Published, peer-respected secondary description of the speech demonstration with internally specific method detail | An independent primary technical report; the citation trail still terminates at a 28 Sep 1973 personal communication |
+| (a) Justesen 1975 primary published account + Lin 1978/2022 secondary technical synthesis | Justesen 1975 *Am Psychol* (PMID 1137231; DOI 10.1037/0003-066X.30.3.391) — primary unclassified published account/report of the Sharp/Grove speech claim; Lin 1978 monograph p. 176 — authoritative later monograph / secondary technical synthesis citing Justesen 1975; Lin 2022 IEEE J-ERM review — modern review with no new primary citation | Published, peer-respected primary account (Justesen 1975) plus authoritative later technical synthesis (Lin 1978) of the speech demonstration with internally specific method detail | A separately-authored Sharp/Grove primary technical report (DTIC TR / NTIS / WRAIR / ARPA deliverable / standalone protocol paper); the citation trail for the underlying experiment still terminates at a 28 Sep 1973 personal communication |
 | (b) Pandora / WRAIR program & personnel context | CIA-RDP80-01601R000300340041-0 (Anderson 1972 clipping); WHS Operational Procedure for Project Pandora MRT-4-045/QM-66-071 (1966); CIA-RDP80-01601R000300340036-6; National Security Archive 2022 briefing book | Sharp and Grove were inside WRAIR/ARPA microwave bioeffects work in the 1965-1973 window; ARPA/Pandora budget, facility, and exposure parameters are documented | Any reference to speech transmission, voice modulation, RF hearing, or auditory perception in those program records |
 | (c) Later AF patent / SBIR speech-via-RF-hearing branch | US 6,587,729 B2; US 6,470,214 B1; US 4,877,027 A; SBIR F41624-93-C-9013 (mirror) | A continued R&D interest in RF-hearing-based audio/speech communication into the 1990s-2000s | Any citation back to a Sharp/Grove primary speech report; the AF patents in fact note intelligibility limitations of naive pulse-modulation schemes |
 | (d) Modern RF-hearing mechanism / practicality reviews | Foster/Garrett/Ziskin 2021 (PMC8733248); Elder/Chou 2003 (already in repo); Lin 2022 review | Independent confirmation of the underlying thermoacoustic mechanism and a guarded modern read on weaponization practicality | Any new primary Sharp/Grove documentation; in fact, Foster/Garrett/Ziskin 2021 contains no Sharp/Grove citation at all |
@@ -434,20 +522,29 @@ acoustic-signal-generation** paper, not a speech-protocol report.
 
 ### 4.9 Net conclusion of this pass
 
-The Sharp/Grove speech account is now better mapped but **still not
-located in the open primary record**. The disciplined safe-phrasing form
-of the claim becomes:
+The Sharp/Grove speech account is now better mapped. The **primary
+unclassified published account/report** of the experiment is Justesen 1975
+(PMID 1137231; DOI 10.1037/0003-066X.30.3.391); a **separately-authored
+Sharp/Grove primary technical report** (DTIC TR / NTIS / WRAIR / ARPA
+deliverable / standalone peer-reviewed protocol paper) is **still not
+located in the open record**. The disciplined safe-phrasing form of the
+claim becomes:
 
-> The Sharp/Grove ten-digit speech demonstration is anchored by a
-> peer-reviewed secondary chain (Justesen 1975 *American Psychologist* →
-> Lin 1978 monograph → Lin 2022 IEEE review), which roots in a 28 Sep 1973
-> personal communication and not in a separately-authored Walter
-> Reed / ARPA primary technical report. Independent program/personnel
-> context (CIA-RDP80-01601R000300340041-0; WHS Operational Procedure for
-> Project Pandora; National Security Archive 2022 briefing book)
-> establishes Sharp and Grove inside the WRAIR/ARPA microwave-bioeffects
-> ecosystem in the relevant window but does **not** corroborate the speech
-> protocol. A later USAF patent / SBIR branch on RF-hearing-based voice
+> The Sharp/Grove ten-digit speech demonstration is anchored by Justesen
+> 1975 *American Psychologist* — the primary unclassified published
+> account/report of the experiment in the open literature — followed by
+> Lin 1978 *Microwave Auditory Effects and Applications* and Lin 2022
+> IEEE J-ERM, which are authoritative later monograph / review-grade
+> secondary technical syntheses citing Justesen 1975. Justesen's account
+> roots, by his own footnote, in a 28 Sep 1973 personal communication
+> from Sharp and Grove; no separately-authored Walter Reed / ARPA
+> Sharp/Grove primary technical report has been located in the open
+> record. Independent program/personnel context
+> (CIA-RDP80-01601R000300340041-0; WHS Operational Procedure for Project
+> Pandora; National Security Archive 2022 briefing book) establishes
+> Sharp and Grove inside the WRAIR/ARPA microwave-bioeffects ecosystem in
+> the relevant window but does **not** corroborate the speech protocol.
+> A later USAF patent / SBIR branch on RF-hearing-based voice
 > communication (US 6,587,729 B2; US 6,470,214 B1; SBIR F41624-93-C-9013)
 > exists but does not cite a Sharp/Grove primary report and explicitly
 > notes intelligibility limitations of naive pulse-modulation schemes.
@@ -460,14 +557,23 @@ of the claim becomes:
 
 This pass therefore **narrows** the Sharp/Grove speech claim rather than
 expands it. T2 (intelligible semantic speech via RF hearing) remains
-strengthened as a *published historical claim* via the secondary chain
-and weakened as a *protocol-grade established result* because no primary
-protocol record has surfaced.
+strengthened as a *published historical claim* via Justesen 1975 (primary
+account) and Lin 1978/2022 (secondary technical synthesis), and weakened
+as a *protocol-grade established result above and beyond Justesen 1975*
+because no separately-authored Sharp/Grove primary technical report has
+surfaced.
 
 ## 5. External sources
 
 - Justesen 1975, "Microwaves and Behavior," *American Psychologist*
-  30(3):391-401 — `https://doi.org/10.1037/0003-066X.30.3.391`
+  30(3):391-401 — DOI `https://doi.org/10.1037/0003-066X.30.3.391`
+  (APA record confirms title, volume, issue, pages, year, and a topical
+  abstract on RF / microwaves in psychology, Soviet involvement, wave
+  theory, and methodological/instrumentation issues); PubMed
+  `https://pubmed.ncbi.nlm.nih.gov/1137231/` (PMID 1137231; no abstract
+  available on PubMed). Classified in this file as the **primary
+  unclassified published account/report of the Sharp/Grove speech claim**
+  (see §2.3).
 - Sharp, Grove, Gandhi 1974, "Generation of acoustic signals by pulsed
   microwave energy," IEEE T-MTT 22:583-584 — referenced in Lin 1978
   bibliography
