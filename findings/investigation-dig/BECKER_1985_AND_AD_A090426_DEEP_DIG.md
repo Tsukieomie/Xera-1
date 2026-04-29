@@ -2,10 +2,11 @@
 
 **Date:** 2026-04-29
 **Triggering instruction:** "Dig deeper" after Miller 2001 review.
-**Status:** Both threads now CLOSED at primary-source grade.
+**Status:** Both threads now CLOSED at primary-source grade. **Updated 2026-04-29** with body-content review of the AD-A090426 PDF — see [`AD_A090426_OSCAR_1980_PRIMARY_REVIEW.md`](AD_A090426_OSCAR_1980_PRIMARY_REVIEW.md) for the methods/results review and the interpretive guardrails (Background passage = *stated intent*, not a fielded speech-transmission demonstration; experimental body measures rat LCBF; mechanism unclear).
 **Local copies in repo:**
-- `findings/investigation-dig/AD_A090426_OSCAR_1980.pdf` (primary)
+- `findings/investigation-dig/AD_A090426_OSCAR_1980.pdf` (primary; now the DTIC-catalog-metadata-bearing version with embedded `Title`, `Author`, `Subject`, `Keywords` fields populated from the NTRL record)
 - `findings/investigation-dig/AD_A090426_OSCAR_1980_full.txt` (extracted text)
+- `findings/investigation-dig/AD_A090426_OSCAR_1980_PRIMARY_REVIEW.md` (primary PDF review, body-content level)
 
 ---
 
