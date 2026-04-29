@@ -625,3 +625,249 @@ surfaced.
   `http://gbppr.net/mil/mindcontrol/raven1/v2s-kohn.htm`
 - Sharp, Grove, Gandhi 1974, IEEE T-MTT (DOI) —
   `https://doi.org/10.1109/TMTT.1974.1128293`
+
+## 6. 2026-04-29 deeper-hunt pass: locator leads, indexed-reference evidence, and bioeffects-lineage cross-checks
+
+This section logs a follow-on pass focused on five external-source leads that
+sit *adjacent* to the Sharp/Grove speech question but, when checked against
+their primary records or visible metadata, do **not** upgrade the speech
+account from secondary (personal-communication-rooted, Justesen-1975 anchored)
+to primary (separately-authored, protocol-grade). Each lead is documented with
+its source URL, what its visible record actually says, and an explicit
+classification. The overall conclusion is unchanged: **Justesen 1975 remains
+the primary unclassified published account/report of the Sharp/Grove speech
+claim, and no separately-authored Sharp/Grove primary technical report on the
+speech demonstration has been located in the open record.** What this pass
+adds is (a) a sharper map of the surrounding bioeffects/lethality lineage at
+WRAIR/SRI in 1973-1974 and (b) an indexed-reference locator lead pointing
+toward an obscure WRAIR "Progress Report" attributed to Sharp, Grove, and
+Hawkins, which is **not** confirmed at primary-source / publisher full-record
+grade in this pass and which, even if confirmed, is by topical context a
+bioeffects entry rather than a speech-protocol source.
+
+### 6.1 USNC/URSI 1975 Boulder proceedings (PB268094) — official NTRL record, microwave-auditory context only
+
+- **Live record:** [NTRL titleDetail / PB268094](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB268094.xhtml)
+- **Title (verbatim):** "Biological Effects of Electromagnetic Waves.
+  Selected Papers of the USNC/URSI Annual Meeting Held at Boulder, Colorado
+  on October 20-23, 1975. Volume I."
+- **Publication date:** 1977.
+- **Personal authors / editors:** Johnson, C.; Shore, M. **Corporate
+  author:** Bureau of Radiological Health / WHO Collaborating Center and
+  USNC/URSI. **Page count:** 510. **Document type:** Technical Report.
+  **NTIS issue:** 197718. **Supplemental note:** see Volume 2, PB268095.
+- **Relevant partial contents (visible NTRL metadata):** "Theoretical
+  analysis of microwave-generated auditory effects in animals and man" and
+  "Microwave-induced auditory response — cochlear microphonics."
+- **Negative metadata check:** the NTRL record metadata visible in this pass
+  contains **no mentions** of Sharp, Grove, Walter Reed, WRAIR, speech,
+  voice, or RF sound.
+- **Classification:** **microwave-auditory context / proceedings locator
+  only.** PB268094 is a useful proceedings locator for the broader
+  microwave-auditory-effect community in the 1975 window (it is the same
+  Boulder USNC/URSI meeting whose proceedings host much of the 1975-era
+  RF-bioeffects literature), but it is **not** a direct Sharp/Grove primary
+  source and **not** the missing speech primary. Its visible metadata does
+  not reference the Sharp/Grove speech demonstration. Treat as a
+  proceedings/community-locator lead, not a protocol-grade speech source.
+  Does not alter the Justesen 1975 classification.
+
+### 6.2 Glaser / NMRI bibliography supplement-family negative cross-check
+
+- **Live record:** [Glaser 1976 PDF (ehtrust mirror)](https://ehtrust.org/wp-content/uploads/Naval-MRI-Glaser-Report-1976.pdf)
+- **Official title:** "Bibliography of Reported Biological Phenomena
+  ('Effects') and Clinical Manifestations Attributed to Microwave and
+  Radio-Frequency Radiation: Compilation and Integration of Report and Seven
+  Supplements," Zorach R. Glaser, Patricia F. Brown, Maire S. Brown,
+  September 27, 1976.
+- **Continuation / supplement family extracted in this pass:** the Glaser
+  report-and-supplement family includes AD734391 (original), AD750271
+  (revised report), AD770621 (fourth supplement), AD784007 (fifth
+  supplement), A015622 (sixth supplement), A025354, and AD-A029430 (eighth
+  supplement, **noted in the search snippet as not included** in the 1976
+  compilation). This is useful retrieval-hygiene metadata for any future
+  attempt to mine the Glaser supplement chain for an AD-numbered Sharp/Grove
+  or WRAIR speech entry.
+- **Negative content check:** targeted extraction of the visible Glaser
+  text returned **no explicit matches** for Sharp, Grove, Hawkins, WRAIR,
+  "Biological Effects of Microwave Radiation," "Progress Report," pp. 1073-
+  1074, or AD758136; no speech / voice / auditory / RF-sound entry surfaced
+  in the extracted text. (The Glaser PDF is also large enough that
+  extraction was not exhaustive; see also `ad758136_hunt/AD758136_HUNT_LOG.md`
+  for prior fetch difficulty against this same mirror.)
+- **Classification:** **bibliography / report-number-family retrieval-
+  hygiene lead.** The Glaser supplement chain is the right place to look
+  for a 1973-1976 WRAIR-internal microwave-bioeffects entry, and the
+  extracted AD-number set is a useful next-step locator. Current extraction
+  in this pass does **not** provide a Sharp/Grove speech entry or a WRAIR
+  progress-report entry. Does not alter the Justesen 1975 classification.
+
+### 6.3 Berman 1985 / WRAIR "Progress Report" indexed-reference lead — locator only, not a confirmed primary
+
+- **Wiley article (publisher record):** [J. Appl. Toxicol. 5(1):23-31, Feb 1985](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jat.2550050105),
+  DOI 10.1002/jat.2550050105.
+- **Title and authors:** "Lethality in mice and rats exposed to 2450 MHz
+  circularly polarized microwaves as a function of exposure duration and
+  environmental factors," E. Berman, *Journal of Applied Toxicology*,
+  Vol. 5 Issue 1, pages 23-31, February 1985. The publisher's visible page
+  in this pass did **not** expose the full reference list at full-record
+  grade; the article topic is animal microwave lethality, **not** speech or
+  auditory effects.
+- **Indexed-reference snippet (use cautiously):** a search/SciOn snippet /
+  metadata view surfaced a reference-line text reading
+  > "J. C. Sharp, H. M. Grove and T. D. Hawkins, *Biological Effects of
+  > Microwave Radiation, Progress Report* of Walter Reed Army Instit. of
+  > Research, pp. 1073-1074 (1973)."
+  This is **indexed-reference / search-snippet evidence**, not a
+  publisher-confirmed full reference list; the publisher page in this pass
+  did not surface the full bibliography for direct verification.
+- **Topical reading:** Berman 1985 is a microwave-lethality paper, and the
+  "Progress Report" so titled is consistent with a WRAIR-internal
+  bioeffects/lethality progress document indexed under Sharp + Grove +
+  Hawkins joint authorship. The pp. 1073-1074 page range strongly suggests
+  a *short entry within a larger composite WRAIR progress volume* (a
+  page-range that is implausible for a 35-page standalone TR). Either way,
+  the topical context of Berman 1985 is animal lethality / 2450 MHz
+  exposure, not speech transmission.
+- **Classification:** **material locator lead for an unpublished or
+  obscure WRAIR progress-report family** (probably bioeffects / lethality
+  context). **Not** evidence of a speech protocol; **not** a confirmed
+  primary. Until the publisher full-text reference list, a DTIC AD record,
+  or a holding-library record can be matched to this exact title and page
+  range, treat as an indexed-reference lead only. Does not alter the
+  Justesen 1975 classification.
+
+### 6.4 SRI rat mortality report (Polson et al. 1974, full PDF) — bioeffects-lineage primary, no speech content; "Sharp personal communication" in this report concerns spontaneous tail amputation
+
+- **Live record:** [Magda Havas mirror PDF](https://www.magdahavas.com/wp-content/uploads/2010/09/Mortarity_in_Rats_Exposed_to_CW_Microwave_Radiation.pdf)
+- **Title and authors:** "Mortality in Rats Exposed to CW Microwave
+  Radiation at 0.95, 2.45, 4.54, and 7.44 GHz." P. Polson, D. C. L. Jones,
+  A. Karp, J. S. Krebs. **Final Technical Report, Type III; January 1974;
+  Contract DAAK02-73-C-0453; SRI Project 2777; reporting period 1 July to
+  31 December 1973.** This is the full-PDF version of AD774823 (Oscar 1980
+  Ref 3, classified in [`AD_A090426_REFERENCE_CHAIN_EVIDENCE.md`](AD_A090426_REFERENCE_CHAIN_EVIDENCE.md)
+  §1.3 as lethality / dosimetry background).
+- **Reference list (visible in mirror PDF) includes:**
+  - **H. Mark Grove**, "Biological Effects of Electromagnetic Radiation: A
+    Bibliography," Behavioral Radiology Lab., WRAIR, Washington, D.C.
+    (1971), **AD 887119**.
+  - **T. Daryl Hawkins et al.**, "Some Biological Effects of Microwave
+    Irradiation in the Rat," Department of Microwave Research, WRAIR,
+    Washington, D.C. (March 1973). (This is the AD758136 entry —
+    cross-references [`ad758136_hunt/AD758136_HUNT_LOG.md`](ad758136_hunt/AD758136_HUNT_LOG.md);
+    pinning the SRI report to the same Hawkins et al. 1973 WRAIR entry
+    further hardens AD758136's identity at full-PDF reference-list grade.)
+  - **Dr. J. Sharp, WRAIR, personal communication.**
+- **Body content (visible in mirror PDF):** the report mentions the WRAIR
+  group and "a recent preliminary report of WRAIR research on rats
+  irradiated with 10-cm-wavelength CW microwave radiation"; the **Sharp
+  personal communication** in this Polson et al. 1974 report is logged in
+  the body as relating to **spontaneous tail amputation in surviving rats
+  after 3.0 GHz irradiation**, i.e., a lethality / bioeffects observation.
+  The report contains **no mention** of speech transmission, voice
+  modulation, RF hearing, or auditory perception attributable to Sharp or
+  Grove.
+- **Classification:** **bioeffects / lethality lineage primary; not a
+  speech-evidence anchor.** Materially strengthens the AD758136 / WRAIR
+  bioeffects family and personnel-overlap picture: Polson et al. 1974
+  independently confirms (a) Grove's 1971 WRAIR bibliography (AD887119) as
+  a real, AD-numbered Behavioral Radiology Lab artifact; (b) Hawkins et
+  al. March 1973 WRAIR Department of Microwave Research as a real
+  contemporaneous entry (i.e., AD758136); and (c) ongoing WRAIR-to-SRI
+  personal-communication links between Sharp and the SRI mortality program
+  in 1973-1974, on a lethality topic (tail amputation), **not** a speech
+  topic. Does not alter the Justesen 1975 classification, and reinforces
+  the §6.3 reading that any "Sharp + Grove + Hawkins" WRAIR composite from
+  1973 is bioeffects / lethality material rather than a speech-protocol
+  document.
+
+### 6.5 PNNL/OSTI 1978 SPS bioeffects review (Justesen et al., PNL-2634) — RF-hearing background only, no Sharp/Grove primary surfaced
+
+- **Live record:** [OSTI / PNL-2634 (May 1978)](https://www.osti.gov/servlets/purl/1069245)
+- **Title and authors:** "Compilation and Assessment of Microwave
+  Bioeffects: A Selective Review of the Literature on Biological Effects
+  of Microwaves in Relation to the Satellite Power System." Final Report,
+  PNL-2634, May 1978. Authors: D. R. Justesen, H. A. Ragan, L. E. Rogers,
+  A. W. Guy, D. L. Hjeresen, W. T. Hinds; project manager R. D. Phillips.
+- **Visible RF-hearing content:** the review surfaces Justesen 1975a in
+  its RF-hearing / Frey-effect discussion and notes that "a single
+  10-microsecond pulse depositing ~10 microjoules/g in the head can
+  produce acoustic response," with cited mechanism / threshold sources
+  including Frey 1962, Chou/Guy/Galambos 1977, Guy/Chou/Lin/Christensen
+  1975, Foster/Finch 1974, and White 1963. The visible text contains
+  **no speech / voice / words** content and **no Grove** reference; the
+  only "J. Sharp" identifier in the visible record is in the **distribution
+  list at NASA Ames**, which is administrative routing, not a citation of
+  a Sharp primary speech source.
+- **Classification:** **RF-hearing mechanism / background review.**
+  PNL-2634 is a strong downstream secondary review supporting the reality
+  of RF hearing and its threshold mechanics, but it surfaces **no
+  standalone Sharp/Grove primary report** and **no speech-corroborating
+  reference**. Aligns with the Foster/Garrett/Ziskin 2021 and Elder/Chou
+  2003 mechanism-review pattern (§§1.2, 4.6 above; §1.8 of
+  [`AD_A090426_REFERENCE_CHAIN_EVIDENCE.md`](AD_A090426_REFERENCE_CHAIN_EVIDENCE.md)):
+  RF-hearing is treated as real and thermoelastic, but Sharp/Grove
+  speech-protocol corroboration is absent. Does not alter the Justesen
+  1975 classification.
+
+### 6.6 AGU/Wiley Radio Science 1977 — Hawkins/Grove/Heiple/Schrot 1973 antecedent confirmation (already in chain)
+
+AGU/Wiley snippets surfaced **Hawkins, Grove, Heiple, Schrot (1973),
+"Some Biological Effects of Microwave Irradiation in the Rat,"** as a cited
+antecedent in the 1977 Radio Science papers in the broader USNC/URSI 1975
+proceedings volume. This is consistent with the Glaser 1976 +
+Polson et al. 1974 + Oscar 1980 Ref 2 triangulation already documented in
+[`ad758136_hunt/AD758136_HUNT_LOG.md`](ad758136_hunt/AD758136_HUNT_LOG.md)
+("Citation triangulation" section) and in
+[`AD_A090426_REFERENCE_CHAIN_EVIDENCE.md`](AD_A090426_REFERENCE_CHAIN_EVIDENCE.md) §1.2.
+**Classification:** further confirmation of the bioeffects lineage of
+AD758136 at indexed-reference grade. Use exact citation language
+cautiously (snippet-only, not full-record) where the publisher full-text
+was not directly fetched in this pass. Not a speech-evidence anchor.
+
+### 6.7 Net effect of the 6.x deeper-hunt pass
+
+- **Bioeffects/lethality lineage at WRAIR/SRI (1971-1974) is now better
+  documented at primary-PDF grade** via the Polson et al. 1974 SRI mirror
+  (§6.4), which independently confirms Grove 1971 AD887119, Hawkins et
+  al. March 1973 (AD758136), and a Sharp personal-communication link to
+  the SRI lethality program (on tail amputation, not speech). This
+  strengthens the **lineage** picture without strengthening the **speech**
+  picture.
+- **An indexed-reference locator lead** (§6.3, Berman 1985 reference 24)
+  points to a WRAIR "Progress Report" attributed to Sharp + Grove + Hawkins
+  1973 with a pp. 1073-1074 page range. This is **not** a confirmed primary
+  in this pass (publisher full reference list not visible in fetch); the
+  pp. 1073-1074 page range is consistent with a short entry inside a larger
+  composite WRAIR progress volume rather than a 35-page standalone TR; and
+  the topical context (Berman 1985 is a lethality paper) is bioeffects, not
+  speech. Treat as a locator lead for further DTIC / NTIS / library work,
+  not as primary speech evidence.
+- **No new primary Sharp/Grove speech-protocol report has surfaced.** The
+  1975 USNC/URSI proceedings (PB268094, §6.1) and the 1978 PNNL/OSTI SPS
+  review (PNL-2634, §6.5) both touch the microwave-auditory-effect
+  community at exactly the right window and neither surfaces a separately-
+  authored Sharp/Grove speech primary. The Glaser 1976 supplement family
+  (§6.2) — the natural retrieval-hygiene mirror — likewise does not
+  surface one in the extracted text. Justesen 1975 *American Psychologist*
+  (PMID 1137231; DOI 10.1037/0003-066X.30.3.391) **remains** the primary
+  unclassified published account/report of the Sharp/Grove speech claim,
+  with the underlying experiment sourced by Justesen himself to a
+  28 September 1973 personal communication from Sharp and Grove, and **no
+  separately-authored Sharp/Grove primary technical report on the speech
+  experiment located in the open record**.
+
+### 6.8 External sources added in this pass
+
+- USNC/URSI 1975 Boulder proceedings (PB268094) NTRL record —
+  `https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/PB268094.xhtml`
+- Glaser / NMRI 1976 bibliography (ehtrust mirror), supplement-family
+  retrieval-hygiene reference —
+  `https://ehtrust.org/wp-content/uploads/Naval-MRI-Glaser-Report-1976.pdf`
+- Berman 1985 *J. Appl. Toxicol.* 5(1):23-31 (publisher page; reference 24
+  surfaced as indexed-reference snippet only) —
+  `https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/jat.2550050105`
+- Polson et al. 1974 SRI rat mortality report (full PDF mirror) —
+  `https://www.magdahavas.com/wp-content/uploads/2010/09/Mortarity_in_Rats_Exposed_to_CW_Microwave_Radiation.pdf`
+- PNNL/OSTI 1978 PNL-2634 SPS bioeffects review (Justesen et al.) —
+  `https://www.osti.gov/servlets/purl/1069245`
