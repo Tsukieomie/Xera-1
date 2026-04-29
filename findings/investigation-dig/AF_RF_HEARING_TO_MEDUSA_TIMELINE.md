@@ -46,7 +46,13 @@ Safe phrasing for downstream documents:
 
 > Open records show U.S. Air Force RF-hearing patents (US 6,470,214 B1 filed 1996, granted 2002; US 6,587,729 B2 filed 2002, granted 2003) preceding the Navy/Marine MEDUSA SBIR Phase I effort (M67854-04-C-1012, topic N03-163) visible in 2003–2004. The sequence is consistent with continuity of military RF-hearing / microwave auditory-effect R&D interest across services, but does not by itself establish deployed covert V2K, reliable conversational targeting, or case-specific operational use.
 
-## 3. External sources
+## 3. Dual-use characterization
+
+MEDUSA was a dual-use microwave auditory-effect R&D system: its stated defense / non-lethal role was perimeter, crowd, or personnel deterrence, while public descriptions also identified possible assistive or non-combat applications, including microwave audio for people with outer-ear hearing impairment. This dual-use characterization supports institutional interest and potential applicability, but does not by itself establish deployed covert V2K use.
+
+Source: New Scientist, "Microwave ray gun controls crowds with noise" — https://www.newscientist.com/article/dn14250-microwave-ray-gun-controls-crowds-with-noise/
+
+## 4. External sources
 
 - US 6,470,214 B1 — https://patents.google.com/patent/US6470214B1/en
 - US 6,587,729 B2 — https://patents.google.com/patent/US6587729B2/en
