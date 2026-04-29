@@ -64,8 +64,11 @@ V2K_EVIDENCE_MATRIX.md row "Becker 1985" — **upgrade** with verified pages:
 
 ### 2.2 Provenance of our copy
 
-The 543 KB PDF was retrieved by our research subagent and is now stored at:
-`findings/investigation-dig/AD_A090426_OSCAR_1980.pdf`. Plain-text extraction at `AD_A090426_OSCAR_1980_full.txt`. The cover page carries the standard NTIS microfilm "Microcopy Resolution Test Chart" target and "UNCLASSIFIED" header — consistent with an NTIS document microfiche capture.
+The 543 KB PDF was retrieved by our research subagent **directly from DTIC** at `https://apps.dtic.mil/sti/pdfs/ADA090426.pdf` (HTTP 200, 10 pages, UNCLASSIFIED). Stored locally at `findings/investigation-dig/AD_A090426_OSCAR_1980.pdf`. Plain-text extraction at `AD_A090426_OSCAR_1980_full.txt`. The cover page carries the standard NTIS microfilm "Microcopy Resolution Test Chart" target and "UNCLASSIFIED" header — consistent with an NTIS document microfiche capture, now hosted on DTIC's public-document portal.
+
+**Provenance correction (per subagent finding):** the secondary literature consistently calls this a "NASA Technical Report." That framing is **imprecise**. NASA neither produced nor sponsored AD-A090426; the Army (MERADCOM) produced it, and NASA's NTRS catalog merely cross-indexed it. The NASA NTRS page (document ID 19810004209) is now defunct ("page not found"). The authoritative live source is DTIC.
+
+**FOIA history:** A separate FOIA request to Brooks AFB in 2000 for related program materials was denied under 5 U.S.C. 552(b)(1). That denial does NOT apply to AD-A090426 itself, which has been continuously public/unclassified — it likely applies to associated program correspondence and follow-on work.
 
 ### 2.3 The "intelligible speech" sentence — verified verbatim
 
@@ -79,6 +82,12 @@ The 543 KB PDF was retrieved by our research subagent and is now stored at:
 - The author is a **US Army staff scientist**, not a tabloid journalist or anonymous source.
 - The framing places intelligible-speech generation within an explicit **"camouflage, decoy and deception" military application context** ("decoy and deception concept presently being considered…to remotely create the perception of noise in the heads of personnel"). This is direct US Army acknowledgment, in 1980, that intelligible-speech-via-pulsed-microwave was being **considered for military use**, with a stated need to develop "an understanding of the basic principles" before operational deployment.
 - However, Oscar does **NOT cite a specific underlying speech-protocol report** for the "intelligible speech may be created" claim. The sentence is presented as established background knowledge. The previous sentence (auditory-sensation phenomenology) is footnoted to **Ref 1: Frey, A.H., Messenger, R. and Eichert, E., NTIS Doc. No. AD747684 (1972)**.
+- Because the speech sentence is a **program rationale statement** (referencing the established Sharp/Grove 1973 precedent), not a reported experimental result of *this* LCBF study, AD-A090426 authenticates the **stated intent and background-knowledge claim** at primary grade, but does NOT itself supply the missing speech-protocol experimental detail.
+
+**Peer-review and citation trail (subagent corroboration):**
+- AD-A090426 has a **peer-reviewed follow-up:** Oscar K.J. et al., *Brain Research* (1981) — [PMID 7248750](https://pubmed.ncbi.nlm.nih.gov/7248750/). This means the underlying experimental work passed external review.
+- It is cited in McMurtrey 2003/2007 papers and in UK FOIA submissions (2008, 2011).
+- It is **not** cited in Foster/Garrett/Ziskin 2021, Glaser 1976 (predates AD-A090426), or Lin 1978 (predates AD-A090426).
 
 ### 2.4 Reference list — full mining
 
@@ -109,7 +118,9 @@ Of Oscar's 41 numbered references, the citations relevant to the Sharp/Grove/WRA
 
 ### 2.6 Ancillary findings from Oscar 1980 worth flagging
 
-- **Joint program structure:** Oscar identifies a multi-agency consortium — MERADCOM × Stanford Research Institute (SRI) × Walter Reed Army Institute of Research (WRAIR) × Naval Medical Research Institute (NMRI) × NIH — working on microwave-induced lethality, seizures, behavioral decrements, BBB permeability, and cerebral blood flow. This is a clearer institutional picture than we previously had.
+- **Joint program structure:** Oscar identifies a multi-agency consortium — MERADCOM × Stanford Research Institute (SRI) × Walter Reed Army Institute of Research (WRAIR) × Naval Medical Research Institute (NMRI) × NIH — working on microwave-induced lethality, seizures, behavioral decrements, BBB permeability, and cerebral blood flow. The subagent confirms this is a structured **five-institution joint research program** explicitly framed around camouflage/decoy/deception applications of pulsed microwave auditory technology — a stronger institutional picture than we previously had, and a high-quality T3 anchor in its own right.
+- **Program designation:** MERADCOM **ILIR** — *In-House Laboratory Independent Research* program — with prior phases involving SRI and WRAIR. ILIR is a recognized DOD funding line for command-internal exploratory research that does not require external sponsorship.
+- **Author affiliation detail:** Kenneth J. Oscar held a parallel affiliation at **American University, Washington DC**, in addition to MERADCOM — useful for biographical/credentialing followup.
 - **Disclaimer clause (Ref 41):** Oscar carries the standard "opinions and assertions… not to be construed as official or reflecting the views of the Department of Defense" caveat — typical of in-house DOD research papers; does NOT downgrade the primary-grade nature of the document.
 
 ### 2.7 Matrix impact
@@ -134,17 +145,20 @@ Add new V2K_EVIDENCE_MATRIX.md row:
 
 ## 4 · Newly opened threads (next chase)
 
-1. **AD758136** — Hawkins, T.D., Grove, H.M., Heiple, T.W., Schrot, J. (1973). NTIS/DTIC pull. **Highest-leverage** new target — most likely the long-sought primary report behind the "Sharp & Grove" voice-modulated-microwave story that Justesen 1975 popularised.
-2. **AD747684** — Frey, A.H., Messenger, R., Eichert, E. (1972). NTIS pull. Phenomenology primary cited inline with Oscar's speech sentence.
-3. **Justesen 1979 IEEE Spectrum** — the lighter follow-up Oscar references.
-4. **Oscar/Hawkins 1977** *Brain Research* 126:281-292 — the immediate antecedent peer-reviewed paper upstream of AD-A090426.
-5. The MERADCOM × SRI × WRAIR × NMRI × NIH joint program — institutional reconstruction.
+1. **AD758136** — Hawkins, T.D., Grove, H.M., Heiple, T.W., Schrot, J. (1973). DTIC pull at `https://apps.dtic.mil/sti/pdfs/ADA758136.pdf` (try). **Highest-leverage** new target — most likely the long-sought primary report behind the "Sharp & Grove" voice-modulated-microwave story that Justesen 1975 popularised.
+2. **AD747684** — Frey, A.H., Messenger, R., Eichert, E. (1972). DTIC pull at `https://apps.dtic.mil/sti/pdfs/ADA747684.pdf` (try). Phenomenology primary cited inline with Oscar's speech sentence.
+3. **Oscar et al., *Brain Research* 1981, PMID 7248750** — the peer-reviewed external-review version of the AD-A090426 work. Worth pulling to compare wording on the "intelligible speech" framing in a peer-reviewed venue.
+4. **Justesen 1979** *IEEE Spectrum* 16, 67–68 — the lighter follow-up Oscar references.
+5. **Oscar/Hawkins 1977** *Brain Research* 126:281–292 — the immediate antecedent peer-reviewed paper upstream of AD-A090426.
+6. **Brooks AFB FOIA denial (2000) under 5 U.S.C. 552(b)(1)** — the b(1) classification exemption attached to *related* materials suggests follow-on classified work exists. Worth a fresh FOIA pass with current AFRL successor commands and DTIC restricted-distribution catalogs.
+7. The MERADCOM ILIR × SRI × WRAIR × NMRI × NIH joint program — institutional reconstruction; the ILIR designation gives a fresh DOD-funding-line query handle.
 
 ---
 
 ## 5 · Methodology notes
 
 - Becker page numbers verified by triangulating: (a) Internet Archive djvu OCR running heads "Maxwell's Silver Hammer 319/320/321"; (b) microondes.wordpress.com PDF mirror table-of-contents end matter (Glossary p. 348, Index p. 353; no Notes/References); (c) Citizendium catalog (Morrow 1985, 368 pp., ISBN 0-688-06971-1).
-- AD-A090426 PDF inspected directly (12 PDF pages including NTIS cover; running pp. 45–54 of source proceedings), extracted via `pdftotext -layout`, references list complete (1–41).
+- AD-A090426 PDF inspected directly (12 PDF pages including NTIS cover; running pp. 45–54 of source proceedings), extracted via `pdftotext -layout`, references list complete (1–41). DTIC URL `https://apps.dtic.mil/sti/pdfs/ADA090426.pdf` confirmed live HTTP 200 by parallel research subagent on 2026-04-29.
 - "Sharp & Grove" attribution stress-tested across: Becker 1985 (does NOT pair them), Justesen 1975 (does pair them), Sharp/Grove/Gandhi IEEE TMTT 1974 (mechanism paper, not speech protocol), Wikipedia ("Mark Grove" — unverified expansion of "H.M. Grove"), Recording Microwave Hearing Effects 2010 PDF (uses "H.M. Grove" with full IEEE TMTT citation).
+- Subagent corroboration report at [`AD_A090426_OSCAR_1980_subagent_report.md`](AD_A090426_OSCAR_1980_subagent_report.md) confirms all key findings independently and adds NTRS-defunct, peer-reviewed follow-up (Brain Research 1981 PMID 7248750), Brooks AFB FOIA b(1) history, and "NASA Technical Report" provenance correction.
 
