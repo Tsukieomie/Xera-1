@@ -1,0 +1,610 @@
+              *********D
+               EFFECTS OF LOW POWER MICROWAVES ON THE LOCAL CEREBRAL BLOOD FLO--ETClU)
+
+UNCLASSIFIED                                                                N
+
+
+         II
+           1.L611
+              11L 12.5
+    1111                   2
+                           1U.
+
+      11 1112.0
+
+
+
+
+11111
+ -25R _
+
+
+
+MICROCOPY RESOLUTION   TEST CHART
+         OSCAR
+
+
+
+
+                 I ,   EFFECTS OF LOW
+                                      POWERICROWAVES
+                                                       ON THE0CAL
+                          CEREBRA-L BLOOD FLOW OF CONSCIOUS RATS
+
+
+
+                                ENNTH,j*~CAR~        Ph.D.
+              US ARMY MOBILI                        AND DEVELOPMENT COMMAND
+                               FORT BELVOIR, VIRGINIA 22060         /
+
+
+                                        Background
+
+                 Camouflage, decoy and deception techniques can play a decisive
+         role on the modern battlefield. The rapid advance of surveillance,
+         targeting and weapons homing sensor technology now makes every ele-
+         ment which is detected almost assured of being destroyed. Camouflage,
+         decoy and deception equipment and techniques are a low cost way to
+         increase survivability and shift this balance by reducing the signa-
+         ture of targets (camouflage), increasing the signature level of the
+         background (clutter), creating false targets (decoy), and distorting
+         the perceived target value (disguise).
+
+                 eL-decoy and deception concept presently being considered is
+         to remotely create the perception of noise in the heads of personnel
+         by exposing them to low power, pulsed microwaves. When people are
+         illuminated with properly modulated low power microwaves the sensa-
+         tion is reported as a buzzing, clicking, or hissing which seems to
+         originate (regardless of the person's position in the field) within
+         or just behind the head *1-   The phenomena occurs at average power
+         densities as low as microwatts per square centimeter with carrier
+         frequencies from 0.4 to 3.0 GHz. By proper choice of pulse charac-
+S        teristics, intelligible speech may be created. Before this technique
+         may be extended and used for military applications, an understanding
+    D    of the basic principles must be developed. Such an understanding is
+C...)    not only required to optimize the use of the concept for camouflage,
+Sdecoy         and deception operations but is required to properly assess
+  _j     safety factors of such microwave exposure.
+
+
+
+
+                                              45
+
+
+                       ,-,10-
+                        w ,::. .:                                 i 7-
+                                                                     ,/ O4
+                                                         in       17            0
+  OSCAR
+
+
+         Under MERADCOM's In-House Laboratory Independent Research
+(ILIR) Program an experimental effort to explore the basic interac-
+tion between microwaves and brain function has been conducted. In
+a joint program with MERADCOM, Stanford Research Institute (SRI)
+and Walter Reed Army Institute of Research (WRAIR), it was shown for
+the first time that lethality, seisures and behavioral performance
+decrements were stongly frequency and polarization dependent (2,3). A
+later colaboration between MERADCOM and WRAIR demonstrated for the
+first time increases in the differential uptake of saccharides to
+water in several brain regions of rats when exposed to low power
+microwaves of the same characteristics which can create the percep-
+tion of noise in people (4). These increases could be caused by
+alterations of the blood-brain barrier, brain blood volume, cerebral
+blood flow, or some combination of the above. In order to better de-
+fine and understand these results a joint program was undertaken with
+MERADCOM, Naval Medical Research Institute (NMRI) and the National
+Institutes of Health (NIH) to measure local cerebral blood flow in
+conscious rats when exposed to low power, pulsed microwaves. It is
+these experiments which will be reported here.
+
+                            Introduction
+
+         Recent experiments indicating that low power microwaves may
+affect brain activity and possibly alter central nervous system
+function have caused wide spread concern regarding the safety of such
+exposure. Seemingly conflicting experimental results, difficulties
+in extrapollating animal findings to humans, problems of dosimetry,
+and misunderstanding over what constitutes an effect versus a hazard
+have created a controversy in the area of microwave safety (5).   Of
+particular concern have been recent reports, from several different
+laboratories (4, 6-9), that low power microwaves may aler the per-
+meability of the blood-brain barrier (BBB). Several of the techni-
+ques (10,11) used to measure BBB permeability depend on constant
+blood flow during the experiment. We now report for the first time
+that microwave exposure increases local cerebral blood flow (LCBF) in
+the conscious rat and suggest that previously reported BBB permea-
+bility changes (4), maW be less in magnitude than originally indica-
+ted.
+
+         Development of the in vivo 1 4 C-2- deoxyglucose technique (12,
+13) as a measure of glucose consumption and the in vivo 1 4 C- iodoan-
+tipyrine technique (14) as a measure of LCBF have resulted in experi-
+ments (15) yielding convincing evidence that local blood flow is
+regulated by the metabolic activity of that region. Further experi-
+ments (16,17) have led to the demonstration that brain functional
+ activity, sensory stimulation, cerebral temperature, biochemical
+
+
+                                   46
+OSCAR
+
+balance, blood volume, metabolism, BBB permeability, and blood flow
+are coupled. Microwave exposure has been experimentally shown to
+affect all of these parameters except LCBF. Humans and small animals
+can perceive microwaves as auditory sensations (18).  Microwave and
+very high frequency (VHF) energy have influenced spontaneous and
+conditioned electroencephalographic patterns in cats, rabbits, and
+rats (19-21). Low-level pulsed and continuous wave (CW) microwaves
+have altered glucose consumption in the auditory structures of rat
+brain (22). Low intensity microwaves have caused thyroid suppression
+and adrenomdullary activation (23). Microwaves have also been repor-
+ted to affect behavior (24-28), neurotransmitter levels (29), BBB per-
+meability (4,6-9) cerebral calcium efflux (30,31) and behavioral base-
+lines to pharmacological agents (32).  It seemed a reasonable hypo-
+thesis then that microwaves would alter brain blood flow. If so, the
+measurement of LCBF in the conscious animal would provide a valuable
+technique to map the regional influence of microwaves and lead to a
+better understanding of microwave safety factors and general brain
+function.
+
+                         Materials and Methods
+
+          In 1955 the first method (33,34) for quantitative determina-
+tion of the rates of blood flow in discrete brain structures was
+reported; the method employed the radioactive gas tracer 13 1 1-trifluo-
+riodomethane along with the principles of inert gas exchange. This
+radioactive gas was chosen because diffusional equilibrium between
+brain and blood is established almost instantaneously when it is ad-
+ministered. Two technical problems are encountered in the use of this
+technique of a volatile gas tracer:     short half life and difficult
+assay. To overcome these problems, investigators have used 1 4 C-anti-
+pyrine as a nongaseous tracer; however, it provides values of local
+cerebral blood flow that are considerably below those obtained with
+radioactive gases (35,26). In addition, transfer of antipyrine from
+blood to brain is limited by its comparatively low diffusion at the
+cerebral vasculature. Recently, a new method has been developed that
+uses 1 4 C-iodoantipyrine and an audioradiographic assay (37).   The 1 4 C-
+iodoantipyrine has a higher oil/water partition coefficient than
+14C-antipyrine, is more permeable at the cerbrovasculature, and pro-
+vides values of local cerebral blood flow that are comparable to those
+obtained with 1 3 1 I-trifluoriodomethane.
+
+        The present blood flow experiments were performed with
+14c-iodoantipyrine measured by brain homogenization and liquid scintil-
+lation counting (38).   Although scintillation counting does not give
+the structural resolution of audioradiography and densitometry, it is
+repeatable, fast, quantitative, and technically easier. Male Wistar
+
+
+
+                                     47
+    OSCAR
+
+
+    rats from the Walter Reed colony were provided food and water ad libi-
+    tum until they had grown to a body weight of 250-320g. All animals
+    were prepared for the experiments by insertion of polyethylene cathe-
+    ters into one femoral artery and vein under sodium pentobarbital (35
+    mg/Kg, i.p.) anesthesia. After surgical preparation, the hindquarters
+    were wrapped in a loose-fitting plaster cast and secured to a styro-
+    foam block. The animals were allowed to recover from anethesia for
+    4 hours or more before the experiment. Conscious rats could freely
+    move their forequarters, head and neck, and appeared comfortable.
+
+             The rats were selected randomly and individually exposed for
+    5, 30, or 60 minutes to sham irradiation (controll) or for 5, 15, 30,
+    45, or 60 minutes to pulsed microwaves of 15mW/cm average power
+    density. A microwave anechoic chamber (2m wide by 3m high by 3m long)
+    maintained at 23+ 20C was used for exposure. This chamber also aided
+    in the reduction and standardization of possible background noise
+    stimulation. All microwave exposures were at a frequency of 2.8 gHz,
+    a pulse rate of 500 pps, and a pulse width 2p sec. Exposures were
+    produced by a 40KW pulsed microwave generator (Applied Microwave Lab.,
+    PH40) coupled to a standard gain horn. The field intensity was
+    measured with a field intensity meter (National Bureau of Standards)
+    and an isotropic radiation monitor (Narda Model-8300). Overall
+    accuracy of reported average power density measurements is estimated
+    to be better than + 25%.
+
+             Within 5 min after sham or microwave exposure, the catheter
+    in the femoral vein was connected to a 5-ml syringe, which was mounted
+    in a constant-flow pump (model 3A1, Sage Instruments) and set to de-
+    liver at a rate of 0.78 ml min - • The femoral veiD was then infused
+    for 50 s with isotonic saline containing 5pC/ml of 14 C-iodoantipyrine
+    (New England Nuclear, specific activity = 50 mC/mmol). Periodically
+    during infusion, 2 0i samples of arterial blood were collected into
+    heparinized vials. The rats were decapitated 50 seconds after infu-
+    sion. Brain regions were dissected out according to the method of
+    Chiueh et al, (39,40) placed in tared scintillation vials, and weighed.
+    The tissue and whole blood samples were dissolved and subjected to
+    routine liquid scintillation counting (Beckman, LS-9000).
+
+             Local cerebral blood flow, F, was calculated from the equation
+    first derived by Kety (33,34):
+
+
+
+                     Cbraun (T) -mF>   Cblood (t)   e-mF(T-tAt
+
+
+
+
+                                       48
+
+
+
+
+e
+OSCAR
+
+
+where Cbrain (T) equals the tracer concentration (dpm/g) in the brain
+parenchyma (excluding intravascular concentration) at time T; m is a
+constant between 0 and 1 that represents the extent to which diffu-
+sional equilibrium between the tissue and blood is reached (for
+iodoantipyrine m=l); Cblood (t) equals the tracer concentration (dpm/
+ml) in the arterial blood as a function of time; X equals the steady
+state, tissue: blood partition co-efficient (0.8 for iodoantipyrine);
+t equals the variable time; and T equals the time from initial infu-
+sion to decapitation. Cbrain (t), which represents intraparenchymal
+brain concentration of tracer, was obtained by subtracting intravascu-
+lar from net regional radioactivity when the former quantity was
+taken as the product of regional blood volume and blood concentrate
+at time T.
+
+                       Results and Discussion
+
+         The results of the present study indicate that low-power
+pulsed microwave exposure increases the LCBF in the conscious rat.
+By 60 minutes of exposure, the blood flow in all 17 brain regions
+sampled increased a minimum Of 39% with many increasing well over
+100%. The calculated values of blood flow for all exposures are
+presented in Table 1. The LCBF values for the control animals sub-
+jected to either 5, 30 or 60 minutes of sham exposure were unchanged
+and are combined in the table. In six regions both the left and
+right brain structures were individually sampled. No left right
+differences were observed, and after statistical testing these data
+were pooled and denoted as " P " in the table. The first brain re-
+gion affected, after only 5 minutes of microwave exposure, was the
+inferior colliculus. The largest blood flow increases occurred after
+60 minutes of microwave exposure and were in the pineal, pituitary,
+gemporal cortex, inferior colliculus, lateral g-eniculate, medial
+geniculate.
+
+          The LCBF values of the control animals varied from 0.86 to
+1.84 cm 3g-I min-l and are in close agreement with those in the recent
+literature. In the conscious rat, the values of LCBF are higher in the
+visual, auditory, and sensorimotor areas due to normal external stimu-
+lation of these systems. The increased LCBF values after short time
+microwave exposure, 5 to 30 minutes, occurred in these same sensory
+regions and suggest along with experiments of Wislon et al (22) indi-
+cating microwave induced glucose consumption changes in these re-
+gions, that microwaves are increasing the metabolic activity through
+direct or indirect excitation of brain tissue. After longer microwave
+exposure, 60 minutes, all the sampled brain regions displayed large
+LCBF increases of a magnitude which suggest a gross alteration of
+
+
+
+
+                                   49
+OSCAR
+
+
+                            .       0 -4         00 0                             n-                        n0                                                                                  004
+                    '.%              n (         0 (n0                      (-4           "cn                   '4                      I -4 1                       0 0-4 0
+
+                             r.                            .t1.4(r-e.                                                                  w0           0 0             44           0     u -4
+                                                                                                                                                                                       1.a                   4
+                    a                    4                                            4            P,           1C0ITJ-*C                                   44       c     0 14 4                    0           .
+          0                                                             n-                WMr                                               0       0       0              W 0 w *..                     4
+
+0                                                                                                                                            .0     0.30      wa01&        " w
+"0                                                                                                                                      is c -0                W     l. 04800
+                            o~                                                                                                               "U'JI~~O
+                                                                                                                                                 to.03.1em      "q
+                                                                                                                                       I1.4       0 j0) 0
+                                                                                                                                                 =-              b      LA4 4,
+0                                   c0000000000                                  0                                                         04             0. 03.44       -
+           W48                      L0   0    1                                   -4                                      0                      030144  4U-4       tO0r."
+           $.                            .    .4 .4 .                       .         .                 .       .                                                    000               :4        4
+
+
+                        T                                                                          C4                                  I         0 :0
+                                                                                                                                                 ;w~                       0.          0 0 .iW
+                                                                                                                                   en4                          w . 4)     w .J-40 "~WE!             r       -
+                                                                                                                                                u           01           3w           4miWOI             "1
+                                    00tV                   ?0%L                   nC *M00                                              c 0W                          0f:         w    .4       =-4 w     4
+                                         0       en        mmo
+                                                             o          -         N       -        N            4 -                                     0 -4               cc     4             w bC.-4
+10         1.1        ,                  ..                                           ..                                                         0 Mc
+                                                                                                                                                   .  34j44
+                                                                                                                                                      W     r                                         0
+ o         u        0:              0                                                                                                                           w           a
+
+              04    -                                                       eJ                 '- "4                                                    0                   V0
+                                                                                                                                                                            0-4
+                            po       ~ ~ %D~                                              ~ D                        ~
+                                                                                                                     '                 +4
+                                                                                                                                       40               0n 0                0)
+                                                                                                                                                                           .nM0                              0
+          N0        0g                   .04-              *3                                                                                                        -1               .4                     H
+                    en03-                    +                  :c               C            ;C                          ;            U0.00                                 -0
+                                                                                                                                                                            00                   W       4
+                                     03           U4~                        r'-4000-40.4-4=                                                                                      :s404
+                                                                                                                                                                                      c: r-44
+                                    -)                                                                                                 00030 44'
+                                                                                                                                       M                                        4     "4.0
+
+$0%                                                                     0e
+                                                                           ~0 0%                            M
+                                                                                                                                       r. =4 0
+                                                                                                                                       .00.041
+                                                                                                                                                 4-to0
+                                                                                                                                                                           0)4
+                                                                                                                                                                                    0      00
+                                                                                                                                                                                            0        .0W
+UD        Ln        00                                                            -       0-                -        -                                  *4401.40                  03W444                     w
+                                                                               w 4J 4-0       M.- 4 4        -
+          cc
+                            U
+                                     ~J--0
+                                       -
+                                             -4-
+                                            ca 0 0r,
+                                                      4-4
+                                                             rLn -
+                                                                            A0.
+                                                                            1
+                                                                                    04
+                                                                                    04
+                                                                                          w " 0
+                                                                                         0H         W
+                                                                                                        bc
+                                                                                                           ,I44
+0                                   .    ..      ..           ..               c       A     P4 4,41.w0            0
+              04-                                   -     40      0-          4H           .4840 c:           m
+                                                                               W0      C3    -    U -444 W   W     0
+0.                                                                             r-      04 "8 4 v4                -W
+                                    wQ00 Q4- m~'O as Q  t-1$U4r O
+                                                            -
+                                                                              4:r0)
+                                                                     0ll~~+~++~~i~
+                                                                            0     04
+                                                                                                         4WWC
+                                                                                          0 4-4 4 0 4-H 0-4
+                                                                                                              0*
+          Wr
+
+          0             0
+                                    0                 4H
+                                                              cj
+                                                                                                                U
+                                                                                                                                       >                en .       w
+                                                                                                                                                                     W c1ld(' 00
+                                                                                                                                                                       )c       ~-H                      ~44C
+                                    on           C4 -en4                                           C,                c0                         4            -1..0           .v4                                     0)
+                    UM-4-4-                                     4       -4-4                   -    IA                                  0               Lfn U-4 0004-8           *0
+                            0344                                                                                                                0 W 0 3444       03M.   0
+                                                                                                                                                .00a) w a  48 04" 01.4.4H
+                                0                                                                                                                  c m3.-k  m    0 -    V00
+0                       4                                                                                                               00.."-I0to                         .4848                                      s
+                                                                                                                                       P4               (03r. 030 C-4 _m4J
+          on
+                            4        -4 -.            44      4. 0
+                                                                                          w3%
+                                                                                            (YC~0
+                                                                                              enU
+                                                                                                    -4               1-.00484
+                                                                                                                                       .0 0                4-4 c: H & )      0.Wm
+                                                                                                                                                                          oUw "-I.~
+                                                                                                                                                                                               ~-H4
+                            44               0         $4                                                                               w BIC W       403    010 "4w
+      0    0.       10                                                                    OOOO                                          0   w030.           " 03W        t
+                            0w0                                                                01                                      .00    r--tt-C07JOI-
+                                                                                                                                                     00:     " 1     .0
+                                                                                                                                                                      44
+
+U     0             enG                                             0                     .             .                                                   0U              M0 0                c.c              00
+'44        00                                                                                                                                                        0
+44        .0                                                                                                                                                W403
+                                                                                                                                                               -H                          U     .               0
+                                                 LM4m                                                                                                           W.1
+                                                                                                                                                            14804                                                     0
+                                                       0..                       '4)                                                        u3          4       w4                                   L03              cc
+                          0
+                      03~~~~                                 '00.4                                                                                               W~44W           Mo
+                    m4    w                       03004                          0.0e..      w
+                                                                                           W '
+                                                                                                                                   ~                              44          0rH44
+                                                                                                                                                                  0.4 V.~ w..00
+                                                                                                                                                                              0. 41v00
+.0                  W     04.0.
+                    E002
+                    4p                                 03
+                                                       E.44                      >".44 U o"~                                                            0
+
+
+
+
+                                                                                                                              50
+OSCAR
+
+
+brain function due possibly to stress from microwave induced tempera-
+ture rise, fatigue, brain stimulation, biochemical imbalance, neuro-
+transmitter release, etc.
+
+         One area impacted by these results is the selection of
+techniques to quantitatively measure the affects of microwaves on
+BBB permeability. The dual indicator techniques of Oldendorf or
+Crone use either highly diffusible or relatively non diffusible inter-
+nal standards and rely on constant circulatory flux during the
+experiment. Most previous studies reporting BBB permeability changes
+due to microwave exposure used protein bound markers and observation
+with optical, fluorescent, or electron microscopy. The one study, (4),
+reporting quantitative measurement of microwave induced BBB permea-
+bility increases used the Oldendorf technique with tritiated water as
+the internal standard. It has been subsequently found that water does
+not freely equilibriate in the brain, and as cerbral blood flow
+increases, water's diffusion is lowered, (44).  Since the Oldendorf
+technique measures the ratio of a test substance to the internal
+standard, as blood flow increases and causes the brain tissue level
+of water to decrease, the reported ratio measurements of BBB permea-
+bility may be overly high. The small BBB permeability increases which
+do seem to exist from microwave exposure, as evidenced by microscopy
+studies, may be a secondary effect caused by microwave alterations of
+blood flow, blood pressure, and/or blood vessel area.
+
+         Our present experiments demonstrating microwave induced
+LCBF increases indicate an alteration of brain activity. The me-
+chanism of this, and other mentioned microwave effects on brain func-
+tion are unclear; direct or indirect stimulation of central or peri-
+pheral receptors by microwave induced thermal, mechanical or electrical
+disturbances are possibilities.
+
+
+
+
+                                   51
+OSCAR
+
+
+                              References
+
+I.   Frey, A.H., Messenger, R. and Eichert, E., National Technical
+     Information Service, Doc. No. AD747684 (1972).
+
+2.   Hawkins, T.D., Grove, H.M., Heiple, T.W., and Schrot, J., National
+     Technical Information Service, Doc. No. AD758136 (1973).
+
+3.   Polson, P., Jones, D.C.L., Karp, A, and Krebs, J.S., National
+     Technical Information Service, Doc. No. AD774823 (1974).
+
+4.   Oscar, K.J. and Hawkins, T.D., Brain Research 126, 281-292 (1977).
+
+5.   Justesen, D.R., IEEE Spectrum 16, 67-68 (1979).
+
+6.   Albert, E.N., Radio Sci.14 (in the press).
+
+7.   Frey, A.H., Feld, S.R., & Frey, B. Ann.N.Y. Acad. Sci. 247,
+     433-439 (1975).
+
+8.   Merritt, J.H., Mitchell, J.C. & Chambers A.F. 1977 ECAC Conference
+     on Undesirable Electromagnetic Effects, Annapolis, MD.
+
+9.   Sutton, C.H., Nunnally, R.L. & Carrol, F.B. Cytobiology 10,
+     513 (1973).
+
+10. Oldendorf, W.H., Brain Res. 24, 372-375 (1970).
+
+11. Crone, C. Acta Physiol. Scaud. 58, 292-305 (1963).
+
+12. Kennedy, C., Des Rosiers, M.H.J.W., Revich, M., Sharp, F. &
+    Sokoloff, L., Science 187, 850-853 (1975).
+
+13. Sokoloff, L., Revich, M. Kennedy, C., Des Rosiers, M.H., Patlak,
+    C.S., Pettigrew, K.D., Sakurada, 0., & Shinohara, M., J Neurochem
+    28, 897-916 (1977).
+
+14. Sakurada, 0., Kennedy, C., Jehle J., Brown I.D., Carbin G.L. &
+    Sokoloff, L. Am. J. Physiol 243, H59-H66 (1978).
+
+15. Reivich, N. in Brain Dysfunction in Metabolic Disorders (ed F.
+    Plum Res. Publ. Assoc. Mev. Ment. Dis) 125-140 (Raven Press,
+    NY, 1974).
+
+16. Rapoport, S.I. Blood-Brain Barrier in Physiology and Medicin
+(Raven Press, NY 1977).
+
+
+                                    52
+OSCAR
+
+17. Blasberg, R.G. Nat'l Cancer Inst, Monogr 46, 19-27 (1977).
+
+18. Frey, A.H. & Messenger, R. Science 181, 356-358 (1973).
+
+19. Bawin, S.M., Gavalas-Medici, R.J. & Adey, W.R. Brain Res. 58,
+    365-384 (1973).
+
+20. Goldstein, L. & Sisko, Z. in Biologic Effects and Health Hazards of
+    Microwave Radiation (ed. Czerski, P.) 128-133 (Medical Pub.
+    Warsaw, Poland, 1974).
+
+21. Servantie, B., A.M. & Etienne, J. Ann.N.Y. Acad. Sci. 247, 82-86
+    (1975).
+22. Wilson, B.S., Zook, J.M. Joines, W.T. & Casseday, J.H., Brain Res.
+    (in the press).
+
+23. Parker, L.N. Am. J. Physiol. 224, 1388-1390 (1973).
+
+24. D'Andrea, J.A. Gandhi, O.P. & Lords, J.L. Radio Sci. 12, 251-256
+    (1977).
+
+25. Frey, A.H., & Feld, S.R. J. Comp. Physiol. Phychol. 89, 183-188
+    (1975).
+
+26. Mitchell, D.S. Switzer, W.G. & Bronaugh, E.L. Radio Sci. 12, 263-
+    271 (1977).
+
+27. King, N.W. Justesen, D.R., & Clarke, R.L. Science 172, 398-401
+    (1977).
+
+28. Thomas, J.R., Finch, E.D., Fulk, D.W. & Burch, L.S. Ann. N.Y. Acad.
+    Sci. 247, 425-432 (1975).
+
+29. Merritt, J.H., Hartzell, R.H. & Frazer, J.W., 1975 USNC/NRSI Meet-
+    ing, Boulder, Colo.
+
+30. Bawin, S.M., Kaczmarek, L.K. Adey, W.R. Ann. N.Y. Acad. Sci. 247,
+    74-81 (1977).
+
+31. Blackman, C.F., Elder, J.A., Weil, C.M. Benane, S.G. & Eichinger,
+    D.C. Radio Sci. 14, (in the press).
+
+32. Thomas, J.R., Burch, L.S. & Yeandle, S.S. Science 203, 1357-1358
+    (1979).
+
+
+
+                                   53
+OSCAR
+
+
+33. Kety, S.S. Pharmacol. Rev. 3 1-41 (1951).
+
+34. Kety, S.S. Methods Med. Res. 8, 228-236 (1960).
+
+35. Eckman, W.W., Phair, R.D., Fenstermacher, J.D., Patlak, C.S.,
+    Kennedy, C. and Sokoloff, L., Am J. Physiol 229, 215-221 (1975).
+
+36. Eklod, B., Lassen, N.A., Nilsson L., Norberg, K. and Siesjo, B.K.
+    Acta. Physiol. Scand. 88, 587-589 (1973).
+
+37. Sakurada, 0., Kennedy, C., Jehle, J. Brown, J.D. Carbin, G.L., and
+    Sokoloff, L. Am. J. Physiol. 234, H59-H66 (1978).
+
+38. Ohno, K. Pettigrew, K.D. and Rapport, S.I. (in the press).
+
+39. Chiueh, C.C., Sun C.L., Kopin I.J., Fredricks, W.R. & Rapoport,
+    S.I., Stroke 10, 62-74 (1979).
+
+40. Chiueh, C.C., Sun C.L., Kopin I.J., Fredricks, W.R. & Rapoport,
+    S.I., Brain Res. 145, 291-301 (1978).
+
+41. The opinions and assertions contained herein are the private ones
+of the writers and are not to be construed as official or reflecting
+the views of the Department of Defense. The experiments reported
+herein were conducted according to the principles set forth in the
+"Guide for the care and use of laboratory animals", Institute of
+Laboratory Resources, National Research Council, DHEW, Pub. No (NIH)
+78-23.
+
+
+
+
+                                   54
+
