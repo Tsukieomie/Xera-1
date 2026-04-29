@@ -24,6 +24,16 @@ Hypothesis discipline for **voice-to-skull** claims is centralized under `invest
 - **`V2K_REPO_POSSIBILITY_REVIEW.md`** — full-repo map (T1–T5).
 - **`V2K_DEEP_LAYER.md`** — Tier A (mechanism/clicks) vs Tier B (covert semantic speech), extrapolation cautions.
 
+**MEDUSA / WaveBand follow-up notes (April 2026):**
+
+- **`MEDUSA_DEEP_AUDIT.md`** — identity disambiguation and tier classification for the WaveBand MAE program.
+- **`MEDUSA_TRANSITION_GAP_ANALYSIS.md`** — Phase II under `N03-163` belongs to EPIC / Invocon, not WaveBand.
+- **`MEDUSA_EVIDENCE_TABLE_PRIMARY.md`** — primary evidence table.
+- **`JNLWP_2006_2008_NEGATIVE_CONTRAST_NOTE.md`** — target-term scan of accessible 2006-2008 JNLWP/ADS docs returned no MEDUSA / WaveBand / Sadovnik / `M67854-04-C-1012` / `N03-163` hits.
+- **`WAVEBAND_WAYBACK_2003_2010_NEGATIVE_NOTE.md`** — Wayback CDX for `wavebandcorp.com` 2003-2010 returned only `robots.txt` captures.
+- **`WAVEBAND_ENTITY_LINEAGE_NOTE.md`** — CA SoS BizFile (`C1775878`, Merged Out 2008-07-02), SBIR.gov portfolio, GovConInABox / USAspending UEI `WCCXCS4P9XX8` / CAGE `055X8`.
+- **`ADS_JNLWP_DEEP_DIVE_CONTRAST_NOTE.md`** — ADS has a full ACTD/bridge/exposure-count/incident public trail; MEDUSA does not, supporting SBIR-Phase-I-only classification.
+
 **Versions 27–29 (April 2026) harmonization:** `03_Technology_Patents/17_LILLY_WAVE_FLANAGAN_NEURAL_TECHNOLOGY.md`, `06_1990_TECHNOLOGY_CAPABILITY.md` (Wikipedia MAE link text), `06_Analysis_Patterns/30_...` (Section P wording), `04_NSA_Infrastructure/05_...`, `02_Defendant_Verification/18_...`, **`10_NEXUS_DOSSIER_ANALYSIS.md`**, **`22_PHILLIP_YOUNG_...`**, **`SOURCES.md`**; **`04_NSA_Infrastructure/02_FIVE_EYES_...`** + **`11_MRU_...`** + **`03_Technology_Patents/29_MCLEAN_...`** (Version 29 residual “confirmed V2K” / brochure–MAE equivocation fixes per `investigation-dig/v2k-evidence-matrix.md` Version 29). **Sharp/Grove “words”** are not asserted as adjudicated primary fact; IEEE 1974 **acoustic-generation** stands as mechanism anchor.
 
 ---
