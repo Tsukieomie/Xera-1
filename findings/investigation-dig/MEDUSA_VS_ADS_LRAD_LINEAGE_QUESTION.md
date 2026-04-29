@@ -162,3 +162,11 @@ variation of MEDUSA?" is **no**.
 - `ADS_JNLWP_DEEP_DIVE_CONTRAST_NOTE_SUPPLEMENT.md` — extended 2007-2015
   ADS / ADT / acoustic-hailing public-record window; MEDUSA absent.
 - `WAVEBAND_ENTITY_LINEAGE_NOTE.md` — WaveBand corporate lineage record.
+- `MCLEAN_BOOKS_HAVANA_MEDUSA_WAVE_NOTE.md` — bounds what the cross-repo
+  `Tsukieomie/McLean-Books` audit (Clint McLean's Havana / Hodgkin-Huxley
+  monographs) supports for this thread: contextual pulsed-RF /
+  thermoelastic / neural-modulation hypothesis only; **zero** MEDUSA /
+  WaveBand / Sadovnik / Navy SBIR / MAE mentions in either book; ADS 95
+  GHz cited only as generic existence proof, not as MEDUSA lineage; no
+  MEDUSA frequency, no PRF, no Havana-causation claim attributable to
+  McLean.
