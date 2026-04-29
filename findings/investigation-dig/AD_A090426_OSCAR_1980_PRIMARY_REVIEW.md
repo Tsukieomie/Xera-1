@@ -99,6 +99,7 @@ What AD-A090426 therefore does NOT establish, even with the body now reviewed:
 
 ## 7 · Cross-references
 
+- Reference-chain evidence trail (per-reference primary-record classifications for AD747684, AD774823, Oscar/Hawkins 1977, Merritt 1978 BBB replication caveat, Justesen 1979/1980 citation-hygiene issue, etc.): [`AD_A090426_REFERENCE_CHAIN_EVIDENCE.md`](AD_A090426_REFERENCE_CHAIN_EVIDENCE.md).
 - Deep-dig writeup that originally recovered the document and pinned Becker 1985 page numbers: [`BECKER_1985_AND_AD_A090426_DEEP_DIG.md`](BECKER_1985_AND_AD_A090426_DEEP_DIG.md).
 - Subagent corroboration report (independent retrieval, peer-reviewed follow-up identification, FOIA history): [`AD_A090426_OSCAR_1980_subagent_report.md`](AD_A090426_OSCAR_1980_subagent_report.md).
 - AD758136 (Hawkins/Grove/Heiple/Schrot, 1973) hunt log — Ref 2 of this report, still blocked at DTIC public mirror: [`ad758136_hunt/AD758136_HUNT_LOG.md`](ad758136_hunt/AD758136_HUNT_LOG.md).

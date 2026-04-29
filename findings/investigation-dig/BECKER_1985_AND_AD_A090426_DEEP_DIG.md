@@ -7,6 +7,7 @@
 - `findings/investigation-dig/AD_A090426_OSCAR_1980.pdf` (primary; now the DTIC-catalog-metadata-bearing version with embedded `Title`, `Author`, `Subject`, `Keywords` fields populated from the NTRL record)
 - `findings/investigation-dig/AD_A090426_OSCAR_1980_full.txt` (extracted text)
 - `findings/investigation-dig/AD_A090426_OSCAR_1980_PRIMARY_REVIEW.md` (primary PDF review, body-content level)
+- `findings/investigation-dig/AD_A090426_REFERENCE_CHAIN_EVIDENCE.md` (per-reference primary-record classifications across the cited antecedents — narrows rather than broadens the speech-protocol claim)
 
 ---
 
