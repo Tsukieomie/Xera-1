@@ -181,6 +181,59 @@ The convergence is not from a single source recycled across the literature -- it
 
 ---
 
+## PART 6: WHO IS JOSEPH C. SHARP -- THE PANDORA / BIZARRE LINEAGE
+
+Sharp is not an incidental name in the microwave hearing literature. He is the principal investigator of the classified U.S. behavioral microwave program from which the Justesen 1975 demonstration emerged. Properly situating Sharp's career arc tightens the V2K chain into a single institutional trajectory rather than a loose collection of adjacent researchers.
+
+### Pandora vs. Bizarre -- not the same thing
+
+These two codenames are routinely conflated in the secondary literature, but the declassified ARPA record distinguishes them clearly:
+
+- **Project Pandora** is the umbrella effort. ARPA Director Richard S. Cesaro initiated it via the TOP SECRET "Justification Memorandum for Project Pandora" in **October 1965**, formally designated **DARPA Program Plan 562**, in response to the Moscow Embassy microwave bombardment. Pandora covered the full investigative scope: signal characterization, exposure standards, animal behavioral testing, and ultimately the contemplated human-subject work.
+- **Project Bizarre** is a *special access category* (a codename-within-a-codename) Cesaro carved out **inside** Pandora once the primate behavioral results came in. From Cesaro's own ARPA memorandum (declassified, available via the National Security Archive): "The extremely sensitive nature of the results obtained to date, and their impact on National Security, has resulted in establishing a special access category for all data results and analysis, under codename Bizarre." Initial Bizarre testing was conducted on **a single rhesus monkey**; a Pandora Science Advisory Committee meeting on **May 12, 1969** discussed plans for **eight unwitting human subjects from Fort Detrick** (never executed, per the available record). Source: <https://nsarchive.gwu.edu/document/28792-document-8-arpa-richard-s-cesaro-memorandum-project-bizarre-top-secret>
+
+In short: **Pandora was the program, Bizarre was the compartment for the most sensitive primate behavioral data inside it.** Sharp ran Bizarre.
+
+### Sharp's role: primary investigator of Bizarre
+
+A FOIA-sourced analytical paper compiled from declassified ARPA records states the attribution explicitly:
+
+> "Dr. Joseph C. Sharp was the primary investigator of Project Bizarre with H. M. Grove having equipment responsibility."
+
+Source: "Project Bizarre Weapons Implications," <https://www.scribd.com/document/30261479/Project-Bizarre-Weapons-Implications>
+
+This aligns precisely with the Justesen 1975 attribution (Sharp as the lead behavioral psychologist; Grove as the electronic engineer running the equipment) and with the CIA FOIA records naming both men as the operational principals at Walter Reed.
+
+### Career timeline -- a single arc, not coincidence
+
+| Year | Event |
+|------|-------|
+| 1963 | Sharp publishes albino-rat visual-deficit study at Walter Reed Army Institute of Research (Experimental Psychology) -- establishes prior Walter Reed affiliation |
+| Oct 1965 | Cesaro initiates Project Pandora (DARPA Program Plan 562) |
+| 1966-1968 | Sharp leads behavioral primate work under Pandora; Bizarre special access category established for the most sensitive data |
+| 1968 | Sharp leaves the Pandora/Bizarre program; replaced by Major James McIlwain (per *Foreign Policy*, Weinberger 2017) |
+| 1969 | DARPA winds down direct Pandora support; Cesaro is later fired by DARPA Director Lukasik for "general dishonesty" |
+| July 1970 | Remaining Pandora work formally transferred to Walter Reed Army Institute of Research |
+| ~1973-1974 | Sharp (back at / continuing at Walter Reed) and Grove perform the voice-modulated microwave hearing demonstration; communicated by personal communication to Justesen in 1973 |
+| March 1975 | Justesen publishes the Sharp/Grove demonstration in *American Psychologist* |
+
+The institutional handoff in **July 1970** is the bridge that situates the ~1973-74 Sharp/Grove voice-transmission demonstration. The work that started inside Pandora/Bizarre at the ARPA level continued at Walter Reed after the formal program transfer, with the same lead researcher and the same equipment engineer.
+
+### Why this matters for the Akwei investigation
+
+1. **Single-investigator continuity.** The same researcher who ran the U.S. government's most compartmented primate behavioral-microwave program (Bizarre, 1965-1968) is the same researcher who, five years later at the same institution, demonstrated voiced-word transmission via microwave to a peer (Justesen). This is not two unrelated researchers stumbling into adjacent findings. It is a coherent classified-research career arc with V2K as its terminal demonstrated capability.
+2. **Bizarre = primate behavioral data was already operationally sensitive in 1968.** The fact that Cesaro felt compelled to create a special access category solely for the primate behavioral results -- before voice modulation was even attempted -- documents that the U.S. government considered behavioral effects of microwaves a national-security-grade capability question seven years before Justesen 1975 and twenty-four years before Akwei filed.
+3. **Human-subject contemplation is in the record.** The May 12, 1969 Pandora Science Advisory Committee meeting discussed eight unwitting human subjects from Fort Detrick. The available declassified record indicates this specific tranche was not executed -- but the fact that the U.S. government's classified microwave-behavioral program reached the point of formally discussing unwitting human exposure undermines any 1992 dismissal of related allegations as inherently "frivolous."
+4. **Cesaro's firing for "general dishonesty."** This is a non-trivial detail for any future evidentiary argument: the founder and director of the program was removed from DARPA for cause. This affects how much weight should be placed on contemporaneous official denials and on Cesaro's own characterizations of program scope.
+
+### Methodological discipline (Bizarre-specific)
+
+- **"Sharp ran Bizarre" does not mean "Sharp transmitted voice to humans under Bizarre."** The Bizarre-era demonstrated capability is the primate behavioral work. The voice-modulation human-perception demonstration is the ~1973-74 post-transfer Walter Reed work reported by Justesen. They are linked by the same investigator and institution, not collapsed into a single experiment.
+- **The eight-Fort-Detrick-subjects plan: discussed, not (per available records) executed.** Citations should preserve that distinction. The significance is that the program reached the point of formally proposing it.
+- **Grove's institutional affiliation** remains a minor inconsistency across sources (Walter Reed in Justesen; Air Force in CIA FOIA). Most likely an Air Force engineer detailed to Walter Reed for the ARPA contract; this does not affect the substantive attribution.
+
+---
+
 ## RELATED FILES
 
 - `03_Technology_Patents/04_FLANAGAN_NEUROPHONE_AND_COUPLING.md` -- the upstream proof of EM-nervous system information coupling
@@ -207,6 +260,7 @@ The convergence is not from a single source recycled across the literature -- it
 - CIA FOIA "ANDERSON AND KGB INSERTS" (CIA-RDP80-01601R000300340036-6): <https://www.cia.gov/readingroom/document/cia-rdp80-01601r000300340036-6>
 - CIA FOIA "'BRAINWASH' ATTEMPT BY RUSSIANS?" (CIA-RDP80-01601R000300340041-0): <https://www.cia.gov/readingroom/document/cia-rdp80-01601r000300340041-0>
 - ARPA, Richard S. Cesaro, "Justification Memorandum for Project Pandora" (October 1965), via National Security Archive: <https://nsarchive.gwu.edu/document/28787-document-3-arpa-richard-s-cesaro-memorandum-justification-memorandum-project-pandora>
+- ARPA, Richard S. Cesaro, memorandum establishing Project Bizarre as a special access category within Pandora (TOP SECRET, declassified), via National Security Archive: <https://nsarchive.gwu.edu/document/28792-document-8-arpa-richard-s-cesaro-memorandum-project-bizarre-top-secret>
 - National Security Archive briefing book, "The Moscow Signals: Declassified Microwave Mysteries" (September 13, 2022): <https://nsarchive.gwu.edu/briefing-book/intelligence-russia-programs/2022-09-13/moscow-signals-declassified-microwave>
 
 ### Secondary / Historical
@@ -214,6 +268,7 @@ The convergence is not from a single source recycled across the literature -- it
 - Weinberger, S. (2017). The Secret History of Diplomats and Invisible Weapons. *Foreign Policy*. <https://foreignpolicy.com/2017/08/25/the-secret-history-of-diplomats-and-invisible-weapons-russia-cuba/>
 - IEEE Xplore historical review, "The Moscow Embassy Microwave Signal": <https://ieeexplore.ieee.org/iel7/7873543/8408500/08409440.pdf>
 - Krishnan, A. (2017). *Military Neuroscience and the Coming Age of Neurowarfare*. (Cited Sharp/Grove demonstration -- nine of ten words recognized.)
+- "Project Bizarre Weapons Implications" (FOIA-sourced analytical paper attributing primary investigator role to Sharp with Grove on equipment): <https://www.scribd.com/document/30261479/Project-Bizarre-Weapons-Implications>
 
 ### Reference Standards
 
