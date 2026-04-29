@@ -8,6 +8,7 @@ Companion files in this repo:
 - `findings/03_Technology_Patents/36_OLOUGHLIN_LOREE_AIR_FORCE_RF_HEARING.md`
 - `findings/03_Technology_Patents/35_MEDUSA_DUAL_USE_AND_NAVY_SBIR.md`
 - `findings/investigation-dig/MEDUSA_TRANSITION_GAP_ANALYSIS.md`
+- `findings/investigation-dig/AF_RF_HEARING_TO_MEDUSA_DEEPER_DIVE.md` — evidence-tiered re-grading after recovery of the archived Navy SBIR program summary
 
 ---
 
