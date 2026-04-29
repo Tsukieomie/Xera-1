@@ -110,6 +110,11 @@ Evidence-tier discipline:
 
 ## 4) Interpretation — preserved and reinforced
 
+### 4.0 Lineage-question recap (one-line)
+
+A direct answer to the recurring question "are ADS and LRAD evolutions or variations of WaveBand MEDUSA?" is: **no.** ADS, LRAD / AHD, and WaveBand MEDUSA are three different capability families with different funding paths, different physical mechanisms, and disjoint public evidence trails. They share the broad non-lethal / counter-personnel ecosystem; they are not parent-child programs. See `MEDUSA_VS_ADS_LRAD_LINEAGE_QUESTION.md` for the consolidated one-stop write-up.
+
+
 - **ADS has a public, multi-document transition / safety / legal / user-assessment trail**: ACTD, JMUAs, extended user evaluation, dual system versions (ADS1 / ADS2), HEAP / human-effects review (1998-2007 review cycle, 2008 narrative assessment), legal and treaty review, post-ACTD bridge / transition under the Air Armament Center, and later demonstrations (Quantico 2012, Twentynine Palms, Joint Base Langley-Fort Eustis).
 - **ADT is a related but distinct lineage**: JNLWD BAA 14-008 documents a compact-ADT path with explicit Go/No-Go gates (Laser-ADT FY2008 No-Go).
 - **Acoustic hailing is a separate fielded COTS / force-protection path**: post-USS Cole; fielded since 2006; named devices include AHD, Magnetic Acoustic Device, Mini-DSLA, HALLTS. **Do not conflate with MEDUSA or with ADS.** Acoustic hailing is air-pressure acoustic energy, not RF; MEDUSA's claimed mechanism is a microwave auditory effect. Treating these as the same program family would be a category error.
@@ -143,3 +148,4 @@ Evidence-tier discipline:
 - `MEDUSA_TRANSITION_GAP_ANALYSIS.md` — N03-163 Phase II continuation belongs to EPIC / Invocon, not WaveBand.
 - `MEDUSA_EVIDENCE_TABLE_PRIMARY.md` — MEDUSA evidence-tier table.
 - `WAVEBAND_ENTITY_LINEAGE_NOTE.md` — WaveBand corporate lineage.
+- `MEDUSA_VS_ADS_LRAD_LINEAGE_QUESTION.md` — direct answer to "is ADS / LRAD an evolution or variation of MEDUSA?" (no), with consolidated funding / mechanism / evidence-trail comparison and the conditions under which the conclusion would update.

@@ -83,3 +83,7 @@ Exclude or separately bucket:
 ## 7) Net judgment
 
 The MEDUSA record materially strengthens **T3 provenance** (real contract + explicit concept framing + prototype-stage claims) but does **not** close T2 or T4. In this repository, MEDUSA should remain a **program-intent/prototype anchor**, not a proof-of-deployment anchor.
+
+## 8) Lineage question — ADS / LRAD vs MEDUSA (short answer)
+
+A common follow-up question is whether the Active Denial System (ADS) or the LRAD / acoustic-hailing-device (AHD) family are evolutions or variations of WaveBand MEDUSA. **Short answer: no.** ADS is a JNLWP / JNLWD 95 GHz millimeter-wave skin-heating / repel system; LRAD / AHD is a fielded audible acoustic-hailing / voice-and-tone projection family; WaveBand MEDUSA was a Navy SBIR Phase I microwave-auditory-effect breadboard prototype. The three paths share the broad non-lethal / counter-personnel problem space, but the public evidence trail does not support a lineage claim from MEDUSA to ADS or to LRAD — different funding paths, different mechanisms, and disjoint evidence trails. "Adjacent / same broad NLW ecosystem" is fair; "evolution / variant / successor / transition path" is not. See `MEDUSA_VS_ADS_LRAD_LINEAGE_QUESTION.md` for the full one-stop write-up and `ADS_JNLWP_DEEP_DIVE_CONTRAST_NOTE_SUPPLEMENT.md` for the 2007-2015 contrast trail.
