@@ -1,0 +1,1381 @@
+BEHAVIORAL  EFFECTS  OF  EXPOSURE  TO  THE  TEMPO  HIGH-POMER 
+MICROWAVE  SVSTEM(U)  SCHOOL  OF  AEROSPACE  MEDICINE  BROOKS 
+AFB  TX  B  J  KLAUENBERG  ET  AL  MAR  88  USAFSAM-TR-87-25 
+
+F/G  6/7 
+
+
+UNCLASSIFIED 
+
+
+USAFSAM-TR-87-35 
+
+
+one  f 
+
+n- l  iQ?  ?n^ 
+
+W  i  wmr  l  V.  L  %*-  W  v*  W 
+
+BEHAVIORAL  EFFECTS  OF  EXPOSURE  TO  THE 
+TEMPO  HIGH-POWER  MICROWAVE  SYSTEM 
+
+
+B.  Jon  Klauenberg,  Ph.D. 
+James  H.  Merritt,  B.S. 
+David  N.  Erwin,  Ph.D. 
+
+
+March  1 988 
+
+
+DTIC 
+
+
+ELEC  TE 
+APR  0  6  1988 
+
+
+Interim  Report  for  Period  January  1987  -  June  1987 
+
+
+USAF  SCHOOL  OF  AEROSPACE  MEDICINE 
+Human  Systems  Division  (AFSC) 
+
+Brooks  Air  Force  Base,  TX  78235-5301 
+
+
+NOTICES 
+
+
+This  interim  report  was  submitted  by  personnel  of  the  Radiation  Physics 
+Branch,  Radiation  Sciences  Division,  USAF  School  of  Aerospace  Medicine,  Human 
+Systems  Division,  AFSC,  Brooks  Air  Force  Base,  Texas,  under  job  order  7757-01- 
+1N. 
+
+When  Government  drawings,  specifications,  or  other  data  are  used  for  any 
+purpose  other  than  in  connection  with  a  definitely  Government  -  related 
+procurement,  the  United  States  Government  incurs  no  responsibility  nor  any 
+obligation  whatsoever.  The  fact  that  the  Government  may  have  formulated  or  in 
+any  way  supplied  the  said  drawings,  specifications,  or  other  data,  is  not  to  be 
+regarded  by  implication,  or  otherwise  in  any  manner  construe  ,  as  licensing  the 
+holder  or  any  other  person  or  corporation;  or  as  convey  \g  any  rights  or 
+permission  to  manufacture,  use,  or  sell  any  patented  inversion  that  may  in  any 
+way  be  related  thereto. 
+
+The  animals  involved  in  this  study  were  procured,  maintained,  and  used  in 
+accordance  with  the  Animal  Welfare  Act  and  the  "Guide  for  the  Care  and  Use  of 
+Laboratory  Animals"  prepared  by  the  Institute  of  Laboratory  Animal  Resources 
+National  Research  Council. 
+
+The  Office  of  Public  Affairs  has  reviewed  this  report,  and  it  is  releasable 
+to  the  National  Technical  Information  Service,  where  it  will  be  available  to 
+the  general  public,  including  foreign  nationals 
+
+This  report  has  been  reviewed  and  is  approved  for  publication. 
+
+
+UNCLASSIFIED 
+
+SECURITY  CLASSIFICATION  OF  RAGE 
+
+
+1*.  REPORT  SECURITY  CLASSIFICATION 
+
+Unclassified 
+
+2*.  SECURITY  CLASSIFICATION  AUTHORITY  ” 
+
+2b!  DECLASSIFICATION /DOWNGRADING  SCHEDULE 
+
+
+REPORT  DOCUMENTATION  PAGE 
+
+ION  I  lb  restrictive  markings 
+
+
+/7J  us 
+
+
+Form  Approved 
+OMB  No.  0704-01 38 
+
+
+3.  DISTRIBUTION  / AVAILA8IU TY  Of  REPORT 
+Approved  for  public  release;  distribution 
+is  unlimited. 
+
+
+4.  PERFORMING  ORGANIZATION  REPORT  NUMBER(S) 
+
+USAFSAM-TR-87-35 
+
+
+S.  MONITORING  ORGANIZATION  REPORT  NUM8ER(S) 
+
+
+6*.  NAME  OF  PERFORMING  ORGANIZATION 
+
+USAF  School  of  Aerospace 
+Medicine 
+
+
+6b.  OFFICE  SYMBOL 
+(if  tpplkibh) 
+
+USAFSAM/RZP 
+
+
+6c.  AOORESS  (O ty.  Sdtt,  and  ZIP  Coat) 
+
+Human  Systems  Division  (AFSC) 
+
+Brooks  Air  Force  Base,  TX  78235-5301 
+
+
+7a.  NAME  OF  MONITORING  ORGANIZATION 
+
+
+7b.  AOORESS  (City,  Stitt,  ind  ZIPCodt) 
+
+
+8a.  NAME  OF  FUNDING  I  SPONSORING 
+ORGANIZATION 
+
+USAF  School  of  Aerospace 
+Medicine  _  _ 
+
+
+8b.  OFFICE  SYMBOL  9.  PROCUREMENT  INSTRUMENT  IDENTIFICATION  NUMBER 
+(If  ippiktbit) 
+
+USAFSAM/RZP 
+
+
+Sc  AOORESS  (Cry,  State,  ind  ZIP  Code) 
+
+Human  Systems  Division  (AFSC) 
+
+Brooks  Air  Force  Base,  TX  78235-5301 
+
+
+10.  SOURCE  OF  FUNDING  NUMBERS 
+
+PROGRAM  I  PROJECT  II 
+
+ELEMENT  NO.  NO  I 
+
+62202F  -7757 
+
+
+PROJECT 
+
+TASK 
+
+NO 
+
+NO 
+
+-7757 
+
+01 
+
+1 1 .  TITLE  (Intludt  Security  Qisziftation) 
+
+Behavioral  Effects  of  Exposure  to  the  Tempo  High-Power  Microwave  System 
+
+12.  PERSONAL  AUTHOR(S)  . 
+
+Kiauenberg,  B.  Jon;  Merritt,  James  H.  ;  Erwin,  David  N'. 
+
+
+WORK  UNIT 
+ACCESSION  NO. 
+
+
+13a.  TYPE  OF  REPORT 
+
+Interim 
+
+16.  SUPPLEMENTARY  NOTATION 
+
+
+13b.  TIME  COVERED 
+
+from  8  7/01  tq87/06 
+
+
+14.  DATE  OF  REPORT  (Ynr,  Month.  Dsy)  15.  PAGE  COUNT 
+
+1988,  March  21 
+
+
+~\T.  COSATI  COOES  18.  SUBJECT  TERMS  (CotrttrHit  on  rtvtrst  if  ntttatry  ind  identity  by  block  number) 
+
+field  group  Sub-Group  High  power  microwaves;  Nonionizing  electromagnetic 
+06  07  radiation;  Microwave  bioeffects;  Microwave  behavioral 
+
+06  10  effects  _  O. 
+
+J  1 3  ABSTRACT  (Continue  on  rtvtrst  it  necessity  ina  identity  ov  olocx  numotr )  < 
+
+Safety  standards  for  exposure  to  radiofrequencv • radiation  must  be  based  upon  biologic  conse-  | 
+auences  of  exposure  to  such  environments.  Behavioral-based  measures  are  considered  to  be  thej 
+most  sensitive  indices  of  biological  effects.  Current  safety  guidelines  are  based  upon  i 
+
+average  power  density  and  may  not  be  relevant  to  the  high-peak  power,  short  pulse-width 
+microwave  radiation  produced  by  newly  developed  high-peak-power  microwave  sources.  The 
+effects  of  exposure  to  high-peak  power -(0.5  kW/cm^y — ItI'I-I . 26 ■ GHz ,  85"  ns)*- radiation  on 
+reflexive  responding  and  motor  function  in  Fischer  344/N  rats  were  assessed  by  measuring 
+startle  and  general  activity,  and  disruption  of  on-going  performance  of  a  rotarod  task 
+respectively.  The  emitter  used  was  the  TEMPO  repeat  pulse  axially  extracted  vircater.  — mhaR. 
+y-  -Air  Farce  weapons~LaboiFa-tory-i—  K-a-gtlan-d-Ai*  Fagoa  Dase,"!!.  Hem  Exposure  to  single  pulses 
+resulted  in  significant  startle  responses.  Exposure  to  1  pps  for  10  s  produced  significant 
+alterations  in  baseline  activity  and  marked  disruption  of  performance  of  the  rotarod  task.  ^ 
+The  apparently  greater  effect  observed  in  the  rotarod  task  is  discussed  in  relation  to 
+
+
+20.  distribution  /  availability  of  abstract 
+
+3  UNCIASSIFIEO/UNLIMITEO  □  SAME  AS  RPT 
+22a  NAME  of  RESPONSIBLE  NOlVIOUAL 
+James  H.  Merritt 
+
+
+21  ABSTRACT  SECURITY  CLASSIFICATION 
+
+□  otic  users  Unclassified 
+
+22b  TELEPHONE  (Intludt  ArtiCode)  22c.  OFFICE  SYMBOL 
+
+(512)  536-3583  USAFSAM/RZP 
+
+
+00  Form  1473,  JUN  36 
+
+
+Previous  editions  art  obsolete 
+i 
+
+
+SECURITY  CLASSIFICATION  of  -u,s  3&GE 
+
+UNCLASSIFIED 
+
+
+SSCURITV  CUASSI  FICATION  OF  THIS  PAGE 
+
+
+19  .. _ ABSTRACT  (Continued) 
+
+
+greater  workload  that  task  requires .  —  Jhn  .possibility  that  noise  associated  with  the  internal 
+electronics  and/or  perturbations  of  the  f i elrT-fry— fclie  Plexiglas  apparatus  may  have  acted  as 
+intervening  variables  is  discussed.  These  data  suggest  that~TTs5her~3d^/iiJ^rats  are  behavior- 
+ally  responsive  to  some  component  of  the  high-peak-power  microwave  stimulus.  ^Experiments  are 
+currently  being  conducted  to  identify  the  limits  of  detection  and  the  quality  of  the  sensory/ 
+perceptual  experience  of  exposure  to  the  TEMPO  radiation. 
+
+
+Aaaosslon  For 
+
+KTIS  (HUAI 
+DTIC  TAB 
+Unannounaad 
+Justlf loatloa. 
+
+
+By - - — 
+
+Distribution/ _ 
+
+Availability  Codes 
+Avail  and/or 
+Dlst  Speolal 
+
+
+^CLASSIFIED 
+
+
+TABLE  OF  CONTENTS 
+
+
+Page 
+
+
+INTRODUCTION .  1 
+
+METHODS  AND  MATERIALS .  2 
+
+Animals .  2 
+
+Radiofrequency  Radiation  Exposures .  2 
+
+BEHAVIORAL  TASKS  AND  RESULTS .  3 
+
+Startle  Response .  3 
+
+Apparatus .  3 
+
+Test  Procedure .  4 
+
+Design  and  Data  Analysis .  5 
+
+Single-Pulse  Test .  5 
+
+Multiple  Pulses .  7 
+
+Rotarod  Motor  Effects  Task .  10 
+
+Apparatus  and  Procedure .  10 
+
+DISCUSSION .  12 
+
+ACKNOWLEDGMENTS .  13 
+
+REFERENCES .  13 
+
+
+Figures 
+
+
+Fig. 
+
+No. 
+
+1.  The  TEMPO  Emitter .  3 
+
+2.  Startle  Apparatus .  4 
+
+3.  Functional  Control .  5 
+
+4.  Startle  Response  to  Single  Pulse .  6 
+
+5.  Response  of  Rat  to  HPM  Pulse .  8 
+
+6.  Response  of  Rat  to  10  Pulses .  8 
+
+7.  10  Pulses  of  HPM  on  Activity .  10 
+
+8.  Rotarod  Performance .  11 
+
+
+iii 
+
+
+Tables 
+
+
+Table 
+
+No .  Page 
+
+1.  Pen  Deflection  after  HPM  or  Sham  Exposure .  7 
+
+2.  Rat  Activities  Measured  in  the  Stabilimeter .  9 
+
+
+iv 
+
+
+BEHAVIORAL  EFFECTS  OF  EXPOSURE  TO  THE 
+TEMPO  HIGH- POWER  MICROWAVE  SYSTEM 
+
+
+INTRODUCTION 
+
+Recent  advances  in  the  development  of  high-power  microwave  (HPM)  sources 
+mandates  that  health  and  safety  standards  be  continuously  reevaluated.  Safety 
+standards  for  exposure  to  radiofrequency  radiation  (RFR)  must  be  based  upon 
+biologic  consequences  of  exposure  to  such  environments.  The  paucity  of  data 
+on  the  biobehavioral  effects  of  HPM,  especially  when  pulsed  in  the  very  short 
+nanosecond  range,  requires  additional  research.  Current  RFR  safety  guidelines 
+are  based  upon  average  power  density  and  may  not  be  relevant  to  the  high- 
+power,  short  pulse-width  radiation  produced  by  these  experimental  sources. 
+
+Reviews  of  the  RFR  bioeffects  literature  have  concluded  that  behavior -based 
+measures  were  the  most  sensitive  indices  of  biological  effects  (1).  Altera¬ 
+tions  in  behavior  are  frequently  the  first  indication  that  a  biologically 
+significant  event  has  occurred,  and  disruption  of  ongoing  behavior  is  the  most 
+commonly  reported  effect  of  exposure  to  microwave  radiation  in  the  literature 
+(2). 
+
+Recently,  the  first  screening  behavioral  tests  of  the  effects  of  HPM  were 
+conducted  at  the  Air  Force  Weapons  Laboratory  (Kirtland  AFB ,  N.  Mex.)  with  the 
+Gypsy  virtual  cathode  oscillator  (vircator)  pulsed  microwave  emitter  (3). 
+These  tests  suggested  that  rats  were  sensitive  to  some  qualitative  component 
+of  the  stimulus  complex  present  during  exposure  to  1.62  GHz,  140  ns  pulsed 
+microwave  producing  power  densities  ranging  from  approximately  1  to  8  kW/cm  . 
+
+This  report  describes  two  series  of  tests  designed  to  provide  data  on 
+behavioral  effects  of  HPM  in  the  rat,  using  the  TEMPO  emitter  system.  Effects 
+on  reflexive  responding  were  assessed  by  measuring  startle  and  general  activi¬ 
+ty  and  effects  on  motor  function  were  screened  by  measuring  disruption  of 
+ongoing  performance  of  a  task  requiring  the  rat  to  maintain  position  on  a 
+rotating  rod  (rotarod) . 
+
+
+The  startle  response  of  rodents  has  been  used  extensively  for  the  analysis 
+of  animal  behavior.  Much  of  the  research  has  been  directed  at  examination  of 
+habituation,  the  most  basic  form  of  learning  (4).  Since  the  response  is  a 
+highly  prepared  behavior  (5),  that  is  a  species -specif ic  defense  reaction  to  a 
+rapid  change  in  the  environment  (6),  the  response  may  be  a  suitable  system  for 
+analysis  of  HPM  effects  on  behavior.  The  startle  response  has  a  short,  repro¬ 
+ducible  latency  which  occurs  in  virtually  every  rat  (7).  Furthermore,  startle 
+is  a  highly  graded  reflex  subject  to  parametric  variation  of  the  eliciting 
+stimulus,  the  surrounding  environmental  stimuli,  or  the  general  state  of  the 
+animal  (7,  8),  Therefore,  this  response  may  prove  to  be  a  sensitive  response 
+capable  of  revealing  detection  and/or  aversive  thresholds  to  HPM. 
+
+
+1 
+
+
+METHODS  AND  MATERIALS 
+
+
+|  Animals 
+
+<. 
+
+'  We  used  44  experimentally  naive,  male,  Fisher  344/N  rats  approximately  70 
+
+'  days  old  when  received  from  the  Inhalation  Toxicology  Research  Institute 
+
+(ITRI),  Albuquerque,  N.  Mex.  The  rats  were  maintained  in  a  mobile  trailer 
+“  located  adjacent  to  the  exposure  facility.  The  rats  were  housed  individually 
+
+\  in  plastic  "shoebox"  cages.  They  were  handled  and  weighed  to  establish  free- 
+
+-  feeding  baseline.  Water  and  standard  rat  chow  were  available  ad  libitum 
+
+’  throughout  the  experiment  except  during  actual  exposure.  The  rats  were  main- 
+
+'  tained  on  a  12/12  h  light/dark  cycle  (lights  on  at  0600  h) .  The  rats  were 
+
+}  randomly  assigned  to  the  following  experimental  treatment  groups:  Startle 
+
+'  Response  Test- -Single  pulse  (HPM-exposed  [n  =  9],  sham-exposed  [n  ~  6], 
+
+I  functional  control  [n  »  1]),  multiple  pulse  (HPM-exposed  [n  =  8] ,  sham-exposed 
+
+[n  -  7]);  and  Rotarod  Motor  Effects  Task-- (HPM-exposed  [n-  6],  sham-exposed 
+[n-6]). 
+
+
+Radiofrequency  Radiation  Exposures 
+
+The  TEMPO  simulator  with  repeat  pulse  power  source  is  similar  to  the 
+single  pulse  power  source  Gypsy  simulator  that  was  used  in  the  earlier  experi¬ 
+ment  (3) .  The  TEMPO  simulator  is  an  axially  extracted  vircator  operated  in 
+this  study  at  1.3  GHz  using  a  transformer  based  repetitive  pulse  power  drive 
+(Sandia  National  Laboratories,  DOE,  Albuquerque,  N.  Mex.).  The  horn  and  the 
+propagated  field  are  essentially  the  same  as  that  produced  by  the  Gypsy  oscil¬ 
+lator  (9).  The  animal  and  test  apparatus  were  located  at  an  angle  of  10  west 
+of  the  antenna  center  line  at  a  radius  of  3  m.  The  microwave  probe  was  located 
+10  east  of  the  center  line  also  at  3  m  radius.  The  radiated  pattern  from  the 
+TMQ1  source  is  symmetric  about  the  center  line,  with  a  single  on-axis  null. 
+The  radiated  field  is  polarized  with  the  electric  field  in  the  radial  direc¬ 
+tion.  Pattern  shape,  local  power  density,  and  frequency  were  measured  with 
+free-field  D-dot  sensors  (EG&G,  Inc.).  An  Air  Force  Weapons  Laboratory  techni¬ 
+cal  report  describing  the  simulator,  its  propagated  field,  and  dosimetry  is  in 
+preparation  (10).  Figure  1  shows  the  TEMPO  emitter. 
+
+
+Figure  1.  The  TEMPO  emitter  system.  Microwave  radiation  is  emitted  into  an 
+anechoic  chamber  on  the  other  side  of  the  horn  antenna. 
+
+
+BEHAVIORAL  TASKS  AND  RESULTS 
+Startle  Response 
+
+
+Apparatus 
+
+The  level  of  spontaneous  activity  and  the  startle  response  of  rats  to  HPM 
+was  examined  in  a  custom  designed  RFR  compatible  stabilimeter .  The  stabili- 
+meter  test  chamber  consisted  of  a  Plexiglas  cage  (180  mm  x  180  mm  x  180  mm 
+inside  diameter) .  A  removable  floor  (179  mm  x  179  mm)  had  sections  of  rubber 
+tubing  (dia  =  15  cm,  length  =  25  cm)  attached  diagonally  across  each  corner 
+with  nylon  screws  to  serve  as  shock  absorbers.  Nylon  screws  in  each  corner 
+served  for  adjusting  the  height  of  the  base  (and  floor)  above  the  hydraulic 
+pressure  transducer,  thereby  providing  a  means  for  varying  the  maximum  pressure 
+placed  on  the  transducer.  The  hydraulic  pressure  transducer  consisted  of  a 
+Tygon  tube  (length  =  50  mm,  dia  =  10  mm)  closed  at  one  end  and  fused  by  way  of 
+a  reduction  coupling  to  a  10.7  m  length  of  4-mm  diameter  tubing.  The  tubing 
+assembly  was  filled  with  distilled  water  under  vacuum.  The  50-mm  length  tube 
+was  clamped  with  rigid  mounts  at  both  ends  and  centered  over  a  Plexiglas  bar 
+(10  mm  x  10  mm  x  25  mm)  attached  to  the  center  of  the  chamber  floor.  The 
+separate  removable  floor  was  seated  on  the  shock  absorbers,  and  a  Plexiglas  bar 
+attached  to  the  underside  of  the  floor  rested  on  top  of  the  center  of  the 
+Tygon  tube.  The  chamber  was  equipped  with  a  sliding  lid  with  ventilation 
+
+
+slots.  Movements  of ‘the  animal  depressed  the  fluid-filled  tube  and  produced  a 
+pressure  differential  which  activated  a  speaker  piston  (located  out  of  the 
+field)  at  the  end  of  the  4-mm  diameter  tubing.  Movement- induced  voltages  from 
+the  speaker  coil  were  amplified  and  recorded  on  a  Brush  (Model  220)  event 
+recorder.  The  startle  apparatus  is  illustrated  in  Figure  2. 
+
+
+M. 
+
+
+Figure  2 .  Startle  apparatus . 
+
+
+All  behavioral  sessions  were  monitored  by  remote  video  (Hitachi,  Model  FP- 
+7  camera;  Sony,  Model  CVM-1225  monitor)  and  recorded  with  real-time  date  and 
+time  signal  input  (3-M  Data  Vision,  Model  DT-1)  on  a  Sony  (Model  VO-5600) 
+recorder  with  60  m,  three-quarter  inch  V-Matic  tape  (UCA) . 
+
+A  noise  generator  placed  on  the  floor  of  the  anechoic  chamber  below  the 
+stabilimeter  produced  85  dB  pink  masking  noise. 
+
+Test  Procedure 
+
+Rats  were  placed  in  pint-sized  plastic  containers  (11  cm  x  12  cm  x  9 
+cm)  with  ventilation  holes  in  the  cover  and  carried  from  the  animal  holding 
+quarters  to  the  anechoic  chamber  (approximately  30  m)  and  placed  in  the  stabi¬ 
+limeter.  Following  a  period  of  usually  2-4  min  the  event  recorder  was  acti¬ 
+vated  at  a  chart  speed  of  2  mm/s  to  collect  baseline  activity  data.  Approxi¬ 
+mately  2  s  prior  to  exposure,  chart  speed  was  increased  to  5  mm/s  and  remained 
+at  that  speed  for  the  duration  of  the  test.  The  video  recorder  was  turned  on 
+60  s  before  the  TEMPO  simulator  was  fired.  The  initial  series  of  tests  were 
+single  pulse  (85  ns,  1.3  GHz,  0.75  -  0.99  kW/cm  ) . 
+
+
+Experiment  2  examined  the  effect  of  a  train  of  these  pulses.  Pulse  trains 
+approximating  1  pps  for  10  s  were  produced  by  manually  firing  the  TEMPO 
+simulator.  The  TEMPO  horn  antenna  was  covered  with  a  three-quarter  inch  sheet 
+of  Styrofoam  to  attenuate  the  noise  accompanying  the  firing  of  the  TEMPO 
+simulator.  During  sham  exposures,  a  grounded  sheet  of  aluminum  foil  covered 
+the  horn  antenna,  effectively  eliminating  the  RFR  emissions. 
+
+Design  and  Data  Analysis 
+
+Rats  were  randomly  assigned  to  either  HPM-exposed  or  sham-exposed  treat¬ 
+ment  groups.  Data  from  the  single-pulse  exposures  were  analyzed  by  t-test  for 
+independent  measures,  Mann-Whitney  U  nonparametric  test,  and  tests  for  differ¬ 
+ences  between  two  proportions  (11).  All  tests  were  one-tailed  tests  and  signi¬ 
+ficance  levels  were  set  at  p  <  0.05.  Data  from  the  multiple-pulse  experiments 
+were  analyzed  by  independent  or  related  t-tests  and  analysis  of  covariance 
+with  p  <  0.05. 
+
+Single-Pulse  Test 
+
+
+Functional  Control.  Movement -produced  pen  deflections  on  the  chart 
+recorder  were  measured  by  counting  the  number  of  1-mm  squares  above  zero.  To 
+obtain  a  relative  measure  of  the  validity  of  the  stabilimeter ,  one  rat  was 
+exposed  to  a  loud  hand  clap.  This  noise  produced  a  clearly  identifiable  star¬ 
+tle  response  with  maximum  deflection  of  +25  mm  (Fig.  3). 
+
+
+■liiiiiiiiiiiiii 
+
+p®  -IgffltfffliSHffliBMHffill  m 
+liiii!  .i  l  lill 
+
+...  si 
+
+bn  Ini  nifflfflfigiSliffl  Bass™  i'M 
+
+BBiaigaBsaawiiHMmHi  B 
+
+
+Figure  3.  A  loud  hand  clap  stimulus  served  as  a  functional  control  for  the 
+stabilimeter  apparatus  producing  a  large  spike  on  the  chart  (arrow). 
+
+Each  pulse  of  the  TEMPO  simulator  was  accompanied  by  a  loud  sharp  report 
+from  the  internal  electronics.  Acoustic  content  of  this  noise  is  not  known. 
+Pulses  of  HPM  presented  without  an  animal  in  the  stabilimeter  failed  to  pro¬ 
+duce  pen  deflections  indicating  no  detectable  recording  artifacts  from  equip¬ 
+ment  electrical  transients. 
+
+
+Extraneous  Variation.  Several  sources  of  possible  experimenter- induced 
+variability  were  identified.  Because  of  the  pilot  nature  of  the  experiments 
+and  the  relatively  untested  state  of  the  TEMPO  (previously  fired  only  212 
+times),  adjustments  in  operating  procedures  by  the  TEMPO  technicians  occurred 
+over  the  course  of  the  experiments.  These  adjustments  resulted  in  variation  of 
+
+
+the  adaptation  period  prior  to  exposure.  Equipment  modifications  during  the 
+course  of  individual  experiments  introduced  additional  variation  in  the  char¬ 
+acteristics  of  HPM  as  well  as  associated  non-RFR  intervening  stimulus  variab¬ 
+les  . 
+
+Dosimetry.  Power  densities  varied  over  the  course  of  the  experiments. 
+During  the  single-pulse  tests,  power  density  ranged  from  0.780  kW/cm  to  0.994 
+kW/cra  .  Power  density  during  the  multiple-pulse  testg  fell  during  the  test 
+series  from  1.04  kW/cm  at  the  beginning  to  0.514  kW/cm  .  Data  was  not  availa¬ 
+ble  for  several  exposures  because  of  instrumentation  problems.  Furthermore, 
+there  was  approximately  58%  uncertainty  associated  with  the  method  of  calcula¬ 
+ting  power  density. 
+
+This  variability  of  the  power  density,  and  the  lack  of  power  density  data, 
+for  several  shots  made  it  impossible  to  conduct  any  meaningful  correlational 
+or  weighted  statistics.  Therefore,  a  conservative  unweighted  comparison  bet¬ 
+ween  HPM-exposed  and  sham-exposed  groups  was  done,  ignoring  power  density. 
+
+Data  Analysis.  Each  animal's  record  in  both  the  HPM-exposed  and  sham- 
+exposed  groups  showed  a  deflection  concurrent  with  the  pulse  (Fig.  4). 
+
+
+MR  M  O  N 
+
+
+♦ 
+
+
+Figure  “.  A  representative  recording  of  a  startle  response  to  a  single  HPM 
+pulse  (1.14  GHz,  85  ns,  0.828  kW/cmZ). 
+
+The  deflections  ranged  from  2-24  mm  with  means  of  7.33  mm  in  the  HPM  group 
+and  1.83  mm  in  the  sham-exposed  group  (Table  1).  None  of  the  rats  (0/6)  in  the 
+sham-exposed  group  exhibited  responses  producing  deflections  greater  than  2 
+mm,  suggesting  that  this  minimal  response  was  induced  by  non-RFR  stimuli, 
+possibly  noise,  accompanying  the  pulse. 
+
+
+TABLE  1.  PEN  DEFLECTIONS  AFTER  HPM  OR  SHAM  EXPOSURE 
+
+
+Rat  # 
+
+HPM- Exposed 
+
+amplitude  (mm) 
+
+Rat  # 
+
+Sham- Exposed 
+
+amplitude  (mm) 
+
+1 
+
+24 
+
+4 
+
+2 
+
+2 
+
+2 
+
+5 
+
+2 
+
+3 
+
+19 
+
+6 
+
+2 
+
+10 
+
+5 
+
+7 
+
+2 
+
+11 
+
+2 
+
+8 
+
+2 
+
+12 
+
+8 
+
+9 
+
+1 
+
+14 
+
+2 
+
+x  -  1.83 
+
+13 
+
+2 
+
+15 
+
+2 
+
+x  -  7.33 
+
+One-tailed  independent  measures  t-test  analysis  of  the  absolute  scores 
+associated  with  the  pulse  failed  to  detect  any  significant  differences  (t  = 
+1.59,  df  =*  13)  between  the  HPM-exposed  and  sham-exposed  groups  (Fig.  5a).  A 
+one-tailed  Mann-Whitney  U  test  was  carried  out  because  of  unequal  and  small  Ns 
+and  large  variances.  Again,  no  statistically  significant  differences  between 
+the  groups  were  yielded  (U,  -  12.50).  However,  many  tied  scores  resulted 
+from  the  large  number  of  mlAimally  responding  subjects  (2  mm  or  less  deflec¬ 
+tion).  Since  a  portion  of  the  response,  in  each  case,  may  be  related  to  non- 
+RFR  stimuli  (vide  supra) ,  a  criterion  was  set  wherein  responses  producing 
+deflections  greater  than  2  mm  were  scored  as  startle  responses.  Figure  5b 
+illustrates  that  the  HPM-exposed  group  had  significantly  greater  (z  -  1.91,  p 
+=<  0.028)  number  of  rats  displaying  startle  responses  (4/9)  than  did  the  sham- 
+exposed  group  (0/6). 
+
+Multiple  Pulses 
+
+
+Recordings  were  analyzed  by  counting  the  number  of  1-s  intervals  in  which 
+there  was  an  excursion  of  the  recording  pen  of  2  mm  or  greater  above  baseline. 
+Six  10 -s  epochs  (containing  a  possible  maximum  of  10  events  in  each  epoch) 
+immediately  before  the  testing  were  averaged  and  served  as  a  baseline  value  to 
+which  the  exposure  epoch,  adjusted  to  a  10-s  average,  was  compared.  The  expo¬ 
+sure  epochs  varied  from  9  s  to  16  s  in  length.  Thus,  the  total  number  of  1-s 
+events  were  divided  by  the  exposure  interval  length  in  seconds  and  multiplied 
+by  10  (events/s  x  10) .  Data  were  analyzed  for  excursions  that  were  2  mm  or 
+greater  above  baseline.  Observation  of  cumulative  and  video  records  of  the 
+rat's  response  to  the  HPM  stimulus  showed  that  typically  the  rat  would 
+"freeze"  at  the  onset  of  the  exposure  and  remain  relatively  motionless,  in  a 
+defensive/orienting  posture,  until  the  end  of  the  train  of  pulses  (Fig.  6). 
+
+One  animal  in  the  sham- exposed  group,  however,  responded  with  an  increase 
+in  activity  that  subsided  immediately  after  the  pulse-train  ended.  This  rat 
+had  a  very  low  baseline  activity.  Observation  of  the  video  record  suggests 
+that  the  increase  in  responses  obtained  on  the  chart  record  was  the  result  of 
+orienting  responses,  possibly  initiated  toward  the  sound  component  of  the 
+stimulus.  None  of  the  rats  displayed  behaviors  indicative  of  stress  immediate¬ 
+ly  following  either  treatment. 
+
+
+>_  on  5 
+
+S  +1 
+
+
+70  S 
+
+
+50  S3 
+
+
+40  pc 
+
+
+F igure  5 . 
+
+
+A.  The  response  (measured  as  mm  of  pen  deflection)  of  rats  exposed 
+to  a  single  pulse  of  high-power  microwave  radiation.  B.  The  HPM- 
+exposed  group  had  significantly  greater  number  of  rats  (4/9)  dis¬ 
+playing  startle  response  than  did  the  sham-exposed  group. 
+
+
+liniids 
+
+. . . . . 
+
+IPigSHpiSi  iifLi  il:  j| :: :  :j  niH :  )Hi  5  i  5  i  i  iinyagisr 
+'«■"  -H.T*  I"-  I  _ 
+
+
+SWBMsSiifflHS, 
+
+
+■KiiiSSSBffliSiiilJifffliS 
+
+IPS 
+
+
+TABLE  2.  RAT  ACTIVITIES  MEASURED  IN  THE  STABILIMETER 
+
+
+Rat# 
+
+Pre 
+
+-test 
+
+-events*/10  s  epoch - 
+
+Baseline  Test  Post-test 
+
+X 
+
+Baseline 
+
+% 
+
+Baseline 
+
+Absol 
+Diff . 
+
+17 
+
+5 
+
+3 
+
+6 
+
+2 
+
+2  2 
+
+2.0 
+
+1 
+
+3.33 
+
+60 
+
+1.33 
+
+18 
+
+3 
+
+7 
+
+9 
+
+7 
+
+7  8 
+
+4.38 
+
+8 
+
+6.83 
+
+64 
+
+2.45 
+
+H 
+
+19 
+
+10 
+
+1C 
+
+10 
+
+10 
+
+10  10 
+
+.71 
+
+6 
+
+10.00 
+
+7 
+
+9.29 
+
+P 
+
+20 
+
+0 
+
+3 
+
+0 
+
+5 
+
+0  2 
+
+0 
+
+0 
+
+1.67 
+
+0 
+
+1.67 
+
+M 
+
+21 
+
+0 
+
+2 
+
+0 
+
+0 
+
+3  0 
+
+0 
+
+2 
+
+0.83 
+
+0 
+
+0.83 
+
+30 
+
+4 
+
+7 
+
+7 
+
+6 
+
+7  2 
+
+0 
+
+1 
+
+5.50 
+
+0 
+
+5.50 
+
+X  * 
+
+1.18 
+
+3.0 
+
+4.69 
+
+21.83 
+
+3.51 
+
+24 
+
+2 
+
+2 
+
+2 
+
+2 
+
+0  4 
+
+0 
+
+4 
+
+2.00 
+
+0 
+
+2.00 
+
+S 
+
+25 
+
+7 
+
+6 
+
+7 
+
+3 
+
+2  0 
+
+1.92 
+
+2 
+
+4.17 
+
+46 
+
+2.25 
+
+H 
+
+26 
+
+10 
+
+10 
+
+10 
+
+9 
+
+7  10 
+
+1.11 
+
+1 
+
+9.33 
+
+12 
+
+8.22 
+
+A 
+
+27 
+
+1 
+
+1 
+
+0 
+
+0 
+
+4  0 
+
+4.00 
+
+0 
+
+1.00 
+
+400 
+
+3.00 
+
+M 
+
+28 
+
+10 
+
+8 
+
+10 
+
+10 
+
+10  7 
+
+7.78 
+
+10 
+
+9.17 
+
+85 
+
+1.39 
+
+29 
+
+10 
+
+10 
+
+10 
+
+10 
+
+10  10 
+
+7.55 
+
+7 
+
+10.00 
+
+76 
+
+2.45 
+
+X  = 
+
+3.73 
+
+4.62 
+
+5.95 
+
+103.17 
+
+3.22 
+
+*2  squares  or  >  -  event 
+
+
+'.O 
+
+
+v 
+
+
+Data  Analysis.  Baseline  activities  averaged  over  six  10-s  epochs  imme¬ 
+diately  prior  to  exposure  (Table  2),  were  not  significantly  different  between 
+groups  (t  -  0.58,  df  -  10).  Comparisons  of  difference  scores,  indicating  abso¬ 
+lute  changes  in  activity,  failed  to  yield  significant  differences  between  the 
+groups  (t  -  0.17,  df  -  10).  When  within  group  absolute  changes  were  analyzed 
+separately,  by  way  of  t-tests  for  related  measures,  significant  decreases  in 
+activity  were  found  in  both  the  HPM-exposed  group  (t  -  2.62,  df  -  5)  and  sham- 
+exposed  (t  ■  3.16,  df  -  5) ,  suggesting  a  non-RFR  component  of  the  stimulus  was 
+behaviorally  active  (Fig.  7).  The  noise  associated  with  the  triggering  of  the 
+
+
+TEMPO  device  is  the  most  likely  source  of  this  effect. 
+
+
+Although  no  differences  were  yielded  by  statistical  comparisons  of  baseline 
+activities,  the  repeated  measures  (pretest,  posttest)  design  suggested  that 
+analyses  of  the  percent  of  baseline  activity  and  analysis  of  covariance  might 
+be  appropriate.  Analysis  of  the  ratio  (baseline  -  test/baseline)  scores  bet¬ 
+ween  the  HPM-exposed  and  sham-exposed  groups  showed  that  significantly 
+greater  changes  in  activity  occurred  in  the  HPM-exposed  group  (t  -  2.49,  df  = 
+10,  two  tailed).  Similarly,  a  one-way  analysis  of  covariance  yielded  a  signi¬ 
+ficant  difference  between  the  treatment  groups  (F^  „  -  5.63),  indicating  that 
+exposure  to  HPM  had  significantly  altered  activity ’ levels  as  compared  to  sham- 
+exposed  (Fig .  7) . 
+
+
+HPM- EXPOSED 
+
+
+SHAM-EXPOSED 
+
+
+Figure  7.  The  effect  of  10  pulses  of  HPM  on  activity.  Baseline  activity  is 
+averaged  over  six  10- s  epochs  immediately  prior  to  exposure. 
+
+
+Rotarod  Motor  Effects  Tasks 
+
+
+Apparatus  and  Procedure 
+
+Rats  were  trained  to  maintain  a  stationary  position  by  walking  on  a  slowly 
+rotating  (15  rpm)  rod  (diameter  -  4  cm,  width  -  12  cm)  over  an  ice  water  bath. 
+The  rats  typically  require  3  training  sessions  to  reach  criterion  performance 
+levels  indicated  by  continued  walking  for  3  min  without  escape  attempts  or 
+falling  off  the  rotarod  into  the  ice  water  bath.  The  rotarod  axle  was  made  of 
+Plexiglas,  and  covered  with  a  sheet  of  sandpaper.  The  axle  and  pulley,  also 
+made  of  Plexiglas,  were  mounted  on  two  Plexiglas  supports  (width  -  6  cm; 
+height  -  14  cm) .  The  supports  were  mounted  on  a  Plexiglas  base  (width  =  15 
+cm;  length  -  29  cm).  The  pulley  was  driven  by  a  Tygon  tubing  loop  attached  to 
+a  small  electric  motor  which  was  placed  well  out  of  the  electromagnetic  field. 
+
+
+After  sufficient  training,  the  rats  could  easily  perform  the  task  for  many 
+minutes  (12). 
+
+Dosimetry.  Power  density  was  approximately  50%  2Chat  of  the  startle- 
+activity  test,  ranging  from  0.54  kW/cm  to  0.62  kW/cm  .  Again,  power  density 
+data  were  not  obtained  for  all  shots  in  this  series  of  tests. 
+
+Data  Analysis.  The  effect  of  multiple  HPM  pulses  on  rotarod  performance  was 
+dramatic.  Four  of  6  HPM-exposed  rats  exhibited  marked  reduction  in  latencies 
+to  dismount.  Observation  of  the  video  records  indicated  that  these  rats  dis¬ 
+played  unmistakable  escape  responses;  actively  dismounting  within  4  s  of 
+initial  exposure.  Only  1  of  6  sham  controls  failed  to  remain  on  the  rotarod 
+throughout  the  entire  pulse  train.  Figure  8  illustrates  the  significant 
+difference  (z  —  1.79,  p  -  0.04,  one-tailed)  between  the  proportion  of  HPM- 
+exposed  as  compared  to  sham-exposed  that  dismounted  before  the  fifth  pulse. 
+
+
+,,PM  EXPOSED  S*i*M  EXPOSED  hPm  EXPOSED  S*XW  EXPOSED 
+
+
+Figure  8.  A.  The  mean  latency  from  treatment  initiation  until  the  rat  was 
+completely  clear  of  the  rotarod.  B.  The  proportion  of  rats  that 
+dismounted  before  the  fifth  pulse. 
+
+
+DISCUSSION 
+
+
+The  stabilimeter  detected  differences  in  activity  between  the  HPM-exposed 
+and  sham-exposed  groups  that  were  difficult  to  quantify  by  observation  of 
+video  tape  records.  Although  the  differences  were  small,  they  were  consistent 
+enough  to  yield  statistically  significant  results  suggesting  that  some  stimu¬ 
+lus  characteristic  of  the  HPM  pulse  is  behaviorally  significant.  The  specific 
+characteristic  and  mechanism  of  action  of  the  effect  cannot  be  determined  from 
+this  data. 
+
+The  results  indicated  that  the  custom-designed  stabilimeter  is  sensitive 
+and  capable  of  detecting  very  small„ref lexive  responses.  The  effect  of  a 
+single  pulse  of  HPM  (0.7  -  1.0  kW/cm  ,  1.3  GHz  ,  85  ns)  was  variable  and 
+relatively  small,  suggesting  that  these  HPM  parameters  are  close  to  threshold 
+for  this  behavioral  test. 
+
+The  rotarod  test  also  proved  to  be  a  sensitive  measure  of  the  effects  of 
+pulsed  HPM  on  performance .  The  magnitude  of  responding  was  markedly  greater 
+than  that  observed  with  the  startle  response  test.  Several  factors  may  account 
+for  the  differential  sensitivity  of  the  two  tests.  First,  the  rotarod  test 
+places  a  greater  workload  on  the  animals  than  the  startle  response  test.  Vari¬ 
+ables  of  increased  attention,  activity,  and  stress-related  responses  may 
+interact  with  pulsed  HPM  to  produce  a  greater  response.  Knepton  et  al.  (13) 
+showed  that  the  effect  of  low-level  RFR  on  behavior  is  influenced  by  the 
+workload  an  animal  is  required  to  carry  out.  The  possible  rate-dependent 
+effects  (14)  of  low-level  RFR  (15,  16,  17)  may  also  be  related  to  the  effect 
+of  workload. 
+
+The  possible  interactive  effects  related  to  the  noise  accompanying  the 
+firing  of  the  TEMPO  device  are  a  potential  source  of  variation  that  must  be 
+considered.  The  noise  may  be  producing  physiological  and  behavioral  stress 
+responses  that  interact  with  the  HPM  to  potentiate  or  even  attenuate  the  be¬ 
+havioral  effect.  Another  potential  source  of  variability  between  the  stabi¬ 
+limeter  and  rotarod  tests  is  the  possibility  that  the  HPM  is  attenuated  by  the 
+stabilimeter  Plexiglas  cage  walls.  Glass  rods  and  sheets  of  Lucite  have  been 
+recently  reported  to  cause  major  perturbations  in  the  1-10  GHz  frequency 
+band,  if  the  materials  are  aligned  in  the  same  direction  as  the  E  field  (18). 
+There  was  no  Plexiglas  separating  the  rat  from  the  horn  in  the  rotarod  task. 
+Future  experiments  must  take  these  variables  into  account  and  preferably 
+eliminate  them. 
+
+The  present  experiments  and  those  of  Knepton  et  al.  (13)  suggest  that 
+high-rate  or  complex  tasks  involving  vigilance  and/or  significant  motor  invol¬ 
+vement  may  prove  to  be  sensitive  to  the  effects  of  high-peak-power  pulsed 
+microwave  radiation. 
+
+This  series  of  tests  examining  the  behavioral  effects  of  concurrent  expo¬ 
+sure  to  high-peak-power  pulsed  microwaves  in  the  £.26  GHz  to  1.11  GHz  range 
+with  power  densities  of  1.04  kW/cm4  to  0.514  kW/cm  indicates  that  rats  of  the 
+Fisher  344/N  strain  respond  to  some  component  of  the  HPM  stimulus.  Finally, 
+when  the  animals  are  engaged  in  a  forced  activity  requiring  significant  motor 
+involvement,  they  respond  as  if  some  component  of  the  radiation  is  an  aversive 
+stimulus . 
+
+
+O' -  %  O  *0  -0  *0 -O  +  * 
+
+
+ACKNOWLEDGMENTS 
+
+We  express  our  grateful  appreciation  to  the  following  individuals  whose 
+assistance  made  this  study  possible:  Mr.  Harvey  Schlichting  of  the  Technical 
+Visual  Services  Branch,  USAFSAM,  who  made  the  video  tapes  and  helped  solve  a 
+myriad  of  problems,  technical  and  otherwise;  SSgt  Raul  Escarciga,  for  his 
+expert  animal  handling;  Maj  Bruce  Anderson  and  Capt  Jack  Sidler  of  the 
+Advanced  Weapons  Branch,  Air  Force  Weapons  Laboratory,  for  answering  all  of 
+our  questions  and  opening  doors;  and  to  all  of  the  other  Weapons  Laboratory 
+personnel  for  making  the  exposures,  providing  the  dosimetric  data,  and  their 
+patience  and  good  humor  in  dealing  with  behaviorists . 
+
+
+REFERENCES 
+
+1.  Biological  Effects  of  Radiofrequency  Radiation.  Elder,  J.  and  Cahill,  D. 
+F.  (eds.).  EPA  Publ .  600/8-83-026F,  1984. 
+
+2.  Justesen,  D.  and  King,  N.  Behavioral  effects  of  low  level  microwave 
+
+radiation  in  the  closed  space  situation,  pp.  154-179.  In  Cleary,  S. 
+
+(ed.)  Biological  Effects  and  Health  Implications  of  Microwave  Radia¬ 
+tion,  U.S.  Dept.  of  Health,  Education,  and  Welfare,  Washington,  D.C., 
+HEW  Publ.  BRH/DBE  70-2,  1970. 
+
+3.  Cordts ,  R. ,  Merritt,  J. ,  Erwin,  D. ,  Hardy,  K. ,  Yochmowitz ,  M.  Beha¬ 
+
+vioral  Response  of  Rats  Exposed  to  High-Power  Microwave  Radiation.  USAFSAM- 
+TR-87-30  (In  Press). 
+
+4.  Groves,  P.  M.  and  Thompson,  R.  Habituation:  A  Dual  Process  Theory. 
+Psychol  Review  77:419-450  (1970). 
+
+
+5.  Seligman,  M.  On  the  Generality  of  the  Laws  of  Learning.  Psychol 
+Review  77:406-418  (1970). 
+
+6.  Bolles,  R.  Species-specific  Defense  Reactions  and  Avoidance  Learning. 
+In  Biological  Boundaries  of  Learning.  Seligman,  M.  and  Hager,  J.  (eds.) 
+New  York:  Appleton- Century- Crof ts ,  1972. 
+
+7.  Casella.  J.  and  Davis  M.  The  Design  and  Calibration  of  a  Startle  Measure¬ 
+ment  System.  Physiol  Behav  36:377-383  (1986). 
+
+8.  Hoffman,  H.  and  Ison,  J.  Reflex  Modification  in  the  Domain  of  Startle: 
+I.  Some  Empirical  Findings  and  Their  Implications  for  How  the  Nervous 
+System  Processes  Sensory  Input.  Psychol  Review  87:175-189  (1980). 
+
+
+9. 
+
+
+Voss,  D.  Demuth,  G. ,  Babbitt,  A.,  Torraca ,  L.  and  Miera,  B.  Characte¬ 
+rization  of  the  RF  radiation  from  an  Axially  Extracted  Cathode  Oscillator 
+Operated  at  1.3  GHz.  AFWL-TR  (In  Press),  Air  Force  Weapons  Laboratory, 
+Kirtland  AFB ,  NM. 
+
+
+10.  Lewis,  W.  Operation  of  the  Virtual  Cathode  Oscillator  Radiofrequency 
+Radiation  Emitter,  TEMPO.  AFWL-TR  (In  Preparation),  Air  Force  Weapons 
+Laboratory,  Kirtland  AFB,  NM. 
+
+
+13 
+
+
+11.  Bruning,  J.  and  Kintz ,  B.  Computational  Handbook  of  Statistics.  Scott, 
+Glenview,  IL:  Foresman  and  Co.,  1968. 
+
+12.  Bogo,  V.,  Hill,  T.,  and  Young,  R.  Comparison  of  Accelerod  and  Rotorod 
+
+Sensitivity  in  Detecting  Ethanol  and  Acrylamide -Induced  Performance  Dec¬ 
+rement  in  Rats:  Review  of  Experimental  Considerations  of  Rotating  Rod 
+
+Systems.  Neurotoxicol  2:765-787  (1981). 
+
+13.  Knepton,  J.,  de  Lorge ,  J.,  and  Griner,  T.  Effects  of  Pulsed  Microwaves 
+
+at  1.28  and  5.62  GHz  on  Rhesus  Monkeys  (Macaca  mulatta)  Performing  an 
+
+Exercise  Task  at  Three  Levels  of  Work.  NAMRL-1293,  Naval  Aerospace  Medi¬ 
+cal  Research  Laboratory,  Pensacola,  FL,  1983. 
+
+14.  Dews,  P.  Studies  on  Behavior.  IV.  Stimulant  Actions  of  Methamphetamine . 
+J  Pharmacol  Expl  Therap  122:137-147  (1958). 
+
+15.  Thomas,  J.,  Finch,  D.,  Fulk,  D.  and  Burch,  L.  Effects  of  Low-Level 
+
+Microwave  Radiation  on  Behavioral  Baselines.  Ann  NY  Acad  Sci  247:425- 
+432  (1975). 
+
+16.  Thomas,  J.,  Schrot ,  and  Banvard,  R.  Comparative  Effects  of  Pulsed 
+
+and  Continuous -Wave  2.8-GHz  Microwaves  on  Temporally  Defined  Behavior. 
+Bioelectromagnetics  3:227-235  (1982). 
+
+17.  de  Lorge,  J.  Operant  Behavior  and  Colonic  Temperature  of  Macaca  Mulatta 
+Exposed  to  Radio  Frequency  Fields  at  or  above  Resonant  Frequencies.  Bio¬ 
+electromagnetics  5:233-246  (1984). 
+
+18.  Dumey,  C.,  Massoudi,  H.  ,  and  Iskander,  M.  Radiofrequency  Radiation  Hand¬ 
+book  (Fourth  Edition)  USAFSAM-TR-85-73 ,  October  1987. 
+
+
+m 
+
+
+OHS 
+
+
