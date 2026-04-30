@@ -5,7 +5,9 @@
 - `HEARING_IMPAIRED_REFERENCE_CHAIN.md` (pass I, commit `e3e5bd7`)
 - `HEARING_IMPAIRED_DEEP_DIG.md` (pass II, commit `b157734`)
 - `HEARING_IMPAIRED_DEEP_DIG_III.md` (pass III, commit `5c8d06f`)
-**Followed by:** `HEARING_IMPAIRED_DEEP_DIG_V.md` (pass V — SEC filing & Flanagan patent acquisition)
+**Followed by:**
+- `HEARING_IMPAIRED_DEEP_DIG_V.md` (pass V — SEC filing & Flanagan patent acquisition)
+- `HEARING_IMPAIRED_DEEP_DIG_VI.md` (pass VI corrigendum — supersedes "nine of nine" phrasing in §IV.6)
 
 **Scope:** Fourth pass targeted nine deferred leads from passes I–III. Four produced new
 primary-source attestation (§IV.1–§IV.4); five remain open with documented negative
@@ -163,6 +165,15 @@ holdings exist but no scanned text was retrievable. Open.
 ---
 
 ## §IV.6 — Standing of the artifact after pass IV
+
+> **[SUPERSEDED 2026-04-30 by Pass VI §VI.1–§VI.5]** The phrasing "nine of
+> nine hearing-impaired test subjects could identify words spoken to them by
+> RF transmission" is **not** what IMG_5285 says. The image contains only
+> the bare quoted phrase "9 hearing-impaired patients" with no denominator.
+> Likewise, "9 of 9 is a downstream simplification" misattributes the drift:
+> no primary or surface-layer source contains "9 of 9". See `HEARING_IMPAIRED_DEEP_DIG_VI.md`
+> §VI.1 (image re-read), §VI.3 (AsMA verbatim with subgroup split), §VI.5
+> (denominator-drift table). Surrounding paragraphs (1, 3, 4) are unaffected.
 
 The IMG_5285 claim ("nine of nine hearing-impaired test subjects could
 identify words spoken to them by RF transmission") and the JAMA criticism

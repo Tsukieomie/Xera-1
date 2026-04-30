@@ -7,6 +7,9 @@
 - `HEARING_IMPAIRED_DEEP_DIG_III.md` (pass III, commit `5c8d06f`)
 - `HEARING_IMPAIRED_DEEP_DIG_IV.md` (pass IV, commit `269dd70`)
 
+**Followed by:** `HEARING_IMPAIRED_DEEP_DIG_VI.md` (pass VI corrigendum —
+ denominator anatomy; supersedes "nine of nine" phrasing in §V.5 and §V.7)
+
 **Cross-reference:** `flanagan-claim-provenance.md`, `ARCHIVAL_TARGETS_756124.md`,
 `SHARP_GROVE_PRIMARY_REPORT_HUNT.md`
 
@@ -128,6 +131,13 @@ Distribution plan and product pipeline:
    self-assessment, not 9-out-of-9. This is consistent with the patent
    3,629,521 actual numerics (passes II–III: n=12, baseline 26.2% → 73.8%
    combined) — i.e., a marginal-majority response, *not* universal response.
+   > **[CORRECTION 2026-04-30 by Pass VI §VI.1–§VI.2]** IMG_5285 does **not**
+   > say "9 of 9"; it quotes only "9 hearing-impaired patients" with no
+   > denominator. The contrast in this paragraph still holds against the
+   > McMurtrey/FOI surface-layer phrasing (which itself supplies no
+   > denominator), but the "9 of 9" attribution to IMG_5285 was an agent
+   > insertion. The substantive comparison NYT ">50%" vs. patent group-mean
+   > 73.8% combined-modality is unaffected.
 4. **Dental hearing aid + military pilot device.** Two adjacent product lines
    are disclosed at the same press moment: (a) the false-tooth receiver
    hearing aid (the "Transdental Hearing System" of the SEC filing), and
@@ -299,6 +309,13 @@ constraint not previously captured in the repo.
 ---
 
 ## §V.7 — Standing of the artifact after pass V
+
+> **[SUPERSEDED 2026-04-30 by Pass VI §VI.1–§VI.7]** IMG_5285 does not
+> contain the words "nine of nine". The image quotes only "9 hearing-impaired
+> patients" with no denominator. The five-level characterization below stands
+> structurally; only the denominator phrasing in the lead sentence and in
+> row 2 of the table immediately below is corrected in `HEARING_IMPAIRED_DEEP_DIG_VI.md`
+> §VI.7 (six-level table with subgroup-aware re-anchoring).
 
 After five passes, the IMG_5285 "nine of nine hearing-impaired patients"
 claim and the JAMA criticism are characterized at five forensic levels:
