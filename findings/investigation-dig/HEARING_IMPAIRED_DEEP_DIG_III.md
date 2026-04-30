@@ -3,6 +3,7 @@
 **Date:** 2026-04-30
 **Companion to / addendum on:** `HEARING_IMPAIRED_REFERENCE_CHAIN.md` (pass I, commit `e3e5bd7`),
 `HEARING_IMPAIRED_DEEP_DIG.md` (pass II, commit `b157734`)
+**Followed by:** `HEARING_IMPAIRED_DEEP_DIG_IV.md` (pass IV — buried leads & conflict-of-interest anatomy)
 **Related:** `SHARP_GROVE_PRIMARY_REPORT_HUNT.md`, `findings/03_Technology_Patents/34_JUSTESEN_1975_APA_MICROWAVE_HEARING.md`, `V2K_EVIDENCE_MATRIX.md`
 
 ---
