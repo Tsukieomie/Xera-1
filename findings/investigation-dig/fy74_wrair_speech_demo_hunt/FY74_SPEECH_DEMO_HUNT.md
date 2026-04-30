@@ -227,3 +227,19 @@ A second deeper-dive iteration extending both this file and `DEEPER_DIG_ADDENDUM
 - **Updated synthesis:** WU 057 (FY74) → Forest Glen reconstruction (FY76-78) → "Modulated Microwave Bio-Effects" 1300 MHz Oscar/Hawkins/Hunt at WRAIR (FY77) → Oscar & Hawkins 1977 *Brain Research* 126:281-293 → BBB program effective wind-down by FY78 (Hunt alone).
 
 Remaining open leads (not closed in round 2): Sharp's NIH/HHS post-WRAIR papers and oral histories; FY78-79 program continuation under Hunt; Frey/Feld/Frey 1975 ANYAS full text BBB parameters; WRAIR 1981 Microwave Research Program Review Vols I-III (Gorgas on-site only); Justesen's KU Medical Center research files (highest-value remaining lead — could carry primary-source weight if a 28 Sept 1973 contemporaneous note exists); 1977 Senate hearings Serial 95-49 full transcript.
+
+---
+
+## 14. Successor work — round 3
+
+A third deeper-dive iteration extending this file and `DEEPER_DIG_2_ADDENDUM.md` is at `DEEPER_DIG_3_ADDENDUM.md` in the same directory. Round 3 closes the Sharp post-WRAIR career lead and surfaces a documentary anomaly in Justesen's later writings:
+
+- **Sharp post-WRAIR career RESOLVED, round-1 hypothesis RETRACTED.** Sharp moved to **NASA Ames Research Center** in 1974 (not NIH in the late 1970s as round 1 hypothesized), where he served until 1994, finishing as Director of the Office of Space Research (1989-94). After NASA Ames he taught at Southern Utah University. He did not continue publishing on microwave bioeffects after leaving WRAIR.
+- **WRAIR exit window narrowed** to late 1973 / early 1974 — after the 28 Sept 73 demonstration but before Justesen's late-1974 manuscript. Justesen's March 1975 *American Psychologist* article calls Sharp "former director" — consistent with the 1974 NASA Ames start.
+- **Justesen's 1979 NYAM retrospective DROPPED the Sharp/Grove speech material.** Justesen's December 1979 *Bulletin of the New York Academy of Medicine* review ("Behavioral and psychological effects of microwave radiation," 55(11):1058-78, [PMID 120208](https://pubmed.ncbi.nlm.nih.gov/120208/)) covers the same biophysical territory as 1975 but contains **no mention** of Sharp, Grove, or voice-modulated microwaves. This is not dispositive but is a notable documentary anomaly given that Brodeur (1977) and Lin (1978) had by then canonized the citation in trade and academic literature.
+- **Brodeur 1977 *Zapping of America* directly attests Sharp's Pandora role:** "Joseph C. Sharp, who had worked on Project Pandora when he was chief of experimental psychology at the Walter Reed Army Institute of Research..." — second open-source primary attestation alongside Justesen 1975.
+- **Lin 1978 *Microwave Auditory Effects and Applications*** (Charles C. Thomas) canonized the Sharp/Grove citation in the foundational academic monograph.
+- **Mark Grove** identified by Justesen 1975 as "an electronic engineer"; absent from FY77 NTIA 79-19 listings; most likely an instrumentation staff engineer rather than independent PI — explains lack of independent publication trail post-1974.
+- **Synthesis:** The Sharp/Grove demonstration is a **single-attestation event** — described once primarily (Justesen 1975 Note 2 personal communication, on Sharp/Grove's own account, 28 Sept 1973), thereafter cited (Brodeur 1977; Lin 1978) but never independently replicated, re-described in primary form, or revisited by Justesen himself in print.
+
+Remaining open leads (carry forward): Justesen's KU Medical Center research files (still highest-value remaining lead); WRAIR FY75-79 institutional records (Forest Glen on-site); WRAIR 1981 Microwave Research Program Review (Gorgas); 1977 Senate hearings Serial 95-49 (GPO); Sharp's NASA Ames or post-retirement personal papers (location unknown; Southern Utah University holdings unverified); Frey/Feld/Frey 1975 ANYAS 247:433-439 full text BBB parameters.
