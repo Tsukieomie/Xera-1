@@ -5,6 +5,7 @@
 - `HEARING_IMPAIRED_REFERENCE_CHAIN.md` (pass I, commit `e3e5bd7`)
 - `HEARING_IMPAIRED_DEEP_DIG.md` (pass II, commit `b157734`)
 - `HEARING_IMPAIRED_DEEP_DIG_III.md` (pass III, commit `5c8d06f`)
+**Followed by:** `HEARING_IMPAIRED_DEEP_DIG_V.md` (pass V — SEC filing & Flanagan patent acquisition)
 
 **Scope:** Fourth pass targeted nine deferred leads from passes I–III. Four produced new
 primary-source attestation (§IV.1–§IV.4); five remain open with documented negative
