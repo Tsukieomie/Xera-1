@@ -1,0 +1,2299 @@
+flO-fll 92  199  BEHAVIORAL  RESPONSE  OF  RATS  EXPOSED  TO  HIGH-PQMER 
+
+HICROHAVE  RADIATIONS)  SCHOOL  OF  AEROSPACE  HEDICINE 
+BROOKS  AFB  TX  R  E  COROTS  ET  AL  FEB  88 
+UNCLASSIFIED  U5AFSAM-TR-87-58  F/G  8/7 
+
+
+•*** 
+
+
+1.0  S5»m. 
+
+
+lit  |4|  |22 
+
+lli  Lmm 
+
+U  L2  1 2  .0 
+
+
+1.25  I U  11.6 
+
+
+MICROCOPY  RESOLUTION  TEST  CHART 
+NATIONAL  »U«LAt  v,  aTANOAAOS-  1963-A 
+
+
+£ 
+
+
+Si*  I 
+
+t  . 
+
+V 
+
+
+El 
+
+®i... 
+
+5,; 
+
+t  2 
+.  * 
+
+.'I 
+
+f.’- 
+
+,'e 
+
+
+EA7JL  .^.KJUniVXL-*  L^jyVV\.V1  *J\  im*  UJgUrafCT»Igm*.  uvi/y 
+
+
+l  m  \  WMT  l*\i  V  *»n  m»\  WK-’’  V  f  I.r  k  Jr  i:  n  ~.is  at  v  w  u  -*~w  tthmh  M 
+
+
+AD-A192  199 
+
+
+USAFSAM-TR-87-30  „,,o  FILE  COP' 
+
+BEHAVIORAL  RESPONSE  OF  RATS  EXPOSED  TO 
+HIGH-POWER  MICROWAVE  RADIATION 
+
+
+Robert  E.  Cordts,  Major,  USAF,  BSC 
+James  H.  Merritt,  B.S. 
+
+David  N.  Erwin,  Ph.D. 
+
+Kenneth  A.  Hardy,  M.S. 
+
+Michael  G.  Yochmowitz,  Ph.D. 
+
+
+February  1988 
+
+
+DTIC 
+
+
+ELECTE 
+MAR  2  1 1988 
+
+
+Interim  Report  for  Period  September  1986  -  January  1987 
+
+
+Approved  for  public  release;  distribution  Is  unlimited. 
+
+
+USAF  SCHOOL  OF  AEROSPACE  MEDICINE 
+Human  Systems  Division  (AFSC) 
+
+Brooks  Air  Force  Base,  TX  78235-5301 
+
+
+88  8  18  091 
+
+
+NOTICES 
+
+
+This  interim  report  vas  submitted  by  personnel  of  the  Radiation  Physics 
+Branch,  Radiation  Sciences  Division,  USAF  School  of  Aerospace  Medicine,  Human 
+Systems  Division,  APSC,  Brooks  Air  Force  Base,  Texas,  under  job  order  7757-01- 
+1N. 
+
+When  Government  drawings,  specifications,  or  other  data  are  used  for  any 
+purpose  other  than  in  connection  with  a  definitely  Government -related  procure¬ 
+ment,  the  United  States  Government  incurs  no  responsibility  nor  any  obligation 
+whatsoever.  The  fact  that  the  Government  may  have  formulated  or  in  any  way 
+supplied  the  said  drawings,  specifications,  or  other  data,  is  not  to  be 
+regarded  by  implication,  nor  otherwise  in  any  manner  construed,  as  licensing 
+the  holder  or  any  other  person  or  corporation;  or  as  conveying  any  rights  or 
+permission  to  manufacture,  use,  or  sell  any  patented  invention  that  may  in  any 
+way  be  related  thereto. 
+
+The  animals  involved  in  this  study  were  procured,  maintained,  and  used  in 
+accordance  with  the  Animal  Welfare  Act  and  the  "Guide  for  the  Care  and  Use  of 
+Laboratory  Animals"  prepared  by  the  Institute  of  Laboratory  Animal  Resources - 
+National  Research  Council. 
+
+The  Office  of  Public  Affairs  has  reviewed  this  report,  and  it  is  releas¬ 
+able  to  the  National  Technical  Information  Service,  where  it  will  be  available 
+to  the  general  public,  including  foreign  nationals. 
+
+This  report  has  been  reviewed  and  is  approved  for  publication. 
+
+
+vJAMES  H.  MERRITT,  B.S. 
+Project  Scientist 
+
+
+/JEROME  H.  KRl| 
+'Supervisor 
+
+
+D.V.M. 
+
+
+01 
+
+
+UNCLASSIFIED _ _ 
+
+^<*URitY  Classification  of  this  page 
+
+
+U.  REPORT  SECURITY  CLASSIFICATION 
+Unclassified 
+
+
+2a.  SECURITY  CLASSIFICATION  AUTHORITY 
+
+
+2b.  DECLASSIFICATION  /  DOWNGRADING  SCHEDULE 
+
+
+REPORT  DOCUMENTATION  PAGE 
+
+
+lb.  RESTRICTIVE  MARKINGS 
+
+
+3.  DISTRIBUTION /AVAILABILITY  OF  REPORT 
+
+Approved  for  public  release;  distribution 
+
+is  unlimited. 
+
+
+4.  PERFORMING  ORGANIZATION  REPORT  NUMBER(S) 
+U  SAF  SAM-TR-8  7-30 
+
+
+S.  MONITORING  ORGANIZATION  REPORT  NUMBER(S) 
+
+
+6a.  NAME  OF  PERFORMING  ORGANIZATION  6b.  OFFICE  SYMBOL  7a.  NAME  OF  MONITORING  ORGANIZATION 
+USAlF  School  of  Aerospace  (If  applicable) 
+
+Medicine  .  USAFSAM/R2P 
+
+
+6c  ADDRESS  (City,  State,  and  ZIP  Code) 
+
+Human  Systems  Division  (AFSC) 
+
+Brooks  Air  Force  Base,  TX  78235-5301 
+
+
+7b  ADDRESS  (Oty,  State,  and  ZIP  Code) 
+
+
+8a.  NAME  OF  FUNDING  /SPONSORING 
+
+ORGANIZATION  USAF  School  of 
+
+
+Aerospace  Medicine 
+
+
+8c  ADDRESS  (City,  State,  and  ZIP  Code) 
+
+Human  Systems  Division  (AFSC) 
+
+Brooks  Air  Force  Base,  TX  78235-5301 
+
+
+8b.  OFFICE  SYMBOL  9.  PROCUREMENT  INSTRUMENT  IDENTIFICATION  NUMBER 
+(If  applicable) 
+
+USAFSAM/RZP 
+
+
+10.  SOURCE  OF  FUNDING  NUMBERS 
+
+
+PROGRAM  PROJECT 
+
+ELEMENT  NO.  NO. 
+
+62202F  7757 
+
+
+11.  TITLE  (Include  Security  Classification) 
+
+Behavioral  Response  of  Rats  Exposed  to  High-Power  Microwave  Radiation 
+
+
+12.  personal  author(S)  Cordts,  Robert  E. ;  Merritt,  James  H. ;  Erwin,  David  N.;  Hardy,  Kenneth  A.; 
+ochmowitz,  Michael  G 
+
+
+13a.  TYPE  OF  REPORT 
+Interim 
+
+
+13b.  TIME  COVERED  14.  DATE  OF  REPORT  [Year,  Month.  Day)  |15.  PAGE  COUNT 
+
+FROM  86/09  TO87/01  1988,  February  I  30 
+
+
+17.  COSATI  COOES 
+
+
+FIELD  GROUP  SUB-GROUP 
+
+
+06  I  07 
+
+
+18.  SUBJECT  TERMS  (Continue  on  reverse  if  necessary  and  identify  by  block  number) 
+High-power  microwave  bioeffects  Behavioral  effects  of 
+
+Microwave  radiation  bioeffects  microwaves 
+
+Radio frequency  radiation  bioeffects 
+
+
+19  ABSTRACT  (Continue  on  reverse  if  necessary  and  identify  by  block  number) 
+
+Emerging  high-power  microwave  technologies  require  that  bioeffects  of  exposure  to  this  type 
+of  radiation  be  investigated  for  health  and  safety  considerations.  Disruption  of  animal 
+behavior  is  reported  to  be  a  sensitive  indicator  of  microwave  exposure.  Three  behavioral 
+tasks  were  chosen  for  this  initial  investigation  of  exposure  to  U.S.  Air  Force  high-power 
+nicrowave  emitters.  The  tasks  were:  (1)  single  trial  avoidance,  (2)  water  satiation,  and 
+(3)  rotarod  performance.^  The  emitters  used  were  the  USAFSAM  peak  power  simulator  and  the 
+3ypsy  virtual  cathode  oscillator  emitter  at  the  Air  Force  Weapons  Laboratory,  Kirtland  AFB, 
+Xew  MexicoV-vExposure  to  high-power  microwave  radiation  from  the  USAFSAM  peak  power  simulator 
+significantly  affected  the  single  trial  avoidance  task.  Neither  the  single  trial  avoidance 
+
+
+20.  DISTRIBUTION  /  AVAILA8ILITY  OF  A8STRACT  21  ABSTRACT  SECURITY  CLASSIFICATION 
+
+0 unclassified/unlimited  □  same  as  RPT  □  DTic  USERS  Unclassified 
+
+
+<M^MSI8LE  ,NOIVIOUAL 
+
+
+OO  FORM  1473, 84  MAR 
+
+
+22b.  TELEPHONE  (Include  Area  Code)  22c.  OFFICE  SYMBOL 
+(512)  536-3583  USAFSAM/RZP 
+
+
+83  APR  edition  may  be  used  until  exhausted. 
+All  other  editions  are  obsolete. 
+
+
+SECURITY  CLASSIFICATION  OF  THIS  PAGE 
+UNCLASSIFIED 
+
+
+HCUWITY  CLASSIFICATION  Of  THIS  PAGE 
+
+19.  ABSTRACT  (Continued) 
+
+task  nor  rotarod  performance  was  affected  by  the  Gypsy  emitter.  However,  animals  exposed 
+to  9  kW  and  11  kW  outputs  from  the  USAFSAM  emitter  spent  significantly  less  time  imbibing 
+water  postexposure  than  sham-exposed  animals.  The  most  consistent  finding  in  the  animals 
+exposed  to  the  Gypsy  pulses  was  that  those  exposed  at  4  m  (13.1  ft)  spent  significantly 
+less  time  drinking  water  than  those  exposed  at  1  m  (3.28  ft).  This  paradoxical  result 
+may  be  due  to  the  complex  shape  of  the  Gypsy  pulse.  These  data  are  from  the  first  studies 
+in  a  series  of  bioeffects  studies  of  high-power  microwave  exposure.  Other  bioeffects 
+
+
+investigations  using  these  sources  are  under  way. 
+
+
+,  <■  4  •  •  -i  ■ 
+
+
+if 
+
+
+!  Accession  For _ 
+
+HTIS  GRAM  F 
+
+OTIC  TAB  □ 
+
+Unannounced  Q 
+
+Justification - 
+
+By - - - 
+
+Distribution/ _ _ 
+
+Availability  Codas 
+Avail  and/or 
+Dlst  Special 
+
+
+1‘wWvWwwT 
+
+
+V  •.< 
+
+
+•V 
+
+
+t,  * .1 
+
+
+»'  'VA  ' 
+
+
+TABLE  OF  CONTENTS 
+
+
+INTRODUCTION . 
+
+METHODS  AND  MATERIALS . 
+
+Radiofrequency  Radiation  Exposures 
+
+Ionizing  Radiation  Dosimetry . 
+
+Animals . 
+
+BEHAVIORAL  TASKS  AND  RESULTS . 
+
+Single  Trial  Avoidance . 
+
+Thirst  Satiation . 
+
+
+Balance  Test .  14 
+
+DISCUSSION .  16 
+
+ACKNOWLEDGMENTS .  17 
+
+REFERENCES .  17 
+
+APPENDIX .  19 
+
+
+List  of  Figures 
+
+Fig- 
+
+No. 
+
+
+1.  Gypsy  high-power  microwave  emitter .  2 
+
+2.  Microwave  pulse  shape .  3 
+
+3.  Field  map  of  Gypsy  pulse .  3 
+
+4.  Single  trial  avoidance  apparatus .  5 
+
+5.  Water  satiation  task  apparatus .  8 
+
+6.  Time  to  first  drinking  response  (USAFSAM) .  9 
+
+7.  Total  time  spent  drinking  (10-s  bin;  USAFSAM) .  10 
+
+3.  Total  time  spent  drinking  (30-s  bin;  USAFSAM) .  10 
+
+9.  Total  time  spent  drinking  (10-s  bin;  Gypsy) .  13 
+
+
+iii 
+
+
+10.  Total  time  spent  drinking  (30-s  bin;  Gypsy) .  13 
+
+11.  Animal  performing  on  rotarod .  15 
+
+A-l .  In-air  x-ray  dose  measurements  (bores ight) . . .  20 
+
+
+A-2.  In-air  x-ray  dose  measurements  (9  deg  off-axis)...  21 
+
+
+List  of  Tables 
+
+Table 
+
+No. 
+
+1.  Design  for  single  trial  avoidance  (USAFSAM) .  6 
+
+2.  Differences  in  entry  times  (USAFSAM) .  6 
+
+3.  Design  for  single  trial  avoidance  (Gypsy) .  7 
+
+4.  Differences  in  entry  times  (Gypsy) .  7 
+
+5.  Experimental  thirst  satiation  design  (USAFSAM)...  9 
+
+6.  Analysis  of  thirst  satiation  data  (10-s  bins)....  11 
+
+7.  Analysis  of  thirst  satiation  data  (30-s  bins)....  11 
+
+8 .  Experimental  thirst  satiation  design  (Gypsy) .  12 
+
+9.  Gypsy  exposure  power  densities .  12 
+
+10.  Analysis  of  thirst  satiation  data  (10-s  bin) .  14 
+
+11.  Analysis  of  thirst  satiation  data  (30-s  bin) .  14 
+
+12.  "Flinch"  reaction  of  rats  on  rotarod .  16 
+
+A-l.  Phantom  dosimetry .  22 
+
+A-2.  TLD  x-ray  dose  monitoring .  23 
+
+
+BEHAVIORAL  RESPONSE  OF  RATS  EXPOSED  TO 
+HIGH-POWER  MICROWAVE  RADIATION 
+
+
+INTRODUCTION 
+
+Safety  standards  for  exposure  to  radiofrequency  radiation  (RFR)  for  U.S. 
+Air  Force  (USAF)  personnel  are  based  upon  the  potential  biologic  consequences 
+of  exposure  to  such  environments.  Most  studies  have  shown  no  differences 
+between  pulsed  and  continuous -wave  (CW)  radiation  with  respect  to  bioeffects 
+(1) .  In  these  studies  the  peak-to-average  ratios  ranged  from  1000  to 
+10,000:1.  Newly  developed  and  developing  technologies,  designed  for  specific 
+USAF  applications,  have  peak  powers  in  the  kilowatt  per  square  centimeter 
+range  with  nanosecond  pulse  widths,  with  peak-to-average  ratios  much  higher 
+than  heretofore  available.  No  bioeffects  data  are  available  for  these  intense 
+pulses,  and  since  there  may  be  implications  for  the  setting  of  personnel 
+safety  standards,  such  data  are  urgently  needed. 
+
+Behavioral  studies  were  the  first  chosen  for  investigation  of  these 
+unique  pulsed  radiations  since  behavioral  changes  appear  to  be  among  the  most 
+sensitive  measures  of  biologic  effects  of  RFR  (2).  There  are  numerous  pub¬ 
+lished  reports  of  changes  seen  in  animal  behavior  as  a  result  of  microwave 
+exposure  (3).  Most  such  studies  reported  have  usgd  exposures  of  minutes  to 
+hours  at  relatively  low-power  densities  (1-20  mW/c n»  ) ,  though  there  have  been 
+some  investigations  with  short- exposure  durations  (e.g.,  10  s)  (4).  Many 
+researchers  have  concluded  that  behavior  is  disrupted  by  RFR  at  or  above 
+specific  absorption  rates  (SAR)  of  about  one-quarter  of  the  resting  metabolic 
+rate  of  the  animals  (2).  Since  the  average  power  density  of  these  ultrashort. 
+Intense  pulses  would  be  hundreds  of  decibels  down  from  the  peak  power,  the 
+absorbed  energy  from  a  single  pulse  would  be  very  small  in  comparison  to  the 
+resting  metabolic  rate.  Hence,  any  changes  in  behavior  noted  as  a  result  of 
+these  pulses  would  probably  not  be  dependent  upon  changes  in  whole  -  body 
+temperature . 
+
+
+METHODS  AND  MATERIALS 
+
+
+Radlofrequencv  Radiation 
+
+
+Exposures  at  the  USAF  School  of  Aerospace  Medicine  (USAFSAM)  were  made 
+with  a  Cober,  Inc.  peak  power  simulator.  This  emitter  consists  of  a  local 
+oscillator-controlled  klystron  amplifier.  All  experiments  were  made  using  the 
+L-band  transmitter  operating  at  2.066  GHz  in  the  CW  mode.  The  exposure  time  of 
+250  ms  was  set  with  a  Hewlett  Packard  Model  8011A  pulse  generator;  exposure 
+time  and  frequency  were  measured  with  a  Hewlett  Packard  8566A  spectrum  analy¬ 
+zer  . 
+
+
+Exposures  at  the  Air  Force  Weapons  Laboratory  (AFWL)  at  Kirtland  AFB,  New 
+Mexico,  were  made  using  the  Gypsy  virtual  cathode  oscillator  (vircator)  pulsed- 
+microwave  emitter  (Fig.  1)  (5).  The  oscillator  is  driven  by  a  500-kV  water- 
+filled  Blumlein  pulse  power  source,  with  a  nominal  pulse  width  of  140  ns,  and 
+
+
+operated  at  1.64  GHz.  The  microwave  energy  produced  by  the  oscillator  is 
+radiated  by  a  1.22-m  (48  in.)  diameter  conical  horn  antenna  in  the  TM01 
+mode . 
+
+
+Figure  1.  The  Gypsy  high-power  microwave  emitter. 
+
+
+Figure  2  shows  the  microwave  energy  emanating  from  the  Gypsy  antenna 
+illuminating  an  array  of  fluorescent  tubes  and  indicating  a  single  on-axis 
+null,  with  the  power  being  radiated  as  a  symmetric  annulus.  Incident  power 
+density  measurements  were  made  with  D-dot  asymptotic  conical  dipole  type  free- 
+field  electric  field  sensors,  manufactured  by  EG&G,  Inc.  The  report  by  Voss 
+et  al.  (5)  gives  details  on  these  power  measurements.  All  exposures  of  animals 
+were  made  either  1  m  (3.28  ft),  2  m  (6.56  ft),  or  4  m  (13.1  ft)  in  front  of 
+the  horn  antenna,  and  9  deg  to  the  right  (as  viewed  from  inside  the  horn)  of 
+the  bore sight. 
+
+
+Figure  2.  The  shape  of  the  microwave  pulse  from  the  Gypsy  emitter  as  it 
+illuminates  an  array  of  fluorescent  tubes.  The  on-axis  null  is 
+characteristic  of  the  TM01  mode  (5). 
+
+Figure  3  shows  a  map  of  the  field  at  4  m  (13.1  ft),  indicating  the  peaks 
+at  9  deg  from  the  boresight,  with  a  null  on  axis.  The  behavioral  ma- 
+nipulanda  was  placed  on  a  wooden  platform  to  raise  it  to  the  level  of  the 
+middle  of  the  horn  antenna. 
+
+
+The  power  density  could  be  reduced  significantly  by  stuffing  the  horn 
+antenna  with  horsehair  impregnated  with  carbon  particles  and  taping  aluminum 
+foil  over  the  mouth  of  the  horn. 
+
+
+Ionizing  Radiation  Dosimetx 
+
+
+Since  the  production  of  RFR  entails  acceleration  of  electron  beams  across 
+voltages  large  enough  to  generate  x-rays,  some  quantification  of  ionizing 
+radiation  was  necessary.  This  dosimetry  was  done  using  Harshaw  type  lithium 
+fluoride  (LiF)  thermoluminescent  dosimeters  (TLD) .  Dosimeter  response  was 
+calibrated  on  a  Cs-137  gamma  source  traceable  to  the  National  Bureau  of  Stan¬ 
+dards.  These  dosimeters  have  a  relatively  uniform  energy  response  over  the 
+photon  energy  range  of  50  to  660  keV  which  is  believed  to  encompass  the  range 
+of  x-ray  energies  generated  by  the  Gypsy  vircator. 
+
+The  x-ray  dose  from  Gypsy  was  maximal  along  the  boresight  of  the  horn, 
+where  there  is  the  null  in  the  RFR.  The  x-ray  dose  was  slightly  less  at  the  9 
+deg  off-center  position  where  the  RFR  signal  was  maximal  (see  the  Appendix  for 
+details).  A  1.25-cm  (0.47  in.)  lead  shield  was  placed  in  front  of  the  beha¬ 
+vioral  apparatus  to  reduce  the  x-ray  dose  by  90%  in  some  experiments. 
+
+
+Animals 
+
+We  used  male  Fisher  344  rats,  weighing  200-250  g,  throughout  these  inves¬ 
+tigations.  These  animals  were  furnished  from  the  breeding  colony  at  the 
+Inhalation  Toxicology  Research  Institute,  Albuquerque,  New  Mexico.  This  speci¬ 
+fic  pathogen-free  colony  has  been  maintained  for  many  years  as  a  National 
+Institutes  of  Health  (NIH)  Genetic  Resource  strain.  An  animal  holding  facili¬ 
+ty  was  established  in  a  mobile  trailer  located  adjacent  to  the  exposure  faci¬ 
+lity.  A  0700  h/1900  h  light/dark  cycle  was  used;  temperature  was  24+2  C. 
+The  rats  were  housed  in  standard  clear  plastic  shoe-box  type  cages  with  wood 
+shavings  as  litter.  Standard  laboratory  chow  and  water  were  allowed  ad 
+libitum,  except  for  those  in  the  thirst  satiation  study,  qv. 
+
+
+BEHAVIORAL  TASKS  AND  RESULTS 
+
+All  behavioral  tasks  were  monitored  by  video>and  recordings  were  made  of 
+each  exposure  session  with  a  real-time  date  and  time  signal  input. 
+
+
+Single  Trial  Avoidance 
+
+
+Description 
+
+
+The  test  apparatus  consisted  of  two  interconnected  boxes  constructed 
+mostly  of  0.95  cm  (3/8  in.)  thick  Plexiglas;  however,  the  side  facing  the  horn 
+antenna  was  made  of  0.32  cm  (1/8  in.)  thick  Plexiglas.  The  two  boxes  were 
+connected  through  a  door  that  could  be  opened  remotely  by  compressed  air- 
+operated  nylon  pistons.  The  floor  level  was  continuous  for  the  two  boxes.  The 
+animal  was  initially  placed  in  the  smaller  box  (5  cm  [2  in.]  x  7  cm  [2.8  in.] 
+
+
+x  15  cm  [5.9  in.])  of  the  two  boxes.  This  smaller  box  had  a  slot  cut  for  the 
+animal's  tail,  and  additional  Plexiglas  spacers  could  be  placed  as  necessary 
+to  fully  restrict  lateral  movement.  The  larger  box  measured  12  cm  (4.7  in.) 
+x  15  cm  (5.9  in.)  x  22  cm  (8.7  in.),  and  was  painted  black.  The  floor  in  this 
+larger  box  was  made  of  0.63 -cm  (1/4  in.)  Plexiglas  rods  vith  1  cm  (0.4  in.) 
+spacing  betveen  each  rod. 
+
+Immediately  before  exposure,  the  rat  was  placed  in  the  smaller  box,  vith 
+its  head  oriented  toward  the  door.  The  interconnecting  door  between  the  two 
+boxes  was  opened.  When  the  animal's  torso  cleared  the  doorway,  the  single 
+pulse  exposure  was  made.  As  soon  as  possible  after  the  exposure,  the  animal 
+was  removed  from  the  large  box  and  placed  in  the  home  cage.  Ten  minutes  after 
+exposure  ,  the  subject  was  returned  to  the  smaller  box  and  the  interconnecting 
+door  was  again  opened.  The  datum  of  Interest  vas  the  time  it  took  the  subject 
+to  enter  the  larger  box,  both  for  preexposure  and  postexposure.  The  time  was 
+recorded  from  the  video  tapes  of  each  experiment.  The  photograph  in  Figure  4 
+(taken  from  the  video  screen)  shows  the  animal  in  the  apparatus . 
+
+
+Figure  4.  Single  trial  avoidance  task  apparatus.  The  animal  is  in  the  small 
+box,  and  the  interconnecting  door  to  the  large  box  is  open. 
+
+Exposures  using  the  Cober  peak  power  simulator  vere  made  over  a  5 -day 
+period,  vith  2  animals  being  exposed  at  each  of  5  different  power  levels 
+daily.  Exposures  at  each  power  level  were  spread  randomly  over  the  workday, 
+0830-1630  hours. 
+
+Results 
+
+
+Table  1  lists  some  of  the  parameters  for  this  behavioral  task  tested  on 
+the  IJSAFSAM  peak  power  simulator. 
+
+
+5 
+
+
+/wouour* 
+
+
+'Hi 
+
+
+8 
+
+
+ll 
+
+$ 
+
+
+TABLE  1. 
+
+
+DESIGN  FOR  SINGLE  TRIAL  AVOIDANCE  TASK 
+USAFSAM  PEAK  POWER  SIMULATOR 
+
+
+Power  Output 
+
+
+Mean  time  held  in  small 
+box  preexposure  (s) 
+
+1 
+
+1 
+
+|  19.9 
+
+18.8 
+
+21.8 
+
+21.4 
+
+18.2 
+
+Mean  time  held  in  small 
+
+1 
+
+box  before  test  (s) 
+
+|  17.7 
+
+15.5 
+
+15.4 
+
+16.0 
+
+16.9 
+
+Mean  time  between 
+
+1 
+
+exposure  and  test  (s) 
+
+|  611 
+
+622 
+
+604 
+
+619 
+
+616 
+
+Number  of  subjects 
+
+1  9 
+
+10 
+
+10 
+
+10 
+
+10 
+
+In  analyzing  the  data  from  the  single  trial  avoidance,  the  mean  time 
+for  entry  into  the  large  box  test  (10-min  postexposure)  was  compared  to 
+the  preexposure  entry  time  using  the  Kruskal-Wallis  rank  stuns  (6)  at  the 
+.  10  alpha  level . 
+
+
+Table  2  lists  the  differences  in  time  to  entry  into  the  large  box 
+on  testing  after  exposure  compared  to  the  preexposure  time  to  entry  (i.e., 
+postexposure  entry  time  minus  preexposure  entry  time).  At  a  -  .10,  entry  into 
+the  large  box  was  delayed  by  exposures  at  11  kW  and  9  kW  compared  to  the  0 
+power  group. 
+
+
+TABLE  2.  DIFFERENCES  IN  ENTRY  TIME  USING  THE  USAFSAM  PEAK  POWER  SIMULATOR 
+
+
+■  <kW)  11 
+
+9 
+
+7 
+
+5 
+
+0 
+
+6 
+
+6 
+
+4 
+
+1 
+
+0 
+
+0 
+
+-2 
+
+0 
+
+1 
+
+7 
+
+1 
+
+1 
+
+3 
+
+-1 
+
+-4 
+
+>60 
+
+45 
+
+2 
+
+3 
+
+0 
+
+8 
+
+2 
+
+2 
+
+1 
+
+1 
+
+4 
+
+1 
+
+-2 
+
+5 
+
+2 
+
+1 
+
+5 
+
+5 
+
+10 
+
+-1 
+
+-4 
+
+1 
+
+3 
+
+5 
+
+1 
+
+6 
+
+48 
+
+0 
+
+1 
+
+-1 
+
+1 
+
+0 
+
+-1 
+
+-1 
+
+i  9.1 
+
+10.8 
+
+1.7 
+
+2.5 
+
+0.- 
+
+i  19.4 
+
+19.0 
+
+2.2 
+
+3.4 
+
+2.1 
+
+parameters 
+
+for 
+
+the 
+
+singl 
+
+e  i 
+
+sApuauicd  wiuu  luc  uypajr  cuiiLuei  .  lue  Eir 
+
+:or  these  exposures„were :  full  power  ("T" 
+'"X")  -  1.9+0. 7  W/cm  ;  and  RF  and  x-ray  att 
+
+
+7 . 5+0 . 7  kW/cm  ; 
+
+
+attenuated 
+
+
+ray  attenuated  ("N")  -  4. 2+0. 9  W/cin  . 
+
+
+TABLE  3.  DESIGN  FOR  SINQLE  TRIAL  AVOIDANCE  TASK 
+GYPSY  EMITTER 
+
+
+1 
+
+1 
+
+Full  power 
+
+RF 
+
+attenuated 
+
+"X" 
+
+RF  &  x-ray 
+attenuated 
+"N" 
+
+Mean  time  held  in  small  | 
+
+box  preexposure  (s)  j 
+
+55.3 
+
+59.3 
+
+54.0 
+
+Mean  time  held  in  small  | 
+
+box  before  test  (s)  | 
+
+25.8 
+
+29.6 
+
+28.0 
+
+Mean  time  between  | 
+
+exposure  and  test  (s)  j 
+
+634 
+
+623 
+
+626 
+
+Number  of  subjects  | 
+
+8 
+
+10 
+
+9 
+
+Table  4  lists  the  differences  in  time  to  entry  into  the  large  box  on 
+testing  after  exposure  compared  to  the  preexposure  time  to  entry  (i.e.,  post¬ 
+exposure  entry  time  minus  preexposure  entry  time).  There  are  no  significant 
+differences  among  the  treatment  groups  with  the  Gypsy  emitter,  using  the 
+Kruskal  Wallis  rank  sums  test. 
+
+
+TABLE  4.  DIFFERENCES  IN  ENTRY  TIME  USING  THE  GYPSY  EMITTER 
+
+
+RF 
+
+RF  &  x-ray 
+
+Full  pover 
+
+attenuated 
+
+attenuated 
+
+0 
+
+-1 
+
+0 
+
+1 
+
+-1 
+
+-1 
+
+2 
+
+2 
+
+-1 
+
+0 
+
+0 
+
+0 
+
+0 
+
+-1 
+
+2 
+
+0 
+
+-3 
+
+0 
+
+0 
+
+1 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+2 
+
+Mean  0 . 4 
+
+-0.1 
+
+0 
+
+SD  0.7 
+
+1.5 
+
+0.9 
+
+Thirst  Satiation 
+
+
+Description 
+
+The  test  box  measured  14  cm  (5.5  in.)  x  17  cm  (7  in.)  x  25  cm  (9.8  in.) 
+and  vas  made  of  0.95  cm  (3/8  in.)  thick  Plexiglas,  except  for  the  side  facing 
+the  antenna  which  was  made  of  0.32  cm  (1/8  in.)  thick  Plexiglas.  The  floor 
+consisted  of  0.63  cm  (1/4  in.)  rods  with  1  cm  (0.4  in.)  spacing.  The  drink¬ 
+ing  spout  apparatus  was  located  on  the  outside  of  the  box,  so  that  the  animal 
+had  to  reach  through  a  small  hole  in  the  wall  in  order  to  lick.  The  spout  was 
+
+
+positioned  4.1  cm  (1.6  in.)  above  the  floor  and  5  cm  (2  in.)  in  from  the 
+exposure  side  of  the  box,  and  was  located  betveen  tvo  supports  for  the  fiber¬ 
+optic  measuring  device.  There  vas  a  0.95  cm  (0.37  in.)  clearance  betveen  the 
+tvo  ends  of  the  fiber  optic  for  the  animal's  nose  and  tongue.  The  support 
+mechanism  for  the  vater  spout  and  fiber-optic  system  vas  hinged  at  the  top  of 
+the  box,  and  could  be  swung  avay  from  the  access  hole  by  means  of  an  air- 
+driven  nylon  piston.  This  arrangement  vas  necessary  to  prevent  possible 
+coupling  of  the  animal  vith  the  vater-filled  spout  during  actual  exposure. 
+
+The  rats  vere  made  thirsty  over  a  period  of  5  days  by  alloving  them 
+access  to  vater  only  during  tvo  daily  drinking  periods.  Four  rats  at  a  time 
+vere  placed  in  replicas  of  the  test  box  for  30  -  min  periods.  Water  flov 
+through  the  spout  vas  15  to  20  drops  per  minute,  the  same  rate  used  during 
+testing.  In  this  manner,  the  rats  learned  the  location  of  the  spout,  and  they 
+competed  vigorously  during  most  of  this  30-min  period.  The  second  dally 
+watering  session  consisted  of  a  10-min  period  late  in  the  day  in  which  a 
+standard  vater  bottle  vas  placed  in  each  home  cage.  Figure  5  is  a  photograph 
+(from  the  video  screen) of  the  rat  in  the  test  apparatus. 
+
+
+Figure  5.  Water  satiation  task  apparatus.  The  animal  obtains  vater  by  licking 
+the  spout.  Each  lick  interrupts  a  light  beam  and  produces  a  count 
+on  a  recorder. 
+
+
+On  test  day,  one  rat  at  a  time  vas  placed  in  the  test  box.  The  rats  were 
+allowed  2  to  3  min  to  acclimate  to  the  box;  then  the  exposures  were  made  after 
+45  s  of  imbibing.  Each  lick  of  the  vater  spout  interrupted  the  fiber-optic 
+circuit  and  produced  a  mark  on  heat  sensitive  paper  of  a  Gulton  Model  TR-711 
+single  channel  recorder.  Recording  vas  stopped  during  actual  exposure.  Start 
+of  exposure  vas  also  recorded  on  the  paper  tape.  The  data  used  for  analysis 
+were  the  total  licking  time  in  10-s  bins  during  30-s  epochs  immediately  pre- 
+and  postexposure;  and  in  30-s  bins  during  a  3.5-min  exposure  epoch  (this  epoch 
+also  included  the  two  30-s  epochs  pre-  and  postexposure  as  bins)  (Table  5). 
+
+
+TABLE  5.  EXPERIMENTAL  DESIGN  FOR  THIRST  SATIATION  TASK  EXPOSURE 
+
+
+10-s  bins  t-3  t-2  t-1 
+
+
+t+I  t+2  t+3 
+
+
+30-s  epochs 
+30-s  bins 
+
+
+t-30  t+30 
+
+t-30  t+30  t+60  t+90 
+
+
+3. 5 -min  epoch 
+
+
+t+120 
+
+
+t+150 
+
+
+t+180 
+
+
+The  time  of  the  first  postexposure  drinking  response  vas  also  noted  to 
+make  comparisons  against  all  treatment  groups. 
+
+Each  animal's  condition  vas  carefully  noted  during  the  test  period. 
+Weight  loss  of  more  than  15%  vas  seen  in  only  2  animals.  Maximum  weight  loss 
+of  any  tested  animal  vas  15.3%  and  the  mean  loss  for  71  animals  vas  10.2%+2.7 
+(SD) .  The  bulk  of  the  weight  loss  vas  probably  due  to  gut  emptying. 
+
+Results 
+
+
+Tests  at  USAFSAM  using  the  Cober  peak  power  simulator  were  made  using  5 
+different  power  outputs:  0  kW.  5  kff,  7  kW,  9  kW,  11  kW.  The  time  to  the  first 
+drinking  response  postexposure  vas  compared  by  a  one  -  factor  analysis  of 
+variance  (ANOVA) (7) .  The  total  times  spent  drinking  by  10-s  and  30-s  bins 
+were  compared  by  a  one-factor  repeated  measurements  analysis  of  variance 
+(MANOVA)  (7).  Simultaneous  multiple  comparison  procedures  were  used  to  iden¬ 
+tify  which  treatments  differed  when  there  were  radiation  effects .  Figure  6 
+shows  the  mean  time  to  the  first  drinking  response  postexposure  for  the 
+USAFSAM  peak  power  simulator.  Though  there  appears  to  be  relationship  between 
+the  output  power  and  drinking  response  time,  there  are  no  statistically  signi¬ 
+ficant  differences.  Figures  7  and  8  show  the  licking  responses  for  the  10-s 
+and  30-s  bins  respectively  for  the  USAFSAM  peak  power  simulator. 
+
+
+Time  to  First  Drinking  Response  (s) 
+
+
+Pow*r  Output 
+
+
+0  Kw  5  Kw  7  Kw  9K» 
+
+
+1  1  Kw 
+
+
+Figure  6.  Time  to  first  drinking  response  postexposure  to  the  USAFSAM  peak 
+power  simulator.  There  are  no  significant  differences  among  the 
+exposure  groups. 
+
+
+d 
+
+
+3.6a  »•« 
+
+
+/  / 
+
+
+•  J 
+
+1 
+
+■ 
+
+■ 
+
+■ 
+
+'W  /  a  / 
+
+/ 
+
+1L 
+
+a.i? 
+
+_ 2. _ 
+
+.1 
+
+■ 
+
+r 
+
+1 
+
+r 
+
+1 
+
+/  m)  /  m) 
+
+/S 
+
+| 
+
+1  ♦.  §• 
+
+■L 
+
+9  •  3 
+
+Irz 
+
+1 
+
+n 
+
+T 
+
+IT 
+
+/ 
+
+/tf  ”/  D  jf 
+
+i  / 
+
+4  .  M  - 
+
+5  .  t 
+
+• .  a 
+
+/ 
+
+..3i  / 
+
+/  §~ 
+
+/ 
+
+/ 
+
+/ 
+
+U 
+
+/■)  /Ml  / 
+
+.79  /  J  . 
+
+
+r-i  r-z 
+
+
+10  s  Bins  Prs-  and  Post-Exposure 
+
+
+Figure  7.  Total  time  spent  drinking  in  10-s  bins  preexposure  (T-3,  T-2,  T-l) 
+
+and  10-s  bins  postexposure  (T+l,  T+2,  and  T+3)  to  the  USAFSAM  peak 
+
+power  simulator  at  the  output  power  Indicated. 
+
+
+Total  Drinking  Time  (s) 
+
+
+»  /  m) 
+
+
+/ 
+
+i 
+
+if 
+
+V 
+
+.  j«  /  a.  at 
+
+
+7.33  M!  9.34 
+
+
+4*1 
+
+
+II  Mil  Ml 
+
+
+•«a  / — 1  <)>«  ■  't-^3 
+
+
+i  fi  f  ■  f  »  i  ■ 
+
+
+Wl_ 
+
+4.6 
+
+/ 
+
+IT 
+
+■ 
+
+■ 
+
+*  .*• 
+
+♦.«» 
+
+/ 
+
+1 
+
+/ 
+
+JO  s  8ins  °re-  arc  Post-Exposure 
+
+
+Figure  8. 
+
+
+Total  time  spent  drinking  in  30-s  bins  preexposure  (T-30),  and  30-s 
+bins  postexposure  (T+30  through  T+180)  to  the  USAFSAM  peak  power 
+simulator  at  the  output  powers  indicated. 
+
+
+Tables  6  and  7  list  the  significant  findings  from  these  data. 
+
+
+TABLE  6.  ANALYSIS  OF  THIRST  SATIATION  DATA:  10 -S  BINS 
+
+At  a  -  .05,  the  MANOVA  detected  treatment  effects  at  t+1, 
+t+2,  and  t+3. 
+
+At  o  -  .10,  simultaneous  testing  detected  effects  at  t+30: 
+
+The  9-ktf  treatment  group  drank  less  than  the  0-ktf  group. 
+
+The  11-kV  treatment  group  drank  less  than  the  0-ktf  group. 
+Simultaneous  testing  did  not  detect  any  other  significant 
+differences . 
+
+Candidates  for  triggering  other  significant  differences  (t+1 
+and  t+3):  9-kW  and/or  11-ktf  treatment  group  drank  less  than 
+0-ktf  group. 
+
+
+TABLE  7.  ANALYSIS  OF  THIRST  SATIATION  DATA:  30 -S  BINS 
+
+At  a  -  .05,  the  MANOVA  detected  treatment  effects  at  t+30, 
+t+60 ,  and  t+90 . 
+
+At  am  .io,  simultaneous  testing  detected  that  at  t+30: 
+
+The  9-kW  treatment  group  drank  less  than  the  0-kV  group. 
+
+The  11-ktf  treatment  group  drank  less  than  the  0-ktf  group. 
+
+Candidates  for  triggering  other  significant  differences  (t+30 
+and  t+90):  9-ktf  and/or  11-ktf  treatment  group  drank  less  than 
+0-ktf  group. 
+
+The  treatment  groups  used  in  the  exposures  to  Gypsy  were  somewhat 
+different  and  are  shown  in  Table  8. 
+
+
+TABLE  8.  EXPERIMENTAL  DESIGN  FOR  THIRST  SATIATION  TASK 
+
+GYPSY  EMITTER 
+
+
+TREATMENT 
+
+RF  RF  &  x-ray 
+
+Full  power  attenuated  attenuated 
+
+
+n»jin 
+
+"X" 
+
+"N" 
+
+D 
+
+1 
+
+1 
+
+1 
+
+1 
+
+I 
+
+4  | 
+
+7 
+
+1 
+
+8  1 
+
+8 
+
+|  23 
+
+A 
+
+S 
+
+N 
+
+T 
+
+f 
+
+"~!_ 
+
+1 
+
+”l 
+
+I 
+
+A  (M) 
+
+2  I 
+
+10 
+
+1 
+
+8  1 
+
+- 
+
+1  18 
+
+M 
+
+N 
+
+A 
+
+C 
+
+f 
+
+~l_ 
+
+1 
+
+”| 
+
+L 
+
+E 
+
+1  | 
+
+12 
+
+1 
+
+10  | 
+
+8 
+
+|  30 
+
+S 
+
+16 
+
+26 
+
+29 
+
+”  71 
+
+ANIMALS 
+
+
+Data  from  the  Gypsy  experiments  were  analyzed  using  a  two -factor  ANOVA 
+for  time  to  first  drinking  response,  and  the  total  time  spent  drinking  by  10 
+-s  and  30-s  bins  was  analyzed  by  a  two-factor  MANOVA  (7).  Because  of  the 
+data  missing  in  one  cell  (2  m  X  "N"),  the  data  were  analyzed  in  three  ways: 
+
+Case  a:  With  a  blank  at  this  position 
+
+Case  b:  Discounting  all  2  m  data 
+
+Case  c:  Discounting  all  "N"  data 
+
+The  measured  power  densities  for  each  of  the  treatment  groups  are  shown 
+in  Table  9. 
+
+
+TABLE  9.  GYPSY  EXPOSURE  POWER  DENSITIES  +  SD 
+
+
+Distance 
+from  antenna 
+
+1 
+
+|  Full  power 
+
+1  «t« 
+
+RF 
+
+attenuated 
+
+"X" 
+
+RF  &  x-ray 
+attenuated 
+"N" 
+
+4  m 
+
+1 
+
+|  2. 2+0. 9 
+
+1 
+
+kW/cm2 
+
+2. 0+1. 3  V/cm2 
+
+1.9+0. 3  W/cm2 
+
+2  m 
+
+1 
+
+|  4. 1+0. 3 
+
+1 
+
+kW/cm2 
+
+27+23  mW/cm2 
+
+-- 
+
+1  m 
+
+1 
+
+|  8. 2+0. 6 
+
+kW/cm2 
+
+4. 2+1. 7  W/cm2 
+
+3. 8+1. 5  W/cm2 
+
+Figures  9  and  10  show  che  licking  responses  after  exposure  to  the  Gypsy 
+emitter  for  the  10- s  and  30- s  bins  respectively.  Tables  10  and  11  list  the 
+significant  findings  from  these  data. 
+
+
+-30  -20  -10  0  10  20  30 
+
+
+TOTAL  TIME  SPENT  DRINKING  (s) 
+
+Figure  9.  Total  time  spent  drinking  in  10-s  bins  preexposure  and  postexposure 
+to  the  Gypsy  emitter.  Controls  were  run  with  no  power  output.  "T" 
+is  the  unattenuated  pulse;  "X"  is  the  microwave  energy  attenuated; 
+"N"  is  with  both  microwave  energy  and  x-ray  energy  attenuated.  4, 
+2,  and  1  are  4-m,  2-m,  and  1-m  distance  from  the  horn  antenna 
+
+respectively. 
+
+
+CONTROL 
+
+4-T 
+X 
+N 
+
+2-T 
+
+X 
+N 
+
+1-T 
+
+X 
+N 
+
+-30  0  30  60  90  120  150  180 
+
+TOTAL  TIME  SPENT  DRINKING  <s> 
+
+Figure  10.  Total  time  spent  drinking  in  30- s  bins  preexposure  and  postexposure 
+to  the  Gypsy  emitter.  Controls  were  run  with  no  power  output.  "T" 
+is  the  unattenuated  pulse;  "X"  is  the  microwave  energy  attenuated; 
+"N"  is  with  both  microwave  energy  and  x-ray  energy  attenuated.  4, 
+2,  and  1  are  4-m,  2-m,  and  1-m  distance  from  the  horn  antenna 
+
+respectively. 
+
+
+13 
+
+
+TABLE  10.  ANALYSIS  OF  THIRST  SATIATION  10-S  BIN  DATA 
+
+~  ~  "  Analyst*  by  Casa  a: 
+
+At  t+1,  T  <  N,  p<. 05 
+
+At  t+3 ,  4M  <  1  M.  JK.05 
+
+Analysis  by  Case  b: 
+
+At  t+1,  T  <  N,  p<.05 
+
+At  t+1,  X  <  N,  p<. 05 
+
+At  t+3,  4M  <  1M,  JK.05 
+
+At  t+1,  4M  <  1M,  jK.05 
+
+Analysis  by  Casa  c: 
+
+At  t+1,  T  <  X,  p<.05 
+
+At  t+3,  4M  <  1M,  p<-05 
+
+At  t+1,  4M  <  2M,  p<. 10 
+
+At  t+2,  T  <  X,  p<.10 
+
+
+TABLE  11.  ANALYSIS  OF  THIRST  SATIATION  30-S  BIN  DATA 
+
+Analysis  by  Case  a: 
+
+At  t+30 ,  4M  <  IN,  p<- 05 
+
+Analysis  by  Casa  b: 
+
+At  t+30,  4M  <  1M,  p<- 05 
+
+At  t+180 ,  N  <  T,  p<.10 
+
+Analysis  by  Case  c: 
+
+At  t+30,  4M  <  1M,  p<. 05 
+
+At  t+120,  T  <  X,  p<.10 
+
+Analysis  of  the  10- s  bin  data  shows  that,  for  each  case,  the  animals 
+exposed  at  4  m  drank  less  during  the  third  10-s  bin  than  those  exposed  at  1  m. 
+
+
+Balance  Test 
+
+
+Description 
+
+
+In  this  task  animals  were  trained  to  walk  on  a  slowly  rotating  (15  rpm) 
+rod  (rotarod) ,  over  an  ice  water  bath.  The  rats  usually  require  3  training 
+sessions  to  be  able  to  perform  to  a  criterion  response  <i.e.,  continue  walking 
+on  the  rotarod  without  attempting  to  escape) .  The  rotarod  was  made  of 
+
+
+Plexiglas,  4  cm  (1.6  in.)  in  diameter  and  12  cm  (4.7  in.)  in  width.  The  axle 
+and  pulley,  also  made  of  Plexiglas,  were  mounted  on  two  Plexiglas  supports, 
+
+14  cm  (5.5  in.)  x  29  cm  (11.4  in.).  The  supports  were  in  turn  mounted  on  a 
+
+15  cm  (5.9  in.)  x  60  cm  (23.6  in.)  Plexiglas  base.  The  pulley  was  driven 
+by  a  tygon  tubing  belt  attached  to  a  small  electric  motor  placed  well  out  of 
+the  electromagnetic  field.  After  sufficient  training,  the  rats  could  easily 
+perform  at  this  speed  for  several  minutes  (8) .  Figure  11  is  a  photograph 
+(taken  from  the  video  screen)  of  a  rat  on  the  apparatus. 
+
+
+Figure  11.  Animal  performing  on  the  rotarod.  The  trained  rat  can  continue 
+walking  on  this  rotating  rod  for  several  minutes  without  falling. 
+
+
+Results 
+
+
+None  of  the  animals  lost  their  balance  during  any  exposure.  However, 
+observation  of  the  video  tapes  revealed  an  apparent  difference  in  the  "flinch" 
+reaction  (Table  12)  by  the  animals  exposed  at  full  power  versus  those  exposed 
+at  attenuated  power.  An  attempt  was  made  to  subjectively  quantitate  these 
+observations.  The  tape  of  each  animal's  exposure  session  was  observed  several 
+times  and  a  crude  score  of  the  reaction  was  assessed:  0  to  4+.  There  are  no 
+significant  differences  among  the  treatment  groups  using  the  Kruskal 
+Wallis  rank  sums  test;  H  -  3.9,  df  -  2,  p  -  .14. 
+
+
+15 
+
+
+TABLE  12.  "FLINCH"  REACTION  OF  RATS  ON  THE  ROTAROD 
+GYPSY  EMITTER  EXPOSURES 
+
+
+1 
+
+RF 
+
+RF  &  x-ray 
+
+|  Full  power 
+
+1 
+
+attenuated 
+
+attenuated 
+
+i 
+
+1 
+
+Reaction  | 
+
+1 
+
+2. 7+1. 5* 
+
+1. 2+1.0 
+
+1.2+0. 8 
+
+Number  of  1 
+
+subjects  | 
+
+1 
+
+6 
+
+6 
+
+6 
+
+♦Score  +  SD 
+
+
+DISCUSSION 
+
+This  Is  the  first  report  of  e  bloeffects  investigation  using  such 
+ultrashort  RFR  pulses.  This  report  asks  more  questions  than  it  answers.  The 
+thirst  satiation  study  revealed  several  significant  differences  in  drinking 
+response  postexposure  compared  to  the  preexpoaure  responses .  The  greater 
+effect  in  drinking  response  that  occurs  at  4  m  compared  to  1  m  is  one  of  the 
+more  interesting  differences.  The  far-field  region  of  the  Gypsy  emitter 
+frequency  starts  at  approximately  4  m  (5) .  Whether  exposure  in  the  far-field 
+is  related  to  the  difference  in  observed  bioeffect  is  problematical,  given 
+the  complexities  of  the  pulse  shape  and  field  distribution. 
+
+The  results  from  the  thirst  satiation  tests  using  the  USAFSAM  peak-pover 
+simulator  clearly  indicate  that  the  rats  exposed  to  the  high-power  microwaves 
+imbibed  less  than  unexposed  animals.  A  consideration  of  the  thermal  effects 
+of  exposure  to  the  two  different  emitter  sources  indicates  significant 
+differences.  Exposure  of  a  200-g  rat  to  the  Gypsy  emitter  gives  the  following: 
+The  Radiofrequency  Radiation  Handbook  (9)  gives  a  whole-body  average  SAR  at 
+1.64  GHz  of  0.45  mV/g  per  mtf/cm  .  At  1  m  from  the  Gypsy  emitter  the  poweg 
+density  is  about  8  ktf/cm  ,  giving  a  peak  whole  body  SAR  for  a  rat  of  3.6  X  10 
+mtf/g.  As  a  rule  of  thumb,  an  SAR  of  60  mV/g  over  60  s  gives  a^l  C  rise  in 
+temperature.  For  the  Gypsy  exposure  then,  an  SAR  of  3.6  X  10  over  140  ns 
+gives  a  temperature  rise  of  0.0084  °C.  Similar  computation  of  the 
+temperature  increase  from  exposure  to  the  USAFSAM  peak  power  simulator  gives 
+an  SAR  of  0.32  mV/g  per  mtf/cmZ  at  its  operating  frequency  of  2.07  GHz.  At  1^ 
+kV  output,  the  power  density  is  approximately  30  W/cm  for  SAR  of  9.6  X  10 
+mtf/g  for  a  200-g  rat.  This  SAR  applied  over  .25  s  gives  a  temperature 
+increase  of  0.7  °C.  Thus,  the  exposure  to  the  Gypsy  emissions  is  trivial  in 
+terms  of  whole-body  thermal  effects,  while  exposure  to  the  peak-power  simula¬ 
+tor  produces  a  thermally  significant  temperature  increase. 
+
+Exposures  to  radiation  from  both  emitter  sources,  however,  induced  the 
+rats  to  imbibe  less  water  postexposure  when  compared  to  the  preexposure  condi¬ 
+tion.  tfhether  or  not  these  RFR- induced  responses  are  qualitatively  the  same 
+is  unknown.  On  the  other  hand,  the  responses  seen  with  the  single  trial 
+avoidance  indicates  a  significant  difference  between  the  rats  exposed  to 
+
+
+16 
+
+
+9-  and  11 -kW  output  from  the  peak-power  simulator,  but  no  difference  with  the 
+Gypsy  emitter.  In  this  case,  it  may  be  that  the  thermal  insult  of  the  peak- 
+power  simulator  is  aversive  to  the  rats. 
+
+Though  there  is  no  significant  group  difference,  the  rotarod  results 
+suggest  that  the  rats  may  be  perceiving  the  pulse  from  the  Gypsy  emitter  in 
+some  manner.  One  possibility  would  be  the  microwave  "hearing  effect"  (10). 
+
+The  possibility  of  ionizing  radiation  effects  with  the  Gypsy  exposure^ 
+cannot  be  ruled  out.  Induction  of  retrograde  amnesia  by  a  dose  rate  of  10 
+rad/s  has  been  reported  (11).  The  ionizing  radiation  dose  with  the  Gypsy 
+emitter  is  just  slightly  lower  than  this  (2  X  10  rad/s ;  see  Appendix) . 
+
+This  report  documents  the  first  bioeffects  study  done  using  a  high-power, 
+ultrashort  pulse-width  emitter.  A  series  of  studies  using  various  high-power 
+emitter  sources  has  been  planned  as  part  of  the  USAF  High  Power  Microwave 
+Program,  and  work  is  in  progress  at  this  time. 
+
+
+ACKNOWLEDGMENTS 
+
+Ve  thank  Mr.  James  Bower  and  TSgt  Francis  Ruhr  of  the  Radiation  Sciences 
+Division,  USAFSAM,  for  skillfully  designing  and  fabricating  the  Plexiglas 
+manipulanda;  SSgt  Raul  Escarciga  and  SrA  Leonard  Albano,  Radiation  Sciences 
+Division,  USAFSAM,  for  their  expert  animal  handling  and  training 
+assistance;  Mr.  Harvey  Schlichting  of  the  Technical  Visual  Services  Branch, 
+USAFSAM,  for  producing  the  many  hours  of  video  tapes  required  for  these  stu¬ 
+dies;  Mr.  David  Cremer,  Mr.  Dan  McLaughlin,  and  Mr.  Larry  Moculeskl  of  the 
+staff  of  the  Advanced  Weapons  Branch,  Air  Force  Weapons  Laboratory,  for  making 
+the  exposures  and  providing  invaluable  advice;  and  Dr.  Jerome  H.  Krupp  of  the 
+Radiation  Sciences  Division,  USAFSAM,  for  critically  reading  the  manuscript 
+and  making  valuable  suggestions. 
+
+
+REFERENCES 
+
+1.  Heynick,  L.  N.  Critique  of  the  Literature  on  Bioeffects  of  Radiofrequency 
+Radiation:  A  Comprehensive  Review  Pertinent  to  Air  Force  Operations. 
+USAFSAM-TR-87-3,  June  1987. 
+
+2.  Biological  Effects  of  Radiofrequency  Radiation.  Elder,  J.  and  Cahill, 
+D.  F.  (Eds.).  EPA  Publ.  600/8-83-026F  (1984). 
+
+3.  Behavioral  Effects  of  Microwave  Radiation  Absorption.  Monahan,  J.  and 
+D'Andrea,  J.  Eds.  HHS  Publ.  FDA  85-8238,  U.S.  Department  of  Health  and 
+Human  Services,  Rockville,  MD,  August  1985. 
+
+4.  Bermant,  R. ,  Reeves,  D.,  Levinson,  D. ,  and  Justesen,  D.  Classical  condi¬ 
+tioning  of  Microwave -Induced  Hyperthermia  in  Rats.  Radio  Sci. 
+
+14(6S) : 201-207  (1979). 
+
+
+5.  Voss,  D.,  Demuth,  G.,  Babbitt,  A.,  Torraca,  L.  ,  and  Miera,  B.  Character¬ 
+ization  of  the  RF  Radiation  from  an  Axially  Extracted  Cathode  Oscillator 
+Operated  at  1.3  GHz.  AFWL-TR  (In  Press)  Air  Force  Weapons  Laboratory, 
+Kir t land  AFB ,  NM  (1987). 
+
+6.  Nonparametric  Statistical  Methods.  Hollander,  M.  and  Wolfe,  A.,  Eds., 
+Chap.  6.  New  York:  John  Wiley  and  Sons,  1973. 
+
+7.  Multivariate  Statistical  Methods.  Morrison,  D.,  Ed.,  Chap.  5. 
+
+New  7ork:  McGraw-Hill,  Inc.,  1967. 
+
+8.  Bogo,  V.,  Hill,  T.,  and  Young,  R.  Comparison  of  Accelerod  and  Rotorod 
+
+Sensitivity  in  Detecting  Ethanol  and  Acrylamide -Induced  Performance 
+Decrement  in  Rats:  Review  of  Experimental  Considerations  of  Rotating  Rod 
+
+Systems.  Neurotoxicol  2:765-787,  1981. 
+
+9.  Dumey,  C.H.,  Johnson,  C.C.,  Barber,  P.W.  ,  Massoudl,  H.  ,  Iskander,  M.F.  , 
+Lords,  J.L.,  Ryser,  D.K.,  Allen,  S.J.,  and  Mitchell,  J.C.  Radiofrequency 
+Radiation  Handbook.  (Second  Edition).  SAM-TR-78-22 ,  May  1978. 
+
+10.  Chou,  C.,  Guy,  A.,  and  Galambos,  R.  Auditory  Perception  of 
+Radiofrequency  Electromagnetic  Fields.  J  Acoust  Soc  Am  71:1321-1334 
+(1982). 
+
+11.  Wheeler,  T. ,  Hardy,  K. ,  and  Blick,  D.  Retrograde  Amnesia  in  Rats 
+
+Produced  by  Electron  Beam  Exposure.  USAFSAM-TR-83-3 ,  February  1983. 
+
+
+v  ■<**.*:  v 
+
+
+APPENDIX 
+
+
+IONIZING  RADIATION  MEASUREMENTS 
+
+The  production  of  high-power  microwave  pulses  by  the  Gypsy  emitter  entails 
+the  acceleration  of  an  electron  current  pulse  across  a  high-voltage  field  of 
+sufficient  energy  to  generate  penetrating  x  rays.  Measurements  were  made  to 
+determine  the  magnitude  of  the  x-ray  component  in  the  exposure  configurations 
+used  for  the  biobehavioral  experiments.  Preliminary  dosimetric  measurements 
+at  the  Gypsy  facility  showed  that  the  x-ray  dose  at  1  m  (39.37  in.)  from  the 
+horn  antenna  was  approximately  28-34  mR/pulse.  With  a  ^40-ns  pulse  width, 
+this  corresponds  to  an  in-air  exposure  dose  rate  of  2  X  10  R/s . 
+
+Victoreen  condenser  R-meter  chambers  (Model  576)  and  Harshaw  type  100 
+Lithium  fluoride  (LiF)  powder  thermoluminescent  dosimeters  (TLD)  were  used  for 
+these  x-ray  measurements.  The  in-air  x-ray  field  measurements  were  done  with 
+condenser  R-meter  chambers  and  TLDs.  A  5-cm  (2  in.)  diameter  cylindrical 
+water-filled  phantom,  approximating  the  size  of  the  rats  used  in  the  experi¬ 
+ments.  was  used  to  establish  the  entrance,  midline,  and  exit  doses  to  the 
+animals.  Type  100  TLDs  were  used  in  the  phantom  measurements.  The  dosimeter 
+responses  were  calibrated  on  a  UDM-1A  Cs-137  gamma  source,  whose  output  cali¬ 
+bration  is  directly  traceable  to  the  National  Bureau  of  Standards  (NBS) .  The 
+R- chambers  used  are  known  to  have  a  relatively  uniform  photon  energy  response 
+over  the  range  of  x-ray  energies  generated  by  the  Gypsy  emitter.  The  R- 
+chamber  responses  were  corrected  for  temperature  and  pressure;  the  elevation 
+at  Kirtland  AFB ,  New  Mexico  (1585  m  [5200  ft])  required  a  pressure  correction 
+factor  of  X  1.23.  These  ion  chambers  are  also  known  to  show  some  loss  of 
+sensitivity  due  to  high-dose  rate  saturation.  Comparison  of  the  measured 
+chamber  response,  corrected  for  temperature,  pressure,  and  Cs-137  calibration 
+factor  with  the  preliminary  TLD  dose  measurements  indicates  that  this  correc¬ 
+tion  should  be  1.3  X. 
+
+X-ray  dosimetric  measurements  were  made  on-axis  (boresight)  where  the 
+microwave  field  is  at  a  minimum,  and  at  approximately  9  deg  off-axis  where  the 
+microwave  field  was  maximum.  Two  exposure  configurations  were  examined:  (1) 
+with  the  microwave  field  unattenuated  (full  power),  and  (2)  with  foam  attenua¬ 
+tion  material  stuffed  in  the  horn.  Power  density  measurements  in  the  letter 
+configuration  indicate  a  reduction  of  3  orders  of  magnitude  (from  3  kW/cm  to 
+1  W/cm  ).  The  x-ray  dose/pulse  was  reduced  by  this  attenuation  about  37%  of 
+the  unattenuated  pulse.  Subsequently,  during  the  animal  experiments  a  third 
+exposure  configuration  was  used  in  which  a  0.63  cm  (1/4  in.)  lead  sheet  was 
+placed  between  the  animal  and  the  horn  antenna  to  block  the  x-ray  component. 
+No  calibration  measurements  were  made  with  this  configuration,  but  TLDs  were 
+exposed  with  some  of  the  animals;  results  are  shown  in  Table  A-l. 
+
+The  results  of  the  in-air  x-ray  dose  measurements  are  shown  in  Figures  A-l 
+and  A- 2 .  The  x-ray  dose/pulse  on  the  horn  antenna  boresight  was  1.27  X  the 
+dose/pulse  at  the  off-axis  position  for  both  configurations.  For  the  atte¬ 
+nuated  experiments  it  was  recommended  that  the  animals  be  located  on  the 
+boresight.  This  configuration  would  compensate  in  large  part  for  the  reduction 
+of  the  x-ray  dose  while  further  reducing  the  power  density. 
+
+
+—  NO  MICROWAVE  ATTENUATION 
+— -  MICROWAVE  ATTENUATION 
+
+•  ION  CHAMBER  MEASUREMENT 
+
+*  TLD  MEASUREMENT 
+
+
+DISTANCE  FROM  HORN  (m) 
+
+
+Figure  A-l.  In-air  x-ray  dose  measurements.  These  measurements  were  made  on 
+the  bores ight  of  the  horn  antenna  at  the  point  where  there  was  a 
+null  in  the  microwave  power  density.  Microwaves  were  attenuated 
+by  stuffing  the  horn  with  carbon  particle  impregnated  horse  hair 
+material . 
+
+
+J 
+
+S'? 
+
+
+•  1/1 
+■'••I 
+
+
+—  NO  MICROWAVE  ATTENUATION 
+
+—  MICROWAVE  ATTENUATION 
+
+•  ION  CHAMBER  MEASUREMENT 
+
+•  TLD  MEASUREMENT 
+
+
+DISTANCE  FROM  HORN  (m) 
+
+
+Figure  A- 2.  In-air  x-ray  dose  measurements.  These  measurements  were  made  9 
+deg  off-axis  from  the  bores ight.  Microwaves  were  attenuated  by 
+stuffing  the  horn  with  carbon  particle  impregnated  horse  hair 
+material . 
+
+Table  A-l  summarizes  the  results  of  the  phantom  x-ray  dosimetry  measure¬ 
+ments  for  both  the  attenuated  and  unattenuated  modes.  These  measurements 
+indicate  that  the  phantom  midline  x-ray  doses  are  about  the  same  as  the  in-air 
+doses  at  the  phantom  position.  The  entrance  dose  was  approximately  1.3  X  the 
+midline  dose,  and  the  exit  dose  was  about  0.5  X  the  midline  dose. 
+
+
+TABLE  A- 1 .  PHANTOM  DOSIMETRY 
+
+
+Mode 
+
+In  air 
+
+Phantom 
+
+center 
+
+Phantom 
+
+anterior 
+
+Phantom 
+
+posterior 
+
+Unattenuated 
+(2  m) 
+
+12.8* 
+
+13.5 
+
+17.0 
+
+6.2 
+
+Attenuated 
+(2  m) 
+
+CM 
+
+CO 
+
+8.1 
+
+10.9 
+
+*mR/pulse 
+
+
+The  results  of  the  TLD  monitors  exposed  with  the  animals  are  shown  In 
+Table  A-2.  Dosimeters  19-25  were  exposed  to  8  to  12  pulses  at  1-m  distance  in 
+each  of  the  configurations  as  described  in  the  table.  The  dosimeters  exposed 
+on  the  top  of  the  behavior  box  (#'s  19,  20,  22,  and  24)  indicate  that  moving 
+the  animal  from  the  off-axis  position  to  the  horn  boreslght  in  the  attenuated 
+mode  did  compensate  reasonably  well  for  the  x-ray  dose  reduction.  The  TLD 
+exposed  with  the  lead  shield  (#25)  indicated  that  the  lead  shield  reduced  the 
+x-ray  dose  to  less  than  10%  of  the  unshielded  value.  Dosimeters  #39-54  were 
+exposed  during  the  balance  task.  Dosimeters  #39,  41,  and  47  agree  reasonably 
+well  with  the  predicted  dose  for  that  location  and  configuration.  The  low- 
+dose  response  for  #40  may  be  due  to  a  faulty  pulse.  The  over  response  of  #46 
+is  unexplained;  the  dose  seems  to  indicate  multiple  exposures.  Repeat  Cs-137 
+calibration  checks  with  TLDs  tend  to  corroborate  the  measure  dose  values.  Also 
+unexplained  are  the  responses  of  #52-54  (with  lead  shielding).  Based  on  the 
+dose/pulse  of  the  unshielded  dosimeters  #39,  41,  and  47,  the  lead  shielded  dose 
+values  should  have  been  about  3-4  mR/pulse. 
+
+
+TABLE  A- 2.  TLD  X-BAY  DOSE  MONITORING 
+
+
+TLD 
+
+number 
+
+19 
+
+20 
+
+21 
+
+22 
+
+23 
+
+24 
+
+25 
+
+39 
+
+40 
+
+41 
+
+46 
+
+47 
+
+52 
+
+53 
+
+54 
+
+
+Total  Number  Dose  Exposure 
+
+dose _ of  pulses _ per  pulse _ configuration 
+
+
+288 
+
+mR 
+
+12 
+
+24.0 
+
+227 
+
+mR 
+
+10 
+
+22.7 
+
+269 
+
+mR 
+
+10 
+
+26.9 
+
+221 
+
+mR 
+
+10 
+
+22.1 
+
+258 
+
+mR 
+
+10 
+
+25.8 
+
+173 
+
+mR 
+
+8 
+
+21.6 
+
+16 
+
+mR 
+
+9 
+
+1.8 
+
+45 
+
+mR 
+
+1 
+
+45.0 
+
+8 
+
+mR 
+
+(?) 
+
+1 
+
+8.0 
+
+37 
+
+mR 
+
+1 
+
+37.0 
+
+229 
+
+mR 
+
+(?) 
+
+1 
+
+229.0 
+
+41 
+
+mR 
+
+1 
+
+47.0 
+
+26 
+
+mR 
+
+1 
+
+26.0 
+
+37 
+
+mR 
+
+1 
+
+37.0 
+
+26 
+
+mR 
+
+1 
+
+26.0 
+
+mR 
+
+Unattenuated;  off- 
+axis;  top  of  box 
+
+mR 
+
+Attenuated;  on- 
+axis;  top  of  box 
+
+mR 
+
+Attenuated;  on- 
+axis;  front  of  box 
+
+mR 
+
+Attenuated;  on- 
+axis;  top  of  box 
+
+mR 
+
+Attenuated;  on- 
+axis;  front  of  box 
+
+mR 
+
+Unattenuated;  off- 
+axis  ;  top  of  box 
+
+mR 
+
+Attenuated ;  lead ; 
+top  of  box 
+
+mR 
+
+Unattenuated;  off- 
+axis  ;  front 
+
+mR 
+
+Unattenuated;  off- 
+axis  ;  front 
+
+mR 
+
+Unattenuated;  off- 
+axis  ;  front 
+
+mR 
+
+Attenuated;  off- 
+axis  ;  front 
+
+mR 
+
+Attenuated;  off- 
+axis  ;  front 
+
+mR 
+
+Attenuated;  lead; 
+off-axis;  front 
+
+mR 
+
+Attenuated;  lead; 
+off-axis;  front 
+
+mR 
+
+Attenuated;  lead; 
+off-axis;  front 
+
