@@ -1,0 +1,4078 @@
+♦  J 
+
+
+AD-A268  392 
+
+
+I 
+
+
+TECHNICAL  REPORT 
+Number:  001-92 
+
+
+THE  BEHAVIORAL  TOXICOLOGY  OF 
+HIGH-PEAK,  LOW  AVERAGE  POWER,  PULSED 
+MICROWAVE  IRRADIATION 
+
+
+DTIC 
+
+
+ELECTE 
+
+AUG241993 
+
+
+Department  of  Microwave  Research 
+Walter  Reed  Army  Institute  of  Research 
+Washington,  D.C.  20307-5100 
+
+
+Qo. 
+
+
+25  January  1993 
+
+
+TfflS  DOCUMENT  IS  BEST 
+
+I- 
+
+QUALITY  AVAILABLE.  THE  COPY 
+FURNISHED  TO  DTIC  CONTAINED 
+A  SIGNIHCANT  NUMBER  OF 
+PAGES  WHICH  DO  NOT 
+REPRODUCE  LEGIBLY. 
+
+
+REPORT  DOCUMENTATION  PAGE 
+
+
+form  Aperavtd 
+0M>  Ma  OTOd^m 
+
+
+immn  for  mn  coMtcDon  o«  iw*or^>oa«*  •%  to  <>ono>  '  om  •mmomm.  >««aijoi«%^  ttmm  'or  twrmuunt.  Korcwwm  «M  loiwok 
+
+ijeoiw^  "oriMntfi^fTx  iiTi  T  'I  ti»«<«tomoAor  i«Motin«eOM  Wn«  <ofVMwiti  rourou*^  tfho  outoom  •uhmco  or  «««  otftor  mdocio*  tlM 
+
+<«iocoan  o*  iifoummiii  mm^rn  iwiyiiion  for  *oouai«^  ottrmn  to  'Mow^iMqtor^  n«>oo>tawn  Oirvciororo  /or  mronwoow  Oporipow  «rto  BoDorr^  U tS  ioftoroor* 
+
+0— Hwyy.^BO  1200.  Ar«Of««0M.VA  2JiO2-Ol02.  ooo  to  cw  OW»co  o»  4W  lyqoc  »BOTw  oro  Oooyrtiow  ^Otoq(0;00"4««tt.  iWomwrfWw.  OC  20M1. 
+
+
+1.  AC<NCY  USE  ONLY  (E«4V«  OUnKi  I  2.  REPOKT  DATE 
+
+I  25  January  1993 
+
+
+4.  TITU  AMO  SUSTITU 
+
+
+3.  REPORT  TYPE  AMO  OATES  COVERED 
+
+Interim;  20  Oct  89  -  31  Dec  92 
+
+
+S.  aiNOING  NUMBERS 
+
+
+The  Behavioral  Toxicology  of  High-Peak,  Low  Average 
+Power,  Pulsed  Microwave  Irradiation. 
+
+
+t.  AUTHORIS) 
+
+
+T.  G.  Raslear,  Y.  Akyel,  F.  Bates,  S,-T.  Lu, 
+E.  C.  Elson,  B.  Akyel,  S.  P.  Mathur 
+
+
+PE:  ri2787A 
+PR:  3M162787A878 
+TA:  BB 
+WU:  042 
+
+
+7.  PERFORMING  ORGANUAnON  NAME<SJ  AMO  AOORESSIES) 
+
+Department  of  Microwave  Research 
+Division  of  Neuropsychiatry 
+Walter  Reed  Army  Institute  of  Research 
+Washington,  DC  20307-5100 
+
+
+S.  SPONSORING!  MONITORING  AGENCY  NAME(S)  ANO  AOORESS(ES> 
+
+U.S.  Army  Medical  Research  &  Development  Command 
+Fort  Detrick,  Frederick,  MD  21702-5012 
+
+
+a.  PERFORMING  ORCANIZAnON 
+UPORT  NUMBER 
+
+001-92 
+
+
+10.  SPONSORING  /  MONITORING 
+AGENCY  REPORT  NUMBER 
+
+
+12a.  OISTRIRUTIQN/ AVAIVABIUTY  STATEMENT 
+
+APPROVED  FOR  PUBLIC  RET.EAE'; 
+distributiir:  uut.;mi  nu) 
+
+
+13.  ABSTRACT  {MAJimum  200  «Kirail 
+
+
+The  TEMPO  microwave  bioettecis  exposure  platform  at  the  Department  of  Microwave 
+Research,  Walter  Reed  Army  Institute  of  Re.search,  produces  an  80  ns,  3  GHz  microwave  pulse 
+with  a  peak  power  of  700  .MW.  The  energy  transmitted  is  approximately  16  J.  so  that  tit  a  pulse 
+repetition  rate  of  0.125  Hz,  the  duty  fact^or  is  lO**  and  the  average  power  is  2  W.  The  time- 
+averaged  SAR  for  TEMPO  exposures  at  full  power  is  0.072  W/kg,  a  value  well-below  suggested 
+exposure  limits.  Five  behavioral  tasks  were  used  to  determine  if  exposure  affected  subsequent 
+task  performance;  temporal  bisection,  Y-maze,  treadmill  running,  food  motivation  (behavioral 
+economics),  and  Persolt  swim  test.  Reliable  effects  were  found  with  the  temporal  bisection,  Y- 
+maze,  treadmill,  and  behavioral  economics  tasks.  The  pattern  of  result, s  suggests  at  least  two 
+effects  of  high-power  pulsed  microwaves:  memory  impairment  and  decreased  physical  endurance. 
+It  was  suggested  that  research  be  expanded  in  this  area,  and  that  tasks  which  are  specifically 
+sensitive  to  memory  function  and  physical  endurance  receive  especial  attention. 
+
+
+14.  SUBJECT  TERMS 
+
+
+1S.  NUMBER  OF  AAGES 
+
+
+Microwave  Bioeffects,  Motiv.ation, 
+
+High  Power  Microwave,  Behavior,  Rats,  time  perception,  time  96 
+
+discrimination,  Decision-making,  memory,  endurance,  depression  i*.  CODE 
+
+
+17.  SECURITY  CLASSIFICATION 
+OF  REPORT 
+
+UNCLASSIFIED 
+
+
+MSN  7S.i0^-.. -30-5500 
+
+
+IB.  SECURITY  CLASSIFICAHON  19.  SECURITY  CLASSIFICATION 
+OF  THIS  PAGE  OF  abstract 
+
+UNCLASSIFIED  UNCLASSIFIED 
+
+
+20.  UMITATION  OF  ABSTRACT 
+
+UNLIMITED 
+
+
+StjiHQjfO  *98  ^‘891 
+
+mm  m  Sis  UV'I 
+
+
+f 
+
+
+THE  BEHAVIORAL  TOXICOLOGY  OF 
+HIGH-PEAK,  LOW-AVERAGE  POWER,  PULSED 
+MICROWAVE  IRRADIATION 
+
+‘Thomas  G.  Raslear,  Ph.D. 
+
+^Yahya  Akyel,  Ph.D, 
+
+^Frank  Bates,  B.S.E.E. 
+
+^Shin-Tsu  Lu,  Ph.D. 
+
+‘Edward  C.  Elson,  M.D.,  COL,  MC 
+^Buket  Akyel,  Ph.D. 
+
+^Satnam  P.  Mathur,  Ph.D. 
+
+'Department  of  Microwave  Research 
+
+Division  of  Neuropsychiatry  DTIC  QUALITF  INSPECTED  3 
+Walter  Reed  Army  Institute  of  Research 
+Washington.  DC  20307-5100 
+
+HDGDEN  BioServices  Corporation 
+Gaithersburg,  MD  20879 
+
+
+Tel:  (301)  427-5125 
+
+
+ABSTRACT 
+
+
+The  TEMPO  microwave  bioeffects  exposure  platform  at  the  Department  of  Microwave  Research, 
+Walter  Reed  Army  Institute  of  Research,  produces  an  80  ns,  3  GHz  microwave  pulse  with  a  peak 
+power  of  700  MW.  The  energy  transmitted  is  approximately  16  J,  so  that  at  a  pulse  repetition 
+rate  of  0.125  Hz,  the  duty  factor  is  lO"*  and  thr  average  power  is  2  W.  The  time-averaged  SAR 
+for  TEMPO  exposures  at  full  power  is  0.072  W/kg,  a  value  well-below  suggested  exposure  limits. 
+Five  behavioral  tasks  were  used  to  determine  if  exposure  affected  subsequent  task  performance: 
+temporal  bisection,  Y-maze,  treadmill  running,  food  motivation  (behavioral  economics),  and 
+Porsolt  swim  test  Reliable  effects  were  found  with  the  temporal  bisection,  Y-mazc,  treadmill, 
+and  behavioral  economics  tasks.  The  pattern  of  results  suggests  at  least  two  effects  of  high- 
+power  pulsed  microwaves:  memory  impairment  and  decreased  physical  endurance.  It  was 
+suggested  that  research  be  expanded  in  this  area,  and  that  tasks  which  are  specifically  sensitive 
+to  memory  function  and  physical  endurance  receive  special  attention. 
+
+\ 
+
+
+111 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+IV 
+
+
+FOREWORD 
+
+
+This  paper  is  one  of  a  series  of  occasional,  informal  accounts  of  work  in  the  Department 
+of  Microwave  Research  (DMR)  at  the  Walter  Reed  Army  Institute  of  Research.  The  reports 
+generally  address  topics  in  the  safety  of  electromagnetic  radiation  and  are  intended  to  inform 
+Department  of  Defense  audiences  with  an  interest  in  such  issues.  Although  their  contents  may 
+overlap  partly  with  our  publications  in  the  scientific  literature,  most  papers  are  based  on  in-hou.se 
+research  and  are  intended  to  be  more  accessible  to  a  wide  audience  of  readers  with  various 
+technical  backgrounds.  The  'materials  are  the  author’s  personal  views  and  not  the  official 
+positions  of  the  Army  or  the  WRAIR.  Comments  to  the  senior  author  are  welcome. 
+
+This  work  was  supported  by  Research  Area  III,  Health  Hazards  of  Military  Systems,  of 
+the  U.S.  Army  Medical  Research  and  Development  Command;  MG  Travis,  Commanding. 
+
+The  research  described  in  this  report  was  conducted  in  compliance  with  the  Animal 
+Welfare  Act  and  other  Federal  statutes  and  regulations  relating  to  animals  and  experiments 
+involving  animals  and  adheres  to  the  principles  stated  in  the  Guide  for  the  Care  and  Use  of 
+Laboratory  Animals,  NIH  publication  85-23. 
+
+The  views  of  the  author(s)  do  not  purport  to  reflect  the  position  of  the  Department  of  the 
+Army  or  the  Department  of  Defense,  (para  4-3,  AR  360-5). 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+V 
+
+
+PREFACE 
+
+
+THE  PURPOSE  OF  WRAIR’S  RADIOFREQUENCY  BIOLOGY  PROGRAM 
+
+The  historic  focus  of  WRAIR’sfadiofrequency  biology  program  has  been  to  perform  basic 
+research  on  personnel  hazards  associated  with  non-ionizing  radiation  in  military  settings.  The 
+formulation  of  specific  goals  has  been  guided  by  the  technical  assessments  of  the  Army  systems 
+development  community,  and  so  a  long-term  close  collaboration  has  existed  with  relevant  Anuy 
+Materiel  Command  communitres. 
+
+The  chapters  presented  in  this  report  focus  on  biological  effects  produced  by  one  high 
+peak  power  pulsed  microwave  source  operating  at  a  center  frequency  of  3  Ghz.  With  this  source 
+and  another  HPPM  source  working  at  1300  MHz  a  large  number  of  conditions  in  the  operating 
+parameter  space  of  interest  to  the  Army  has  been  explored.  As  the  technical  details  of  directed 
+energy  technologies  become  better  defined  with  the  evolution  of  deployable  directed  energy 
+systems,  the  biology  research  is  adjusted  to  become  increasingly  relevant.  A  convergence  of 
+generic  research  and  specific  technical  requirements  is  occurring.  Even  though  the  experimental 
+data  reported  in  this  publication  were  derived  from  a  laboratory  HPPM  source,  the  relevance  to 
+weapons  systems  under  consideration  is  fairly  high. 
+
+The  purpose  of  this  research  is  to  confer  to  the  systems  development  community  a 
+carefully  and  rigorously  derived  data  base  from  which  assessments  on  safety  and  integrity  of  task 
+performance  can  be  made.  Seldom  does  the  information  make  a  clean  separation  between 
+hazards  and  nun-hazards  and  interpretation  ir.  often  necessary.  Extrapolations  from  animal  data 
+are  always  in  question.  Whether  an  "effect"  represents  a  hazard  or  non-hazard  is  frequently 
+intricate.  The  biomedical  community  cannot  merely  hand  over  a  self-contained  data  base  to  the 
+engineering  community  without  continuing  dialogue  between  the  two  communities  as  systems 
+are  integrated  into  the  force  structure. 
+
+The  information  yield  in  this  report  is  illustrative.  The  observation  that  very  high  peak  - 
+but  low  average  -  power,  which  would  be  considered  permissible  by  some  safety  standards, 
+produces  a  degradation  of  performance  in  animals  leads  immediately  to  the  issue  of  extrapolation 
+to  humans.  If  the  extrapolation  can  be  made,  do  we  need  to  protect  from  such  effects?  Are  the 
+effects  tolerable?  Are  they  tolerable  in  some  situations  and  not  others?  To  address  these  and 
+
+Behavioral  Toxicology  of  HPPM  vii 
+
+
+other  questions  more  fully,  we  need  a  more  encompassing  picture  of  an  individual  in  a  military 
+directed  energy  environment.  As  that  picture  emerges  piecemeal  the  biomedical  community  must 
+remain  engaged  in  the  tech  development  process. 
+
+The  biomedical  data  base  must  be  continually  refined  through  a  vigorous  research 
+program.  Scientists  must  be  willing  to  abandon  doctrinaire,  preconceived  notions  as  new 
+information  comes  to  light.  There  is  a  controversy  in  the  scientific  community  as  to  the  reality 
+of  so-called  non-thermal  effects,  such  as  mentioned  above.  Vigorous  debate  and  alternate 
+approaches  should  be  encouraged,- although  Project  Reliance  may  have  dealt  such  a  process  a 
+major  blow. 
+
+Lastly,  the  latest  revision  of  the  ANSI  standard  for  non-ionizing  radiation  has  taken  some 
+cognizance  of  the  possible  hazards  of  peak  power  by  imposing  a  100  kV/m  peak  on  narrow  RF 
+pulses.  The  work  cited  in  this  report  used  peaks  in  excess  of  100  kV/m.  This  has  reinforced  the 
+conviction  of  staff  scientists  at  Walter  Reed  that  "lower"  high  peak  pulses  at  faster  repetition 
+rates,  such  that  the  average  energy  would  allow  such  exposures  under  the  new  rules,  should  be 
+studied.  In  all  cases  constant  technical  guidance  from  the  weapons  development  community  is 
+needed  to  maintain  maximum  relevance  to  the  needs  of  the  Army. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+VIII 
+
+
+ACKNOWLEDGEMENT 
+
+
+Research  in  the  area  of  bioeffects  subsequent  to  electromagnetic  radiation  is  highly 
+interdisciplinary,  as  evidenced  by  the  list  of  authors  of  this  report.  However,  many  other 
+individuals  also  contributed  to  and  ensured  the  success  of  the  experiments  detailed  below.  The 
+principal  investigators  take  special  pride  in  acknowledging  the  real  reason  for  their  success. 
+
+Engineering  support  in  the  form  of  maintenance  and  operation  of  TEMPO  was  provided 
+by  Mike  Belt.  He  was  often  assisted  by  Dave  Varle  in  this  crucial  job.  Without  them,  none  of 
+the  experiments  would  have  been  performed.  Bill  York  also  provided  crucial  support  to  this 
+project  in  numerous  ways.  Environmental  control  of  the  anechoic  chamber  for  TEMPO  and  of 
+the  housing  of  the  equipment  was  his  primary  responsibility  and  headache.  Experimental  sessions 
+had  perfect  temperature  and  humidity  for  machine,  man,  and  animal  through  his  efforts.  Mr. 
+York  also  was  responsible  for  the  fabrication  of  the  animal  restraints  which  were  used  during 
+exposures.  Rcb  Serafini  and  Michelle  DeAngelis  were  responsible  for  animal  care  and  handling, 
+and  performed  data  collection  in  several  of  the  experiments.  Their  excellent  attention  to  detail 
+and  efficiency  in  scheduling  substantially  contributed  to  the  projects.  Finally,  Chris  Klein 
+handled  many  thorny  administrative  and  management  problems  associated  with  this  project.  His 
+effons  are  a  fine  example  of  what  effective  management  can  actually  accomplish. 
+
+High  quality  research  can  only  be  accomplished  by  high  quality  people  performing  at  their 
+highest  level  of  effort.  The  quality  and  quantity  of  the  research  reported  here  are  a  testament  to 
+the  effons  of  all  of  the  team  at  the  Department  of  Microwave  Research. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+ix 
+
+
+TABLE  OF  CONTENTS 
+
+
+1.0 
+
+INTRODUCTION 
+
+1 
+
+2.0 
+
+METHODS  and  MATERIALS 
+
+7 
+
+2.1 
+
+The  TEMPO  E.xposure  System 
+
+7 
+
+2.2 
+
+Dosimetry 
+
+9 
+
+2.2.1 
+
+Calorimetry  Procedures 
+
+9 
+
+2.2.2 
+
+Calorimetry  Results 
+
+10 
+
+2.2.3 
+
+Thermometry  Procedures 
+
+10 
+
+2.2.4 
+
+Thermometry  Results 
+
+11 
+
+2.3 
+
+Subjects 
+
+12 
+
+2.4 
+
+Exposure  Procedures 
+
+12 
+
+3.0 
+
+TEMPORAL  BISECTION 
+
+15 
+
+3.1 
+
+Background 
+
+15 
+
+3.2 
+
+Task  Description 
+
+16 
+
+3.3 
+
+Methods  and  Materials 
+
+20 
+
+3.3.1 
+
+Behavioral  Methods 
+
+20 
+
+3.3.1. 1 
+
+Subjects 
+
+20 
+
+3.3.1.2 
+
+Apparatus 
+
+20 
+
+3.3.1.3 
+
+Procedures 
+
+20 
+
+3.3. 1.4 
+
+Behavioral  Data  Analysis 
+
+22 
+
+3.4 
+
+Results 
+
+23 
+
+3.4.1 
+
+Psychometric  Functions 
+
+23 
+
+3.4.2 
+
+Bisection  Point 
+
+23 
+
+3.4.3 
+
+Response  Bias 
+
+24 
+
+3.4.4 
+
+Discriminability 
+
+25 
+
+3.4.5 
+
+General  Task  Performance 
+
+25 
+
+3.4.6 
+
+Null  Response 
+
+26 
+
+3.4.6. 1 
+
+Null  Responses  and  Decision  Confidence 
+
+26 
+
+3.4.7 
+
+Ionizing  Radiation  and  Acoustic  Noise  Effects 
+
+28 
+
+3.5 
+
+Discussion 
+
+29 
+
+4.0 
+
+MEMORY  CONSOLIDATION  (Y-Maze) 
+
+31 
+
+4.1 
+
+Background 
+
+31 
+
+4.1.1 
+
+Memory  Consolidation 
+
+31 
+
+4.2 
+
+Task  Description 
+
+34 
+
+4.3 
+
+Methods  and  Materials 
+
+35 
+
+4.3.1 
+
+Subjects 
+
+35 
+
+4.3.2 
+
+Apparatus 
+
+35 
+
+4.3.3 
+
+Behavioral  Testing 
+
+36 
+
+Behavioral  Toxicology  of  HPPM 
+
+
+xi 
+
+
+TABLE  OF  CONTENTS  (continued) 
+
+
+4.4 
+
+Results 
+
+36 
+
+4.5 
+
+Discussion 
+
+37 
+
+5.0 
+
+TREADMILL  RUNNING  ENDURANCE 
+
+39 
+
+5.1 
+
+Background 
+
+39 
+
+5.2 
+
+Task  Description 
+
+39 
+
+5.3 
+
+Methods  and  Materials 
+
+41 
+
+5.3.1 
+
+Subjects 
+
+41 
+
+5.3.2 
+
+Apparatus 
+
+41 
+
+5.3.3 
+
+Behavioral  Testing 
+
+41 
+
+5.4 
+
+Results 
+
+42 
+
+5.5 
+
+Discussion 
+
+42 
+
+6.0 
+
+MOTIVATION  FOR  FOOD  (BEHAVIORAL  ECONOMICS)  43 
+and  CIRCADIAN  RHYTHMICITY 
+
+6.1 
+
+Background 
+
+43 
+
+6.2 
+
+Task  Description 
+
+44 
+
+6.2.1 
+
+Behavioral  Assay 
+
+44 
+
+6.3 
+
+Methods  and  Materials 
+
+46 
+
+6.3.1 
+
+Subjects 
+
+46 
+
+6.3.2 
+
+Apparatus 
+
+47 
+
+6.3.3 
+
+Behavioral  Testing 
+
+47 
+
+6.4 
+
+Results 
+
+48 
+
+6.5 
+
+Discussion 
+
+49 
+
+7.0 
+
+PORSOLT  SWIM  TEST  (BEHAVIORAL  DESPAIR) 
+
+51 
+
+7.1 
+
+Background 
+
+51 
+
+7.2 
+
+Task  Description 
+
+52 
+
+7.3 
+
+Methods  and  Materials 
+
+53 
+
+7.3.1 
+
+Subjects 
+
+53 
+
+7.3.2 
+
+Apparatus 
+
+53 
+
+7.3.3 
+
+Behavioral  Testing 
+
+54 
+
+7.4 
+
+Results 
+
+54 
+
+7.5 
+
+Discussion 
+
+55 
+
+8.0 
+
+SUMMARY,  CONCLUSIONS  AND  RECOMMENDATIONS  57 
+
+8.1 
+
+Summary  of  Results 
+
+57 
+
+8.2 
+
+Safety  Standards 
+
+60 
+
+9.0 
+
+FUTURE  DIRECTIONS  FOR  RESEARCH 
+
+61 
+
+10.0 
+
+BIBLIOGRAPHY 
+
+63 
+
+Behavioral  Toxicology  of  HPPM 
+
+
+LIST  OF  TABLES 
+
+
+Table  1 
+
+Table  2 
+
+Table  3 
+
+Table  4 
+Table  5 
+
+
+Constancy  of  Time-averaged  SAR  for  Various 
+Values  of  Peak  SAR. 
+
+Ionizing  Radiation  Dose  (mREM  +/-  SD)  For 
+Each  Microwave  Power  Attenuation  Condition. 
+
+Noise  Levels  (dBA)  For  Each  Microwave  Power 
+Attenuation  Condition. 
+
+Temperature  Changes  Induced  by  200  TEMPO  Pulses. 
+
+Correlation  Coefficients  (r),  T-test  Statistics  (t), 
+and  Probability  Levels  (p),  for  Covariations  Between 
+Noise  and  X-Ray  Exposures  and  Those  Behaviors 
+Affected  by  Microwave  Exposures. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+xiii 
+
+
+LIST  OF  FIGURES 
+
+
+Figure  1 
+
+Waveform  envelope  of  a  single  TEMPO  pulse. 
+
+7 
+
+Figure  2 
+
+Thermometry  results  for  TEMPO  exposures  in  the  rat 
+
+11 
+
+Figure  3 
+
+Psychometric  function  relating  relative  frequency  of 
+the  response,  "This  is  stimulus  A",  as  a  function  of 
+the  stimulus  value. 
+
+17 
+
+Figure  4 
+
+Heuristic  model  of  the  circadian  and  short  duration 
+event  timing  systems. 
+
+18 
+
+Figure  5 
+
+Probability  of  "long"  responses  as  a  function  of  log 
+stimulus  duration  and  exposure  condition. 
+
+23 
+
+Figure  6 
+
+The  bisection  point  as  a  function  of  exposure 
+condition. 
+
+24 
+
+Figure  7 
+
+Response  bias  (B")  as  a  function  of  exposure 
+condition. 
+
+24 
+
+Figure  8 
+
+Discriminability  or  sensitivity  (A’)  as  a 
+function  of  exposure  condition. 
+
+25 
+
+Figure  9 
+
+Session  time  as  a  function  of  exposure  condition. 
+
+26 
+
+Figure  10 
+
+Null  responses  as  a  function  of  exposure  condition. 
+
+26 
+
+Figure  11 
+
+Null  responses  as  a  function  of  stimulus  duration 
+and  exposure  condition. 
+
+27 
+
+Figure  12 
+
+Cumulative  null  responses  as  a  function  of  stimulus 
+duration  and  exposure  condition. 
+
+27 
+
+Figure  13 
+
+Errors  in  24-h  retention  test  in  Y-maze  for  each 
+treatment  condition. 
+
+36 
+
+Figure  14 
+
+Mean  errors  as  a  function  of  mean  energy  (J)  per 
+pulse. 
+
+37 
+
+Behavioral  Toxicology  of  HPPM  xiv 
+
+
+LIST  OF  FIGURES  (continued) 
+
+
+Figure  15  Relationship  between  running  endurance  and  treadmill  40 
+
+speed  for  saline  and  amphetamine.  Data  from 
+Gerald.  1978. 
+
+Figure  16  Mean  running  durations  for  microwave-exposed,  42 
+
+sham-exposed,  and  cage-control  rats. 
+
+Figure  17  Log  pellets  earned  as  a  function  of  log  price.  45 
+
+Figure  1 8  Mean  dark/light  ratio  of  rats  treated  with  various  46 
+
+doses  of  DFP,  an  anticholinesterase  drug. 
+
+Figure  19  Left  Panel:  Mean  pellets  consumed  as  a  function  48 
+
+of  cost  (fixed  ratio)  and  exposure  condition.  Right 
+Panel:  Mean  proportion  of  pellets  consumed  during 
+the  dark  cycle. 
+
+Figure  20  Immobility  durations  for  exposed  and  sham  animals  54 
+
+in  the  Porsolt  Swim  Test. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+XV 
+
+
+'The  only  way  to  is  to 
+
+eat  what  you  dont  want  drink  what  you 
+don't  like,  and  do  what  you'd  rather  not'' 
+
+
+Mark  Twain 
+
+
+"A  memorandum  is  written  not  to  inform 
+the  reader  but  to  protect  the  writer," 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+xvii 
+
+
+SECTION  1:  INTRODUCTION 
+
+
+Current  microwave  occupational  safety  standards  (ANSI,  1992;  NRCP,  1986)  are  primarily 
+designed  to  avoid  tissue  damage  through  heating.  As  a  result,  they  do  not  address  the  issue  of 
+the  maximum  peak  power  allowed  during  exposure  to  high-peak  power  pulsed  microwave 
+(HPPM)  fields.  While  current  standards  suggest  that  whole-body  specific  absorption  rate  (SAR) 
+exposures  be  limited  to  0.4  WAg  and/or  a  local  SAR  of  8  WAg,  there  is  no  limit  on  the  peak 
+power  that  can  be  used  to.  achieve  these  doses.  For  instance,  all  the  time-averaged  whole-body 
+exposures  in  Table  1  would  be  within  the  suggested  safety  limit  even  though  the  peak  SARs  vary 
+over  several  orders  of  magnitude. 
+
+
+Table  1:  Constancy  of  Time-averaged  SAR  For  Various  Values  of  Peak  SAR 
+
+Time-averaged 
+SAR  (W/kg) 
+
+Peak  SAR 
+
+(W/kg) 
+
+Exposure  Duration 
+
+(s) 
+
+Specific 
+
+Absorption  (J/kg) 
+
+0.4 
+
+0.4 
+
+360 
+
+144 
+
+0.4 
+
+4.8 
+
+30 
+
+144 
+
+0.4 
+
+1.44  X  10^ 
+
+10‘ 
+
+144 
+
+0.4 
+
+1.44  X  10’ 
+
+10-® 
+
+144 
+
+0.4 
+
+1.44  X  10" 
+
+lO-io 
+
+144 
+
+0.4 
+
+1.44  X  10‘* 
+
+10"'* 
+
+144 
+
+To  date,  research  on  the  behavioral  effects  of  microwaves  has  focused  on  low  power, 
+continuous  wave  (CW)  microwave  radiation  which  places  little  or  no  thermal  burden  on  the 
+organism  (see  reviews  by  Adey,  1981;  Gage,  1984;  Michaelson,  1986).  Fewer  studies  have 
+employed  pulsed  microwaves  (Bermant,  Reeves,  Levinson,  and  Justesen,  1979;  Carroll,  Levinson, 
+Justesen,  and  Clarke,  1980;  D’Andrea,  Cobb,  and  deLorge,  1989;  deLorge,  1979a,  b;  deLorge  and 
+Ezell,  1980;  Frey,  Feld,  and  Frey,  1975;  Hjeresen,  Doctor,  and  Skeldon,  1979;  Hunt,  King,  and 
+Phillips,  1975;  Johnson,  Meyers,  Guy,  Lovely,  and  Galambos,  1976;  King,  Justesen,  and  Clarke, 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+1 
+
+
+1971;  Lebovitz,  1983;  Roberti,  Heebels,  Hendricx,  deGreef,  and  Wolthuis,  1975;  Schrot,  Thomas, 
+and  Banvard,  1980;  Thomas,  Burch,  and  Yeandle,  1979;  Thomas,  Finch,  Fulk,  and  Burch,  1975; 
+Thomas,  Schrot,  and  Banvard,  1980,  1982).  The  power  density  in  these  studies  is  quite  low, 
+often  because  tne  pulse  repetition  rates  are  very  high  (up  to  I  kHz).  An  even  smaller  number 
+of  these  studies  have  compared  pulsed  and  CW  radiation  at  the  same  average  power  density 
+(Cain  and  Rissman,  1978;  Frey,  Feld,  and  Frey,  1975;  Kholodov,  1975;  Lebovitz,  1983;  Roberti, 
+Heebels,  Hendricx,  deGreef,  and  Wolthuis,  1975;  Thomas,  Finch,  Fulk,  and  Burch,  1975; 
+Thomas,  Schort,  and  Banvard,  1982).  Five  of  the  seven  studies  above  found  a  greater  effect  on 
+behavior  with  pulsed  microwave  radiation.  Although  this  suggests  that  pulsed  microwaves 
+interact  differently  with  biological  systems  than  CW,  it  must  be  emphasized  that  none  of  these 
+studies  used  high  levels  of  peak  power  in  their  exposures. 
+
+The  experiments,  in  this  report,  are  focused  on  the  safety  of  pulsed,  high  power 
+microwaves  which  may  be  encountered  by  personnel  during  military  operations.  The  military 
+use  of  directed  energy,  for  instance,  results  in  the  production  of  radiofrequency  fields  of  very 
+high  peak  power  density  for  very  short  periods  of  time.  Under  these  conditions,  the  average 
+power  density  to  which  personnel  is  exposed  is  quite  low,  although  the  peak  power  density  is 
+enormous.  To  illustrate,  suppose  that  a  microwave  generator  operating  at  3  GHz  is  producing 
+40  ns  pulses  at  500  MW  with  a  0.2  Hz  repetition  rate  (one  pulse/5  s).  In  the  far  field  only  a 
+fraction  of  that  power  impinges  on  an  absorbing  surface.  Suppose  the  power  density  at  some 
+point  in  the  far  field  is  0.8  mW/cm^  per  Watt  of  radiated  power.  Then  at  an  output  of  500  MW 
+the  power  density  exposure  of  personnel  at  that  point  would  be  400  x  10*  mW/cm^.  Since  this 
+power  density  is  only  realized  for  40  ns  periods,  the  average  power  density  (measured  over  a 
+standard  six  min  period)  would,  of  course,  be  lower  than  the  exposure  limit  of  10  mW/cm^  which 
+is  recommended  by  ANSI  (Polk  and  Postow,  1982).  For  example,  if  we  sample  power  every  40 
+nanoseconds,  there  would  be  72  periods  with  power  at  400  x  10*  mW/cm^  and  8.99  x  10’  periods 
+with  power  at  0  mW/cm*  in  a  6  min  period.  This  averages  out  to  3.2  mW/cm‘  for  the  6  min 
+measurement  period.  By  contrast,  the  typical  peak  power  density  in  the  studies  cited  above  is 
+on  the  order  of  1  x  10^  W/cm^  with  a  typical  average  power  density  of  10  mW/cm*. 
+
+Thus  there  is  reasonable  concern  that  adverse  effects  may  result  from  extremely  short- 
+duration  microwave  exposures  of  extremely  high  peak-power.  The  question,  then,  is  "Can  a  very 
+brief,  high  power  pulse  of  energy  cause  an  injury?".  At  the  time  that  the  series  of  experiments 
+reported  here  was  initiated,  there  were  very  few  behavioral  studies  which  addressed  that  question. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+2 
+
+
+As  noted  above,  there  was  some  indication  that  low-power  pulsed  microwave  radiation  has 
+greater  behavioral  effects  than  equivalent  (power  density)  CW  radiation.  Subsequently 
+researchers  at  the  USAF  School  of  Aerospace  Medicine  (Cordts,  Merritt,  Erwin,  Hardy,  and 
+Yochmowitz,  1988;  Klauenberg,  Merritt,  and  Erwin,  1988)  began  to  explore  peak  power  densities 
+in  the  kW/cm“  range. 
+
+Cordts  et  al.  (1988)  exposed  rats  to  a  Cober  peak  power  simulator  operating  at  2.066  GHz 
+with  a  250  ms  pulse  width  and  a  Gypsy  Vircator  operating  at  1.64  GHz  with  a  140  ns  pulse 
+width.  For  the  Cober  source  the  maximum  reported  power  density  was  approximately  30  W/cm‘, 
+while  for  the  Gypsy  source  the  maximum  power  density  was  approximately  8  kW/cm*.  Three 
+behavioral  tasks,  one-trial  avoidance  (of  microwaves),  drinking,  and  rotarod  performance,  were 
+used  to  evaluate  the  effects  of  these  two  types  of  exposures.  Only  the  drinking  test  (time  spent 
+drinking)  was  reliably  affected  by  either  source,  but  similar  effects  were  seen  for  both  sources 
+despite  the  large  difference  in  incident  power  density.  Cordts  et  al.  (1988)  argue  that  the 
+reduction  in  drinking  time  which  was  observed  in  both  groups  was,  potentially,  caused  by 
+different  mechanisms.  They  estimated  that  a  0.7  °C  increase  in  body  temperature  was  caused  by 
+the  Cober  exposure,  while  the  Gypsy  exposure  caused  only  a  0.0084  °C  increase.  This  suggests 
+that  the  effect  of  the  Gypsy  exposure  was  not  thermal,  but  was  due  to  some  other,  unspecified, 
+direct  effect  of  the  exposure. 
+
+Klauenberg  et  al.  (1988)  exposed  rats  to  a  TEMPO  vircator  operating  at  1.26  GHz  with 
+a  85  ns  pulse  width  and  a  power  density  of  0.5  kW/cm^.  Startle  responses  (following  single  and 
+multiple  microwave  pulses)  and  rotarod  performance  were  used  to  behaviorally  assess  the  effects 
+of  exposure  to  this  system.  Reliably  more  animals  in  the  exposure  group  startled  relative  to  the 
+sham-exposure  group  when  single  pulses  were  used,  but  no  differences  between  groups  occurred 
+during  multiple  pulse  exposures.  More  exposed  animals  failed  to  complete  the  rotarod  task  than 
+sham-exposed  animals,  but  this  difference  was  not  reliable. 
+
+Both  of  these  studies  suggest  that  high-power,  pulsed  microwaves  may  be  effective  in 
+altering  behavior,  but  neither  study  adequately  documents  a  relationship  between  an  absorbed 
+dose  of  power  and  a  change  in  behavior.  Specific  absorption  rates  (SARs)  were  calculated  rather 
+than  measured,  and  power  density  was  highly  variable  (58%  uncertainty  noted  by  Klauenberg  et 
+al.,  1988).  While  both  studies  are  commendable  for  their  groundbreaking  efforts,  it  is  clear  that 
+much  remains  to  be  done. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+3 
+
+
+For  instance,  none  of  the  experiments  described  above  examined  the  effects  of  HPPM  on 
+cognitive  function  or  sensory  information  processing.  The  series  of  experiments  described  below 
+examines  the  effect  of  high-peak,  but  low-average,  power  microwave  fields  on  a  variety  of 
+behavioral  tasks  in  rats.  These  tasks  are  designed  to  provide  the  knowledgeable  practitioner  of 
+behavioral  psychology  with  information  concerning  a  variety  of  psychological  processes  in  animal 
+subjects,  including  sensation,  perception,  cognition  (memory  and  decision-making),  motivation, 
+mood,  and  physical  endurance.  Because  of  the  interdisciplinary  nature  of  this  field,  reports  of 
+this  work  in  the  scientific  literature  may  not  adequately  communicate  with  specialists  outside  of 
+psychology.  A  major  objective  of.  the  present  report  is  to  communicate  our  findings,  many  of 
+which  can  be  found  in  the  scientific  literature,  to  those  non-psychologists  who  may  find  them 
+relevant  to  their  own  work. 
+
+The  approach  which  was  utilized  in  examining  the  effects  of  HPPM  exposure  is  often 
+used  in  behavioral  toxicology:  subjects  were  given  a  non-lethal  acute  exposure  to  the  suspected 
+toxicant  and  were  subsequently  tested  for  an  effect  This,  however,  is  not  the  only  possible 
+approach.  For  this  reason  the  reader  should  bear  in  mind  that  every  method  for  studying  a 
+problem  has  both  advantages  and  limitations.  We  will  highlight  the  limitations  of  our  choice  to 
+aid  the  reader’s  critical  evaluation  of  our  results. 
+
+Because  of  the  difficulty  of  instrumenting  experiments  in  a  HPPM  field,  all  of  our 
+experiments  studied  post-exposure  effects  of  HPPM  radiation.  The  lack  of  an  effect  in  this  type 
+of  design  does  not  preclude  effects  which  occur  prior  to  or  after  the  observation  period.  Thus 
+there  may  be  behavioral  effects  during  the  exposure,  or  more  immediately  after  the  exposure  that 
+could  not  be  measured  by  our  methods.  Moreover,  in  most  instances,  tise  observations  we  made 
+were  only  a  "snap-shot"  of  the  behavior  in  time.  The  duration  of  behavioral  effects  (or  lack 
+thereof)  are  not  addressed  by  experiments  which  make  only  one  observation  following  exposure. 
+
+The  decision  to  use  behavior  as  an  end-point  was  dictated  by  the  training  of  two  of  the 
+principal  investigators  (TGR  and  YA)  and  by  the  fact  that,  in  this  field,  behavior  is  widely 
+believed  to  be  the  most  sensitive  indicant  available  (Gage,  1984).  We  again  caution  the  reader, 
+that  methods  often  determine  (in  part)  results.  In  other  areas  (for  instance,  behavioral 
+pharmacology)  it  is  as  well-established  that  behavior  can  be  extremely  insensitive  to 
+manipulations  which  have  profound  effects  on  other  measures.  The  lack  of  behavioral  effects 
+does  not  preclude  physiological  or  toxicological  effects  of  HPPM,  and  a  behavioral  effect  does 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+4 
+
+
+not  guarantee  a  lesion  in  the  central  nervous  system  that  can  be  detected  with  current  methods. 
+At  present,  the  correlation  of  behavior  with  anatomy  and  physiology  is  far  from  perfect. 
+
+With  the  exception  of  the  bisection  experiment,  all  exposures  were  acute  rather  than 
+chronic.  Questions  concerning  cumulative  effects,  as  with  the  duration  of  effects,  must  await 
+future  re.search  in  this  area.  Due  to  time  and  equipment  limitations,  certain  questions  which 
+naturally  flow  from  an  examination  of  the  trade-off  between  dose,  dose-rate  and  exposure 
+duration  have  also  not  been  examined. 
+
+To  facilitate  the  readability  of  this  report,  the  experiments,  which  each  utilize  similar 
+microwave  exposure  methods  but  different  behavioral  methods,  are  described  individually 
+following  a  description  of  the  microwave  exposure  system  (TEMPO)  and  the  methods  that  were 
+used  to  determine  the  SAR  of  the  exposures.  The  descriptions  of  the  behavioral  experiments  can 
+be  read  (or  skipped)  in  any  order  without  (we  hope)  detriment  to  the  understanding  of  the 
+material.  Background  information  and  references  concerning  the  behavioral  methods  used  are 
+provided  for  the  interested  reader. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+5 
+
+
+SECTION  2:  METHODS  AND  MATERIALS 
+
+
+2.1  The  TEMPO  Exposure  System 
+
+All  exposures  took  place  in  a  Keene  Corporation  Ray  Proof  anechoic  chamber  (16  ft.  by  16  ft. 
+by  12  ft.)  at  WRAIR’s  Department  of  Microwave  Research  laboratories.  The  TEMPO  transmitter 
+produces  an  80  ns,  3000  MHz  RF  pulse.  TTie  transmitted  power  varies,  a  characteristic  inherent 
+in  virtual  cathode  oscillators,  from  <  100  to  =700  MW,  within  the  80  ns  pulse  duration.  In  terms 
+of  energy  transmitted  (=16  J),  the  irregular  TEMPO  pulse  may  be  represented  as  a  rectangular 
+pulse  of  200  MW  for  80  ns  (see  Figure  1).  At  a  repetition  rate  of  0.125  Hz,  the  duty  factor  is 
+10  *  and  the  average  power  is  2  W. 
+
+
+The  TEMPO  antenna  is  a 
+longitudinally  slotted  circular  waveguide 
+which  radiates  a  fan-shaped  (narrow 
+horizontal,  wide  vertical)  horizontally 
+polarized  beam.  Subjects  are  exposed  in  a 
+dual  comer  reflector  assembly,  2.25  m  from 
+the  antenna,  that  allows  simultaneous 
+exposure  of  two  animals.  The  comer 
+reflectors  focus  the  radiated  energy  and 
+provide  a  10  dB  enhancement  of  the  field 
+with  respect  to  the  free-field  power  density  of 
+0.1  mW/cm^  per  watt  transmitted.  Thus,  at 
+maximum  transmitted  power  (700  MW),  TEMPO  achieves  a  power  density  of  700  kW/cm*  and 
+a  field  strength  of  1 .5  MV/m.  Each  animal  was  restrained  in  a  cylindrical  plastic  enclosure  and 
+positioned  on  an  RF  transparent  platform  in  the  reflector. 
+
+
+Figure  1.  Waveform  envelope  of  a  single 
+TEMPO  pulse. 
+
+
+Wire  screens  of  varying  mesh  densities  were  placed  over  the  antenna  aperture  to  attenuate 
+the  output  power  of  the  system.  Relative  to  the  unattenuated  output  of  the  system,  these  screens 
+produced  power  outputs  of  -20,  -30,  -40  and  -50  dB. 
+
+Behavioral  Toxicology  of  HPPM  7 
+
+
+In  addition  to  microwaves,  TEMPO  produces  soft  X-rays.  Ionizing  radiation  exposures 
+for  each  condition  are  presented  in  Table  2.  With  the  exception  of  the  -50  dB  power  condition, 
+the  doses  are  fairly  homogeneous  across  power  levels.  All  doses  are  well  below  the  level  at 
+which  any  behavioral  sequela  have  been  observed  in  rats  (Fields,  1957;  Mele,  Franz,  and 
+Harrisson,  1988,  1990). 
+
+
+Table  2:  Ionizing  Radiation  Dose  (mREM  ±  SD)  For  Each  Microwave  Power 
+
+Attenuation  Condition 
+
+0  dB 
+
+■20  dB 
+
+-30  dB 
+
+-40  dB 
+
+-50  dB 
+
+Sham 
+
+Cage 
+
+281.25 
+
+±  12.60 
+
+295.71 
+
+±  32.50 
+
+288.57 
+
+±  57.21 
+
+47.5 
+
+±  30.92 
+
+♦ 
+
+♦ 
+
+*  Not  measurable 
+
+Sound  pressure  levels  (SPLs)  for  each  exposure  condition  are  presented  in  Table  3.  The 
+SPL  for  the  full  power  (0  dB  attenuation)  condition  was  65.69  dB,  and  the  sound  levels  for  all 
+other  power  levels  were  approximately  20  dB  higher.  The  peak  SPL  was  approximately  88  dB 
+with  a  majority  of  the  acoustic  energy  in  the  frequency  range  between  2  and  6  kHz.  In  quiet 
+conditions  (sham  exposures)  the  ambient  SPL  in  the  chamber  was  56.55  dB.  There  are  no  known 
+long-term  psychological  effects  in  rats  from  exposure  to  noise  with  these  characteristics  (Cure 
+and  Rolinat,  1992;  Lai,  1987,  1988;  Lai,  Carina,  Horita,  and  Guy,  1989). 
+
+
+Table  3;  Noise  Levels  (dBA)  for  Each  Microwave  Power  Attenuation  Condition 
+
+mm 
+
+-20  dB 
+
+-30  dB 
+
+-40  dB 
+
+-50  dB 
+
+SHAM 
+
+CAGE 
+
+65.69 
+
+88.64 
+
+88.00 
+
+88.64 
+
+88.21 
+
+56.55 
+
+65.00 
+
+Behavioral  Toxicology  of  HPPM 
+
+
+8 
+
+
+2.2  Dosimetry 
+
+
+The  specific  absorption  rate  (SAR)  may  be  used  to  describe  the  rate  of  energy  deposition 
+within  the  entire  biological  specimen  or  at  specific  locations  in  the  subject.  In  support  of  this 
+series  of  experiments,  calorimetric 'and  thermometric  techniques  were  used  to  evaluate  both 
+whole-body  and  spatially  localized  SARs  in  cadavers. 
+
+For  both  calorimetry  and  thermometry,  a  1000  watt  CW  source  was  connected  to  the 
+system  in  place  of  the  TEMPO  vircator.  Whole-body  SAR  was  determined  using  the  single-well 
+calorimetry  techniques  of  Mathur,  Akyel,  and  Lu  (1992).  Local  SARs  were  determined  using 
+implantable,  RF  transparent  Luxtron  temperature  probes.  Euthanasia  of  the  animals  was 
+accomplished  by  carbon  dioxide  inhalation. 
+
+
+2.2.1  Calorimetry  Procedures 
+
+In  behavioral  experiments,  animals  are  not  anesthetized  and  are  often  minimally  restrained 
+to  reduce  stress.  As  a  result,  the  animal  does  not  stay  in  one  position  in  the  exposure  area.  For 
+this  reason,  whole-body  free-field  exposures  are  performed,  and,  under  such  exposure  conditions, 
+knowledge  of  whole-body  dose  (SAR)  is  often  thought  to  be  more  useful  than  localized  dose  in 
+relating  absorbed  dose  to  the  observed  behavior.  A  detailed  description  of  the  calorimetry 
+procedures  can  be  found  in  Mathur  et  al.  (1992). 
+
+The  calorimetry  performed  for  this  series  of  experiments  utilized  a  gradient  layer  Seebeck 
+Envelope  Calorimeter  (SEC;  Thermonetics  Corp.,  Model  SEC-A-1202,  Serial  Number  104, 
+calibrated  on  7/19/90).  The  SEC  is  used  to  determine  the  net  heat  load  of  the  exposed  animal. 
+The  SAR  is  then  computed  by  dividing  the  net  heat  load  by  the  duration  of  the  exposure.  In  a 
+SEC,  the  small  temperature  difference  across  the  gradient  layer  is  sensed  by  a  multi-junction 
+thermopile.  The  output  of  the  thermopile  is  a  direct  measure  of  the  heat  flow  rather  than  of 
+temperature.  The  calorimeter  output  signal  varies  linearly  with  heat  flow  rate.  The  SEC 
+principle  has  advantages  over  other  calorimetry  methods  in  that  it  is  only  necessary  to  measure 
+heat  flow  rather  than  to  contain  or  direct  it.  This  avoids  errors  due  to  heat  loss  with  variations 
+in  time  and  temperature. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+9 
+
+
+Rat  carcasses  were  put  in  a  plastic  bag  and  immersed  in  a  water  bath  until  the  colonic- 
+temperature  of  the  carcass  reached  25  *C.  This  took  75  min  on  the  average.  The  carcass  was 
+then  transferred  to  a  styrofoam  box  (to  avoid  heat  loss)  and  was  placed  in  the  comer  reflector 
+for  the  exposure.  Following  the  exposure,  the  carcass  (in  the  box)  was  transported  to  the 
+calorimeter  and  the  carcass  (without  the  box)  was  put  into  the  calorimeter. 
+
+Data  acquisition  from  the  calorimeter  was  begun  one  hour  prior  to  introduction  of  the  rat 
+carcass  to  determine  a  baseline  value  and  was  continued  until  the  calorimeter  output 
+approximated  the  baseline  value.  This  procedure  took  3  to  4  h  on  the  average.  Sham-exposed 
+carcasses  were  handled  in  a  similar  fashion  except  that  they  were  not  exposed  to  RF.  Data 
+acquisition  software  recorded  the  calorimeter  output  in  volts. 
+
+2.2.2  Calorimetry  Results 
+
+The  results  of  the  calorimetry  indicated  a  whole-body  SAR  of  0.036  W/kg  per  watt 
+transmitted.  As  noted  above,  the  peak  output  of  TEMPO  is  approximately  700  MW.  Thus  the 
+peak  SAR  is  25.2  MW/kg.  However,  as  noted  above,  the  average  output  power  of  TEMPO  is 
+only  2  W.  Thus  the  time-averaged  whole-body  SAR  is  0.072  W/kg  at  full  power.  Exposures 
+below  full  power  would  have  appropriately  adjusted  SARs. 
+
+2.2.3  Thermometry  Procedures 
+
+A  more  detailed  description  of  the  thermometry  procedures  can  be  found  in  Gambrill, 
+DeAngelis,  and  Lu  (1992)  and  in  Lu,  DeAngelis,  and  Gambrill  (1992).  Briefly,  temperatures 
+were  monitored  using  a  Luxtron  Fluoroptic  Optic  Thermometric  System  (Model  3000  and 
+MAM05  probes).  Temperature  data  was  recorded  using  a  computer  data  acquisition  system 
+operating  at  10  samples  per  second  and  was  smoothed  by  a  1  Hz  low  pass  filter.  The  raw 
+temperature  data  was  divided  into  pre-exposure,  exposure,  and  post-exposure  sections.  For  each 
+section  the  relationship  between  temperature  and  time  was  determined  using  the  linear  curve 
+fitting  routine.  The  three  sections  were  adjusted  until  the  end  points  of  the  linear  approximations 
+intersected.  The  SAR  was  calculated  using  the  information  provided  by  the  slopes  of  the  three 
+sections  (aT/aO.  Specifically,  the  SAR  was  then  calculated  as  the  exposure  absorption  rate  less 
+the  average  of  the  pre-  and  post-exposure  rates. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+10 
+
+
+2.2.4  Thermometry  Results 
+
+
+Local  SARs  from  CW  exposures  are  presented  in  Figure  2.  Twenty  four  different 
+locations,  including  the  brain,  skin,  and  colon,  were  measured.  The  tip  of  the  nose  and  the  base 
+of  the  tail  had  the  highest  SARs.  SARs  for  the  brain  ranged  from  .057  to  .087  W/kg  per  watt 
+transmitted. 
+
+
+Rat's  SAR  in  a  Tempo  RF  field 
+
+
+Figure  2.  Thermometry  results  for  TEMPO  exposures  in  the  rat. 
+
+
+SARs  were  determined  using  a  CW  source  instead  of  the  TEMPO  source  to  avoid  errors 
+arising  from  the  duration  of  TEMPO  exposures  (Stuchly  and  Stuchly,  1986).  Keeping  in  mind 
+that  TEMPO  exposures  require  approximately  25  min  (see  Section  2.3.1),  we  repeated  our 
+thermometry  measurements  following  a  TEMPO  exposure  to  determine  whether  the  very  high 
+peak-power  emitted  by  TEMPO  produces  any  measureable  heating.  The  results  of  thermometry 
+
+Behavioral  Toxicology  of  HPPM  11 
+
+
+conducted  following  200  TEMPO  pulses  is  shown  in  Table  4.  The  heating  of  the  skin  on  the 
+nose  (which  had  the  highest  SARs  following  CW  exposure)  was  only  0.41  *C,  which  is 
+consistent  with  the  calorimetry  results. 
+
+
+Table  4:  Temperature  Changes  Induced  by  200  TEMPO  Pulses 
+
+Position  of  Sensor 
+
+Temperature  Changes  (°C) 
+
+Subcutaneous,  0.5  cm  from  nose  tip 
+
+0.31 
+
+Subcutaneous,  1.0  cm  form  nose  tip 
+
+0.41 
+
+Subcutaneous,  1.5  cm  from  nose  tip 
+
+0.37 
+
+Subcutaneous,  2.0  cm  from  nose  tip 
+
+0.32 
+
+Cerebrum 
+
+0.09 
+
+Anterior  Cerebrum 
+
+0.09 
+
+Mid  Cerebrum 
+
+-0.07 
+
+Rhinecephalon 
+
+-0.09 
+
+2.3  Subjects 
+
+Male,  albino  Sprague -Da wley  rats,  90-110  days  old  at  the  start  of  each  experiment  served. 
+All  rats  were  allowed  a  short  period  of  adaptation  to  the  laboratory  and  individual  housing.  A 
+12  hr  light:  12  hr  dark  cycle  (lights  on  at  0600)  was  maintained  throughout  each  experiment. 
+Details  concerning  numbers  of  animals  and  special  treatment  (food  and  water  deprivation)  are 
+detailed  for  each  experiment. 
+
+2.4  Exposure  Procedures 
+
+To  maintain  consistent  exposure  orientation  and  location  within  the  microwave  field, 
+animals  were  placed  into  cylindrical  plastic  tubes  during  exposures.  The  tubes  provided  nvinimal 
+restraint  in  that  the  animals  could  move  legs  and  head  but  could  not  turn  around.  This  ensured 
+that  the  polarization  of  the  animal  in  the  field  was  maintained  parallel  with  the  E-field  at  all 
+
+Behavioral  Toxicology  of  HPPM  12 
+
+
+times.  Becau.se  even  minimal  restraint  is  capable  of  producing  stress,  the  animals  were  adapted 
+to  the  plastic  tubes  and  placement  in  the  anechoic  chamber  over  a  period  of  a  week  prior  to 
+actual  exposures.  Sham-exposed  animals  received  similar  treatment. 
+
+
+Two  animals  in  separate  restraining  enclosures  could  be  placed  in  the  dual  comer  reflector 
+at  once,  depending  on  the  requirements  of  the  experiment.  Each  exposure  (with  the  exception 
+of  the  motivation  study,  see  below)  consisted  of  200  pulses  at  a  pulse  repetition  rate  of  0.125  Hz. 
+The  duration  of  sham  exposures  was  approximately  25  min.,  which  was  the  normal  duration  of 
+actual  exposures.  During  sham  exposures  the  transmitter  was  not  operated.  Animals  were 
+immediately  placed  in  the  appropriate  apparatus  following  exposures  for  behavioral  testing.  For 
+cage  control  conditions,  animals  were  simply  taken  from  their  home  cages  and  placed  directly 
+into  the  apparatus  for  testing. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+13 
+
+
+■ 
+
+
+14 
+
+
+SECTION  3:  TEMPORAL  BISECTION  ‘ 
+
+
+As  was  noted  above,  previous  experimental  studies  of  HPPM  effects  on  behavior  have 
+only  scratched  the  surface  with  regard  to  the  types  of  behaviors  which  might  be  affected  by 
+electromagnetic  radiation.  Since  we  are  primarily  interested  in  determining  that  HPPM  does  not 
+affect  human  behavior,  it  is  sensible  and  prudent  to  examine  behaviors  in  animal  subjects  which 
+have  a  functional  similarity  to  human  behaviors.  By  functional  similarity  it  is  meant  that 
+although  the  form  of  a  task  used  with  animals  may  not  bear  a  physical  or  formal  resemblance 
+to  the  human  task,  the  same  psychological  functions  are  required  to  perform  the  task.  Thus,  there 
+are  memory  tasks  for  use  with  humans  and  memory  tasks  for  use  with  animals,  but  there  are, 
+rarely  if  ever,  tasks  which  appear  the  same.  For  example,  a  human  test  of  memory  would  be 
+verbal  and  might  require  reading  instructions  to  the  subject,  following  which  the  subject  would 
+be  required  to  view  a  list  of  words  and  repeat  those  words  (in  order)  after  varying  periods  of 
+time.  An  animal  test  of  memory  would  not  be  verbal.  It  would  involve  training  the  animal  to 
+perform  a  task  (instead  of  reading  instructions),  and  the  animal  might  be  required  to  remember 
+the  location  of  a  reward  a  short  period  of  time  after  it  was  shown  where  it  was  hidden.  Both 
+tasks  can  be  used  to  measure  memory  function,  although  they  are  very  different  in  form. 
+
+In  this  section,  we  describe  an  experimental  task  which  allowed  us  to  examine  several 
+psychological  functions  in  animals  that  are  used  everyday  by  humans.  These  included  sensory 
+information  processing,  memory,  attention,  and  decision  confidence. 
+
+3.1  Background 
+
+The  simplest  form  of  sensory  information  processing  which  can  be  studied  is  concerned 
+with  the  relationship  between  physical  stimulus  magnitudes  and  perceived  or  psychological 
+magnitudes  (i.e.,  psychophysical  scales).  In  humans,  it  is  fairly  easy  to  determine  what  the 
+relationship  is  between  physical  stimulus  magnitudes  and  perceived  magnitudes:  one  can  simply 
+
+
+‘  Portions  of  this  work  have  been  presented  at  the  63'"*  annual  meetings  of  the  Eastern 
+Psychological  Association  in  Boston,  MA  (Raslear  and  Akyel,  1992)  and  at  the  First  World 
+Congress  for  Electricity  and  Magnetism  in  Biology  and  Medicine  in  Lake  Buena  Vista,  FL 
+(Raslear,  Akyel,  Bates  and  Belt,  1992). 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+15 
+
+
+ask  how  bright,  how  loud,  etc.,  a  physical  stimulus  is  (Stevens,  1975).  For  humans,  it  is  known 
+that  there  is  not  a  one-to-one  relationship  between  perceived  and  physical  magnitudes.  For 
+instance,  equal  changes  in  sound  pressure  are  well-known  not  to  result  in  equal  changes  in 
+loudness.  It  is  for  this  reason  that  the  decibel  scale  was  brought  into  use  many  years  ago  by 
+audio  engineers:  equal  changes  in  decibels  more  nearly  approximate  equal  changes  in  the 
+perception  of  loudness.  A  similar  situation  holds  true  for  the  perception  of  brightness,  and  can 
+be  easily  demonstrated  with  the  use  of  a  standard  3-way  light  bulb  which  has  equally  spaced 
+wattages*.  The  difference  in  brightness  between  the  50- watt  and  75- watt  outputs  is  much  greater 
+than  the  difference  in  brightness  between  the  75- watt  and  100- watt  outputs. 
+
+There  are,  currently,  few  behavioral  techniques  that  can  be  used  for  determining 
+psychophysical  scales  in  animals  (Raslear,  1991).  Among  these  is  the  bisection  technique  which 
+was  first  described  by  Boakes  (1969)  and  subsequently  employed  by  Raslear  (1975,  1983,  1985) 
+and  Church’s  group  (Church  and  Deluty,  1977;  Meek,  1983;  Maricq  and  Church,  1983;  Maricq, 
+Roberts,  and  Church,  1981).  Recent  theoretical  and  methodological  advances  (Raslear,  1982, 
+1983,  1985)  have  allowed  the  use  of  this  method  in  behavioral  toxicology  (Raslear,  Bauman, 
+Hursh,  Shurtleff,  and  Simmons,  1988)  and  behavioral  pharmacology  (Shurtleff,  Raslear, 
+Genovese,  and  Simmons,  1992)  studies.  Animal  subjects  can  be  exposed  to  various  treatments 
+or  putative  environmental  hazards  and  be  subsequently  tested  for  changes  in  cognitive/perceptual 
+function.  The  animal  bisection  method  is  ideally  suited  for  this  use  because  it  has  been 
+demonstrated  that  the  animal  version  of  the  task  is  the  functional  equivalent  of  the  human  task 
+(Fagot  and  Stewart,  1970;  Raslear,  1983;  Raslear,  Shurtleff,  and  Simmons,  in  press).  The  present 
+experiment  uses  the  temporal  bisection  technique  to  evaluate  the  perceptual  and  cognitive  effects 
+of  exposure  to  high  peak-power  pulsed  microwave  irradiation. 
+
+3.2  Task  Description 
+
+The  bisection  technique  is  designed  to  determine  the  psychological  middle  point  of  a 
+sensory  distance  (bisection  point  or  BP),  and  thus  allows  for  the  determination  of  equal  sensory 
+distances  from  which  a  psychophysical  scale  may  be  derived  (see  Raslear,  1982,  1983  for 
+
+
+^  Strictly  speaking  the  wattage  of  a  light  bulb  is  not  a  proper  measure  of  light  intensity,  but 
+it  is  close  enough  to  use  as  an  illustrative  experiment  that  anyone  can  perform  at  home  to  see 
+that  our  sensory  systems  actively  transform  and  code  the  physical  energy  which  impinges  on  us. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+16 
+
+
+details).  For  instance,  if  the  BP  is  physically  half-way  between  the  physical  stimuli,  it  is  easy 
+to  see  that  perceived  magnitude  is  identical  with  physical  magnitude.  However,  the  BP  is  usually 
+not  physically  half-way  (i.e.,  at  the  arithmetic  mean)  between  the  physical  values  of  the  two 
+interval-defining  stimuli.  When  this  is  the  case,  the  functional  relationship  between  perceived 
+and  physical  magnitudes  must  be  deduced. 
+
+
+When  the  bisection  technique  is 
+employed  with  animals,  some  variant  of  the 
+following  procedure  would  be  used.  Initially, 
+animals  are  trained  to  make  one  response 
+(R^)  if  a  particular  stimulus  (S^)  is  presented 
+and  a  different  response  (Rg)  if  another 
+stimulus  (Sfl)  is  presented.  The  two  stimuli, 
+
+Sa  and  Sg,  define  the  interval  to  be  bisected. 
+
+When  asymptotic  performance  has  been 
+reached  (i.e.,  discriminative  accuracy  is 
+consistently  high),  several  stimuli  with  values 
+intermediate  to  and  Sg  (  i.e.,  ^  Sy, 
+
+<  Sb)  are  interspersed  with  the  training 
+stimuli  during  sessions.  In  these  "test" 
+sessions  correct  responses  to  and  Sg  are 
+reinforced  as  before,  but  responses  to  the 
+new  stimuli  are  not  (maintained 
+generalization).  A  BP  is  determined  by  examining  the  relative  frequency  of  one  of  the  responses 
+in  the  presence  of  each  of  the  stimuli  (the  response  chosen  is  irrelevant  since  there  are  only  two 
+responses  and  the  functions  will  be  complimentary).  If,  for  instance,  the  relative  frequency  of 
+Ra  is  chosen,  the  relative  frequency  of  Ra  will  be  near  1.0  for  Sa,  near  0  for  Sg,  and  will  have 
+intermediate  values  for  the  intermediate  stimuli  (Figure  3).  By  interpolation,  that  stimulus  value 
+which  would  produce  a  0.5  relative  frequency  of  the  designated  response  is  determined  and  is 
+defined  as  the  bisection  point  (Saob)  of  the  interval,  Sa  -Sg. 
+
+
+Figure  3.  Psychometric  function  relating  relative 
+frequency  of  the  response,  "This  is  stimulus  A", 
+as  a  function  of  the  stimulus  value. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+17 
+
+
+As  previously  described  (Raslear  et  al.,  1988;  Shurtleff  et  al.,  1990,  1992),  performance 
+on  the  bisection  task  is  analyzed  within  the  context  of  a  simple,  heuristic,  information  processing 
+model  of  animal  timing  (Church,  1984;  Gibbon  and  Church,  1984),  as  illustrated  in  Figure  4. 
+This  model  contains  a  pacemaker  or  clock,  which  produces  a  mean  rate  of  output  (ticks/unit  time) 
+and  an  associated  variance  (variability  in  clock  rate  across  observation  periods).  Clock  variance 
+can  arise  from  a  variety  of  sources  either  inherent  in  the  pacemaker,  or  contributed  by  other 
+functional  elements  of  the  model.  Major  sources  of  variance  arise  from  memory  and  attention 
+functions.  The  model  has  a  memory  function  consisting  of  reference  memory  (relatively 
+permanent  memory)  and  working  memory  (short-term  memory  of  a  stimulus  which  has  just  been 
+presented).  Attention  functions  reside  primarily  in  the  switch  which  must  open  and  close  to 
+allow  accurate  timing  of  a  stintulus. 
+
+
+I NTERNAL  EXTERNAL 
+
+STIMULI  STIMULI 
+
+
+SBGQRY  FUNCTION 
+
+
+aatx  AND 
+SVITCH  FUNCTION 
+
+
+vam  FUNCTION 
+
+
+QECISiQN  A« 
+PBKEPTUAL  FUNCTION 
+
+
+IfiTQR  AM) 
+
+GLAMMLAR  FUNCTION 
+
+
+Figure  4..  A  heuristic  model  of  the  circadian  and  short  duration  event  timing  systems. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+18 
+
+
+Timing  in  this  model  takes  place  in  the  following  fashion.  Within  a  variable  period  of 
+time  following  the  onset  of  a  stimulus  (say  a  light),  the  switch  opens  and  the  accumulator  sums 
+a  number  of  clock  ticks  from  the  slave  pacemaker.  When  the  stimulus  is  offset,  the  switch 
+closes,  again  with  a  variable  latency.  Since  there  is  variance  inherent  in  the  slave  pacemaker 
+(due  to  its  own  variability  and  that  xjf  the  master  or  circadian  pacemaker),  the  same  physical 
+stimulus  duration  will  not  always  produce  the  same  sum  of  ticks  in  the  accumulator.  Moreover, 
+opening  and  closing  the  switch  is  also  variable  and  further  increases  the  variability  of  the  sum 
+in  the  accumulator  for  any  stimulus  duration.  The  sum  from  the  accumulator  is  sent  to  the 
+working  memory  and  it  is  then  compared  with  the  stimulus  values  which  have  been  previously 
+stored  in  the  reference  memory.  Both  the  reference  values  and  the  working  memory  values  are 
+imprecise,  and  in  the  presence  of  noisy  data,  a  statistical  decision  theory  rule  (e.g.,  maximize  the 
+per  cent  correct  responses)  is  used  to  decide  if  the  stimulus  which  was  presented  was  stimulus 
+A  or  stimulus  B. 
+
+Our  analysis  provides  two  different  measures  of  clock  function.  A’  is  a  nonparametric 
+signal  detection  theory  measure  of  discriminability  (Green  and  Swets,  1974)  and  depends  upon 
+both  the  mean  clock  rate  and  the  variance  of  the  clock  (see  Raslear  et  al.,  1988).  It  is  roughly 
+equivalent  to  a  percent  correct  measure,  in  that  chance  performance  is  indicated  by  a  value  of 
+A’  =  0.5  and  perfect  performance  is  indicated  by  a  value  of  A’  =  1.0.  The  BP  is  an  estimate  of 
+the  perceptual  midpoint  of  the  temporal  interval  under  consideration  and  is  a  variance-free 
+measure  of  clock  function.  Thus,  the  pattern  of  treatment  effects  on  these  two  measures  provides 
+information  concerning  the  functional  locus  of  a  treatment’s  effect  on  time  perception. 
+Treatments  which  affect  the  mean  rate  of  the  clock  should  produce  a  change  in  A’  and  BP,  while 
+treatments  which  affect  the  variance  of  the  clock  should  only  produce  a  change  in  A’. 
+
+Our  analysis  also  provides  two  measures  of  the  decision  function.  On  each  trial  the 
+animals  make  a  decision  concerning  the  duration  of  the  stimulus  which  was  presented  (i.e..  was 
+it  the  "long"  or  the  "short"  stimulus?).  The  measure  B"  is  a  nonparametric  signal  detection 
+measure  of  response  bias  (the  tendency  to  over-report  "long"  or  "short"  stimuli).  This  measure 
+provides  an  indication  of  the  location  of  the  subject’s  criterion  for  the  decision  to  report  "long" 
+or  "short"  (remember  that  the  information  available  for  making  a  decision  is  noisy,  so  the  animal 
+sets  a  criterion  to  meet  some  decision  rule.  If  the  criterion  is  set  low,  most  stimuli  will  be 
+classified  as  "long",  and  if  the  criterion  is  set  high,  most  stimuli  will  be  classified  as  "short"). 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+19 
+
+
+In  addition,  null  responses  (no  response  within  the  duration  of  a  trial)  were  also  recorded 
+for  each  stimulus.  Since  it  is  well  established  that  judgment  time  increases  with  decreasing 
+confidence  in  the  correctness  of  a  judgment  (Costermans,  Lories,  and  Ansay,  1992;  Guilford, 
+1954),  null  responses  serve  as  an  indicator  of  the  animal’s  confidence  in  the  decision. 
+
+Finally,  session  time  was  also  measured  and  used  as  a  general  indicator  of  task 
+performance.  In  drug  studies,  for  instance,  this  measure  is  used  to  indicate  that  dose  levels  have 
+been  reached  which  are  not  pharmacologically  of  interest  because  the  animal  is  too  debilitated 
+to  adequately  perform  (Shurtleff  et  al.,  1992). 
+
+3.3  Methods  and  Materials 
+
+3.3.1  Behavioral  Methods 
+
+3.3.1. 1  Subjects 
+
+Eight  male,  albino  Sprague-Dawley  rats.  90-110  days  old  at  the  start  of  the  e.xperiment 
+served  as  subjects.  Following  a  short  period  of  adaptation  to  the  laboratory  and  individual 
+housing,  the  rats  were  reduced  to  80%  of  their  free-feeding  weight.  V;  iter  was  freely  available 
+in  the  home  cages  and  supplemental  chow  was  provided,  as  needed,  to  maintain  body  weight.  A 
+12  hr  light:  12  hr  dark  cycle  (lights  on  at  0600)  was  maintained  throughout  the  experiment. 
+
+3.3. 1.2  Apparatus 
+
+Two  similarly  constructed  operant  chambers  (previously  described  by  Raslear,  1983), 
+which  were  located  m  a  temperature-  and  humidity-controlled  environmental  chamber,  were  used. 
+A  PDF  1 1/73  computer  was  used  to  control  the  experiment  and  record  data. 
+
+3.3.1.3  Procedures 
+
+General.  The  experimental  session  for  each  subject  occurred  at  approximately  the  same 
+time  of  day,  5  days  per  week  excluding  holidays.  No  water  was  available  in  the  experimental 
+chambers. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+20 
+
+
+Discrimination  training.  A  two-choice,  discrete  trial  paradigm  was  used,  in  which  the  rats 
+were  trained  to  discriminate  between  two  durations  of  light  (1.12  W  incandescent  lamp  mounted 
+above  the  response  levers  in  the  operant  chamber)  that  defined  the  temporal  interval  to  be 
+bisected  (0.5  and  5.0  s).  Responses  were  effective  for  10  s  following  termination  of  the 
+discriminative  stimulus.  A  left  or  right  lever  response  was  reinforced  with  a  single  45-mg  Bio- 
+Serv  food  pellet  following  termination  of  the  5.0  or  0.5  s  stimulus,  respectively.  If  no  response 
+was  made  during  the  10  s  interval  the  trial  terminated  and  a  null  response  was  recorded.  The 
+intertrial  interval  was  10  s,  during  which  time  responses  had  no  effect.  Each  stimulus  occurred 
+with  equal  probability  on  each. trial. 
+
+A  session  consisted  of  320  trials,  of  which  the  first  20  were  warm-up,  with  1.0  probability 
+of  reinforcement  for  correct  responses.  Performance  on  these  trials  was  used  to  determine  the 
+condition  the  rat  would  experience  for  the  next  300  trials.  During  discrimination  training,  if  the 
+animals  produced  a  minimum  of  90%  correct  responses  during  the  warm-up,  the  remainder  of 
+the  session  consisted  of  non-corrected  discrimination  training  in  which  the  probability  of 
+reinforcement  was  set  at  a  predetermined  level.  At  the  end  of  training  and  during  the  remainder 
+of  the  experiment  the  probability  of  reinforcement  was  0.25.  Otherwise,  a  correction  procedure 
+was  in  effect  in  which  an  incorrect  response  to  a  discriminative  stimulus  resulted  in  that  stimulus 
+being  presented  again,  0.2  s  following  the  incorrect  response.  The  probability  of  reinforcement 
+for  a  correct  response  was  the  same  as  in  the  non-correction  procedure. 
+
+The  probability  of  reinforcement  for  correct  responses  was  initially  1.0  and  wa.s  gradually 
+reduced  to  .25  for  individual  animals  over  the  course  of  60  sessions.  The  criterion  for  changing 
+reinforcement  probability  and  initiating  generalization  testing  was  a  minimum  of  3  to  5  days 
+under  the  noncorrection  procedure. 
+
+Generalization  testing.  A  maintained  generalization  procedure  was  used  during  the  test 
+phase.  Five  new  durations,  intermediate  to  the  training  stimuli,  were  presented  in  addition  to  the 
+training  stimuli.  The  five  new  stimuli  were  equally  spaced  on  a  logarithmic  scale  and  were  of 
+the  following  durations;  0.74,  1.1,  1.62,  2.4  and  3.54  s.  All  seven  stimuli  were  presented  in 
+random  order  throughout  the  session.  Responses  to  the  test  stimuli  were  never  reinforced,  but 
+responses  to  the  training  stimuli  continued  to  be  reinforced. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+21 
+
+
+Testing  sessions  occurred  on  Tuesdays  and  Thursdays.  A  maximum  of  one  exposure  per 
+week  was  scheduled  for  alternate  Tuesdays  and  Thursdays.  The  remaining  test  session  was  used 
+for  a  sham  or  cage  control  exposure.  Discrimination  training  was  conducted  on  the  remaining 
+three  days  of  the  week.  The  data  from  discrimination  training  were  not  used. 
+
+The  animals  were  exposed  to  an  ascending,  then  descending,  series  of  microwave  power 
+outputs  so  that  all  power  levels  were  tested  twice. 
+
+3.3.1.4  Behavioral  Data  Analysis 
+
+The  discriminability  between  training  stimuli  on  generalization  test  days  was  computed 
+for  each  rat  using  the  nonparametric  signal  detection  measure  A’  (Grier,  1971): 
+
+A’=  {[(HIT  -  FA)  +  (HIT  -  FA)^]  /  (4  ♦  HIT  (1-FA))}  +  0.5, 
+
+where  HIT  refers  to  the  probability  of  a  response  on  the  lever  appropriate  for  the  long  stimulus 
+(i.e.,  a  "long"  response)  given  the  long  stimulus  was  presented,  and  FA  represents  the  probability 
+of  a  response  to  the  lever  appropriate  for  a  long  stimulus  given  the  short  stimulus  was  presented. 
+Values  of  this  index  can  range  from  0.5,  an  inability  to  discriminate  between  stimuli,  to  1.0, 
+perfect  discrimination. 
+
+To  estimate  the  BP,  the  psychometric  function  relating  the  proportion  of  "long"  responses 
+to  the  seven  stimulus  durations  presented  during  generalization  tests  was  constructed  (Figure  3). 
+The  BP  was  determined  by  interpolation  as  the  stimulus  duration  to  which,  during  generalization 
+testing,  the  rat  was  equally  likely  to  respond  long  or  short.  This  index  is  used  to  determine  if 
+the  treatment  altered  the  perceived  duration  of  the  stimuli  presented.  A  longer  BP  duration  would 
+suggest  stimuli  were  perceived  as  shorter  than  usual,  and  a  shorter  BP  would  indicate  stimuli 
+were  perceived  as  longer  than  usual. 
+
+Response  bias  was  indexed  with  the  nonparametric  signal  detection  measure  B"  (Grier, 
+
+1971); 
+
+B”  =  [(HIT-HIT‘)  -  (FA-FA‘)I/(HIT-HIT'+FA-FA'). 
+
+This  index  can  range  from  1.0  (bias  to  report  "short")  to  -1.0  (bias  to  report  "long").  A  value 
+of  B"=0  indicates  an  absence  of  bias. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+22 
+
+
+3.4  Results 
+
+
+3.4.1  Psychometric  Functions 
+
+Percent  "long"  responses  were  plotted 
+as  normal  probabilities  and  stimulus  durations 
+were  plotted  with  logarithmic  spacing  so  that 
+the  psychometric  function  could  be  treated  as 
+a  straight  line  (Guilford,  1954).  Figure  5 
+presents  the  mean  psychometric  functions  for 
+the  seven  exposure  conditions  plotted  in  this 
+fashion.  Linear  multiple  regression  analyses 
+on  the  probability  of  "long"  responses 
+indicated  that  there  was  a  reliable  effect  of 
+log  stimulus  duration  (b  =  0.881,  t  =  20.96,  df 
+=  96,  p  <  .00001),  exposure  condition  (b=  - 
+.122,  t=  -3.69,  df  =  96,  p  =  .0004),  and  the  interaction  of  log  stimulus  duration  and  exposure 
+condition  (b=  0.109,  t=  2.4,  df  =  96,  p  =  .0185).  There  was  no  reliable  effect  of  the  order  of 
+exposure  condition  (ascending  vs.  descending). 
+
+The  reliable  exposure  condition  effects  indicate  that  the  slope  of  the  psychometric  function 
+changed  across  conditions.  This  can  be  seen  in  Figure  5  as  a  steeper  slope  for  the  cage  control, 
+sham,  -50  and  -40  dB  exposure  conditions  (open  symbols)  relative  to  the  -30,  -20  and  0  dB 
+exposure  conditions  (closed  symbols).  Since  the  slope  of  the  psychometric  function  is  often  used 
+in  classical  psychophysics  to  characterize  discriminability  (Engen,  1971),  this  suggests  that 
+discriminability  may  have  been  decreased  at  the  higher  power  levels. 
+
+3.4.2  Bisection  Point 
+
+The  reliable  effect  of  exposure  condition  on  the  probability  of  "long"  responses  suggests 
+two  possible  changes  in  the  psychometric  function  other  than  slope:  a  change  in  the  bisection 
+point,  and/or  a  change  in  response  bias  (an  overall  increase  or  decrease  in  the  probability  of 
+"long"  responses).  Examination  of  Figure  5,  however,  does  not  appear  to  support  either 
+possibility. 
+
+Behavioral  Toxicology  of  HPPM  23 
+
+
+Figure  5.  Probability  of  "long  responses  as  a 
+function  of  log  stimulus  duration  and  exposure 
+condition. 
+
+
+Figure  6.  The  bisection  point  as  a  function  of 
+exposure  condition.  The  circles  represent  the 
+mean  of  ascending  (open  triangles)  and 
+descending  (filled  triangles)  determinations. 
+
+
+Bisection  points  for  each  exposure 
+condition  and  order  are  presented  in  Figure  6. 
+It  is  clear  that  exposure  condition  did  not 
+exert  a  systematic  effect  on  the  bisection 
+points,  a  conclusion  which  is  supported  by  an 
+ANOVA  (F6.42  =  0.56,  p  >  .05).  Similarly, 
+there  were  no  reliable  effects  of  order  (F,  7  = 
+0.5,  p  >  .05)  or  of  the  interaction  of  order  and 
+condition  (F642  =  0.55,  p  >  .05). 
+
+
+Figure  7.  Response  bias  (B")  as  a  function  of 
+exposure  condition. 
+
+
+3.4.3  Response  Bias 
+
+Overall,  the  rats  tended  to  have  a  bias 
+toward  reporting  "long",  as  can  be  seen  in 
+Figure  7  which  presents  the  mean  B"  values 
+for  each  exposure  condition  and  order. 
+However,  exposure  condition  did  not  exert  a 
+systematic  effect  on  response  bias  (F642  = 
+1.26,  p  >  .05).  There  were  no  order  effects 
+(F,  7  =  0.79,  p  >  .05)  or  interaction  of  order 
+and  condition  (F642  =  0.51,  p  >.05). 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+24 
+
+
+3.4.4  Discriminability 
+
+
+As  was  noted  above,  a  reliable  change 
+in  slope  in  the  psychometric  function  indicates 
+that  exposure  condition  a,ffected 
+discriminability.  However,  as  can  be  seen  in 
+Figure  8,  which  presents  the  mean  A’  values 
+for  each  exposure  condition  and  order,  a 
+systematic  change  in  discriminability  with 
+exposure  condition  is  not  evident.  An 
+ANOVA  indicated  a  marginal  effect  of 
+exposure  condition  (F542  =  2.19,  p  =  .063), 
+but  there  was  no  effect  of  order  (F,  7  =  3.00, 
+p  >  .05)  or  interaction  of  order  and  exposure 
+condition  (F642  =  1.23,  p  >  .05).  A’  in  this 
+instance  provides  only  a  point  estimate  of 
+discriminability  for  the  training  stimuli  (0.5 
+vs.  5.0  s). 
+
+3.4.5  General  Task  Performance 
+
+There  are  two  measures  of  general  task  performance  which  are  of  considerable  importance 
+in  behavioral  studies  of  toxic  substances  and  drugs.  These  are  the  total  trials  completed  and  the 
+session  time.  In  the  present  task,  both  total  trials  and  session  time  are  limited:  300  trials  within 
+6300  s.  Treatments  which  cause  physical  debility  (somnolence,  loss  of  motor  control,  etc.)  can 
+affect  performance  of  the  bisection  task,  with  the  result  that  all  of  the  trials  in  a  session  are  not 
+completed.  Often  data  from  such  sessions  are  erratic  and  are  routinely  discarded.  Our  previous 
+research  with  drugs  and  the  bisection  procedure  (Shurtleff  et  al.,  1992)  has  indicated  that  rats  fail 
+to  finish  all  300  trials  of  a  daily  session  at  drug  doses  which  are  physically  debilitating.  In  the 
+present  study,  all  rats  completed  300  trials  in  every  test  condition,  indicating  that  the  exposures 
+were  not  physically  debilitating. 
+
+
+I  CONOmON 
+
+Figure  8.  Discriminability  or  sensitivity  (A’)  as 
+a  function  of  exposure  condition. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+25 
+
+
+Examination  of  session  time,  however, 
+reveals  a  definite  increase  in  time  to  complete 
+300  trials  as  a  function  of  exposure  condition,  as 
+can  be  seen  in  Figure  9.  This  is  a  reliable  effect 
+iF^42  =  2.37,  p  <  .05),  although  there  was  no 
+effect  of  order  (F,  7  =  .02,  p  >  .05)  or  order  by 
+condition  interaction  (F642  =  1.32,  p  >  .05). 
+
+3.4.6  Null  Responses 
+
+Null  responses  occur  when  subjects  take 
+longer  than  10  s  to  make  a  decision  on  a  given 
+Figure  9.  Session  time  as  a  function  of  trial.  Given  the  increase  in  session  time,  it  was 
+exposure  condition.  expected  that  total  null  responses  would  increase 
+
+as  a  function  of  exposure  condition.  Figure  10 
+shows  that  this  did  occur  (F642  =  2.62,  p  =  .03),  but  that  there  were  no  reliable  order  (F,  7  =  0.51, 
+p  >  .05)  or  interaction  (F1542  =  0.92,  p  >  .05)  effects. 
+
+3.4.6. 1  Null  Responses  and  Decision 
+Confidence 
+
+The  parallel  increase  in  null  responses  and 
+session  time  could  reflect  an  increase  in  decision 
+time,  or  a  minor  physical  debilitation  of  the  rats. 
+In  classical  human  psychophysics,  a  subject’s 
+confidence  in  a  judgment  or  decision  has  an 
+inverse  relationship  to  the  judgment  time  and  to 
+the  magnitude  of  the  stimulus  differences  being 
+Figure  10.  Null  responses  as  a  function  of  judged  (Guilford,  1954;  Pierrel  and  Murray, 
+exposure  condition.  1963).  If  null  responses  reflect  confidence  rather 
+
+than  physical  performance,  they  should  be 
+inversely  related  to  the  subject’s  confidence  in  the  judgment.  Thus,  the  fewest  null  responses 
+should  occur  at  the  training  stimuli  because  the  magnitude  of  the  stimulus  differences  being 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+26 
+
+
+judged  are  the  greatest.  By  the  same  logic,  the  highest  number  of  null  responses  should  occur 
+at  the  bisection  point. 
+
+
+Figure  1 1  shows  the  mean  null  responses  for  several  exposure  conditions  as  a  function 
+of  stimulus  duration.  For  every  exposure  condition,  a  similar  pattern  was  observed:  the  fewest 
+null  responses  occurred  at  the  two  training  stimuli  and  the  pet^  number  of  null  responses 
+occurred  in  the  vicinity  of  the  bisection  point.  This  pattern  was  even  observed  in  the  cage 
+control  condition  in  which  a  change  in  behavior  cannot  be  reasonably  attributed  to  physical 
+debility  or  some  other  performance  factor.  A  multiple  regression  analysis  of  null  responses  as 
+a  function  of  log  stimulus  duration,  squared  log  stimulus  duration  (to  account  for  the  quadratic 
+effect  evident  in  Figure  10),  and  exposure  condition  accounted  for  87%  of  the  variance  in  the 
+data  (F34J  =  110.75,  p  <  .00001).  Reliable  effects  of  log  stimulus  duration  (t  =  12.82,  p  < 
+.00001),  squared  log  stimulus  duration  (t  =  -17.63,  p  <  .00001),  and  exposure  condition  (t  =  3.78, 
+p  =  .0005)  were  found. 
+
+
+Figure  II.  Null  responses  as  a  function  of  Figure  12.  Cumulative  null  responses  as  a 
+stimulus  duration  and  exposure  condition.  function  of  stimulus  duration  and  exposure 
+
+condition. 
+
+A  putative  lower  limit  for  the  effect  of  microwave  exposure  on  decision  confidence  can 
+be  obtained  by  examining  Figure  12.  Figure  12  plots  cumulative  null  responses  (null  responses 
+summed  successively  across  stimulus  durations)  for  each  exposure  condition.  In  general,  the  full 
+power  condition  has  the  highest  cumulative  null  response  function,  the  cage  control  condition  has 
+
+Behavioral  Toxicology  of  HPPM  27 
+
+
+the  lowest  cumulative  null  response  function,  and  the  remaining  power  levels  are  arrayed  in  order 
+in  between.  The  sham  condition  neatly  divides  the  conditions  into  two  groups  between  -40  and  - 
+30  dB.  This  suggests  a  time-averaged  SAR  in  the  range  of  7.2  X  10  *  to  7.2  X  10*  W/kg. 
+
+3.4.7  Ionizing  Radiation  and  Acoustic  Noise  Effects 
+
+Table  5  presents  the  correlations  between  non-microwave  exposures  (X-ray  and  noise)  and 
+those  behaviors  for  which  there  were  reliable  microwave  effects.  None  of  the  correlations  were 
+reliable,  which  indicates  that  changes  in  the  psychometric  function  (probability  long),  session 
+time  and  null  responses  cannot  be  attributed  to  an  effect  of  X-radiation  or  noise  exposure. 
+
+
+Table  5:  Correlation  Coefficients  (r),  T-test  statistics  (t),  and  Probability  Levels 
+(p),  For  Covariations  Between  Noise  and  X-Ray  Exposures  and  Those 
+Behaviors  Affected  by  Microwave  Exposures. 
+
+NOISE 
+
+Probability  Long 
+
+r 
+
+t 
+
+P 
+
+-.0646 
+
+-.222 
+
+0.6015 
+
+Session  Time 
+
+.165 
+
+.227 
+
+0.8217 
+
+Null  Responses 
+
+.126 
+
+-1.04 
+
+0.3031 
+
+X-RAY 
+
+Probability  Long 
+
+r 
+
+t 
+
+P 
+
+-.0808 
+
+-.524 
+
+0.6015 
+
+Session  Time 
+
+.183 
+
+.623 
+
+0.5362 
+
+Null  Responses 
+
+.159 
+
+.421 
+
+0.6758 
+
+Behavioral  Toxicology  of  HPPM 
+
+
+28 
+
+
+3.5  Discussion 
+
+
+The  null  response  data  clearly  suggest  that  HPPM  can  affect  cognitive  function  in  rats 
+within  a  two  h  period  of  time  immediately  following  the  exposure.  A  reliable  dose -response 
+function  relating  null  responses  and  ihicrowave  power  was  demonstrated.  This  indicates  that 
+manipulation  of  microwave  power  produces  orderly  changes  in  null  responses.  Moreover,  the 
+lack  of  reliable  exposure  order  (ascending  vs.  descending)  or  interaction  effects  between  exposure 
+order  and  power  level  demonstrates  that  this  is  a  robust  and  replicable  effect.  Null  responses 
+measure  the  decision-making  process  of  the  rats  because  these  responses  are  demonstrably  under 
+stimulus  control.  As  expected  from  the  human  literature,  null  responses  are  a  bitonic  function 
+of  stimulus  differences.  Moreover,  null  responses  retain  a  bitonic  relationship  to  stimulus 
+differences  as  they  increase  with  microwave  power.  The  threshold  SAR  for  this  effect  could  be 
+as  low  as  7.2  X  10'*  W/kg.  At  full  power  the  SAR  was  0.072  W/kg,  which  is  still  considerably 
+below  the  4  W/kg  SAR  at  which  previous  HPPM  effects  have  been  observed  (D’Andrea  and 
+Cobb,  1987;  D’Andrea  et  al.,  1989)  and  about  one-fifth  of  the  current  occupational  safety 
+standard. 
+
+The  two  measures  of  discriminability  used  in  this  study  (slope  of  the  psychometric 
+function  and  A’)  are  in  apparent  disagreement  regarding  the  effects  of  HPPM.  A’  values  did  not 
+change  reliably  as  a  function  of  power,  but  reliable  slope  changes  did  occur.  The  change  in  slope 
+was  noted  between  -40  dB  and  -30  dB,  which  is  consistent  with  the  results  for  null  responses. 
+The  A’  measure  has  the  advantage  of  being  bias-free  in  the  sense  of  signal  detection  theory 
+(Green  and  Swets,  1974),  but  provides  information  only  concerning  the  discriminability  of  the 
+training  stimuli  (a  very  easy  discrimination).  The  slope  of  the  psychometric  function,  on  the 
+other  hand,  relates  information  for  all  the  stimuli  presented,  but  is  not  bias-free.  Bias,  as 
+measured  by  B"  (again  only  for  the  training  stimuli),  however,  also  did  not  vary  with  power 
+level.  Thus,  the  difference  between  measures  may  be  due  to  the  greater  sensitivity  of  the  slope 
+to  HPPM  effects  because  it  assays  more  difficult  discriminations  which  were  not  assayed  by  A’. 
+
+Previous  studies  of  the  effects  of  HPPM  on  timing  behavior  did  not  employ 
+psychophysical  tasks.  Both  D’Andrea  and  Cobb  (1987)  and  D’Andrea  et  al.  (1989)  studied 
+behavioral  performance  on  a  Fixed  Interval  (FI)  schedule  of  reinforcement.  While  such 
+performance  is  primarily  under  the  control  of  time  perception,  it  is  well-known  that  other  factors 
+exert  considerable  control  over  FI  performance  (Gibbon,  1977).  Thus,  performance  in 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+29 
+
+
+psychophysical  tasks  is  not  always  consistent  with  FI  performance  (e.g.,  Shurtleff  et  al.,  1990). 
+Moreover,  if  the  difficulty  of  the  discrimination  is  crucial,  as  suggested  above,  it  is  unlikely  that 
+an  effect  would  be  detected  in  FI  performance. 
+
+An  effect  on  discriminability,  in  .the  demonstrated  absence  of  an  effect  on  the  BP, 
+suggests  that  HPPM  is  affecting  the  variance  of  the  "internal  clock"  (Raslear  et  al.,  1988; 
+Shurtleff  et  al.,  1990,  1992).  Unfortunately,  such  variance  arises  from  multiple  sources,  including 
+memory,  attention,  the  pacemaker,  and  the  decision  function.  The  results  obtained  for  null 
+responses  suggests  that  cognitive  functions  may  be  particularly  susceptible  to  HPPM  effects.  The 
+data  which  will  be  presented  in  the  next  section  of  this  report  support  that  supposition  and  further 
+suggest  that  changes  in  memory  function  may  be  responsible  for  the  increase  in  null  responses 
+observed  in  the  bisection  task.  Thus,  we  suggest  that  future  research  on  HPPM  effects  focus 
+more  on  cognitive  tasks. 
+
+The  ability  to  expose  animals  to  very  high  peak-power,  low  average-power  microwave 
+fields  within  a  controlled  environment  is  almost  unique.  We  have  used  that  ability  to  directly 
+address  the  issue  of  whether  such  fields  can  affect  cognitive  and  perceptual  function  using 
+behavioral  methods  which  have  been  demonstrated  (Fagot  and  Stewart,  1970;  Raslear,  1983; 
+Raslear  et  al„  in  press)  to  yield  functionally  equivalent  information  in  animals  and  in  humans. 
+Thus,  the  data  presented  above  constitute  a  unique  contribution  to  the  investigation  of  microwave 
+effects  on  behavior. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+30 
+
+
+SECTION  4:  MEMORY  CONSOLIDATION  (Y-MAZE)' 
+
+
+In  the  previous  section  we  observed  that  HPPM  produces  a  dose-dependent  increase  in 
+null  responses  and  also  a  dose-dependeni  decrease  in  discriminability  (slope  of  the  psychometric 
+function).  Since  the  bisection  point  was  not  affected  by  HPPM,  we  concluded  that  the  variance 
+of  the  timing  system  was  increased.  This,  in  turn,  indicates  that  one  of  several  cognitive 
+functions  (memory,  attention,  decision  function)  could  have  been  affected.  Unfortunately,  it  is 
+not  possible  to  specify  which  cognitive  function  was  affected  with  the  bisection  task.  The  Y- 
+maze  task,  on  the  other  hand, .is  specifically  a  test  of  memory  consolidation.  Thus,  the  results 
+of  this  experiment  can  be  used  to  suggest  a  more  specific  cognitive  deficit  than  the  bisection  task. 
+
+4.1  Background 
+
+The  primary  objective  of  this  experiment  was  to  examine  the  effects  of  high  peak,  low 
+average  power,  pulsed  microwaves  on  memory  function  in  rats.  Current  civilian  and  DOD  safety 
+regulations  specify  an  exposure  limit  averaged  over  a  six  minute  period  (see  Bassen,  1989; 
+D’ Andrea,  Cobb,  and  de  Lorge,  1989)  but  do  not  limit  peak  power.  The  exposures  of  interest 
+in  this  experiment  were  of  sufficiently  short  duration  so  as  to  not  violate  current  safety 
+regulations.  However,  the  peak  power  levels  are  high  enough  to  cause  concern  that  they  may 
+have  adverse  effects,  especially  since  there  is  a  report  that  memory  function  in  rats  is  affected 
+by  low-level,  pulsed  microwave  exposure  (Lai,  Carino,  Horita  and  Guy,  1989).  Previous  work 
+in  this  area,  as  noted  below,  has  not  used  the  very  high  peak  power  levels  which  will  be  used 
+in  this  protocol. 
+
+4.1.1  Memory  Consolidation 
+
+It  is  common  knowledge  that  a  severe  jolt  to  the  human  brain,  caused  by  a  fall,  a  blow 
+to  the  head,  or  an  electric  shock,  can  cause  a  loss  of  memory  for  events  in  the  recent  past 
+(Lindsay  and  Norman,  1972).  This  phenomenon  is  known  as  retrograde  amnesia.  More  than  40 
+years  ago  C.  P.  Duncan  (1949)  demonstrated  that  retrograde  amnesia  could  also  be  studied  in  an 
+
+
+'  Portions  of  this  work  have  been  presented  at  the  13'^  International  Conference  of  the  IEEE 
+Engineering  in  Medicine  and  Biology  Society,  Orlando,  FL  (Raslear,  Akyel,  Serafini,  Bates,  and 
+Belt,  1991a). 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+31 
+
+
+animal  model.  In  his  now  classic  experiment,  rats  learned  a  simple  avoidance  task  and  were 
+subsequently  given  electroconvulsive  shock.  Those  rats  which  received  the  shock  15  min  after 
+learning  the  task  had  poorer  retention  of  the  task  when  subsequently  tested  than  did  rats  which 
+received  a  similar  shock  1  h  after  learning  the  task.  It  is  now  well  established  that  a  variety  of 
+treatments,  including  neurohormones  and  other  drugs,  are  capable  of  modulating  the  retention  of 
+newly-acquired  information  in  a  variety  of  aversive  and  appetitively  motivated  tasks  across  a 
+wide  range  of  species  (McGaugh,  1990).  McGaugh  (1990)  indicates  that  changes  in  memory 
+have  been  observed  in  bees,  birds,  fish,  rodents  and  primates,  and  that  memory  can  be  either 
+enhanced  or  diminished,  depending  on  the  particular  treatment  administered.  As  was  the  case 
+with  Duncan’s  classic  experiment,  the  effect  of  any  treatment  is  dependent  on  the  time  at  which 
+it  is  administered  following  the  learning  experience.  Treatments  which  are  administered  30  min 
+or  more  following  training  have  no  effects  on  subsequent  retention.  Current  theory  is  that 
+memory  consolidation  is  an  active  process  with  a  time  course  of  approximately  30  min. 
+Memories  which  are  not  consolidated  are  lost. 
+
+A  variety  of  hormones,  including  ACTH,  vasopressin,  substance  P,  cholecystokinin,  and 
+epinephrine,  and  opioid  peptides  have  been  found  to  exert  a  modulating  influence  on  memory 
+consolidation  (McGaugh,  1990).  It  is  usually  the  case  in  these  studies  that  the  memory 
+modulating  effect  is  not  only  time-dependent  but  also  dose-dependent.  For  instance,  low  doses 
+of  epinephrine  (3  to  100  pg/kg)  enhanced  retention  of  an  inhibitory  avoidance  response,  while 
+a  high  dose  (300  pg/kg)  impaired  retention.  Any  dose  given  30  or  more  min  after  training  was 
+ineffective.  Because  of  the  biphasic  influence  of  many  of  these  memory  modulating 
+biochemicals,  it  is  important  to  carefully  design  an  experiment  so  as  to  detect  changes  in 
+performance  in  either  direction.  Moreover,  it  is  extremely  important  to  note  dose-response 
+relationships  since  opposite  effects  can  easily  be  obtained. 
+
+Since  the  modulation  of  memory  by  post-training  experiences  is  common  to  both  human 
+and  sub-human  species,  the  use  of  animal  models  to  study  the  effects  of  potentially  toxic  or 
+harmful  treatments  on  cognitive  processes  is  highly  attractive.  The  present  experiment  employs 
+an  animal  model  to  study  the  effects  of  high  power,  short  duration,  pulsed  microwave  radiation 
+on  memory  consolidation. 
+
+Although  interest  in  the  effects  of  microwave  radiation  on  behavior  dates  to  the  1950’s, 
+there  is  a  dearth  of  creditable  information  on  the  effects  of  microwave  radiation  on  cognitive 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+32 
+
+
+processes  and  a  total  absence  of  information  regarding  high  power  microwave  radiation  of  the 
+type  which  is  of  interest  here.  A  recent  review  of  the  literature  notes  that  "There  are  numerous 
+reports  -  probably  more  than  in  any  other  area  of  claimed  bioeffects  of  weak  environmental  EM 
+fields  -  of  subtle  behavioral  changes  in  situations  lacking  necessary  rigor  in  experimental  design, 
+often  defective  in  control  procedures',  with  inadequate  evaluation  of  intercurrent  stimuli,  and 
+plagued  by  experimental  data  so  noisy  that  even  statistical  evaluation  does  little  to  establish 
+credibility  for  claimed  interactions."  (Adey,  1981.  p.  481).  As  recently  as  1984,  a  survey  of  the 
+behavioral  literature  on  microwave  effects  (Gage,  1984)  did  not  report  any  animal  studies  of 
+cognitive  processes.  The  vast  majority  of  animal  studies  have  employed  operant  conditioning 
+procedures  and  focused  on  changes  in  response  rates  on  various  schedules  of  reinforcement.  Our 
+own  review  of  the  microwave  literature  has  uncovered  two  studies  of  relevance,  although  neither 
+employed  HPPM  radiation. 
+
+Nealeigh,  Garner,  Morgan,  Cross  and  Lambert  (1971)  exposed  rats  to  a  2.45  GHz  field 
+at  a  power  density  of  50  mW/cm*  for  20  min  prior  to  learning  the  location  of  food  in  a  Y-maze. 
+The  radiation  was  continuous  wave  (CW)  and  produced  a  1-2  °C  increase  in  body  temperature. 
+The  rats  were  tested  and  exposed  on  three  successive  days.  Both  sham-exposed  and  microwave- 
+exposed  rats  showed  a  reliable  increase  in  correct  responses  as  a  function  of  training.  Although 
+there  was  no  main  effect  of  the  microwave  exposure,  the  experimental  group  performed  better 
+on  the  second  and  third  days  of  training,  as  indicated  by  a  reliable  Days  by  Treatment  interaction. 
+More  recently,  Lai  and  his  colleagues  (Lai,  Carino,  Horita  and  Guy,  1989)  studied  the  effect  on 
+rats  of  exposure  to  low-level  pulsed  microwaves  (2450  Mhz,  2  ps  pulses,  500  pps,  SAR  of  0.6 
+W/kg)  for  either  20  or  45  nun  prior  to  learning  the  location  of  food  in  a  radial  arm  maze.  Rats 
+which  received  a  45  min  exposure  performed  reliably  worse  than  sham-exposed  rats  over  a  ten 
+day  training  period.  Rats  which  received  a  20  min  exposure  performed  reliably  better  than  sham- 
+exposed  rats  for  the  first  two  days  of  training.  Thereafter  there  were  no  differences  between  the 
+groups. 
+
+
+The  biphasic  influence  of  the  microwave  treatment  in  the  Lai  et  al.  (1989)  study  is 
+reminiscent  of  the  effects  of  numerous  neurochemicals,  such  as  opioid  peptides,  which  McGaugh 
+discusses  in  his  review  of  memory  modulation.  Lai  and  his  colleagues  have,  in  fact, 
+demonstrated  that  low-level  microwave  radiation  probably  activate  endogenous  opioids  which  in 
+turn  cause  changes  in  cholinergic  activity  (Lai,  1987;  Lai,  1988;  Lai,  Horita,  Chou,  and  Guy, 
+1987a;  Lai,  Horita,  Chou,  and  Guy,  1987b;  Lai.  Horita,  Chou,  and  Guy,  1987c).  The  mechanism 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+33 
+
+
+by  which  endogenous  opioids  are  activated  is  currently  not  known.  Lai  et  al.  (1987  and  1988) 
+have  shown  that  the  biochemical  reaction  to  microwave  exposure  is  similar  to  that  caused  by 
+various  stressors,  although  the  rats  in  their  studies  exhibit  no  obvious  physical  signs  of  distress 
+during  exposure.  (It  should  be  noted  that  Cordts  et  al.  (1988)  found  that  rats  would  not  learn  to 
+avoid  HPPM  radiation,  which  further  suggests  that  the  animals  are  not  physically  distressed  by 
+even  high  power  pulses  of  microwave  radiation).  It  is  possible,  however,  that  the  effect  is  direct. 
+Recently  Weaver  and  Astumian  (1990)  have  developed  a  physical  model  which  shows  that  very 
+weak  periodic  electric  fields  can  affect  macromolecules  in  a  cell’s  membrane.  Such  fields  can 
+couple  to  membrane-associated,  enzyme-catalyzed  reactions  by  means  of  an  electroconformational 
+mechanism.  Since  many  membrane-bound  enzymes  have  conformational  transitions  which  make 
+them  sensitive  to  changes  in  the  electric  field  that  exists  across  the  cell  membrane,  it  is  possible 
+that  electromagnetic  fields  can  exert  a  direct  effect  on  the  production  of  hormones, 
+neurotransmitters  and  other  neurochemicals  by  the  modulation  of  enzyme  conformational 
+transitions. 
+
+Given  the  lack  of  dosimetry  in  the  Nealeigh  et  al.  (1971)  study,  it  is  difficult  to  cite 
+agreement  with  the  performance  enhancement  found  by  Lai  et  al.  (1989).  Nevertheless,  the  two 
+studies  taken  together  suggest  that  memory  function  in  animals  which  have  been  exposed  to  HPM 
+warrant  a  closer  examination.  Either  thermoelastic  expansion  of  the  brain,  which  is  believed  to 
+be  the  cause  of  "microwave  hearing"  (Lin,  1980),  or  neurochemical  changes  in  the  brain  could 
+represent  a  sufficient  insult  to  the  brain  to  disrupt  cognitive  function  and  affect  the  performance 
+of  military  personnel. 
+
+4.2  Task  Description 
+
+The  basic  idea  behind  this  experiment  is  that  some  learning  takes  place  each  time  an 
+animal  or  person  experiences  something  new  or  significant.  However,  because  new  and/or 
+significant  events  are  constantly  occurring  to  most  living  mammals,  not  all  such  learning  is 
+permanently  preserved  in  memory.  Rather,  memory  has  two  forms:  a  short-term  form  and  a 
+permanent  form.  Information  which  are  stored  in  the  short-term  memory  are  volatile.  If  they 
+are  not  moved  into  the  long-term  memory,  they  fade  and  cannot  be  retrieved.  If  the  information 
+are  not  made  permanent,  and  an  insult  occurs  to  the  brain  (e.g.,  a  blow  to  the  head),  the  memory 
+(information)  will  be  lost. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+34 
+
+
+A  good  example  of  short-term  memory  occurs  when  one  calls  information  at  a  phone 
+booth.  If  a  pencil  and  paper  is  not  available,  the  common  strategy  for  remembering  a  new  phone 
+number  is  to  sub-vocally  repeat  the  number  until  it  has  been  dialed.  Within  a  few  minutes  after 
+the  call  has  been  completed,  most  persons  will  have  forgotten  the  number. 
+
+In  the  Y-maze  task,  we  allow  a  thirsty  rat  to  explore  a  novel  environment  until  he 
+discovers  and  drinks  water  for  a  few  seconds.  Because  the  rat  is  thirsty,  the  discovery  and 
+drinking  of  water  makes  this  a  significant  event  in  his  life  (one  that  is  likely  to  be  remembered). 
+Immediately  following  this  learning,  the  rat  is  subjected  to  a  treatment  condition.  If  the  treatment 
+condition  consists  of  being  returned  to  its  home  cage,  the  short-term  memory  of  the  location  of 
+the  water  will  be  transformed  into  a  permanent  memory  (memory  consolidation).  If  the  treatment 
+consists  of  a  trauma  to  the  brain  (e.g.  microwave  exposure),  then  memory  consolidation  will  be 
+disrupted. 
+
+
+4.3  Materials  and  Methods 
+
+4.3.1  Subjects 
+
+Thirty  rats  served  as  subjects.  Ten  rats  were  exposed  to  full  power,  10  to  -30  dB  power, 
+and  10  served  as  cage  controls.  The  rats  were  water  deprived  prior  to  training  and  testing  by 
+restricting  access  to  water  to  one  hour  each  day.  Microwave-exposed  rats  received  200  pulses 
+from  TEMPO,  as  described  in  the  Introduction  section. 
+
+4.3.2  Apparatus 
+
+The  Y-maze  consisted  of  three  arms  which  were  23  cm  long,  10  cm  wide  and  12  cm 
+deep.  The  walls  of  the  maze  were  made  of  Plexiglas  and  the  floor  was  a  grid  constructed  of  steel 
+bars.  To  facilitate  observation  of  the  subjects,  the  top  of  the  maze  was  covered  by  a  transparent 
+Plexiglas  sheet.  Two  of  the  arms  were  illuminated  by  identical  12  W  lights  and  contained  water 
+bottles.  A  guillotine  door  was  used  at  the  starting  arm  to  confine  the  subjects  before  the  start 
+of  the  experiment 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+35 
+
+
+4.3.3  Behavioral  Testing 
+
+
+Y-maze  training  was  conducted  following  the  procedures  described  by  Sternberg  et  al. 
+(1985).  Briefly,  five  days  prior  to  the  experiment  the  rats  were  placed  on  a  water  deprivation 
+schedule  in  which  they  are  allowed  1  h  access  to  water  each  day.  On  the  day  of  exposure,  each 
+animal  was  placed  into  the  starting  arm  of  the  Y-maze.  One  choice  arm  of  the  maze  was 
+illuminated  (randomly  selected  for  each  rat),  and  a  full  water  bottle  was  located  at  the  end  of  that 
+arm.  The  other  choice  arm  was  dark  and  an  empty  water  bottle  was  located  at  the  end  of  that 
+arm.  Each  rat  was  allowed  to  explpre  the  maze  until  the  full  water  bottle  was  located  and  water 
+was  consumed.  Errors  were  scored  for  entry  into  the  dark  arm,  re-entry  into  starting  arm,  and 
+exit  of  the  lighted  arm  without  consumption.  Only  one  trial  was  allowed  (finding  and  drinking 
+from  the  water  bottle)  per  rat.  The  available  literature  on  this  task  indicates  that  for  any 
+treatment  to  affect  memory  consolidation,  it  must  be  administered  within  30  min  of  training 
+(McGaugh,  1990).  Microwave  exposures  were  begun  within  1-2  min  of  learning  the  location  of 
+
+
+Y-maze  testing  occurred  on  the  day 
+following  exposure  (24-h  retention  test)  using 
+the  same  procedures.  Errors,  scored  as  in 
+training,  in  locating  the  water  were  used  to 
+measure  the  retention  of  the  original  learning 
+in  the  three  groups. 
+
+4.4  Results 
+
+
+Errors  on  the  24-h  memory 
+consolidation  test  are  shown  in  Figure  13. 
+Exposed  rats  made  an  average  of  13.2  errors, 
+sham-exposed  rats  made  an  average  of  8.9 
+errors,  and  the  cage  controls  made  an  average 
+of  3.8  errors.  An  Analysis  of  Variance  on  the 
+error  scores  indicated  a  significant  difference  between  the  groups  (F2,29  =  7.31,  p  =  .0029).  Post- 
+hoc  analyses  indicated  that  the  two  exposed  groups  did  not  differ  from  each  other,  but  were 
+reliably  different  from  the  cage  control  group. 
+
+
+water. 
+
+
+TREATMENT  GROUPS 
+
+
+Figure  13.  Errors  in  24-h  retention  test  in  Y- 
+maze  for  each  treatment  condition. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+36 
+
+
+An  analysis  of  the  energy  output  for 
+each  of  the  200  TEMPO  pulses  for  each  rat  in 
+the  exposed  and  sham-exposed  conditions  was 
+subsequently  conducted.  A  statistically 
+reliable  correlation  was  found  betvyeen  the 
+number  of  errors  each  rat  made  on  the  test 
+day  and  the  mean  energy  output  of  TEMPO 
+on  the  previous  day  (r  =  0.3837,  t,8  =  1.763, 
+p  [1 -tailed]  =  .047).  This  is  illustrated  in 
+Figure  14. 
+
+
+4.5  Discussion 
+
+
+Differences  in  errors  between  controls 
+and  the  two  exposure  groups  could  be  due  a 
+number  of  variables.  Both  exposure  groups 
+experienced  additional  handling  stress.  X-ray  exposure,  and  noise,  which  were  not  experienced 
+by  the  cage  controls.  The  correlation  between  errors  and  mean  energy  output,  however,  strongly 
+suggests  that  differences  in  the  amount  of  RF  energy  experienced  by  the  two  exposure  groups 
+was  critical.  Reference  to  Table  3,  moreover,  indicates  that  noise  exposure  was  highest  for  the  - 
+30  dB  group,  which  is  contrary  to  the  positive  correlation  between  energy  output  and  errors. 
+Similarly,  Table  2  shows  that  X-ray  exposure  was  also  highest  for  the  -30  dB  group.  The  only 
+variable  which  can  account  for  the  increase  in  errors  is  increased  HPPM  energy  output. 
+
+It  should  be  noted  that  the  results  of  this  experiment  are  consistent  with  the  results  of  the 
+bisection  experiment.  An  increase  in  null  responses,  reflecting  a  decrease  in  decision  confidence, 
+could  arise  from  a  memory  deficit.  In  other  words,  poor  recall  of  the  stimulus  just  presented, 
+or  difficultly  in  recalling  the  reference  stimuli  could  result  in  an  increase  in  decision  time  and 
+null  responses.  Taken  together,  the  bisection  and  memory  consolidation  experiments  strongly 
+suggest  that  HPPM  may  have  a  significant  effect  on  memory  function.  This  notion  is  strongly 
+supported  by  the  work  which  has  been  reported  by  Lai  and  his  co-workers  with  low  power 
+microwave  exposures,  as  noted  above. 
+
+
+Figure  14.  Mean  errors  as  a  function  of  mean 
+energy  (J)  per  pulse. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+37 
+
+
+38 
+
+
+SECTION  5:  TREADMILL  RUNNING  ENDURANCE  ^ 
+
+
+Physical  endurance  is  a  very  important  performance  characteristic  for  military  operations. 
+Although  physical  endurance  can  be  measured  in  a  variety  of  ways,  we  chose  the  treadmill 
+because  of  its  relevance  to  physiologjcal  function  and  its  easy  cross-species  comparability. 
+
+5.1  Background 
+
+The  primary  objective  .of  this  experiment  was  to  examine  the  effects  of  high  peak,  low 
+average  power,  pulsed  microwaves  on  treadmill  endurance  in  rats.  As  has  been  noted  previously 
+in  this  report,  current  civilian  and  DOD  safety  regulations  specify  an  exposure  limit  averaged 
+over  a  six  minute  period  (see  Bassen,  1989;  D’ Andrea,  Cobb,  and  de  Lorge,  1989)  but  do  not 
+limit  peak  power.  The  exposures  of  interest  discussed  here  are  of  sufficiently  short  duration  so 
+as  to  not  violate  current  safety  regulations.  However,  the  peak  power  levels  are  high  enough  to 
+cause  concern  that  they  may  have  adverse  effects,  especially  since  there  is  a  report  that  motor 
+function  in  rats  is  affected  by  pulsed  microwave  exposure  (Klauenberg,  Merritt,  and  Erwin, 
+1988).  This  previous  work,  however,  has  not  used  the  very  high  peak  power  levels  which  were 
+used  in  this  experiment.  Moreover,  since  the  treadmill  endurance  task  has  not  been  used  to 
+assess  the  effects  of  HPPM  exposure,  the  present  investigation,  is  exploratory  and 
+groundbreaking  in  several  respects. 
+
+5.2  Task  Description 
+
+Treadmill  running  is  a  standard  laboratory  procedure  for  the  study  of  exercise  physiology 
+(Selkurt,  1971).  However,  apart  from  its  more  strictly  physiological  uses  (e.g.,  the  measurement 
+of  oxygen  consumption  [Bedford,  Tipton,  Wilson,  Oppliger,  and  Gisolfi,  1979],  muscle  blood 
+flow  [Armstrong  and  Laughlin,  1985],  fat  metabolism  [Shibata  and  Nagasaka,  1987],  and  hepatic 
+function  [Seelbach  and  Kris-Etherton,  1985]),  the  treadmill  also  provides  a  convenient  means  of 
+assessing  an  animal’s  physical  endurance  following  various  drug  and  environmental 
+manipulations  (Fancesconi  and  Mager,  1979, 1980;  Gerald,  1978;  Hillegaart  and  Ahlenius,  1987), 
+including  ionizing  radiation  (Jones,  Osborn,  and  Kimeldorf,  1967). 
+
+
+^  Portions  of  this  work  have  been  presented  at  the  First  Worid  Congress  for  Electricity  and  Magnetism  in 
+Biology  and  Medicine  in  Lake  Buena  Vista,  FL  (Akyel,  Raslear.  Hammer  and  Belt,  1992). 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+39 
+
+
+The  amount  of  time  that  an  animal  can 
+run  on  a  treadmill  without  faltering  is  a 
+measure  of  the  animal’s  endurance  (E). 
+Previous  research  has  shown  that  an  orderly 
+relationship  exists  between  E  and  the  speed 
+(S)  at  which  the  animal  is  required  to  run. 
+Figure  15  illustrates  this  relationship  with  data 
+from  a  study  by  Gerald  (1978).  Endurance  is 
+an  exponential  function  of  running  speed  (i.e., 
+E  =  10“'^^,  where  a  and  P  are  constants). 
+Various  treatments,  such  as  drugs,  produce 
+increases  or  decreases  in  E  which  are 
+reflected  in  changes  in  the  constant  a.  This 
+can  also  be  seen  in  Fig.  15,  which  shows  that 
+E  increases  at  all  running  speeds  when  animals  are  given  2.5  mg/kg  amphetamine. 
+
+
+Figure  15.  Relationship  between  running 
+endurance  and  treadmill  speed  for  saline  and 
+amphetamine.  Data  from  Gerald,  1978. 
+
+
+The  relationship  in  Fig.  15  indicates  that  it  is  possible  to  select  a  running  speed  that  will 
+generate  exhaustion  within  a  specified  period  of  time  for  the  average  rat  Groups  of  rats  tested 
+at  a  selected  speed,  but  differing  in  their  exposure  to  HPPM,  can  thus  be  conveniently  compared 
+with  respect  to  their  average  endurance  (time  running). 
+
+
+In  the  present  experiment,  treadmill  running  at  a  selected  speed  was  used  to  assess 
+physical  endurance  immediately  following  exposure  to  HPPM.  Literature  searches  conducted  at 
+WRAIR  have  indicated  that  this  task  has  not  been  used  to  assess  the  effect  of  RF  energy. 
+
+
+An  animal  model  of  physical  endurance  which  is  sensitive  to  changes  in  dose  of  RF 
+radiation  would  be  of  great  interest  and  use  to  the  military  medical  community.  Physical 
+endurance  is  a  key  component  of  many  basic  soldier  tasks,  particularly  in  a  combat  environment. 
+Radar  transmitters  and  other  generators  produce  brief  high  energy  pulses  of  microwave  energy 
+which  are  part  of  the  electromagnetic  environment  of  Army  and  other  military  personnel. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+40 
+
+
+5.3  Materials  and  Methods 
+
+5.3.1  Subjects 
+
+Twenty-six  rats,  similar  to  thdse  previously  described,  served  as  subjects. 
+
+5.3.2  Apparatus 
+
+A  commercially  available  small  animal  treadmill  (Columbus  Instruments,  OH)  with  an 
+adjustable  incline  and  speed  was  used. 
+
+5.3.3  Behavioral  Testing 
+
+For  8  days  prior  to  exposure,  rats  received  familiarization  training  on  the  treadmill 
+apparatus  for  5  min  per  day.  Each  rat  was  placed  in  the  stationary  treadmill  at  an  8“  incline,  and 
+a  relatively  slow  running  speed  (10  m/min)  commenced.  To  motivate  running,  animals  that  left 
+the  moving  treadmill  and  entered  onto  an  adjoining  shock  grid  received  as  many  as  6  shocks  of 
+200  ms  duration  at  163  V  and  0.5  mA  peak  shock  current  (the  lowest  possible  level  on  the 
+equipment).  Shocks  could  be  avoided  by  running  and  could  be  escaped  by  re-entry  onto  the 
+treadmill.  After  five  minutes  of  training  the  treadmill  was  stopped,  and  the  rat  was  returned  to 
+its  home  cage. 
+
+Following  the  training,  9  rats  were  exposed  to  200  microwave  pulses  (80  ns  width,  1 
+pulse/8  s,  3  GHz)  using  the  TEMPO  exposure  system  with  700  MW  peak  transmitted  power 
+(Bates  and  Bassen,  1989).  Nine  of  the  remaining  animals  were  sham-exposed,  and  8  rats  served 
+as  cage  controls.  Sham-  or  microwave-exposed  animals  were  restrained  in  a  cylindrical  plastic 
+enclosure  and  positioned  on  an  RF  transparent  platform  inside  a  corner  reflector.  Exposures 
+lasted  approximately  25  min.  Immediately  following  the  sham-  or  microwave-exposure  the 
+animals  were  placed  on  the  treadmill.  Control  animals  were  taken  from  their  cages  and  placed 
+on  the  treadmill.  During  the  test  session  the  speed  of  the  belt  was  increased  to  30  m  per  min 
+with  the  same  inclination.  Running  time  was  derined  as  the  total  time  that  each  animal  spent  in 
+the  treadmill  before  receiving  3  consecutive  electric  shocks  within  10  s  without  leaving  the  shock 
+grid  area. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+41 
+
+
+2S0 
+
+
+5.4  Results 
+
+
+The  endurance  of  the  animals  was 
+
+defined  as  the  total  running  time  of  the 
+
+subject  during  the  high  speed  (30  m  per  min) 
+
+test  trial.  As  depicted  in  Figure  16,  the  mean 
+
+(±  SEM)  running  times  of  the  cage  control 
+
+and  sham-exposed  animals  were  150.13  s  (± 
+
+25.65)  and  152.89  s  (±  35.18),  respectively. 
+
+On  the  other  hand,  microwave-exposed 
+
+animals  ran  for  56.44  s  (±  10.69). 
+
+Figure  16.  Mean  running  durations  (±  SEM)  .  ,  .  ,  ... 
+
+r  ■  I  te.  n  ^  _ Significantly  less  than  the  two  groups  which 
+
+for  microwave-exposed  (full  power),  sham-  &  ^  a  k 
+
+exposed,  and  cage-control  rats.  were  not  exposed  to  microwave  fields.  A 
+
+Kruskal-Wallis  one-way  ANOVA  test  (x' 
+=6.02,  p  <  .05)  showed  that  reliable  differences  existed  among  the  groups. 
+
+5.5  Discussion 
+
+The  results  indicated  that  exposure  to  200  TE.MPO  pulses  decreased  the  rats’  endurance, 
+as  reflected  in  running  time  on  the  treadmill  without  faltering.  While  tlife  current  safety 
+guidelines  suggest  that  whole-body  SAR  should  be  limited  to  0.4  W/kg  and/or  a  local  SAR  of 
+8  W/kg,  the  TEMPO  exposure  system,  which  was  used  in  the  present  experiment,  produced  a 
+time-averaged  midbrain  SAR  of  0.21  W/kg  and  time-averaged  whole-body  SAR  of  0.07  W/kg. 
+Thus,  while  exposure  to  microwave  fields  composed  of  very  short  pulses  and  extremely  high 
+peak  power  may  be  within  present  safety  guidelines,  the  present  data  raise  questions  concerning 
+the  adequacy  of  these  guidelines. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+42 
+
+
+SECTION  6:  MOTIVATION  FOR  FOOD  (BEHAVIORAL  ECONOMICS) 
+
+AND  CIRCADIAN  RHYTHMICITY  ' 
+
+Because  the  term  "motivation"  is  ubiquitous  in  psychology,  it  has  various  meanings  in 
+various  contexts.  In  the  present  study,  "motivation"  means  behavior  which  is  directed  by  a 
+physiological  requirement  for  nutrients.  The  method  which  was  chosen  to  study  motivation  was 
+dictated  by  the  recent  success  of  behavioral  economics  to  bring  together  the  disparate  fields  of 
+behavioral  analysis  and  economics.  The  key  to  understanding  work  in  behavioral  economics  is 
+an  understanding  of  a  few  basic  economic  concepts.  All  organisms,  including  people,  consume 
+commodities  such  as  food.  The  amount  of  a  commodity  which  will  be  consumed  is  a  function 
+of  the  price  of  that  commodity.  As  the  price  increases,  the  consumption  decreases.  The 
+relationship  between  price  and  the  amount  consumed  (actually  the  slope  of  the  function)  is 
+demand.  The  experiment  reported  here  examined  changes  in  the  demand  for  food  as  a  function 
+of  HPPM  exposure.  Since  demand  curves  from  classical  economics  (with  humans  as  the 
+consumers)  are  of  the  same  form  as  demand  curves  from  behavioral  economics  (with  rats, 
+pigeons  and  monkeys  as  the  consumers),  this  aspect  of  the  task  should  provide  us  with  cross¬ 
+species  information  on  motivational  effects  of  HPPM. 
+
+Another  aspect  of  behavioral  economic  studies  is  that  they  often  take  place  within  a 
+"closed  economy".  This  means  that  the  animals  live  in  the  experimental  situation  and  earn  all 
+of  the  commodity  they  are  working  for  within  that  situation.  Thus,  the  method  readily  lends 
+itself  to  a  simultaneous  examination  of  circadian  rhythms. 
+
+6.1  Background 
+
+Many  experimental  treatments  of  military  interest  have  multiple  behavioral  sequelae  which 
+currently  require  the  use  of  several  behavioral  procedures  and  long  periods  of  training  to  measure. 
+This  is  also  true  of  research  on  the  behavioral  effects  of  microwave  radiation.  The  most  reliable 
+measures,  to  date,  of  microwave  effects  on  behavior  employ  operant  conditioning  techniques 
+(Gage.  1984).  Typically  these  tasks  require  long  periods  of  training  with  relatively  few 
+experimental  subjects.  As  a  result,  it  is  difficult  to  establish  functional  relationships  between  the 
+
+
+'  Portions  of  this  work  have  been  presented  at  the  13*  International  Conference  of  the  IEEE  Engineering  in 
+Medicine  and  Biology  Society.  Orlando.  FL  (Raslear.  Akyel.  Serafini.  Bates,  and  Belt.  1991b). 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+43 
+
+
+physical  parameters  of  microwave  exposure  (e.g.,  frequency,  power  density,  specific  absorption 
+rate  [SAR],  etc.)  and  behavioral  effects  in  a  sufficiently  large  sample  of  animals.  The  inability 
+to  test  more  subjects  in  a  shorter  period  of  time  is  especially  serious  if  the  ultimate  objective  of 
+the  research  is  to  establish  exposure  standards.  In  this  case,  a  sufficient  number  of  subjects  is 
+essential  to  establish  and  test  the  replicability  of  effects  and  to  establish  population  estimates  (i.e.. 
+means  and  confidence  intervals)  of  the  dose-response  function(s). 
+
+A  cost-effective  method  for  the  behavioral  analysis  of  drugs,  toxins,  and  other  treatments 
+of  interest  to  the  military  community  has  recently  been  devised  and  tested  (Raslear,  Bauman, 
+Hursh,  Shurtleff,  and  Simmons,  1988;  Hursh,  Raslear,  Shurtleff,  Bauman  and  Simmons,  1988). 
+The  research  reported  here  used  this  method  to  simultaneously  assay  microwave  effects  in  two 
+behavioral  functions  of  military  relevance  (motivational  and  circadian  rhythm  function)  within 
+a  seven  day  period  for  groups  of  six  rats  and  required  no  training  of  subjects.  The  rapid  testing 
+method  allows  treatment  effects  to  be  replicated  within  seven  days  as  often  as  required.  A  brief 
+description  of  the  testing  method  follows. 
+
+6.2  Task  Description 
+
+
+6.2.1  The  Behavioral  Assay 
+Motivational  Effects 
+
+
+V 
+
+
+Motivational  effects  are  assessed  using  the  experimental  and  analytic  methods  developed 
+by  Hursh  (1984).  In  this  method,  subjects  are  required  to  perform  a  specific  motor  response 
+(e.g.,  lever  pressing)  in  order  to  obtain  their  entire  daily  ration  of  one  or  more  commodities  (e.g., 
+food,  water,  etc.).  Under  these  conditions,  the  consumption  of  a  commodity,  such  as  food,  is 
+partly  determined  by  the  price  of  the  commodity  (i.e.,  the  number  of  responses  required  to 
+receive  a  single  food  pellet,  also  known  as  the  Fixed  Ratio).  A  plot  of  the  amount  of  a 
+commodity  consumed  as  a  function  of  price  yields  a  demand  curve.  The  degree  to  which 
+consumption  declines  with  increases  in  price  is  called  elasticity  of  demand.  Elasticity  directly 
+determines  whether  a  price  increase  will  be  accompanied  by  an  increase  in  responding,  no  change 
+or  a  decrease  in  responding.  A  demand  curve  with  a  shallow  negative  slope  implies  an  increase 
+in  output  or  expenditure  and  is  called  inelastic  demand.  A  demand  curve  with  a  steep  negative 
+slope  implies  a  decrease  in  response  rate  and  is  called  elastic  demand.  Hursh  has  found 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+44 
+
+
+that  demand  is  a  major  dimension  of 
+motivation  which  can  change  along  two 
+different  dimensions:  intensity  and  slope. 
+
+Recent  experiments  have  indicated  that  these 
+two  dimensions  of  demand  are  sensitive  to 
+such  variables  as  the  nature  of  the 
+commodity,  the  availability  of  substitutes,  the 
+level  of  deprivation  and  pharmacological 
+treatments. 
+
+Whereas  the  basic  experiments  on 
+demand  analysis  required  long  periods  of  time 
+to  complete  (e.g.,  approximately  30  days  to 
+determine  a  single  demand  curx  e)  the  present  Figure  17.  Log  pellets  earned  as  a  function  of 
+method  compresses  the  test  period  into  7  See  text  for  details. 
+
+days.  This  is  accomplished  by  tripling  the 
+
+response  requirement  each  day  (i.e.,  a  300%  daily  increase).  Previous  work  had  increased  the 
+response  requirement  by  much  smaller  daily  increments  (e.g.,  20%),  and  so  required  longer  to 
+produce  a  complete  demand  curve.  Extensive  testing  of  this  method  has  now  been  completed. 
+For  instance.  Figure  17  presents  median  demand  curves  for  food  as  a  function  of  price  with 
+response  effort  (W),  number  of  pellets  per  Fixed  Ratio  (M),  and  the  probability  (a)  of  receiving 
+pellets  (per  Fixed  Ratio)  as  parameters  (Hursh  et  al.,  1988).  These  three  factors,  together  with 
+the  response  requirement  (N,  fixed  ratio)  determine  the  unit  price  (P)  for  food: 
+
+P-M. 
+
+aM 
+
+Predicted  food  consumption  as  a  function  of  price  can  be  determined  from: 
+
+Q  =  L  P^  e'^^, 
+
+where  Q  is  the  number  of  pellets  consumed,  P  is  the  unit  price,  L  is  the  level  of  consumption  at 
+a  unit  price  of  1.0,  e  is  the  number  2.718...,  and  a  and  b  are  constants.  The  solid  line  in  Figure 
+17  is  the  predicted  food  consumption  for  the  experimental  conditions.  At  each  required  number 
+of  lever  presses,  the  rats  would  receive  either  one  or  two  pellets  of  food  with  a  probability  of  1 .0 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+45 
+
+
+or  0.5  and  with  1  or  2  units  of  effort  (weight  of  the  lever  which  the  rat  presses).  As  can  be  seen, 
+the  method  provides  data  which  are  consistent  with  the  theoretical  framework  of  behavioral 
+economics. 
+
+
+Circadian  Effects 
+
+Since  the  rats  receive  al!  of  their  food  in 
+the  experimental  cages,  data  are  naturally  collected 
+over  a  24  hour  period.  Thus,  it  is  a  simple  matter 
+to  record  the  data  according  to  the  time  of  day. 
+Previous  research  (Raslear  and  Kaufman,  1983)  has 
+shown  that  diisopropyl  phosphorofluoridate  (DFP, 
+an  anticholinesterase  agent)  produces  a  long-term 
+disruption  of  circadian  patterns  of  behavior,  and 
+other  treatments  may  produce  a  similar  change. 
+Because  it  is  a  major  biological  system, 
+information  that  a  treatment  disturbs  the  normal 
+circadian  pattern  is  important,  and  the  military 
+relevance  of  such  a  change  is  apparent.  Figure  1 8 
+presents  the  kind  of  data  which  Vill  be  used  to 
+index  the  function  of  the  circadian  system  (from  Raslear,  Leu  and  Simmons,  1986).  The  figure 
+shows  the  Dark-Light  Ratio  (number  of  responses  produced  in  the  dark  divided  by  the  number 
+of  responses  produced  in  the  light)  for  groups  of  rats  given  0,  1.0  or  2.6  mg/kg  DFP.  Note  that 
+both  high  and  low  doses  of  DFP  produced  changes  in  the  normal  circadian  distribution  of 
+responding. 
+
+6.3  Methods  and  Materials 
+6.3.1  Subjects 
+
+Twenty  four  male  Sprague-Dawley  rats  were  used  as  subjects. 
+
+
+DFP  DOSE  (mg/kq) 
+
+
+Figure  18.  Mean  darkl light  ratio  of  rats 
+treated  with  various  doses  of  DFP,  an 
+anticholinesterase  drug. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+46 
+
+
+6.3.2  Apparatus 
+
+
+Behavioral  measurements  were  conducted  in  six  modified  hanging  wire  cages  (Wahmann 
+Co.)  situated  in  an  environmental  chamber.  Each  cage  was  24.1  cm  long,  20.3  cm  wide,  and 
+18.4  cm  deep.  A  response  lever,  water  bottle,  and  food  magazine  were  mounted  on  the  front  of 
+each  cage.  The  re.spon.se  lever  was  5.1  cm  long  and  1.3  cm  wide  and  extended  1.3  cm  into  the 
+cage.  The  lever  required  0.265  N  to  operate.  The  lever  and  food  magazine  were  mounted  5.1 
+cm  above  the  floor,  on  the  center  of  the  cage  front.  The  water  bottle  spout  extended  into  the 
+cage  at  the  level  of  the  magazine  and  lever  on  the  same  side  of  the  cage  as  the  magazine.  Food 
+pellet  dispensers  (Gerbrands,  Model  G5100)  were  mounted  above  each  cage.  These  delivered 
+45-mg  food  pellets  (BioServ)  according  to  the  schedule  requirements  described  below. 
+
+6.3.3  Behavioral  Testing 
+
+One  week  prior  to  the  experiment,  rats  were  adapted  to  the  laboratory  conditions  and  the 
+light/dark  cycle  by  being  housed  in  ordinary  hanging  wire  home  cages  within  the  environmental 
+chamber  where  the  experimental  cages  are  housed.  Following  this  adaptation  period,  all  rats 
+were  exposed  to  microwave  radiation  in  accordance  with  their  group  assignment. 
+
+The  rats  were  exposed  to  one  of  three  conditions.  "Full  power"  rat^  were  exposed  to  700 
+MW  peak  output  power  (400  pulses,  80  ns  width  ,  1  pulse/5  sec),  "-30  dB"  rats  were  exposed 
+to  700  kW  peak  output  power,  and  "control"  rats  were  placed  in  the  exposure  chamber  for  a 
+similar  period  of  time  as  the  other  two  groups,  without  operating  TEMPO.  Following  exposure, 
+each  rat  was  placed  in  one  of  six  similar  home  cages  which  was  equipped  with  a  response  lever 
+and  food  pellet  dispenser.  On  the  first  day  in  the  test  apparatus  a  single  response  produced  a 
+single  45-mg  food  pellet  (BioServ).  The  animals  received  no  prior  lever-press  training  and  were 
+not  food-deprived.  Data  from  the  first  day  were  not  used  to  allow  for  individual  differences  in 
+lever-press  acquisition.  On  the  second  day  the  response  requirement  remained  at  1  response/food 
+pellet  (FR  1,  Fixed  Ratio  1).  On  subsequent  days  the  response  requirement  was  increased  to  15, 
+45,  90,  1 80  and  360  responses/pellet.  The  animals  were  free  to  respond  at  all  times  of  day.  A 
+PDP  1 1/73  computer  recorded  responses  and  food  pellet  deliveries,  and  controlled  the  sequence 
+of  response  requirements.  A  12:12  light:dark  cycle  (lights  on  at  0600,  off  at  1800  hours)  was 
+in  effect  in  the  chamber  where  the  test  cages  were  located.  Water  was  available  at  all  times,  but 
+the  only  source  of  food  was  what  the  rats  earned  in  the  experiment 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+47 
+
+
+6.4  Results 
+
+
+Figure  19  (left  panel)  shows  the  mean  number  of  pellets  consumed  by  each  group  as  a 
+function  of  the  price  of  the  food.  The  pattern  of  decreasing  consumption  as  price  increased  is 
+typical  of  rats  (and  even  people  when  the  price  of  an  essential  commodity  is  increased)  in  this 
+simation  (Raslear  et  al.,  1988;  Hursh  et  al.,  1988)  .  There  are  no  apparent  differences  between 
+groups,  and  it  must  be  concluded  that  HPPM  has  no  effect  on  food  motivation. 
+
+Circadian  function  was  assessed  by  comparing  the  number  of  food  pellets  obtained  during 
+the  day  and  the  night.  Rats  are  nocturnal  and  normally  consume  90  -  100%  of  the’u  food  during 
+the  night.  Deviations  from  this  pattern  of  feeding  are  rare. 
+
+With  the  e.xception  of  FR  1.  there  did  not  appear  to  be  an  effect  of  HPPM  on  circadian 
+function.  Figure  19  (right  panel)  shows  the  FR  1  data.  The  two  exposure  groups  have  a  clearly 
+different  pattern  of  circadian  food  intake  relative  to  the  controls.  A  Kruskal- Wallis  test  on  the 
+FR  1  data  indicated  that  a  reliable  difference  exists  between  the  groups  (p  <  .05).  Since  total 
+
+
+Figure  19.  Left  Panel:  Mean  pellets  consumed  as  a  function  of  cost  (fixed  ratio)  and 
+exposure  condition:  Right  Panel:  Mean  proportion  of  pellets  consumed  during  the  dark  cycle. 
+
+
+consumption  at  FR  1  was  equivalent  for  these  groups  (see  Figure  19,  left  panel),  the  exposed 
+animals  apparently  consumed  more  food  during  the  day. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+48 
+
+
+6.5  Discussion 
+
+
+HPPM  does  not  appear  to  affect  food  motivation  in  the  rat.  Previous  research  with  this 
+method  (Raslear,  Shurtleff,  Rigamonti,  Hursh,  and  Simmons,  1990)  has  shown  that  rats  with 
+lesions  in  the  ventromedial  hypothalamus  (VMH)  exhibit  a  markedly  different  pattern  of 
+consumption  as  the  price  of  food  is  increased.  The  amount  of  brain  damage  in  the  VMH  which 
+is  necessary  to  produce  a  measurable  effect  with  this  method,  however,  is  not  currently  known. 
+Thus,  there  may  be  damage  to  the  VMH  which  cannot  be  detected. 
+
+The  data,  however,  suggest  that  the  circadian  pattern  of  consumption  may  be  altered.  As 
+noted  previously,  rats  rarely  depart  from  a  circadian  pattern  of  consumption  in  which  90-100% 
+of  their  daily  food  intake  is  consumed  in  the  dark.  Disrupted  rest-activity  cycles  are  a  significant 
+human  medical  problem,  so  further  investigation  of  this  effect  is  clearly  warranted. 
+
+
+\ 
+
+
+Behavioral  Toxicology  of  HPPM  49 
+
+
+50 
+
+
+SECTION  7;  PORSOLT  SWIM  TEST  (BEHAVIORAL  DESPAIR) 
+
+
+Affect  or  mood  is  a  very  important  constituent  of  human  existence,  but  it  is  only  rarely 
+addressed  in  experimental  studies  with  animals  because  of  the  lack  of  suitable  models.  Recently, 
+however,  several  models  of  depression  or  despair  have  been  developed  for  use  in  the 
+pharmacology  community  to  aid  in  the  rapid  screening  of  drugs  for  antidepressant  activity.  The 
+following  experiment  utilizes  one  of  these  models  to  explore  the  effects  of  HPPM  on  affect  in 
+the  rat. 
+
+7.1  Background 
+
+Most  of  the  reported  effects  of  radioffequency  electromagnetic  (RFEM)  fields  on  human 
+beings  have  come  from  Eastern  Europe  (NCRP,  1 986).  A  typical  set  of  symptoms  identified  as 
+the  neurasthenic  syndrome  or  "microwave  sickness"  is  a  variable  collection  of  complaints  that 
+includes  irritability,  headache,  lethargy,  insomnia,  impotence,  mnemonic  disorders,  and  loss  of 
+libido  (Sadcikova,  1974).  When  persistent,  this  set  of  symptoms  is  like  that  labeled  the  "chronic 
+depressive  reaction"  in  the  Diagnostic  and  Statistical  Manual  of  Mental  Disorders  (American 
+Psychiatric  Association,  1987). 
+
+Few  studies  of  the  human  response  to  RFEM  irradiation  have  been  reported  in  the 
+Western  literature.  Although  they  were  not  limited  to  behavioral  effects,  individual  cases  that 
+had  attracted  public  attention  were  not  investigated  scientifically.  A  classified  experimental  study 
+of  possible  behavioral  and  physiological  effects  of  RFEM  radiation  in  primates  called  the  Pandora 
+Project  and  a  study  named  Big  Boy,  which  was  initiated  in  late  60s  and  early  70s  to  investigate 
+psychological  and  physical  effects  in  humans,  yielded  inconclusive  results.  One  study,  that 
+involved  American  employees  of  the  United  States  Embassy  in  Moscow,  did  reveal  considerable 
+neurasthenic  symptomology,  but  these  symptoms  were  not  correlated  with  levels  of  exposure 
+(Lilienfeld.  Tonascia,  Tonascia,  Libauer,  Cauthen,  Markowitz,  and  Weida,  1978). 
+
+One  of  the  weak  points  of  these  projects  was  the  inability  to  measure  correct  dose 
+(exposure;  levels  in  the  subjects.  However,  in  recent  years,  dosimetric  procedures  have  become 
+a  very  important  and  indispensable  part  of  RFEM  research.  The  techniques  and  the  equipment 
+used  to  determine  the  dose  levels  absorbed  by  the  subjects  have  dramatically  improved  (Mathur. 
+Akyel,  and  Lu.  1992). 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+51 
+
+
+On  the  other  hand,  the  major  problem  in  studying  depression  in  the  laboratory  setting  was 
+the  absence  of  an  animal  model  (Willner,  1984).  In  the  last  10  years  a  model  developed  by 
+Porsolt,  LePichon,  and  Jalfre  (1977)  has  raised  a  considerable  amount  of  interest  and  has  been 
+used  extensively  in  testing  antidepressant  substances.  Much  information  regarding  this  test  is 
+now  available.  The  antidepressant  procedures  useful  in  humans  produce  an  effect  in  this  test  and 
+there  is  a  significant  correlation  between  clinical  potency  and  potency  of  antidepressants  in  the 
+behavioral  despair  test  (Alonso,  Castellano,  Afonso,  and  Rodriguez,  1991). 
+
+7.2  Task  Description. 
+
+In  Porsolt’s  behavioral  despair  test,  rats  or  mice  are  forced  to  swim  in  a  confined 
+inescapable  cylinder  containing  water  for  15  min.  After  an  initial  period  of  vigorous  activity,  the 
+animal  becomes  immobile.  On  the  subsequent  immersion  (24  hours  later),  the  onset  of 
+immobility  is  much  more  rapid.  These  behavioral  observations  suggest  that  the  animals,  on 
+finding  that  escape  is  impossible,  give  up  trying  and  resign  themselves  to  the  experimental 
+conditions.  Porsolt,  Anton,  Blavet,  and  Jalfre  (1978)  hypothesized  that  the  observed  immobility 
+reflected  a  state  of  lowered  mood  or  hopelessness  in  the  rat  and  predicted  that  immobility  would 
+be  reduced  by  treatments  which  are  known  to  be  affective  in  alleviating  depression  in  humans. 
+Thus,  tricyclic  antidepressants  (Kitada.  Miyauchi,  Satoh,  and  Satoh,  1981),  monoamineoxidase 
+inhibitors  (Drago,  Continella,  Mason,  Hernandez,  and  Scapagnini,  19^),  as  well  as 
+electroconvulsive  shock  (Kawashima,  Araki,  Uchiyama,  and  Aihara,  1987),  and  REM  sleep 
+deprivation  (Hodgson,  1984)  tend  to  reduce  immobility  in  forced-swimming  test 
+
+The  extent  to  which  the  forced-swimming  test  is  specific  for  depression  has  been 
+questioned,  and  it  has  been  suggested  that  it  only  measures  general  activity  which  can  easily  be 
+measured  by  an  open-field  activity  monitor  (Borsini,  Volterra,  and  Meli,  1986;  Nishimura,  Tsuda, 
+Oguchi,  Ida,  and  Tanaka,  1988).  However.  Alonso,  Arevalo.  Afonso,  and  Rodriguez  (1991) 
+showed  that  open-field  activity  and  forced-swimming  tests  are  modified  in  a  different  way  by 
+drugs  or  by  electric  shock.  They  also  found  no  significant  correlation  between  activity  in  the 
+open-field  test  and  in  the  forced-swimming  test. 
+
+In  recent  years  a  thorough  exploration  of  the  procedures  used  during  the  forced-swimming 
+test  revealed  that  trained  observers  are  as  good  as  an  automated  version  in  recording  immobility 
+time  and  that  the  swimming  performance  is  sensitive  to  water  depth  (De  Pablo,  Parra.  Segovia. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+52 
+
+
+and  Guillamon,  1989).  Moreover,  it  has  been  found  that  swimming  in  a  cylinder  in  which 
+another  rat  had  been  swimming  decreased  the  immobility  time  due  to  a  pheromone  released  by 
+rats  after  a  3.5-min  or  longer  swimming  period  (Abel  and  Bilitzke,  1990;  Abel,  1991). 
+
+Given  the  recent  improvements  in  dosimetry  for  high-power  microwave  studies,  and  a 
+better  understanding  of  the  validity  of  the  forced-swimming  test  paradigm,  it  would  seem  that 
+this  was  an  opportune  time  to  study  neurasthenic  sympthomology  of  "microwave  sickness”  using 
+the  forced-swimming  test  as  an  animal  model  of  depression.  The  objective  of  this  e.xperiment 
+was  to  determine  the  effects  of  high  energy  pulsed  microwave  exposures  on  forced-swimming 
+test  in  rats’  performance,  which  is  a  widely  accepted  and  reliable  model  for  human  depression 
+and  behavioral  despair. 
+
+7.3  Materials  and  Methods 
+
+7.3.1  Subjects 
+
+Male  albino  Sprague-Dawley  rats  were  housed  in  temperature  and  humidity  controlled 
+modules  designed  for  long  term  housing  in  the  DMR  laboratories.  The  vivarium  was  maintained 
+at  22°  C,  50%  relative  humidity,  under  a  12  hour  light-dark  cycle;  lights  activated  at  0600. 
+
+7.3.2  Apparatus 
+
+All  exposures  were  performed  with  pulsed  microwave  radiation  at  DMR  laboratories  using 
+a  700  MegaWatt  peak  power  pulsed  microwave  generator  (TEMPO)  operating  at  3  GHz. 
+TEMPO  pulses  are  80  nsec  width  and  be  produced  at  a  rate  of  1  pulse/8  s.  A  corner  reflector 
+was  used  to  concentrate  radiation  from  a  transmitting  antenna  onto  a  platform  immediately  inside 
+the  reflector.  This  increased  the  exposure  density  by  a  factor  of  10.  The  animals  to  be  exposed 
+were  restrained  in  plastic  holders  on  the  platform.  The  platform  was  located  in  the  reflector  and 
+in  the  center  of  the  beam  from  the  transmitter’s  horizontally  polarized  slot  antenna. 
+
+For  Porsolt's  forced-swimming  task,  a  clear  vertical  Polycarbonate  cylinder  (height  50  cm; 
+diameter  20  cm)  containing  22  cm  of  water  maintained  at  the  room  temperature  (23°  C)  was 
+used. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+53 
+
+
+7.3.3  Behavioral  Testing 
+
+
+Rats  were  plunged  individually  into  the  cylinder  containing  water.  The  water  level  was 
+adjusted  such  that  as  the  rat  floated  with  its  nose  above  the  water  and  its  rear  paws  could  not 
+touch  the  bottom  of  the  container.  After  15  min  in  the  cylinder  the  animals  were  removed  and 
+allowed  to  dry  for  30  min  in  a  heated  enclosure  (28°  C)  before  being  returned  to  their  individual 
+cages.  One  day  later  the  rats  were  again  placed  in  the  cylinder  and  the  duration  of 
+immobilization  was  quantified  during  the  following  5  min.  Because  of  the  alarm  substance  (low 
+volatile  pheromone)  produced  by  the  rats  during  the  swimming  (Abel,  1991),  the  cylinder  was 
+cleaned  and  the  water  was  replaced  after  each  task. 
+
+A  rat  was  judged  to  be  immobile  when  it  was  floating  passively,  making  only  those 
+movements  necessary  to  keep  its  head  above  the  water.  The  swirruning  behavior  was  tape 
+recorded  via  a  video  camera  and  the  cumulative  time  spent  immobile  was  recorded  by  stopwatch 
+by  an  individual  who  was  unaware  of  the  prior  treatment  of  the  animals. 
+
+Prior  to  the  second  immersion,  animals 
+were  either  exposed  to  200  full  power 
+TEMPO  pulses  that  lasted  30  min  (exposure 
+group)  or  sham-exposed  forShe  same  period 
+of  time  in  the  same  microwave  chamber. 
+Each  group  consisted  of  13  animals. 
+
+7.4  Results 
+
+In  this  study  immobility  is  considered 
+to  be  an  indicator  of  despair.  It  was 
+hypothesized  that  there  would  be  a  difference 
+in  the  duration  of  immobility  time  between  the  TEMPO  exposed  group  and  the  sham  group.  As 
+can  be  seen  in  Figure  20  an  independent  t-test  comparing  the  two  groups  showed  that  the 
+nonexposed  group  stayed  immobile  in  the  water  slightly  longer  than  the  exposed  group  but  this 
+difference  was  not  reliable  (t  =  .41,  df  =  24,  p  =  .687). 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+54 
+
+
+As  an  additional  measure  of  stress,  rat  droppings  were  counted  in  all  the  sessions. 
+However,  an  independent  t-test  did  not  reveal  any  reliable  difference  between  the  number  of 
+droppings  of  the  sham  and  the  exposed  groups  (t  =  .82.  df  =  24,  p  =  .421). 
+
+7.5  Discussion 
+
+The  present  experiment  used  Porsolt’s  forced-swimming  task  as  a  model  of  depression 
+to  investigate  the  effects  of  acute  exposure  to  high  power  pulsed  microwave  fields.  Evidence  that 
+HPP.Vl  affected  performance  was  not  found  in  this  study.  Hence,  we  cannot  conclude  that  HPPM 
+affects  depression  or  despair.  However,  this  result  might  be  due  to  the  fact  that  only  acute  RF 
+exposures  as  opposed  to  chronic  exposures  were  used.  According  to  the  literature,  symptoms  of 
+neurasthenic  syndrome  or  "microwave  sickness"  develop  after  a  long-term  exposure  to  microwave 
+fields.  Since  there  are  indications  that  chronic  exposures  may  yield  quite  different  results  it  is 
+important  that  this  area  be  pursued  further.  Future  experiments  on  high  power  microwaves  need 
+to  focus  more  on  the  effects  of  chronic  exposures  to  such  fields. 
+
+
+Behavior"!  Toxicology  of  HPPM 
+
+
+55 
+
+
+SECTION  8:  SUMMARY,  CONCLUSIONS  AND  RECOMMENDATIONS 
+8.1  Summary  of  Results 
+
+The  TEMPO  exposure  system  is  a  unique  experimental  platform  for  the  study  of  the 
+biological  and  behavioral  effects  of  radiofrequency  electromagnetic  radiation.  The  system  is 
+capable  of  producing  very  high  peak-power  outputs  (approximately  700  MW)  for  very  short 
+periods  of  time  (approximately  80  ns).  As  a  result,  the  average  power  is  well  within  the  range 
+in  which  no  heating  effects  should  be  observed  (approximately  2  W).  The  system  is  capable  of 
+exposing  animals  within  an  anechoic  chamber  which  is  temperature-  and  humidity-controlled,  so 
+that  good  environmental  control  can  be  arranged  during  the  conduct  of  experiments. 
+
+Calorimetry  and  thermometry  indicate  that  the  time-averaged  SAR  produced  by  exposure 
+to  TEMPO  is  well-below  the  recommended  exposure  limits.  The  peak  SAR  (associated  with  the 
+peak  power  output  of  700  MW)  is  25.2  MW/kg,  but  the  time-averaged  SAR  is  merely  0.072 
+W/kg.  Local  SARs  are  in  substantial  agreement  with  this  result,  as  can  be  seen  in  Figure  2.  The 
+highest  SARs  (0.552  W/kg)  were  located  subcutaneously  in  the  region  of  the  nose,  but  were  still 
+within  an  order  of  magnitude  of  the  time-averaged  SAR  obtained  with  calorimetry.  The  average 
+SAR  in  Figure  2  (based  on  the  24  locations)  is  0.17  W/kg,  a  value  which  is  in  substantial 
+agreement  with  the  time-averaged  SAR. 
+
+Five  different  tasks  were  used  to  determine  if  exposure  to  high-peak,  low  average,  power 
+microwave  pulses  has  an  effect  on  behavior  in  the  intact  animal.  Each  task  addresses  different 
+functions  within  the  behaving  organism,  and  some  address  similar  functions.  The  temporal 
+bisection  task  provides  measures  of  sensitivity  to  perceived  differences  in  time,  as  well  as 
+allowing  inferences  concerning  such  cognitive  functions  as  memory,  attention,  and  decision¬ 
+making.  The  Y-Maze  task  was  used  to  determine  if  HPPM  can  disrupt  the  consolidation  of  a 
+short-term  memory  into  a  permanent  memory.  This  task  addresses  the  issue  of  memory  function 
+very  directly,  so  that  the  information  it  provides  is  not  necessarily  redundant  with  that  obtained 
+from  the  bisection  task.  The  treadmill  task,  on  the  other  hand,  is  mainly  concerned  with  physical 
+endurance  and  has  little  functional  overlap  with  any  of  the  other  tasks  except  the  behavioral 
+economics  task.  Motivation  for  food,  as  indicated  by  the  willingness  of  animals  to  press  a  lever 
+repeatedly  for  food,  may  be  construed  as  similar  to  running  on  a  treadmill  to  avoid  foot  shock. 
+A  primary  difference,  however,  is  that  running  on  a  treadmill  is  known  to  affect  the  concentration 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+57 
+
+
+of  oxygen  and  carbon  dioxide  in  the  blood,  whereas  lever-pressing  probably  does  not.  Thus  these 
+tasks  differ  with  regard  to  physical  endurance  while  bearing  equally  on  the  question  of 
+motivation.  The  Porsolt  Swim  Test,  because  of  its  documented  ability  to  predict  the  anti¬ 
+depressant  qualities  of  drugs,  is  probably  best  considered  to  be  a  functional  test  of  mood  (in  this 
+case  despair  or  depression). 
+
+The  bisection  task  indicated  that  time  perception  (i.e.,  the  relationship  between  physical 
+duration  and  perceived  duration,  as  indicated  by  changes  in  the  bisection  point)  is  probably  not 
+affected  by  HPPM.  Sensitivity  to  changes  in  time  (i.e.,  the  ability  to  detect  differences  in 
+duration,  as  indicated  by  the  slope  of  the  psychometric  function  and  A’),  however,  may  be 
+affected.  To  the  non-expert  in  psychophysics  this  may  sound  contradictory,  but  it  is  not.  The 
+task  is  designed  such  that  estimates  of  the  bisection  point  are  not  based  on  the  same  information 
+that  discriminability  estimates  are.  The  bisection  point  reflects  only  changes  in  the  mean  rate  of 
+the  clock,  but  discriminability  uses  the  mean  rate  and  its  variance.  Thus,  this  result  suggests  that 
+a  change  has  occurred  in  the  variance  of  the  timing  system  of  the  rat.  The  result  that  both 
+session  time  and  null  responses  are  also  affected  by  HPPM  further  clarifies  the  situation.  Null 
+responses  are  clearly  under  stimulus  control  (i.e.,  they  are  a  function  of  the  stimulus  duration 
+presented),  so  it  is  impossible  to  claim  that  this  effect  is  a  simple  work  stoppage  (in  which  case 
+the  stimulus  duration  would  be  urelevant).  Null  responses  reflect  decision-making,  and  decision¬ 
+making  is  dependent  (see  Figure  4)  on  the  output  of  the  memory  function,  l^emory  function 
+contributes  to  the  variance  of  the  clock  rate.  Therefore,  it  seems  likely  that  the  effects  of  HPP.M 
+on  null  responses  and  on  time  discrimination  are  both  due  to  a  change  in  memory  function. 
+
+As  noted  above,  memory  function  is  directly  assessed  in  the  Y-maze  memory 
+consolidation  task.  If  memory  function  is  affected  by  HPPM  in  the  bisection  task,  then 
+performance  in  the  Y-maze  task  should  also  be  affected  by  TEMPO  exposures.  Such  an  effect 
+was,  in  fact,  observed,  thereby  lending  strong  support  to  the  hypothesis  that  HPPM  affects 
+memory  function. 
+
+Unlike  the  bisection  and  Y-maze  tasks,  the  treadmill  task  is  primarily  a  test  of  physical 
+endurance.  Treadmill  running  is  widely  used  to  study  exercise  physiology  and  the  factors  which 
+affect  fatigue.  The  treadmill  study  clearly  demonstrated  that  exposure  to  HPPM  affects  the 
+amount  of  time  that  animals  can  run  on  a  treadmill.  We  interpret  this  result  to  indicate  that  the 
+rats  which  are  exposed  to  HPPM  have  less  physical  endurance  than  control  animals.  It  is  also 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+58 
+
+
+possible,  however,  that  HPPM  affected  the  motivation  of  the  exposed  rats  (i.e.,  foot  shock  seemed 
+less  painful  or  salient),  or  that  HPPM  caused  the  rats  to  despair  (i.e.,  "I  might  as  well  give-up 
+running  now,  since  shock  is  inevitable").  These  interpretations  were  addressed  in  the  studies  on 
+motivation  and  behavioral  despair. 
+
+The  behavioral  economics  task  has  demonstrated  sensitivity  to  motivational  variables.  For 
+instance,  animals  with  brain  lesions  in  the  VMH  exhibit  an  altered  pattern  of  food  intake  in  this 
+task.  Since  HPPM-exposed  rats  did  not  show  an  appropriately  altered  pattern  of  food  intake 
+relative  to  controls  in  this  task,  it  appears  unlikely  that  motivation  is  affected  by  HPPM.  This 
+suppons  our  contention  that  physical  endurance  was  affected  by  HPPM  in  the  treadmill  task.  It 
+should  be  noted  that  the  change  in  circadian  rhythm  of  eating  which  was  produced  by  HPPM  in 
+the  behavioral  economics  task  is  not  inconsistent  with  a  change  in  physical  endurance.  Numerous 
+human  studies  have  demonstrated  that  the  performance  of  physical  tasks  is  highly  dependent  on 
+the  time  of  day  (Brown  and  Graeber,  1982).  Thus,  it  is  possible  that  the  decrease  in  physical 
+endurance  observed  in  the  treadmill  task  is  a  consequence  of  altered  circadian  rhythms. 
+
+The  Porsolt  Swim  Test,  on  the  other  hand,  is  a  standard  test  for  anti-depressant  activity 
+in  drugs.  As  such,  we  consider  it  to  be  an  indicant  of  "mood"  in  the  rats.  In  particular,  it 
+provides  information  concerning  depression  or  despair.  Thus,  the  finding  that  animals  exposed 
+to  HPPM  do  not  differ  from  control  animals  suggests  that  HPPM  does  not  affect  mood. 
+Performance  decrements  on  the  treadmill  following  HPPM  treatment,  therefore,  are  probably  not 
+due  to  depression  or  despair. 
+
+We  hypothesize,  therefore,  that  HPPM  has  at  least  two  adverse  effects  in  rats.  First,  as 
+demonstrated  in  the  temporal  bisection  and  Y-maze  tasks,  HPPM  appears  to  interfere  with 
+memory.  This  effect  occurs  at  the  level  of  memory  consolidation  (Y-maze)  task,  and  may  also 
+involve  other  memory  processes  such  as  comparison  of  short-  and  long-term  memory  traces 
+(bisection  task).  This  conclusion  is  supported  by  the  work  of  Lai  and  his  colleagues  (Lai  et  al., 
+1989)  who  have  also  found  evidence  that  microwave  exposure  affects  memory  and  learning. 
+Second,  HPPM  reduces  physical  endurance  (treadmill).  The  mechanism  of  this  effect  is  possibly 
+due  to  disrupted  circadian  rhythms  (behavioral  economics  task),  and  is  probably  not  due  to 
+changes  in  motivational  (behavioral  economics  task)  or  mood  states  (Porsolt  swim  test).  The 
+mechanisms  of  both  effects  require  additional  research  and  investigation.  This  would  be  best 
+done  with  tasks  which  specifically  target  the  functions  of  interest  and/or  alternative  mechanisms. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+59 
+
+
+8.2  Safety  Standards 
+
+
+As  noted  in  the  Introduction,  current  safety  standards  do  not  address  the  issue  of  the  peak 
+power  that  can  be  used  to  achieve  a  "safe”  microwave  dose.  In  the  experiments  reported  here, 
+time-averaged  SARs  were  all  well  below  the  suggested  whole-body  dose  of  0.4  W/kg.  This 
+suggests  that  peak  power  may  also  have  to  be  considered  in  the  formulation  of  maximum 
+permissible  exposure  levels  for  HPPM. 
+
+
+\ 
+
+
+Behavioral  Toxicology  of  HPPM  ^ 
+
+
+SECTION  9:  FUTURE  DIRECTIONS  FOR  RESEARCH 
+
+
+The  TEMPO  is  a  unique,  highly  reliable  HPPM  source  which  has  allowed  replicable 
+investigation  of  the  implications  of  low  average,  high  peak  power  microwave  exposures.  Since 
+the  acute  exposures  which  have  been  pursued  to  date  appear  not  to  produce  any  long-term  or 
+cumulative  effects  (see  particularly  the  temporal  bisection  experiment),  it  is  important  to  redirect 
+research  objectives  toward  developing  protocols  involving  long  duration  exposures  with  extended 
+post  exposure  evaluation  of  subjects.  This  approach  is  especially  important  since  it  would  more 
+nearly  approximate  the  occupational  hazards  prevalent  within  the  Department  of  Defense. 
+
+Historically,  the  military  services  often  find  themselves  subjected  to  public,  scientific  and 
+legal  expressions  of  concern  regarding  soldier  safety  following  introduction  of  new  systems. 
+Many  weapon  systems  currently  under  development  or  in  the  inventory  take  advantage  of  highly 
+sophisticated  technologies,  such  as  radars,  which  emit  radiofrequency  (RF)  radiation. 
+Additionally,  to  reduce  or  minimize  the  potential  for  detection,  these  same  systems  employ  short 
+burst,  high  energy  emissions  that  could  potentially  present  a  hazard  to  soldiers  over  the  long 
+term.  Current  safety  standards  do  not  appreciably  consider  these  potential  hazards  since  they  are 
+currently  not  clearly  defined  or  understood.  Therefore,  it  is  imperative  that  safety  thresholds  be 
+determined  in  a  scientifically  defensible  manner. 
+
+\ 
+
+To  date,  effects  have  been  studied  within  a  short  post-exposure  time  frame.  Most  of  our 
+behavioral  measurements  have  occurred  within  24  h  of  exposure  to  HPPM.  Vinually  nothing  is 
+known  concerning  the  effects  of  chronic  HPPM  exposures  of  the  type  produced  by  TEMPO. 
+There  is  a  clear  need  to  determine  if  there  are  effects  of  HPPM  during  exposure  and  at  longer 
+post-exposure  test  intervals.  The  presence  of  acute  exposure  effects  enhances  the  importance  of 
+extending  our  research  in  this  direction.  We  suggest  that  several  areas  be  addressed  in  future 
+research  on  this  basis. 
+
+Although  noise  and  ionizing  radiation  do  not  appear  to  correlate  with  changes  in  behavior 
+that  are  RF-dose  dependent,  it  would  be  desirable  to  expose  animals  to  HPPM  in  the  absence  of 
+such  environmental  disturbances.  The  need  to  eliminate  extraneous  stimulation  from  the  exposure 
+environment  and  the  need  to  study  chronic  exposures  both  indicate  a  requirement  for  additional 
+research  on  bioeffects  exposure  platforms. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+61 
+
+
+We  have  suggested  that  the  high  peak-power  produced  by  TEMPO  may  be  responsible 
+for  the  observed  behavioral  effects.  In  the  near  future  we  plan  to  compare  TEMPO  exposures 
+with  comparable  average  power  CW  source  exposures.  Acute  and  chronic  exposures  should  also 
+be  compared  in  this  regard.  In-field  behavioral  tests  are  particularly  challenging  to  perform,  but 
+may  provide  the  best  indicant  of  possible  adverse  effects. 
+
+To  date,  very  few  behavioral  paradigms  have  been  examined.  The  logical  approach  is  to 
+extend  investigation  into  those  areas  where  effects  have  already  been  discovered.  This  however, 
+should  not  preclude  other  exploratory  investigations  with  untested  behavioral  paradigms. 
+
+
+\ 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+62 
+
+
+SECTION  10:  BIBLIOGRAPHY 
+
+
+Abel.  E.  (1991).  Alarm  substance  emitted  by  rats  in  the  forced-swim  test  is  a  low  volatile 
+pheromone.  Physiology  and  Behavior,  50,  723-727. 
+
+Abel,  E.  L.  and  Bilitzke,  P.  J.  (1990).  A  possible  alarm  substance  in  the  forced  swimming  test. 
+Physiology  and  Behavior,  48,  233-239. 
+
+Adey,  W.  R.  (1981).  Tissue  interactions  with  nonionizing  electromagnetic  fields.  Physiological 
+Reviews,  61,  435-514. 
+
+Akyel,  Y.,  Raslear,  T.  G.,  Hammer,  R.  M.,  Belt,  M.  (1992).  The  effects  of  high-peak  power 
+pulsed  microwaves  on  treadmill  performance  in  the  rat.  Abstracts  of  the  First  World 
+Congress  for  Electricity  and  Magnetism  in  Biology  and  Medicine,  p.  60. 
+
+Alonso,  S.  J.,  Arevalo,  R,  Afonso,  D.,  and  Rodriguez,  M.  (1991).  Effects  of  maternal  stress 
+during  pregnancy  on  forced  swimming  test  behavior  of  the  offspring.  Physiology  and 
+Behavior,  50,  511-517. 
+
+Alonso,  S.  J.,  Castellano,  M.  A.,  Afonso,  D.,  and  Rodriguez,  M.  (1991).  Sex  differences  in 
+behavioral  despair:  relationships  between  behavioral  despair  and  open  field  activity. 
+Physiology  and  Behavior,  49,  69-72. 
+
+American  National  Standards  Institute.  (1992).  Safety  levels  with  respect  to  human  exposure  to 
+radio  frequency  electrumagnetic  fields,  3  kHz  to  300  GHz  (Report  No.  ANSI  C95. 1-1991 ). 
+New  York;  The  Institute  of  Electrical  and  Electronic  Engineers  Inc. 
+
+.■\merican  Psychiatric  Association.  (1987).  Diagnostic  and  statistical  manual  of  mental  disorders 
+(3rd  ed.  rev.).  Washington.  D.C.;  .Author. 
+
+.Armstrong.  R.  B.,  and  Laughlin,  M.  H.  (1985).  Rat  muscle  blood  flows  during  high-speed 
+locomotion.  Journal  of  Applied  Physiology,  59.  1322-1328. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+63 
+
+
+Bassen,  H.  ( 1989).  U.S.  Army  high  power  microwave  biological  effects  research.  Seventh  DOD 
+Conference  on  DEW  Vulnerability,  Survivability,  and  Effects. 
+
+Bates,  F.,  and  Bas.sen,  H.  (1989).  A  biological  effects  exposure  facility  utilizing  and  800 
+megawatt  peak  power  pulsed  microwave  source.  Proceedings  of  the  International 
+Conference  of  the  IEEE  Engineering  in  Medicine  and  Biology  Society,  II,  1134-1135. 
+
+Bedford,  T.  G.,  Tipton,  C.  M.,  Wilson.  N.  C.,  Oppliger,  R.  A.,  and  Gisolfi,  C.  V.  (1979). 
+Maximum  oxygen  consumption  of  rats  and  its  changes  with  various  experimental 
+procedures.  Journal  of  Applied  Physiology,  47,  1278-1283. 
+
+Bermant,  R.,  Reeves,  D.,  Levinson,  D.,  and  Justesen,  D.  (1979).  Classical  conditioning  of 
+microwave-induced  hyperthermia  in  rats.  Radio  Science,  14,  201-207. 
+
+Boakes,  R.  A.  (1969).  The  bisection  of  a  brightness  interval  by  pigeons.  Journal  of  the 
+Experimental  Analysis  of  Behavior,  12,  201-209. 
+
+Borsini,  F.,  Volterra,  G.,  and  Meli,  A.  (’.‘'soi  Does  the  behavioral  ’’despair"  test  measure 
+’’despair’’  .’  Physiology  and  Behavior,  J8,  385-386.  ^ 
+
+Bradley,  J.  V.  (1968).  Distribution-free  statistical  tests.  Englewood  Cliffs,  N.J.:  Fh-entice-Hall. 
+
+Brown,  F.  W.,  and  Graeber,  R.  C.  (Eds.).  (1982).  Rhythmic  aspects  of  behavior.  Hillsdale,  N.J.: 
+Erlbaum. 
+
+Cain.  C.  ,A.,  and  Rissman,  W.  J.  (1978).  Mammalian  auditory  responses  to  3.0  GHz  microwave 
+pulses.  IEEE  Transactions  on  Biomedical  Engineering,  25,  288. 
+
+Carroll,  D.  R..  Levinson.  D.  M.,  Justesen.  D.  R.,  and  Clarke,  R.  C.  (1980).  Failure  of  rats  to 
+escape  from  a  potentially  lethal  microwave  field.  Bioelectromagnetics.  /,  101-115. 
+
+Chou,  C.  K.,  Guy.  A.  W..  and  Galambos,  R.  (1982).  Auditory  perception  of  radio-frequency 
+electromagnetic  fields.  Journal  of  the  Acoustical  Society  of  America,  71,  1321-1334. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+64 
+
+
+Church,  R.  M.,  and  Deluty,  M.  A.  (1977).  Bisection  of  temporal  intervals.  Journal  of 
+Experimental  Psychology:  Animal  Behavior  Processes,  3,  216-228. 
+
+Church,  R.  M.  (1984).  Properties  of  the  internal  clock.  Annals  of  the  New  York  Academy  of 
+Sciences,  423,  566-582. 
+
+Cleary,  S.  F.,  Nickless,  F.,  Liu,  L.  VI..  and  Hoffman,  R.  (1980).  Studies  of  e.xposure  of  rabbits 
+to  electromagnetic  pulsed  fields.  Bioelectromagnetics,  /,  345-352. 
+
+Cordts,  R.  E.,  Merritt,  J.  H.,  Erwin.  D.  N.,  Hardy,  K.  A.,  and  Yochmowitz,  M.  G.  (1988). 
+Behavioral  response  of  rats  exposed  to  high-power  microwave  radiation.  US  AFSAM-TR- 
+87-30.  Brooks  Air  Force  Base,  TX. 
+
+Costermans,  J.,  Lories,  G.,  and  Ansay,  C.  (1992).  Confidence  level  and  feeling  of  knowing  in 
+question  answering;  The  weight  of  mferential  processes.  Journal  of  Experimental 
+Psychology:  Learning,  Memory,  and  Cognition,  18,  142-150. 
+
+Cure,  M.,  and  Rolinat,  J.  P.  (1992).  Behavioral  heterogeneity  in  Sprague-Dawley  rats. 
+Physiology  &  Behavior,  51,  771-774. 
+
+D’Andrea,  J.  A.,  and  Cobb,  B.  L.  (1987).  High  peak  power  microwave  pulses  at  I J  GHz: 
+Effects  on  fixed  interval  and  reaction  time  performance  in  rats  (Report  No.  NAMRL- 
+1337).  Pensacola,  FL;  Naval  Aerospace  Medical  Research  Laboratory. 
+
+D’Andrea,  J.  A.,  Cobb,  B.  L.,  and  de  Lorge,  J.  O.  (1989).  Lack  of  behavioral  effects  in  the 
+Rhesus  monkey:  High  peak  microwave  pulses  at  1.3  GHz.  Bioelectromagnetics.  10,  65- 
+76. 
+
+de  Lorge,  J.  O.  (1979a).  The  effects  of  microwave  radiation  on  behavior  and  temperature  in 
+rhesus  monkeys.  IN  C.  C.  Johnson  and  M.  L.  Shore  feds.).  Biological  effects  of 
+electromagnetic  waves.  Vol.  f.  HEW  Publication  (FDA)  77-8010.  Rockville,  .VID.  Pp. 
+158-174. 
+
+
+Behavioral  Toxicology  of  HPP.Vf 
+
+
+65 
+
+
+de  Lorge,  J.  O.  (1979b).  Disruption  of  behavior  in  mammals  of  three  different  sizes  exposed  to 
+microwaves:  Extrapolation  to  larger  mammals.  IN  S.  Stuchly  (ed.).  Electromagnetic  fields 
+in  biological  systems.  Ottawa,  Canada.  Pp.  215-228. 
+
+de  Lorge,  J.  O.,  and  Ezell,  C.  S.  (1980).  Observing-responses  of  rats  exposed  to  1.28-  and  5.62 
+GHz  microwaves.  Bioelectromagnetics,  /,  183-198. 
+
+De  Pablo,  J.  M.,  Parra,  A.,  Segovia,  S.  and  Guillamon,  A.  (1989).  Learned  immobility  explains 
+the  behavior  of  rats  in  the  forced  swimming  test.  Physiology  and  Behavior,  46.  229-237. 
+
+Drago,  F.,  Continella,  G.,  Mason,  G.  A.,  Hernandez,  D.  E.,  and  Scapagnini,  U.  (1985). 
+Phospholipid  liposomes  potentiate  the  inhibitory  effects  of  antidepressant  drugs  on 
+immobility  of  rats  in  a  despair  test.  European  Journal  of  Pharmacology,  115,  179-185. 
+
+
+Duncan,  C.  P.  (1949).  The  retroactive  effect  of  electroshock  on  learning.  Journal  of 
+Comparative  and  Physiological  Psychology,  42,  32-44. 
+
+Durney,  C.  H.,  Johnson,  C.  C.,  Barber,  P.  W.,  Massoudi,  H.,  Iskander,  M.  G.,  Lords,  J.  C., 
+Reyser,  D.  K.,  Allen,  S.  J.,  and  Mitchell,  J.  C.  (1978).  Radiofre^ency  radiation 
+dosimetry  handbook.  (2nd  edition).  USAFSAM-TR -78-22.  San  Antonio,  TX:  Brooks  Air 
+Force  Base. 
+
+Engen,  T.  (1971).  Psychophysics.  I.  Discrimination  and  detection.  IN  J.  W.  KJing  and  L.  A. 
+Riggs  (Eds.),  Woodworth  &  Schlosberg  s  Experimental  Psychology  (3rd  ed.,  pp.  1 1-46). 
+New  York:  Holt,  Rinehart  and  Winston. 
+
+Fagot,  R.  F.,  and  Stewart,  M.  R.  ( 1970).  Test  of  a  response  bias  model  of  bisection.  Perception 
+&  Psychophysics.  7,  257-262. 
+
+Fields.  P.  E.  (1957).  The  effect  of  whole-body  X  radiation  upon  activity  drum,  straightaway,  and 
+maze  performances  of  white  rats.  Journal  of  Comparative  Physiology.  50.  386-391. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+66 
+
+
+Francesconi,  R.,  and  Mager,  M.  (1979).  Hypothermia  induced  by  chlorpromazine  or  L- 
+tryptophan;  effects  on  treadmill  performance  in  the  heat.  Journal  of  Applied  Physiology. 
+47.  813-817. 
+
+Francesconi,  R.,  an  Mager,  M.  (1980).  Hypothermia  induced  by  5-thio-D-glucose:  effects  on 
+treadmill  performance  in  the  heat.  Aviation  Space  and  Environmental  Medicine,  51.  754- 
+758. 
+
+Frey,  A.  H.,  Feld,  S.  R.,  and  Frey,  B.  (1975).  Neuronal  function  and  behavior.  Annals  of  the 
+New  York  Academy  of  Science,  247,  433-439. 
+
+Gage,  M.  I.  (1984).  Behavior.  In  J.  A.  Elder  and  D.  F.  Cahill  (Eds.),  Biological  effects  of 
+radiofrequency  radiation  (EPA-600/8-83-026F,  pp.  5-53  -  5-63).  Research  Triangle  Park, 
+NC:  United  States  Environmental  Protection  Agency. 
+
+Gambrill,  C.  S.,  DeAngelis,  M.  L.,  and  Lu,  S-T.  (1992).  Error  analysis  of  a  thermometric 
+microwave  dosimetry  procedure.  Abstracts  of  the  First  World  Congress  for  Electricity 
+and  Magnetism  in  Biology  and  Medicine,  p.  52. 
+
+\ 
+
+Gandhi,  O.  P.,  Hunt,  E.  L.,  and  D’Andrea,  J.  A.  (1977).  Deposition  of  electromagnetic  energy 
+in  animals  and  in  models  of  man  with  and  without  grounding  reflector  effects.  Radio 
+Sciences,  12,  39-45. 
+
+Gandhi,  O.  P.  and  Hunt,  E.  L.  (1980).  Corner-reflector  applicators  for  uniiateral  exposure  of 
+animals  in  bioeffect  experiments.  Proceedings  of  IEEE,  68,  160-162. 
+
+Gerald,  M.  C.  (1978).  Effects  of  (+)-amphetamine  on  the  treadmill  endurance  performance  of 
+rats.  Neuropharmacology,  /  7.  703-704. 
+
+Gibbon,  J.  (1977).  Scalar  expectancy  theory  and  Weber’s  Law  in  animal  timing.  Psychological 
+Review,  84.  279-325. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+67 
+
+
+Gibbon,  J.,  and  Church,  R.  M.  (1984).  Sources  of  variance  in  an  information  processing  theory 
+of  timing.  IN  H.  L.  Roitblal,  T.  G.  Sever,  and  H.  S.  Terrace  (Eds.),  Animal  cognition, 
+Hillsdale,  NJ:  Erlbaum. 
+
+Gott,  C.  T.  &  B.  Weiss  (1972).  The  development  of  fi,\ed-ratio  performance  under  the  influence 
+of  ribonucleic  acid.  Journal  of  the  Experimental  Analysis  of  Behavior,  IS,  481-498. 
+
+Green,  D.  M.,  and  Swets,  J.  A.  (1974).  Signal  detection  theory  and  psychophysics.  New  York: 
+Krieger. 
+
+Grier,  J.  B.  (1971).  Nonparametric  indexes  for  sensitivity  and  bias:  computing  formulas. 
+Psychological  Bulletin,  75,  424-429. 
+
+Guilford,  J.  P.  (1954).  Psychometric  methods.  New  York:  McGraw-Hill. 
+
+Guy,  A.  W.,  Chou,  C.  K.,  and  Christensen,  D.  (1975).  Microwave-induced  acoustic  effects  in 
+mammalian  auditory  systems  and  physical  materials.  Annals  of  the  New  York  Academy 
+of  Science,  247,  194-215. 
+
+Hillegaan,  V.,  and  Ahlenius,  S.  (1987).  Effects  of  raclopride  on  exploratory  l^omotor  activity, 
+treadmill  locomotion,  conditioned  avoidance  behaviour  and  catalepsy  in  rats:  behavioural 
+profile  comparisons  between  radclopride,  haloperidol  and  preclamol.  Pharmacology  and 
+Toxicology,  60,  350-354. 
+
+Hirsch,  F.  G.,  McGiboney,  D.  R.,  and  Hamish,  T.  D.  (1968).  The  psychologic  consequences  of 
+exposure  to  high  density  pulsed  electromagnetic  energy.  International  Journal  of 
+Biometerology,  12,  263-270. 
+
+Hjeresen,  D.  L.,  Doctor.  S.  R.,  and  Skeldon.  R.  L.  (1979).  Shuttlebox  side  preferences  as 
+mediated  by  pulsed  microwave  and  conventional  auditory  cues.  IN  S.  Stuchley  (ed.). 
+Electromagnetic  fields  in  biological  systems.  Ottawa,  Canada.  Pp.  194-214. 
+
+Hodgson.  J.  A.  (1984).  Swimming  immobility  of  RE.VI  sleep  deprived  rats  reared  in  different 
+environments.  Physiology  and  Behavior,  32.  17-22. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+68 
+
+
+Hunt,  E.  L..  King,  N.  W.,  and  Phillips,  R.  D.  (1975).  Behavioral  effects  of  pulsed  microwave 
+radiation.  Annals  of  the  New  York  Academy  of  Science,  247,  440-453. 
+
+Hursh,  S.  R.  (1984).  Behavioral  economics.  Journal  of  the  Experimental  Analysis  of  Behavior, 
+42,  435-452. 
+
+Hursh.  S.  R.,  T.  G.  Raslear,  D.  Shurtleff,  R.  Bauman  &  L.  Simmons  (1988).  A  cost-benefit 
+analysis  of  demand  for  food.  Journal  of  the  Experimental  Analysis  of  Behavior,  50.  419- 
+440. 
+
+Johnson,  R.  B.,  Meyers,  D.  E.,  Guy,  A.  W.,  Lovely,  R.  H.,  and  Galambos.  R.  (1976). 
+Discriminative  control  of  appetitive  behavior  by  pulsed  microwave  radiation  in  rats.  IN 
+C.  C.  Johnson  and  M.  L.  Shore  (eds.).  Biological  effects  of  electromagnetic  waves.  HEW 
+Publication  (FDA)  77-8010.  Pp.  238-247. 
+
+Jones,  D.  C.,  Osborn,  G.  K.,  and  Kimeldorf,  D.  J.  (1967).  Treadmill  exercise  performance  by 
+the  aging  irradiated  rat.  Radiation  Research,  30,  714-724. 
+
+Kawashima,  K.,  Araki,  H.,  Uchiyama,  Y.,  and  Aihara,  H.  (1987).  Amygdaloid  catecholaminergic 
+mechanisms  involved  in  suppressive  effects  of  electroconvulsive  shock  on  duration  of 
+immobility  in  rats  forced  to  swim.  European  Journal  of  Pharmacology,  141 ,  1-6. 
+
+Kholodov,  Yu,  A.  (1975).  Reaction  of  the  nervous  system  to  electromagnetic  fields.  Moscow. 
+(Cited  in  Postow  and  Swicord,  1986). 
+
+King,  N.  W.,  Justesen,  D.  R.,  and  Clarke,  R.  L.  (1971).  Behavioral  sensitivity  to  microwave 
+irradiation.  Science,  172,  398-400. 
+
+Kitada,  Y.,  Miyauchi,  T.,  Satoh,  A,  and  Satoh,  A.  (1981).  Effects  of  antidepre.ssants  in  the  rat 
+forced  swimming  test.  European  Journal  of  Pharmacology,  14,  145-152. 
+
+Klauenberg,  B.  J.,  Merritt,  J.  H..  and  Erwin,  D.  N.  (1988).  Behavioral  effects  of  e.xposure  to  the 
+TEMPO  high-power  microwave  system.  USAFSAM-TR-87-35.  Brooks  Air  Force  Base, 
+TX. 
+
+
+Behavioral  Toxicology  of  HPP.Vl 
+
+
+69 
+
+
+Lebovitz,  R.  M.  (1983).  Modulated  and  continuous  wave  microwave  radiation  yield  equivalent 
+changes  in  operant  behavior  of  rodents.  Physiology  &  Behavior,  30,  891-898. 
+
+Lai,  H.  (1987).  Acute  exposure  to  noise  affects  sodium-dependent  high-affinity  choline  uptake 
+in  the  central  nervous  system  of  the  rat.  PhatTnacology,  Biochemistry  &  Behavior,  28. 
+147-151. 
+
+Lai,  H.  (1988).  Effects  of  repeated  exposure  to  white  noise  on  central  cholinergic  activity  in  the 
+rat.  Brain  Research,  442,  403-406. 
+
+Lai,  H.,  Carino,  M.  A.,  Horita,  A.,  and  Guy,  A.  W.  (1989).  Low-level  microwave  irradiation  and 
+central  cholinergic  systems.  Pharmacology,  Biochemistry  &  Behavior,  33,  131-138. 
+
+
+Lai,  H.,  Horita,  A.,  Chou,  C-K.,  and  Guy,  A.  W.  (1987a).  Low-level  microwave  irradiation 
+attenuates  naloxone- induced  withdrawal  syndrome  in  morphine-dependent  rats. 
+Pharmacology,  Biochemistry  &  Behavior,  24,  151-153. 
+
+Lai,  H.,  Horita,  A.,  Chou.  C-K.,  and  Guy,  A.  W.  (1987b).  Effects  of  low-level  microwave 
+irradiation  on  hippocampal  and  frontal  cortical  choline  uptake^  are  classically 
+conditionable.  Pharmacology,  Biochemistry  &  Behavior,  27,  635-639. 
+
+Lai,  H.,  Horita,  A.,  Chou,  C-K.,  and  Guy,  A.  W.  (1987c).  Low-level  microwave  irradiations 
+affect  central  cholinergic  activity  in  the  rat.  Journal  of  Neurochemistry,  48,  40-45. 
+
+Lilienfield,  A.  M.,  Tonascia,  J.,  Tonascia,  S.,  Libauer,  C.  H.,  Cauthen,  G.  M.,  Markowitz,  J.  A., 
+and  Weida,  S.  (1978).  Foreign  Service  Health  Status  Study-Evaluation  of  Health  Status 
+of  Foreign  Service  and  Other  Employees  from  Selected  Eastern  European  Posts.  Final 
+Report  Contract  No.  6025-619073,  Department  of  Sute,  Washington,  D.C.  in  Biological 
+Effects  and  Exposure  Criteria  for  Radiofrequency  Electromagnetic  Fields.  National 
+Council  on  Radiation  Protection  and  Measurements  (NCRP)  Report  No.  86.  Bethesda. 
+.MD. 
+
+Lin,  J.  C.  (1980).  The  microwave  auditory  phenomenon.  Proceedings  of  the  IEEE,  68,  67-73. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+70 
+
+
+Lindsay,  P.  H.,  and  Norman,  D.  A.  (1972).  Human  information  processing.  New  York; 
+Academic  Press. 
+
+Lu,  S-T.,  DeAngelis,  M.  L.,  and  Gambrill,  C.  S.  (1992).  Ocular  microwave  thermometric 
+dosimetry  and  thermometry  in  the  rabbit.  Abstracts  of  the  First  World  Congress  fur 
+Electricity  and  Magnetism  in  Biology  and  Medicine,  p.  6 1 . 
+
+Maricq,  A.  V.,  and  Church,  R.  M.  (1983).  The  differential  effects  of  haloperidol  and 
+methamphetamine  on  time  estimation  in  the  rat.  Psychopharmacology,  79,  10-15. 
+
+Maricq,  A.  V.,  Roberts,  S..  and  Church,  R.  M.  (1981).  Methamphetamine  and  time  estimation. 
+Journal  of  Experimental  Psychology:  Animal  Behavior  Processes,  7,  18-30. 
+
+Mathur,  S.  P.,  Akyel,  Y.,  and  Lu,  S-T.  (1992).  Whole-body  microwave  dosimetry  based  on  a 
+single  gradient-layer  calorimeter.  Bioelectromagnetics,  13,  435-438. 
+
+Mazur,  J.  E.  (1983)  Steady-state  performance  on  fixed-,  mixed-,  and  random-ratio  schedules. 
+Journal  of  the  Experimental  Analysis  of  Behavior,  39,  293-307. 
+
+McGaugh,  J.  L.  (1990).  Significance  and  remembrance;  The  role  of  neuromodulatory  systems. 
+Psychological  Science,  /,  15-25. 
+
+Mc.Millan,  D.  E.  &  JU.  D.  Leander  (1976).  Effects  of  drugs  on  schedule-controlled  behavior. 
+In  S.  D.  Glick  and  J.  Goldfarb  (eds.).  Behavioral  pharmacology  (pp.  85-139).  St.  Louis, 
+Mosby. 
+
+Meek.  W.  H.  (1983).  Selective  adjustment  of  the  speed  of  internal  clock  and  memory  processes. 
+Journal  of  Experimental  Psychology:  Animal  Behavior  Processes,  9,  171-201. 
+
+Mele,  P.  C.,  Franz,  C.  G.,  and  Harrison,  J.  R.  (1988).  Effects  of  sublethal  doses  of  ionizing 
+radiation  on  schedule-controlled  performance  in  rats.  Pharmacology  Biochemistry  & 
+Behavior,  30,  1007-1014. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+71 
+
+
+Mele.  P.  C.,  Franz,  C.  G.,  and  Harrison.  J.  R.  (1990).  Effects  of  ionizing  radiation  on  fixed-ratio 
+escape  performance  in  rats.  Neurotoxicology  and  Teratology,  12,  367-373. 
+
+Michaelson,  S.  M.  (1986).  Interaction  of  nonmodulated  radio  frequency  fields  with  living  matter: 
+Experimental  results.  In  C.  Polk  and  E.  Postow  (eds.),  CRC  handbook  of  biological 
+effects  of  electromagnetic  fields.  Boca  Raton,  FI:  CRC  Press.  Pp.  339-423. 
+
+National  Council  on  Radiation  Protection  and  Measurement.  (1986).  Biological  effects  and 
+e.xposure  criteria  for  radiofrequency  electromagnetic  fields  (Report  No.  86).  Bethesda, 
+MD:  Author. 
+
+Nealeigh,  R.  C.,  Gamer,  R.  J.,  Morgan,  R.  J.,  Cross,  H.  A.,  and  Lambert.  P.  D.  (1971).  The 
+effect  of  microwave  on  Y-maze  learning  in  the  white  rat.  Journal  of  Microwave  Power, 
+6,  49-54. 
+
+Nishimura,  H.,  Tsuda,  A..  Ogushi,  M.,  Ida,  Y.  and  Tanaka.  M.  (1988).  Is  immobility  of  rats  in 
+the  forced-swim  test  "behavioral  despair"?  Physiology  and  Behavior,  42,  93-95. 
+
+Notterman,  J.  M.  St  D.  E.  Miniz  (1965).  Dynamics  of  response.  New  York,  Wiley. 
+
+\ 
+
+Pierrel,  R.,  and  Murray,  C.  S.  (1963).  Some  relationships  between  comparative  judgment, 
+confidence,  and  decision-time  in  weight-lifting.  American  Journal  of  Psychology,  76,  28- 
+38. 
+
+Polk,  C.,  and  Postow,  E.  (Eds.).  (1986).  CRC  handbook  of  biological  effects  of  electromagnetic 
+fields.  Boca  Raton,  FI:  CRC  Press. 
+
+Porsolt,  R.  D.,  LePichon,  M.,  and  Jalfre,  M.  (1977).  Depression:  A  new  animal  model  sensitive 
+to  antidepressant  treatments.  Nature,  266,  730-732. 
+
+Porsolt,  R.  D..  .Anton,  G.,  Blavet,  N.  and  Jalfre,  M.  (1978).  Behavioural  despair  in  rats:  a  new 
+model  sensitive  to  antidepressant  treatments.  European  Journal  of  Pharmacology.  47. 
+379-391. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+72 
+
+
+Postow,  E.,  and  Swicord,  M.  L.  (19X6).  Modulated  fields  and  "window"  effects.  In  C.  Polk  and 
+E.  Postow  (eds.),  CRC  handbook  of  hiolofjical  effects  of  eleciromaiinetic  fields.  Boca 
+Raton,  FI;  CRC  Press.  Pp.  425-460. 
+
+Raslear,  T.  G.  (1975).  The  effect  of  varying  the  distribution  of  generalization  stimuli  within  a 
+constant  range  upon  the  bisection  of  a  sound  intensity  interval  by  rats.  Journal  of  (he 
+Experimental  Analysis  of  Behavior,  23,  369-375. 
+
+Raslear,  T.  G.  (1982).  On  the  use  of  bisection  procedures  in  animal  psychophysical  scaling. 
+Psychometrika,  47,  95-99. 
+
+Raslear,  T.  G.  (1983).  A  test  of  the  Pfanzagl  bisection  model  in  rats.  Journal  of  Experimental 
+Psychology:  Animal  Behavior  Processes,  9,  49-62. 
+
+Raslear,  T.  G.  (1985).  Perceptual  bias  and  response  bias  in  temporal  bisection.  Perception  & 
+Psychophysics,  38,  261-268. 
+
+Raslear,  T.  G.  (1991).  Psychophysik  bei  Tieren.  [Animal  psychophysics.]  IN  S.  H.  Hursh  and 
+W.  Angemeir  (Eds.)  Operantes  lernen:  Ein  Handbuch.  Munich:  Reinhardt. 
+
+
+Raslear,  T.  G.,  Akyel,  Y.  (1992).  Null  responses,  decision  confidence,  and  temporal  bisection 
+in  rats;  The  effect  of  high-power  pulsed  microwaves.  Proceedings  and  Abstracts  of  the 
+Annual  Meeting  of  the  Eastern  Psychological  Association,  13,  16. 
+
+Raslear,  T.  G.,  Akyel,  Y.,  Bates,  F..  Belt,  M.  (1992).  The  effects  of  high-peak  pulsed  microwave 
+irradiation  on  time  bisection  in  rats.  Abstracts  of  the  First  World  Congress  for  Electricity 
+and  Magnetism  in  Biology  and  Medicine,  p.  61. 
+
+
+Raslear,  T.  G.,  Akyel,  Y..  Serafini,  R..  Bates,  F.,  Belt,  .M.  (1991a).  Memory  consolidation  in  the 
+rat  following  high-peak  power  pulsed  microwave  irradiation.  Proceedings  of  the  .Annual 
+International  Conference  of  the  IEEE  Engineering  in  Medicine  and  Biology  Society,  13. 
+958-959. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+73 
+
+
+Raslear.  T.  G.,  Akyel,  Y.,  Serafini,  R.,  Bates,  F.,  Belt,  M.  (1991b).  Food  demand  and  circadian 
+rhythmicity  following  high-peak  power  pulsed  microwave  irradiation.  Proceedings  the 
+Annual  International  Conference  of  the  IEEE  Engineering  in  Medicine  and  Biology 
+Society,  13,  962-963. 
+
+Raslear,  T.  G.,  R.  A.  Bauman,  S.  R.  Hursh,  D.  Shurtleff  &  L.  Simmons  (1988).  Rapid  demand 
+curves  for  behavioral  economics.  Animal  Learning  &  Behavior,  16,  330-339. 
+
+
+Raslear,  T.  G.,  &  Kaufman,  L.  W.  (1983).  Diisopropyl  phosphorofluoridate  (DFP)  disrupts 
+circadian  activity  patterns.  Neurobehavioral  Toxicology  and  Teratology,  5.  407-41 1. 
+
+Raslear,  T,  G.,  J.  R.  Leu  &  L.  Simmons  (1986).  The  effects  of  diisopropyl  phosphorofluoridate 
+(DFP)  on  inter-response  time  and  circadian  patterns  of  lever-pressing  in  rats. 
+Neurobehavioral  Toxicology  and  Teratology,  8,  655-658. 
+
+
+Raslear,  T.  G.,  Shurtleff,  D.,  Rigamonti,  D.,  Hursh,  S.  R.,  and  Simmons,  L.  (1990). 
+
+Ventromedial  hypothalamic  lesions  in  rats:  A  behavioral  economics  anal]^sis.  Proceedings 
+and  Abstracts  of  the  Annual  Meeting  of  the  Eastern  Psychological  Association,  61,  34. 
+
+Raslear,  T.  G.,  Shurtleff,  D.,  and  Simmons,  L.  (1988).  The  effects  of  diisopropyl 
+
+phosphorofluoridate  (DFP)  on  time  perception  in  rats.  Physiology  (fe  Behavior,  43,  805- 
+813. 
+
+Raslear,  T.  G.,  Shurtleff,  D.,  and  Simmons,  L.  (in  press).  Loudness  bisection  and  masking  in  the 
+rat  (Rattus  norvegicus).  Journal  of  Comparative  Psychology. 
+
+Roberti,  B.,  Heebels,  G.  H.,  Hendricx,  J.  C.  M.,  deGreef,  .A.  H.  .A.  M.,  and  Wolthuis,  O.  L. 
+
+(1975).  Preliminary  investigation  of  the  effect  of  low-level  microwave  radiation  on 
+
+spontaneous  motor  activity  in  rats.  .Annals  of  the  New  York  Academy  of  Science.  247. 
+417-424. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+74 
+
+
+1 
+
+
+I 
+
+i 
+
+! 
+
+I 
+
+» 
+
+' 
+
+I 
+
+i 
+
+t 
+
+< 
+
+
+Sadchikova,  M.  W.  (1974).  Clinical  manifestation.s  of  reaction.s  to  microwave  irradiation  in 
+various  occupational  groups.  In  P.  Czerski,  K.  Ostrowaski,  C.  Silverman.  M.  L.  Shore. 
+M.  J.  Suess.  and  B.  Waldeskog  (Eds.)  Effects  and  Health  Hazards  of  Microwave 
+Radiation.  Polish  Medical  Publishers,  Warsaw,  Poland. 
+
+Schrot,  J..  Thomas.  J.  R.,  and  Banvard,  R.  A.  (19X0).  Modification  of  the  repeated  acquisition 
+of  re.sponse  sequences  in  rats  by  low-level  microwave  e.xposure.  Bioelectronia^netics.  /, 
+X9-99. 
+
+
+Seaman,  R.  L.,  and  Lebovitz,  R.  M.  (1987).  Auditory  unit  responses  to  single-pulse  and  twin- 
+pulse  microwave  stimuli.  Hearing  Research,  26,  105-1 16. 
+
+Seaman,  R.  L.,  and  Lebovitz,  R.  M.  (1989).  Thresholds  of  cat  cochlear  nucleus  neurons  to 
+microwave  pulses.  Bioelectromagnetics,  10,  147-160. 
+
+Seelbach,  J.  D.,  and  Kris-Etherton,  P.  M.  (1985).  The  effect  of  vigorous  treadmill  exercise  on 
+plasma  lipoproteins  and  hepatic  lipoprotein  production  in  Zucker  rats.  Atherosclerosis, 
+57,  53-64. 
+
+
+Selkurt,  E.  E.  (1971).  Physiology.  (Third  Edition).  Boston:  Little,  Brown  and  Company. 
+
+Shellock,  F.  G.,  and  Rubin.  S.  A.  (1984),  Temperature  regulation  during  treadmiU  exercise  in 
+the  rat.  Journal  of  Applied  Physiology,  57,  1872-1877. 
+
+Shepherd,  R.  E.,  and  GoUnick,  P.  D.  (1976).  Oxygen  uptake  of  rats  at  different  work  intensities. 
+Pflugers  Archiv,  362,  219-222. 
+
+Shibata,  H.,  and  Nagasaka,  T.  (1987).  The  effect  of  forced  running  on  heat  production  in  brown 
+adipose  tissue  in  rats.  Physiology  Behavior,  39,  377-380. 
+
+Shurtleff.  D..  Raslear,  T.  G..  Genovese.  R.  F..  and  Simmons.  L.  ( 1992).  Perceptual  bisection  in 
+rats:  The  effects  of  physostigmine,  scopolamine  and  pirenzepine.  Physiology  &  Behavior. 
+51.  381-390. 
+
+
+Behavioral  Toxicology  of  HP  PM 
+
+
+75 
+
+
+Shurtleff.  D.,  Raslear,  T.  G.,  and  Simmons,  L.  (1990).  Circadian  variations  in  time  perception 
+in  rats.  Physiology  &  Behavior,  47,  931-939. 
+
+Sternberg,  D.  B.,  Isaacs,  K.,  Gold,  P.  E.,  and  McGaugh.  J.  L.  (1985).  Epinephrine  facilitation 
+of  appetitive  learning;  Attenuation  with  adrenergic  receptor  antagonists.  Behavioral  a/ul 
+Neural  Biology.  44,  447-453. 
+
+Stevens,  S.  S.  (1975).  Psychophysics.  Introduction  to  its  perceptual,  neural,  and  social 
+prospects.  New  York;  Wiley. 
+
+Stuchly,  M.  A.,  and  Stuchly,  S.  S.  (1986).  Experimental  radio  and  microwave  dosimetry.  In  C. 
+Polk  and  E.  Postow  (eds.),  CRC  handbook  of  biological  effects  of  electromagnetic  fields. 
+Boca  Raton,  FI;  CRC  Press.  Pp.  229-272. 
+
+Thomas,  J.  R.,  Burch,  L.  S.,  and  Yeandle.  S.  S.  (1979).  Microwave  radiation  and 
+chlordiazepoxide;  Synergistic  effects  on  ft.xed-interval  behavior.  Science,  203.  1357-1358. 
+
+Thomas,  J.  R.,  Finch,  E.  D.,  Fulk,  D.  W.,  and  Burch,  L.  S.  (1975).  Effects  of  low-level 
+microwave  radiation  on  behavioral  baselines.  Annals  of  the  New  York  .Academy  of 
+Science,  247,  425-432. 
+
+Thomas,  J.  R.,  Schrot,  J.,  and  Banvard,  R.  A.  (1980).  Behavioral  effects  of  chlordiazepoxide  and 
+diazepam  combined  with  low-level  microwaves.  Neurobehavioral  Toxicology,  2. 131-135. 
+
+Thomas,  J.  R.,  Schrot,  J.,  and  Banvard,  R.  A.  (1982).  Comparative  effects  of  pulsed  and 
+continuous-wave  2.8  GHz  microwaves  on  temporally  defined  behavior. 
+
+Bioelectromagnetics.  3,  227-235. 
+
+Weaver.  J.  C..  and  Astumian,  R.  D.  (1990).  The  response  of  living  cells  to  very  weak  electric 
+fields;  The  thermal  noise  limit.  Science.  247.  459-462. 
+
+Weiss.  B.  &  C.  T.  Gott  (1972).  .A  microanalysis  of  drug  effects  on  fcxed  ratio  performance  in 
+pigeons.  Journal  of  Pharmacology  and  Experimental  Therapeutics.  ISO.  189-202. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+76 
+
+
+Willner,  P.  (1984).  The  validity  of  animal  models  of  depression.  PsychophanyiacoUr^y . 
+16. 
+
+
+Behavioral  Toxicology  of  HPPM 
+
+
+77 
+
+

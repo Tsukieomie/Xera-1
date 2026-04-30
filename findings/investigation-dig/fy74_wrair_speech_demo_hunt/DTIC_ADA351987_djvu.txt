@@ -1,0 +1,1247 @@
+CONTRACT  NUMBER  DAMD17-94-C-4069 
+
+
+TITLE:  Services  to  Operate  and  Maintain  a  Microwave  Research 
+
+Laboratory 
+
+
+PRINCIPAL  INVESTIGATOR:  Yahya  Akyel,  Ph.D. 
+
+
+CONTRACTING  ORGANIZATION:  McKesson  Bioservices 
+
+Gaithersburg,  Maryland  20879 
+
+
+REPORT  DATE:  June  1997 
+
+
+TYPE  OF  REPORT:  Annual 
+
+
+PREPARED  FOR: 
+
+
+U.S.  Army  Medical  Research  and  Materiel  Command 
+Fort  Detrick,  Maryland  21702-5012 
+
+
+DISTRIBUTION  STATEMENT: 
+
+
+Approved  for  public  release; 
+distribution  unlimited 
+
+
+The  views,  opinions  and/or  findings  contained  in  this  report  are 
+those  of  the  author (s)  and  should  not  be  construed  as  an  official 
+Department  of  the  Army  position,  policy  or  decision  unless  so 
+designated  by  other  documentation. 
+
+
+[DEC  ESBS 
+
+
+SCfES  i 
+
+
+19980826  011 
+
+
+REPORT  DOCUMENTATION  PAGE 
+
+
+farm  Approved 
+OMB  No.  0704-0188 
+
+
+C  r*oo™*  txadan  for  ttM  c  option  *  **  ormwon  Z  mxunsfd  to  1  hour  r-oon-*.  *" 
+
+S.V^rv^r^motm-rinQ  it*  dot*  hmom.  *nd  compiotina  *nd  roving  tf»  cod*ctK>n  of  rtorm*co»vSjnd 
+
+coilicaon  of  format, on.  ^cud^j  ^Qastjom  for  mduonQ  tfw  txrtm.  to  Wo*fwx3ton  H«*0Quarar«  Soonooo,  Oir*^or«t*  for  MonMM mT^S^^DC2-G&D3^^ 
+D*v<*  MtgfrwsY,  Sui*  1 204.  Aw; ton.  VA  22202-4302.  and  to  Hem  Offico  of  M*n*g*cT>«nt  and  SudQM.  Piporworfc  Roducoon  Pro«o<a  <0704-0188).  W-Tangton.  DC  *0503. 
+
+
+1.  AGENCY  USE  ONLY  (Leave  blank) 
+
+
+2.  REPORT  DATE 
+
+June  1997 
+
+
+1 3.  REPORT  TYPE  AND  DATES  COVERED 
+Annual  (21  May  94  -  20  May  97) _ 
+
+
+4.  TITLE  AND  SUBTITLE 
+
+Services  to  Operate  and  Maintain  a  Microwave  Research  Laboratory 
+
+
+5.  FUNDING  NUMBERS 
+
+
+D  AMD  17-94-C-4069 
+
+
+6.  AUTHOR(S) 
+
+
+Yahya  Akyel,  Ph.D. 
+
+
+7.  PERFORMING  ORGANIZATION  NAME(S)  AND  ADDRESS(ES) 
+
+
+8.  PERFORMING  ORGANIZATION 
+REPORT  NUMBER 
+
+
+McKesson  Bioservices 
+Gaithersburg,  Maryland  20879 
+
+
+9.  SPONSORING  /  MONITORING  AGENCY  NAME(S)  AND  ADDRESS(ES) 
+
+U.S.  Army  Medical  Research  and  Materiel  Command 
+Fort  Detrick,  Maryland  21702-5012 
+
+
+10. SPONSORING  /  MONITORING 
+AGENCY  REPORT  NUMBER 
+
+
+11.  SUPPLEMENTARY  NOTES 
+
+
+1  2a.  DISTRIBUTION  /  AVAILABILITY  STATEMENT 
+Approved  for  public  release;  distribution  unlimited 
+
+
+1 2b.  DISTRIBUTION  CODE 
+
+
+1 3.  ABSTRACT  (Maximum  200  words:) 
+
+Behavioral,  biological,  cardiovascular,  cellular  effects  of  ultrawide  band  and  high  peak 
+power  pulsed  microwave  fields;  ocular  effects  of  high  peak  power  pulsed  microwave  fields, 
+and  biological  effects  of  millimeter  wave  fields  were  studied  using  various  physiological 
+and  behavioral  paradigms  in  animal  models.  Behavioral  studies  involved  analgesia  and 
+open  field  activity  in  mice.  Cardiovascular  effect  studies  indicated  systolic,  mean,  and 
+diastolic  arterial  pressures  decreased  significantly  in  UWB  exposed  rats.  Cellular  effects 
+involved  Nitric  Oxide  Synthase  activity  in  cultured  cells,  and  mutagenic  and 
+recombinagenic  effects  of  electromagnetic  fields.  Millimeter  wave  studies  showed 
+frequency  specific  neural  effects  below  the  effective  permissible  safety  limits.  Engineering 
+part  of  the  program  involved  determination  of  fields  strengths,  dosimetry  and  modeling  of 
+radiofrequency  fields.  A  two-step  deconvolution  routine  was  developed  to  characterize 
+ultra  fast  rise  time  UWB  pulse  and  has  been  adopted  by  other  military  services  to  be  used 
+in  their  systems.  Details  and  accomplishments  of  the  research  program  and  a  list  of 
+publications  are  presented  in  this  report. 
+
+
+14.  SUBJECT  TERMS  ,  .  ..  IS.  NUMBER  OF  PAGES 
+
+High  power  pulsed  microwaves,  ultrawide  band  microwave  fields,  _ 
+
+millimeter  waves,  dosimetry,  cardiovascular  effects,  cellular  effects,  i6.  price  code 
+
+ocular  effects. _ _ _ _ _ __ _ _ _ _ _ 
+
+17  SECURITY  CLASSIFICATION  ll 8.  SECURITY  CLASSIFICATION  1 19.  SECURITY  CLASSIFICATION  20.  LIMITATION  OF  ABSTRAC1 
+OF  REPORT  OF  THIS  PAGE  OF  ABSTRACT 
+
+Unclassified  Unclassified  Unclassified  Unlimited _ 
+
+
+NSN  7540-01-280-5500 
+
+
+Standard  Form  298  (Rev.  2-89} 
+Preicribad  by  ANSI  Std.  239-18  298-102 
+
+
+USAPPC  VI  .00 
+
+
+FOREWORD 
+
+
+Opinions,  interpretations,  conclusions  and  recommendations  are 
+those  of  the  author  and  are  not  necessarily  endorsed  by  the  U.S. 
+Army. 
+
+Where  copyrighted  material  is  quoted,  permission  has  been 
+obtained  to  use  such  material. 
+
+Where  material  from  documents  designated  for  limited 
+distribution  is  quoted,  permission  has  been  obtained  to  use  the 
+material . 
+
+Citations  of  commercial  organizations  and  trade  names  in 
+this  report  do  not  constitute  an  official  Department  of  Army 
+endorsement  or  approval  of  the  products  or  services  of  these 
+organizations . 
+
+In  conducting  research  using  animals,  the  investigator (s) 
+adhered  to  the  "Guide  for  the  Care  and  Use  of  Laboratory 
+Animals,"  prepared  by  the  Committee  on  Care  and  use  of  Laboratory 
+Animals  of  the  Institute  of  Laboratory  Resources,  national 
+Research  Council  (NIH  Publication  No.  86-23,  Revised  1985) . 
+
+For  the  protection  of  human  subjects,  the  investigator (s) 
+adhered  to  policies  of  applicable  Federal  Law  45  CFR  46. 
+
+In  conducting  research  utilizing  recombinant  DNA  technology, 
+the  investigator (s)  adhered  to  current  guidelines  promulgated  by 
+the  National  Institutes  of  Health. 
+
+In  the  conduct  of  research  utilizing  recombinant  DNA,  the 
+investigator (s)  adhered  to  the  NIH  Guidelines  for  Research 
+Involving  Recombinant  DNA  Molecules. 
+
+In  the  conduct  of  research  involving  hazardous  organisms, 
+the  investigator ( s )  adhered  to  the  CDC-NIH  Guide  for  Biosafety  in 
+Microbiological  and  Biomedical  Laboratories. 
+
+
+Atm. _ iluha 
+
+PI  -  Signature  C  « Date 
+
+
+TABLE  OF  CONTENTS 
+
+
+INTRODUCTION  .  1 
+
+I.  Behavioral  and  Biological  Effects  of  Ultrawide  Band  and  High  Peak 
+
+Power  Pulsed  Microwave  Fields  .  3 
+
+Relevant  Publications  and  Presentations  . 5 
+
+II.  Cardiovascular  Effects  of  Ultrawide  band  High  Peak  Power  Pulsed 
+
+Microwave  Fields  . . . . . . . . .  6 
+
+Relevant  Presentation  .  9 
+
+III.  Cellular  Effects  of  Ultrawide  band  and  High  Peak  Power  Microwave 
+
+Fields  . 10 
+
+A.  Effects  of  UWB  Electromagnetic  Fields  on  NOS  Activity  in 
+
+Cultured  Cells  .  10 
+
+B.  Mutagenic  and  Recombinagenic  Effects  of  High-Peak  Power 
+
+Electromagnetic  Pulses  .  11 
+
+C.  Effects  of  UWB  and  Other  Pulsed  Electromagnetic  Fields  on 
+
+Melanosomes  from  Retinal  Pigmented  Epithelium  .  13 
+
+D.  Electropermeabilization  of  Cells  by  High-Peak  Power  Microwave 
+
+Pulses  .  14 
+
+Relevant  Publications  and  Presentations  .  15 
+
+IV.  Ocular  Effects  of  High  Peak  Power  Pulsed  Microwave  Fields .  18 
+
+Relevant  Publications  and  Presentations  .  22 
+
+V.  Biological  Effects  of  Millimeter  Wave  Fields  .  23 
+
+
+A.  Genetic  Effects  of  Low-Level  Millimeter  Waves  .  23 
+
+B.  Neural  Effects  of  Low-Intensity  Millimeter  Waves  .  24 
+
+Relevant  Publications  and  Presentations  .  25 
+
+VI.  Determination  of  Field  Strengths,  Dosimetry  and  Modeling  of 
+
+Radiofrequency  Fields  .  29 
+
+A.  Complex  Dielectric  Characterization  of  Materials  .  29 
+
+B.  Development  of  Finite-Difference  Time-Domain  Simulation 
+
+Software  with  Object-Oriented  Design .  30 
+
+c.  Characterization  of  Ultrawide  Band  Electromagnetic  Pulses  32 
+
+Relevant  Publications  and  Presentations  .  33 
+
+Microwave  Bioeffects  Branch  Representation  in  Scientific  Meetings  .  35 
+
+
+CONCLUSIONS 
+
+
+36 
+
+
+INTRODUCTION 
+
+
+The  following  report  summarizes  the  performance  of  McKesson  BioServices 
+(MBS)  staff  at  Walter  Reed  Army  Institute  of  Research,  US  Army  Medical  Research 
+Detachment,  Microwave  Bioeffects  Branch  at  Brooks  AFB,  Texas  under  the 
+contract  DAMD1 7-94-C-4069. 
+
+McKesson  BioServices'  understanding  of  technical  issues  and  insight  into 
+scientific  principles  has  been  the  keystone  of  success  for  Microwave  Bioeffects 
+Branch's  research  program.  Due  to  our  efforts  in  planning  and  managing  the 
+research  program,  the  research  productivity  of  the  Branch  has  risen  dramatically. 
+
+In  the  past  year  alone,  dozens  of  scientific  papers  have  been  published  or 
+submitted  for  publication.  Moreover,  in  this  period  of  time  our  research  program 
+has  achieved  a  well-respected  stature  within  the  TriService  microwave  bioeffects 
+arena:  our  staff  participates  in  international  conferences  as  presenters,  our  staff 
+has  been  consulted  numerous  times  by  other  services  and  our  products  are  in  use 
+in  various  microwave  laboratories. 
+
+We  are  determined  to  continue  to  provide  high-quality  scientific  research  and 
+to  represent  the  U.S.  Army's  Microwave  Bioeffects  program  under  the  guidance  of 
+the  U.S.  Army  Medical  Research,  Development,  Acquisition  and  Logistics 
+Command  at  Brooks  Air  Force  Base  in  San  Antonio,  Texas. 
+
+
+Based  on  the  guidance  provided  in  the  contract,  McKesson  BioServices 
+concentrated  its  research  efforts  in  the  following  areas: 
+
+I.  Behavioral  and  biological  effects  of  ultrawide  band  and  high  peak  power 
+pulsed  microwave  fields. 
+
+II.  Cardiovascular  effects  of  ultrawide  band  and  high  peak  power  pulsed 
+microwave  fields 
+
+III.  Cellular  effects  of  ultrawide  band  and  high  peak  power  pulsed  microwave 
+fields 
+
+IV.  Ocular  effects  of  high  peak  power  pulsed  microwave  fields 
+
+V.  Biological  effects  of  millimeter  wave  fields 
+
+VI.  Determination  of  fields  strengths,  dosimetry  and  modeling  of  radiofrequency 
+fields. 
+
+The  present  report  summarizes  the  efforts  of  McKesson  BioServices  staff  in 
+the  aformentioned  research  areas  and  presents  a  list  of  publications/presentations 
+made  in  these  fields.  In  Volume  II  of  this  report,  you  will  be  able  to  find  the  copies 
+of  each  scientific  paper  produced  by  the  McKesson  BioServices  staff  during  the 
+three  base  years  of  the  DAMD17-94-C-4069  which  covers  the  time  period  of  May 
+
+
+I.  Behavioral  and  Biological  Effects  of  Ultrawide  Band  and  High  Peak  Power  Pulsed 
+Microwave  Fields. 
+
+Based  on  the  following  issues:  the  need  for  standard  for  exposure  of  soldier, 
+increased  use  of,  and  incomplete  information  on  biological  effects  of  UWB  pulses  in 
+and  around  military  sources.  Dr  Ronald  Seaman  designed  a  protocol  entitled 
+"Effects  of  U/trawideband  (UWB)  Electromagnetic  Fields  on  Analgesia  and  Activity 
+in  Mice 
+
+The  objective  of  the  study  was  to  add  information  on  biological  effects  of 
+UWB  pulses  to  the  database  used  to  set  exposure  standards  for  the  soldier. 
+Scientists  have  previously  shown  that  morphine-induced  changes  are  affected  by 
+other  types  of  electromagnetic  fields.  Based  on  this  information.  Dr.  Seaman  tried 
+to  determine  whether  exposure  to  laboratory  UWB  pulses  changes  nociception  and 
+activity  in  mice  by  using  normal  nociception  and  activity  as  well  as  morphine- 
+induced  decreased  nociception  (analgesia)  and  hyperactivity  to  reach  a  conclusion. 
+McKesson  BioServices'  scientific  staff  exposed  animals  for  30  minutes  to  UWB 
+pulses  at  repetition  frequencies  of  60/s  and  600/s.  Appropriate  cage  and  sham- 
+exposed  controls  were  used. 
+
+At  the  above  described  conditions,  normal  and  morphine-modified  activity 
+and  nociception  were  not  affected  in  C57BL/6  mice.  In  CF-1  mice,  normal 
+
+
+nociception  and  activity  and  morphine-increased  activity  were  not  affected.  On  the 
+other  hand,  at  45-minute  exposure  at  600/s  morphine-induced  analgesia  was 
+possibly  affected  in  CF-1  mice. 
+
+It  has  been  observed  that  UWB  pulses  changed  activity  and  nociception  only 
+for  certain  conditions  in  the  study;  morphine-induced  change  in  nociception  in  CF-1 
+mice  had  been  observed  after  30  minute  exposure  at  600/s.  Thus,  the  studies 
+point  toward  only  weak  effect  on  a  behavioral  endpoint  that  involves  activation  of 
+opioid  receptors. 
+
+Furthermore,  to  determine  whether  exposure  to  laboratory  UWB  pulses  can 
+cause  or  modify  a  startle  response  in  rats,  Dr.  Seaman  designed  a  study  to 
+investigate  possible  UWB  pulse  modification  of  acoustic  and  tactile  startle 
+responses,  both  of  which  are  a  rapid  neuromuscular  response  to  sudden 
+intense  stimuli.  The  well-studied  rat  startle  response  is  sensitive  to  various  agents, 
+including  microwave  pulses.  The  approach  includes:  the  use  of  controlled  single 
+pulses  and  brief  patterns  of  pulses,  the  use  of  timing  of  UWB  pulses  as  an 
+independent  variable,  and  the  use  of  appropriate  no-pulse  trials  as  controls. 
+
+
+A  custom-built  startle  sensor  has  been  constructed  for  use  in  the  UWB 
+exposure  system  by  the  technical  staff  of  McKesson  BioServices.  This  challenging 
+task  has  been  accomplished  during  the  last  months  of  the  contract  and  the  system 
+
+
+is  ready  to  carry  out  the  study  described  in  the  approved  protocol  for  UWB  pulses. 
+
+
+Relevant  Publications/Presentations 
+
+Seaman,  R.  L.f  Belt,  M.  L.,  Doyle,  J.  M.,  &  Henry,  P.  J.  (1997).  Ultra-Wide-Band 
+
+Pulses  Fail  To  Modify  Morphine-Induced  Analgesia  and  Hyperactivity  in  Mice. 
+Presented  at  The  Second  World  Congress  for  Electricity  and  Magnetism  in 
+Biology  and  Medicine. 
+
+Seaman,  R.  L.,  Belt,  M.  L.,  &  Henry,  P.  (1996).  Early  Results  From  a  Study  Of 
+
+Ultra-Wide  Band  Pulses  and  Morphine  Induced  Analgesia  in  the  Mouse.  The 
+Eighteenth  Annual  Meeting  of  The  Bioelectromagnetics  Society. 
+
+Seaman,  R.  L.,  Belt,  M.  L.,  &  Henry,  P.  (1996).  Testing  For  Effects  of  Ultra-Wide- 
+Band  Pulses  on  Nociception  and  Activity.  Second  CERT  Symposium  for 
+Environmental  Radiation  Toxicology. 
+
+
+II.  Cardiovascular  Effects  of  Ultrawide  Band  and  High  Peak  Power  Pulsed 
+Microwave  Fields 
+
+Dr.  Shin-Tsu  Lu,  as  the  principal  investigator,  with  the  collaboration  of  Dr. 
+Satnam  Mathur,  Michelle  Belt  and  Joanne  Doyle  studied  the  "Delayed 
+Cardiovascular  Disturbances  Determined  by  a  Non-invasive  Procedure  in  Rats 
+Exposed  to  Ultra-Wide  Band  (UWB)  Electromagnetic  Fields" 
+
+The  safety  aspect  of  the  ultrashort/ultra-wide  band  (UWB)  electromagnetic 
+field  has  been  widely  questioned  recently.  The  central  issue  is  the  lack  of  an 
+adequate  biological  database  to  support  the  UWB  Interim  Guidelines  and  modeling 
+for  delayed  effects  of  electromagnetic  fields  in  general. 
+
+The  objectives  of  this  study  were: 
+
+a)  the  evaluation  of  the  heart  rate  (systolic,  mean  and  diastolic  pressures)  for 
+4  weeks  in  Wistar-Kyoto  rats  exposed  to  various  "doses"  of  UWB  fields  by  a 
+non-invasive  tail  cuff  procedure  without  the  use  of  anesthetic  agent  or 
+tranquilizer. 
+
+b)  the  evaluation  of  the  heart  rate  (systolic,  mean  and  diastolic  pressures)  for 
+4  weeks  in  Spontaneously  Hypertensive  rats  exposed  to  various  "doses"  of 
+UWB  field  by  a  non-invasive  tail  cuff  procedure  without  the  use  of  anesthetic 
+agent  or  tranquilizer  to  study  the  possibility  of  enhanced  sensitivity  to  UWB 
+
+
+electromagnetic  fields  due  to  a  common  disease. 
+
+The  uncompensated  bradycardia  and  hypotension  can  lead  to  fatigue, 
+decrement  in  work  performance  and  reduction  in  brain  perfusion.  This  results  in 
+central  nervous  system  effects  such  as  headache,  irritability  and  fainting.  Finally, 
+prolonged  and  untreated  hypertension  leads  to  increased  risk  of  cardiovascular 
+accidents.  These  conditions  have  serious  health  implications  for  the  warfighters. 
+
+In  this  study,  the  animal  model  used  to  study  the  cardiovascular  effects  of 
+ultrawide  band  were  male  Wistar-Kyoto  normotensive  rats  (WKY)  and  male 
+Spontaneously  Hypertensive  rats  (SHR)  of  10-12  weeks  of  age. 
+
+Exposure  conditions  (six  minutes),  UWB  pulse  shapes,  and  field  strengths 
+
+were: 
+
+-  sham  exposure  (0  mW/cm2) 
+
+-  UWB,  1  kHz  repetition  rate,  85  kV/m  peak,  1  ns  pulsewidth  (1.95  mW/cm2) 
+
+-  UWB,  500  Hz  repetition  rate,  93  kV/m  peak,  1  ns  pulsewidth  (1.15 
+mW/cm2) 
+
+-  UWB,  250  Hz  repetition  rate,  95  kV/m  peak,  1  ns  pulsewidth  (0.60 
+mW/cm2) 
+
+-  UWB,  1 25  Hz  repetition  rate,  95  kV/m  peak,  1  ns  pulsewidth  (0.30 
+
+
+mW/cm2) 
+
+
+The  biological  endpoints  studied  were  heart  rate,  systolic  arterial  pressure, 
+mean  arterial  pressure,  and  diastolic  arterial  pressure.  Readings  for  these  endpoints 
+were  recorded  at  the  pre-exposure  baseline,  1  hour,  24  hours,  72  hours,  1  week,  2 
+weeks,  3  weeks,  and  4  weeks  after  exposure. 
+
+The  results  indicated  that  the  heart  rate  in  UWB-exposed  WKY  rats  was  not 
+altered  significantly.  However,  systolic,  mean  and  diastolic  arterial  pressures 
+decreased  significantly  in  UWB  exposed  WKY  rats  at  1  kHz  (1.95  mW/cm  2)  and 
+500  Hz  (1.15  mW/cm  2)  but  not  at  250  Hz  (0.60  mW/cm2  )  or  125  Hz  (0.30 
+mW/cm2).  Thus,  the  UWB-induced  hypotensive  effects  could  appear  as  early  as 
+one  hour  after  exposure  and  it  could  persist  throughout  the  entire  study  period,  4 
+weeks  after  exposure. 
+
+Dr.  Ronald  Seaman  also  studied  "Ultra  Wide  Band  Pulses:  Effects  on  the 
+Cardiovascular  System  of  the  Rat"  as  a  principal  investigator.  The  increased  use 
+of  UWB  pulses  in  military  systems,  the  need  for  standard  for  exposure  of  soldier  to 
+UWB  pulses  and  the  incomplete  information  on  biological  effects  of  UWB  pulses 
+were  the  underlying  reasons  for  this  study. 
+
+The  objective  of  this  research  was  to  add  information  on  biological  effects  of 
+UWB  pulses  to  the  database  used  to  set  exposure  standards  for  the  soldier.  Unlike 
+the  previous  experiment,  this  research  project  was  designed  to  determine  whether 
+
+
+acute  exposure  to  laboratory  UWB  pulses  can  cause  changes  in  blood  pressure  and 
+heart  rate  of  the  rat. 
+
+Briefly  this  study  used  animals  under  ketamine  for  study  of  acute  effects. 
+Animals  were  exposed  to  brief  patterns  of  UWB  pulses,  lasting  2  minutes 
+maximum.  Single  UWB  exposure  of  two  minutes  with  pulses  at  repetition 
+frequencies  of  500/s  or  1000/s  were  used  as  exposure  conditions.  Aortic  catheter 
+and,  in  some  cases,  leads  for  EKG  have  been  used  to  collect  the  data.  A 
+computerized  system  has  been  installed  to  acquire,  record,  and  analyze  blood 
+pressure  and  EKG  in  more  detail. 
+
+No  change  in  mean  blood  pressure  and  average  heart  rate  was  seen  in  earlier 
+acute  UWB  experiments;  however,  as  indicated  in  a  previous  study,  reduced  blood 
+pressure  without  change  in  heart  rate  was  seen  in  Dr.  Lu's  chronic  experiment. 
+
+In  this  experiment,  no  change  occurred  in  mean  blood  pressure  or  in  heart 
+rate  for  animals  in  acute  experiment  with  2-minute  exposure  to  UWB  pulses  at 
+50/s,  500/s,  and  1000/s,  confirming  earlier  acute  experiment  results. 
+
+Relevant  Presentation 
+
+Lu,  S.-T.,  Henry,  P.,  &  Mathur,  S.  P.  (1996).  Manifestation  of  an  Ultra-Wide  Band 
+
+Induced  Hypotension  in  Rats.  Third  Annual  Michaelson  Research  Conference. 
+
+
+III.  Cellular  Effects  of  Ultrawide  Band  and  High  Peak  Power  Microwave  Fields. 
+
+A.  Effects  of  Ultrawideband  (UWB)  Electromagnetic  Fields  on  Nitric  Oxide 
+
+Synthase  (NOS)  Activity  in  Cultured  Cells 
+
+NOS  has  been  implicated  in  other  studies  of  electromagnetic  fields  in  the 
+hippocampus  and  in  peripheral  blood  vessels.  In  order  to  determine  whether 
+exposure  to  laboratory  UWB  pulses  can  cause  a  change  in  the  production  of  nitric 
+oxide  (NO)  by  cultured  cells,  established  RAW  264.7  cell  line  and  selected 
+transfectants,  all  of  which  produce  NO  through  NOS  activity  have  been  used.  Cell 
+cultures  were  exposed  for  30  minutes  to  UWB  pulses  at  repetition  frequency  of 
+600/s.  twenty-four  hours  later,  nitrite  concentration,  as  indicator  of  NO 
+production,  was  measured.  Appropriate  sham-exposed  cells  were  used  as  controls. 
+
+The  objective  of  this  study  was  to  add  information  on  biological  effects  of 
+UWB  pulses  to  the  working  database  used  and  to  set  exposure  standards  for  the 
+soldier. 
+
+The  results  indicated  that  NO  production  increased  in  UWB-exposed  RAW 
+cells  stimulated  with  gamma-interferon  (gIFN),  lipopolysaccharide  (LPS),  and  39 
+mM  nitrate  relative  to  the  respective  sham-exposed  controls.  NO  production  in  the 
+RAW  cells  that  were  unstimulated  and  stimulated  by  gIFN  and  LPS  but  not  nitrate 
+
+
+was  unchanged.  NO  production  in  three  RAW  transfectants  that  were 
+unstimulated  or  stimulated  in  either  way  was  also  unchanged.  And  finally, 
+increased  NO  production  could  have  resulted  from  increased  activity  of  NOS,  from 
+increased  induction  of  NOS,  or  from  both. 
+
+Future  research  may  include:  pursuing  the  investigation  of  the  observed 
+increase  of  NO  production  in  RAW  264.7  cells,  and  testing  for  important  UWB 
+field  parameters,  exposure  duration  and  timing  relative  to  cell  stimulation. 
+
+B.  Mutagenic  and  Recombinagenic  Effects  of  High-Peak-Power 
+Electromagnetic  Pulses 
+
+Genome  rearrangements  may  lead  to  cell  death,  heritable  mutations,  and 
+cancer  induction.  Studying  of  genetic  effects  is  obligatory  for  assessment  of  any 
+potentially  hazardous  environmental  factor  and  possible  health  hazards  to  exposed 
+personnel.  At  the  present  time,  no  experimental  data  are  available  on  possible 
+genetic  effects  of  high-peak-power  electromagnetic  pulses  per  se  or  in  combination 
+with  chemical  or  physical  mutagens. 
+
+The  objective  of  this  study  was  to  analyze  whether  high-peak-power  pulses 
+might  modify  spontaneous  or  ultraviolet-(UV)  induced  mutagenesis  and 
+recombinagenesis. 
+
+
+Methods:  D7  strain  of  yeast  Saccharomyces  cerevisiae  was  used  to 
+determine: 
+
+■  mutations,  including  reversions,  point  mutations,  deletions,  aneuploidy, 
+
+etc., 
+
+■  intragenic  mitotic  recombination  (gene  conversion), 
+
+•  intergenic  mitotic  recombination  (crossing-over), 
+
+■  colony  forming  ability  (CFA) 
+
+Two  different  microwave  sources  were  used  for  this  study.  The  UWB 
+exposure  system  was  operated  for  30  min  at  1 6  Hz  or  600  Hz.  On  the  second 
+series  of  experiment  TEMPO  exposure  system  was  operated  at  10  and  100  ps 
+(1ps/7s)  at  170-180  kW/cm2  power  density.  UV  254  nm  (100  J/m2)  was  used  as 
+a  mutagen. 
+
+The  results  indicated  that  UWB  pulses  did  not  affect  CFA  or  induced  any 
+mutations  or  recombinations.  UWB  exposure  did  not  modify  mutagenic  or 
+recombinagenic  effectiveness  of  UV.  TEMPO  pulses  did  not  induce  mutations  or 
+recombinations.  And,  exposure  to  100  TEMPO  pulses  decreased  CFA  in  50%  of 
+experiments  (p<0.05). 
+
+Thus,  electromagnetic  radiation  from  UWB  and  TEMPO  sources  is  unlikely  to 
+pose  any  immediate  genetic  hazard.  The  decrease  of  CFA  after  treatment  with 
+
+
+100  TEMPO  pulses  appears  to  result  from  mechanisms  other  than  chromosome 
+damage  (e.g..,  membrane  alterations). 
+
+C.  Effects  of  Ultra  Wide  Band  (UWB)  and  Other  Pulsed  Electromagnetic  Fields  on 
+Melanosomes  from  Retinal  Pigmented  Epithelium. 
+
+The  increased  use  of  UWB  pulses  and  other  electromagnetic  fields  in  military 
+systems,  the  need  for  standard  for  exposure  of  soldier  to  pulsed  fields,  an 
+incomplete  information  on  biological  effects  of  pulsed  fields,  and  the  questions  that 
+have  been  raised  concerning  retinal  effects  of  pulsed  fields  are  the  issues 
+surrounding  this  area  of  research. 
+
+The  objective  was  to  add  information  on  biological  effects  of  UWB  and  other 
+electromagnetic  pulses  to  the  database  used  to  set  exposure  standards  for  the 
+soldier  and  to  develop  techniques  examining  the  role  of  melanosomes  in  reported 
+ocular  effects  of  pulsed  microwaves. 
+
+The  approach  was  to  determine  whether  exposure  to  laboratory 
+electromagnetic  pulses  can  cause  leakage  of  free  radicals  or  melanin  from 
+melanosomes.  In  order  to  acheive  this  goal  melanosomes  from  bovine  retinal 
+pigmented  epithelium  were  used  and  melanosome  preparation  have  been  exposed 
+to  electromagnetic  pulses  such  as: 
+
+
+-  UWB  pulses  at  600/s  for  30  minutes 
+
+-  L-band  microwave  pulses  (1250  MHz)  at  1/s  for  15  minutes 
+
+-  200  Tempo  pulses  over  25  minutes 
+
+NADPH  oxidation  was  used  as  an  indicator  of  melanin  radical  concentration 
+in  medium  after  exposure.  The  action  by  microwave  pulses  on  melanosomes  has 
+been  suggested  as  a  mechanism  for  retinal  damage. 
+
+The  results  indicated  weak  or  no  effect  after  exposure  to  UWB  pulses. 
+
+Thus,  action  on  melanosomes,  or  the  melanin  they  contain,  may  not  participate 
+inmediating  effects  of  RF/microwave  pulses  on  the  retina. 
+
+D.  Electropermeabilization  of  Cells  by  High-Peak  Power  Microwave  Pulses. 
+
+Electropermeabilization  of  cell  membrane  is  a  well-known  biological 
+phenomena,  which  has  been  used  for  years  in  biology  and  medicine  to  alter  the  cell 
+membrane  permeability  to  transport  substances  (drugs,  genes,  dyes,  etc.)  into  or 
+out  of  the  cell.  There  are  theoretical  predictions  that  high-peak  power  microwave 
+pulses  can  alter  permeability  of  cell  membrane.  A  hypothesis  has  been  put  forward 
+that  electropermeabilization  (EP)  of  membranes  could  be  a  possible  mechanism  of 
+biological  effects  in  FPS-7  and  TEMPO  exposures. 
+
+The  objectives  were  to  establish  whether  electropermeabilization  of  cells  can 
+
+
+14 
+
+
+be  produced  by  high-peak  power  microwave  pulses  (HPPMP),  and  to  determine  the 
+threshold  conditions  for  this  effect. 
+
+The  method  and  procedures  for  this  aproach  have  been  tested  and  are  ready 
+to  begin  systematic  experiments  with  irradiation  in  1998.  If  we  show 
+experimentally  that  EP  can  be  caused  by  HPPMP,  this  will  be  the  first  observation 
+of  EP  at  microwave  frequencies.  This  will  provide  with  sound  explanation  of 
+biophysical  mechanisms  responsible  for  HPPMP  physiological  and  behavioral 
+effects,  and  is  essential  for  development  of  well-founded  safety  guidelines  for 
+HPPMP  exposures. 
+
+
+Relevant  Presentations/  Publications 
+
+Glickman,  R.,  Seaman,  R.  L.,  &  Belt,  M.  L.  (1996).  Ultra-Wide-Band  Pulses  Do  Not 
+Induce  Free  Radicals  in  Melanosomes  From  Bovine  Retinal  Pigmented 
+Epithelium.  Second  CERT  Symposium  on  Environmental  Radiation 
+Toxicology. 
+
+Kiel,  J.  L.,  Parker,  J.  E.,  Seaman,  R.  L.,  &  Mathur,  S.  P.  (1997).  Engineered 
+Bacteria  as  Sensors  of  Weak  Ultra-Wide-Band  (UWB)  Radiofrequency 
+Radiation  (RFR)  Effects.  Presented  at  Seventy  Third  Annual  Meeting  of  the 
+American  Association  for  the  Advancement  of  Science. 
+
+Pakhomova,  0.  N.,  Belt,  M.  L.,  Belt,  M.  E.,  Cox,  D.  D.,  &  Akyel,  Y.  (1997).  Effect 
+
+
+of  High-Peak-Power  Pulsed  Microwave  Radiation  on  the  Colony-forming 
+Ability,  Mutagenesis  and  Recombinagenesis  in  Yeast.  Presented  at  The 
+Second  World  Congress  for  Electricity  and  Magnetism  in  Biology  and 
+Medicine. 
+
+Pakhomova,  0.  N.,  Belt,  M.  L.,  Mathur,  S.  P.,  &  Akyel,  Y.  (1997).  Effect  of 
+
+Ultrawide  Band  Electromagnetic  Pulses  on  Ultraviolet-Induced  Mutation  and 
+Mitotic  Recombination  in  Yeast.  Presented  at  the  Ninth  International 
+Congress  on  Genes ,  Gene  Families,  and  Isozymes . 
+
+Pakhomova,  0.  N.,  Belt,  M.  L.,  Mathur,  S.  P.,  Lee,  J.  C.,  &  Akyel,  Y.  (1996). 
+Effect  of  Ultrawide  Band  (UWB)  Radiation  Pulses  on  Spontaneous  and 
+Ultraviolet  Light-Induced  Mutation  and  Mitotic  Recombination  in  Yeast. 
+Second  CERT  Symposium  for  Environmental  Radiation  Toxicology  . 
+Pakhomova,  0.  N.,  Belt,  M.  L.,  Mathur,  S.  P.,  Lee,  J.  C.,  &  Akyel,  Y.  (1997).  Lack 
+of  Genetic  Effects  of  Ultrawide-Band  Electromagnetic  Radiation  in  Yeast. 
+Electro  and  Magnetobiology,  16(3). 
+
+Pakhomova,  0.  N.,  Belt,  M.  L.,  Mathur,  S.  P.,  Lee,  J.  C.,  &  Akyel,  Y.  (In  press). 
+Ultra-Wide-Band  Electromagnetic  Radiation  Does  Not  Affect  UV-Induced 
+Recombination  and  Mutagenesis  in  Yeast.  Bioelectromagnetics. 
+
+Pakhomova,  0.  N.,  Mathur,  S.  P.,  &  Akyel,  Y.  (1996).  Recombinagenic 
+
+and  Mutagenic  Processes  in  Yeast  After  Exposure  to  Ultra  Wide  Band 
+Radiation  Pulses.  The  Eighteenth  Annual  Meeting  of  the  Bioelectromagnetics 
+
+
+Society. 
+
+
+Seaman,  R.  L.,  Kiel,  J.  L.,  Parker,  J.  E.,  Grubbs,  T.  R.,  &  Prol,  H.  K.  (1996).  Effects 
+
+
+of  Ultra-Wide  Band  Pulses  on  Nitric  Oxide  Production  in  Murine 
+Macrophages.  The  Eighteenth  Annual  Meeting  of  the  Bioelectromagnetics 
+Society  . 
+
+Seaman,  R.  L.,  Kiel,  J.,  &  Parker,  J.  (1996).  Ultra-Wide-Band  Pulses  Increase  Nitric 
+Oxide  Production  in  Murine  Macrophages.  Second  CERT  Symposium  for 
+Environmental  Radiation  Toxicology  . 
+
+
+IV.  Ocular  Effects  of  High  Peak  Power  Pulsed  Microwave  Fields 
+
+This  very  important  research  project,  under  the  leadership  of  Microwave 
+Bioeffects  Branch  is  also  sponsored  by  the  US  Air  Force  and  US  Navy's  Directed 
+Energy  Research  Departments.  From  McKesson  BioServices  Drs.  Shin-Tsu  Lu  and 
+Satnam  Mathur  participated  as  co-principal  investigotors. 
+
+Previous  research  has  reported  that  pulsed  microwave  can  induce  retinal 
+injuries  in  non-human  primates.  The  retinal  injury  includes  reduction  in  b-wave 
+amplitude  in  electroretinogram,  cone  photoreceptor  degeneration  (karyolysis  and 
+vacuolization),  and  pyknotic  changes  of  the  pigmented  epithelium  in  the  monkeys 
+[Kues  et  al.  1989a,  1989b,  1991,  Kues  and  McLeod  1990,  Kues  and  Monahan 
+1992].  Increased  incidence  of  chorioretinal  scar  in  "microwave  worker"  has  also 
+been  reported  [Tengroth  and  Aurell  1974]. 
+
+The  threshold  for  pulsed  microwave  induced  retinal  injury  in  primates  was 
+considered  to  be  around  4  W/kg.  Current  personnel  protection  guidelines  are 
+derived  from  a  whole-body  average  Specific  Absorption  Rate  (SAR)  4  W/kg  with  a 
+10  or  50  fold  modifying  factors  for  occupational  or  general  population  standards. 
+The  guidelines  allow  a  local  SAR  up  to  8  W/kg. 
+
+
+Therefore,  experimental  outcome  on  the  susceptibility  of  retinal  tissue  to 
+
+
+radiofrequency  induced  injury  has  a  direct  impact  on  promulgation  of  a  personnel 
+protection  guideline. 
+
+The  major  health  implication  for  the  warfighter  concerning  this  issue  is  that 
+retinal  injuries  can  lead  to  vision  impairment  or  blindness  in  severe  case.  In  this 
+experiment  the  sensitivity  of  the  primate  eye  to  pulsed  microwave  induced  injuries. 
+
+Female  Rhesus  monkeys,  4-5  years  of  age,  4-5  kg,  normal  eyes  without 
+functional  deficit  and  morphological  abnormalities  are  being  used  as  subjects. 
+
+To  ascertain  normal  ocular  health  prior  to  exposure  and  to  provide  baseline 
+for  post-exposure  retinal  endpoints,  the  following  pre-exposure  screening  and 
+baselines  were  obtained:  Electroretinogram  (ERG)  evaluation  [Physiological 
+Function],  Fundus  photographic  evaluation  [Clinical  Morphology],  Scanning  Laser 
+Ophthalmoscopic  (SLO)  examination  and  Fluorescein  Angiograph  (FA)  and 
+Indocyanine  Green  (ICG)  Angiograph  [Clinical  Morphology]. 
+
+Pulsed  microwaves  from  a  Navy  FPS-7  radar  operated  at  1.25  GHz  carrier 
+frequency  are  used  for  microwave  exposures.  An  open-ended  WR650  waveguide 
+is  used  as  an  antenna.  The  distance  between  the  eyes  of  the  subject  and  the 
+waveguide  is  7.6  cm.  The  transmitter's  peak  power  is  1  MW  and  has  a  pulse 
+duration  of  6  /js.  The  pulse  repetition  rate  were  0.6  Hz  ,  1 .2  Hz  ,  and  2.8  Hz 
+
+
+respectively  for  three  dose  levels  of  4  W/kg,  8  W/kg,  and  20  W/kg.  Average 
+power  densities  were  9.5  mW/cm2,  19.0  mW/cm2  ,  and  47  mW/cm2  for 
+corresponding  dose  levels.  The  subjects  were  exposed  4  hours/day,  3  days/week, 
+for  3  weeks. 
+
+During  the  post-exposure  the  following  procedures  were  performed  in 
+sequence  24  hours  after  the  last  microwave  exposure:  Post-exposure  ERG,  post¬ 
+exposure  fundus  photographs,  post-exposure  SLO/FA  and  ICG  angiogram, 
+euthanization,  enucleation  and  histo-pathological  evaluations. 
+
+Specific  absorption  rates  (SAR)  were  determined  by  thermometric  dosimetric 
+method  using  2  female  Rhesus  monkey  carcasses,  at  4.5  and  4.9  kg,  respectively. 
+Two  Luxtron  MAM-05  probes  with  4  sensors  each  and  5  mm  spacing  were 
+employed  via  8  channel  Luxtron  3000  Fluoroptic  Thermometry  System  at  a  1 0  Hz 
+acquisition  rate  and  4  Krohn-Hite  3322  Filters  at  1  Hz  low  pass  computer  at  2  Hz 
+data  acquisition  rate  via  8  channels.  The  location  of  the  temperature  sensor  probes 
+were  at  4  quadrants:  superior,  oral,  temporal  and  nasal  along  the  surface  of  the 
+globe.  Four  replications  were  used  for  each  determination  at  4  depths  of  0.0,  0.5, 
+1.0,  and  1.5  cm  from  the  Limbus  16  locations  per  globe  and  32  locations  for  both 
+eyes. 
+
+
+Exposures  were  performed  at  7.6  cm  from  antenna,  vertical  E-field, 
+
+
+horizontal  H-field,  using  1.25  GHz  pulsed  microwaves  at  1  MW  peak  power  and  6 
+fjs  pulsewidth  with  17.5  Hz  pulse  repetition  rate,  80-100  W  average  power,  and  a 
+reflection  coefficient  of  <  3.4  %. 
+
+Field  Characterization’.  The  L-band  exposure  system  produces  2.79  mW/cm2 
+per  Watt  transmitted  through  the  antenna  at  7.6  cm  from  the  antenna  where  the 
+monkey's  head  is  positioned.  The  power  density  decreases  exponentially  with 
+distance  from  the  antenna  at  the  direction  of  propagation.  The  contour  of  the  field 
+is  oval.  The  -3  dB  (50  %)  field  width  is  approximately  6  cm.  The  power  density 
+decreases  to  -20  dB  (1  %)  15  cm  from  the  center  of  the  field.  The  exposure  is 
+essentially  a  head-and-neck  exposure  while  anatomical  structures  below  the 
+diaphragm  are  out  of  incident  field. 
+
+Dosimetry.  The  local  SAR  varies  with  location  and  animal.  Approximately  a 
+6  fold  difference  in  local  SARs  are  noted.  The  average  retinal  SAR  is  very  uniform 
+from  animal  to  animal  and  eye  to  eye.  The  largest  difference  among  4  eyes  is  less 
+than  21  %.  The  average  retinal  SAR  is  1.25  W/kg  per  W  power  transmitted 
+through  the  antenna  or  0.45  W/kg  per  mW/cm2. 
+
+Current  Status  of  the  Project :  Four  monkeys  were  exposed  at  each  dose 
+level  (0,  4,  8,  20  W/kg).  The  preliminary  results  indicate  that  retinal  injury  did  not 
+occur  in  any  of  the  eleven  monkeys  examined  so  far.  However,  post  exposure 
+
+
+effects  were  noted.  Increased  glycogen  storage  in  the  cone  receptors  and  Muller 
+cells,  and  enhanced  post-exposure  cone  photoreceptor  b-waves  were  observed. 
+The  increased  glycogen  storage  and  enhanced  b-wave  amplitude  occurred  most 
+frequently  in  monkeys  exposed  to  8  W/kg  and  20  W/kg  but  not  at  4  W/kg.  These 
+effects  could  be  "stressed"  photoreceptors  which  may  or  may  not  lead  to  injury. 
+
+Relevant  Presentation/Publication 
+
+D' Andrea,  J.  A.,  Ziriax,  J.  M.,  Lu,  S.  T.f  Mathur,  S.,  Merritt,  J.  H.,  Johnson,  M., 
+Lutty,  G.,  Zwick,  H.,  &  Stuck,  B.  (1997).  Rhesus  Monkey  Vision  After 
+Exposure  to  High  Peak  Power  Microwave  Pulses.  Presented  at  The  Second 
+World  Congress  for  Electricity  and  Magnetism  in  Biology  and  Medicine  . 
+D'Andrea,  J.  A.,  Ziriax,  J.,  Lu,  S.  T.,  Mathur,  S.,  &  Merritt,  J.  H.  (1997).  Rhesus 
+Monkey  Vision  After  Exposure  to  High  Peak  Power  Microwave  Pulses.  In: 
+Abstracts  of  the  1997  DOD  Electromagnetic  Environmental  Effects  (E3) 
+
+
+Program  Review 
+
+
+V.  Biological  Effects  of  Millimeter  Wave  Fields. 
+
+
+A.  Genetic  Effects  Of  Low-Level  Millimeter  Waves 
+
+Most  known  frequency  specific  effects  of  low  and  extremely-low  levels  of 
+millimeter  waves  (MMW)  are  related  to  genome  structure  and  function.  However, 
+the  data  have  not  been  generally  accepted  in  the  scientific  community.  The 
+existence  of  nonthermal  genetic  effects  of  MMW  requires  independent 
+confirmation. 
+
+The  objective  of  this  research  is  to  investigate  possible  MMW  effects  on  UV- 
+induced  mutagenesis  and  recombinagenesis  and  to  study  frequency  dependency  of 
+MMW  effects. 
+
+Methods:  D7  strain  of  yeast  Saccharomyces  cerevisiae  was  used  to 
+determine: 
+
+■  mutations;  including  reversions,  point  mutations,  deletions,  aneuploidy, 
+
+•  intragenic  mitotic  recombination  (gene  conversion), 
+
+■  intergenic  mitotic  recombination  (crossing-over), 
+
+■  colony  forming  ability  (CFA). 
+
+UV  254  nm  (100  J/m2)  was  used  as  a  mutagen.  MMW  (61 .0  -  61 .4  GHz,  0.5 
+mW/cm2,  30  min)  served  as  a  modifying  factor. 
+
+
+The  results  indicated  that  MMW  at  different  frequencies  enhanced  intragenic 
+mitotic  recombination.  Furthermore,  MMW  had  no  effect  on  mutagenesis, 
+intergenic  mitotic  recombination  or  CFA. 
+
+Dr.  Pakhomova  concluded  that  MMW  pre-treatment  may  change  the 
+proportion  between  pre-mutagenic  and  pre-recombinagenic  DNA  damages  or 
+enhance  the  recombinagenic  repair  process.  This  implies  a  possible  role  of  MMW 
+as  a  carcinogenic  or  co-carcinogenic  factor. 
+
+B.  Neural  Effects  of  Low-Intensity  Millimeter  Waves 
+
+Reliable  knowledge  of  frequency  specific,  nonthermal  bioeffects  of  millimeter 
+waves  (MMW)  is  necessary  for  development  of  safety  guidelines  for  human 
+exposure. 
+
+The  objectives  of  these  studies  were:  to  reveal  and  analyze  specific 
+bioeffects  of  millimeter  waves  (MMW)  in  model  nerve  and  neuron  preparations,  to 
+develop  response  spectra  with  respect  to  the  wavelength  and  intensity  of  the 
+radiation,  and  to  define  nervous  functions  and  structures  most  sensitive  to  MMW. 
+
+Models  and  endpoints  employed: 
+
+1 .  Action  potential  conduction,  refractoriness,  and  tolerance  to  a  high-rate 
+
+of  electrical  stimulation  in  isolated  frog  sciatic  nerve. 
+
+
+2.  Synaptic  processes  in  the  isolated  frog  spinal  cord,  including  mono-  and 
+polysynaptic  conduction  via  chemical  and  electrical  synapses,  pre-  and 
+postsynaptic  recurrent  inhibition,  summation  on  motoneurons,  posttetanic 
+potentiation,  habituation,  heterosynaptic  facilitation,  etc. 
+
+Results  indicated  that  over  200  experiments  in  isolated  nerve  and  over  60  in 
+isolated  spinal  cord  allowed  us  to  identify  significant  bioeffects  which  are  induced 
+by  MMW  intensities  far  below  the  effective  safety  limits.  These  effects 
+demonstrated  resonance-like  dependence  on  the  frequency  of  the  radiation,  while 
+their  dependence  on  the  field  intensity  was  rather  flat. 
+
+The  observed  nonthermal,  frequency-specific  neural  effects  prove  that  it  is 
+inadequate  to  base  safety  standards  solely  on  the  thermal  action  of  MMW.  Revision 
+of  currently  effective  safety  standards  requires  accumulation  of  sufficient  database 
+on  MMW  bioeffects  and  understanding  of  basic  mechanisms  of  MMW-specific 
+interactions. 
+
+
+Relevant  Presentations/Publications 
+
+Pakhomov,  A.  G.  (1997).  Millimeter  Wave  Medicine  in  Russia:  A  Review  of 
+
+Literature.  Presented  at  the  workshop  Infrared  Lasers  and  Millimeter  Waves: 
+The  Links  Between  Microwaves  and  Laser  Optics  . 
+
+
+Pakhomov,  A.  G.  (1995).  Millimeter  Wavelength  Radiation  Effects  on  Nerve 
+Function.  Presented  at  Second  Michaelson  Research  Conference  . 
+Pakhomov,  A.  G.,  &  Akyel,  Y.  (1997).  Nonthermal  Physiological  Effects  of 
+Microwave  Exposure.  Presented  at  33rd  International  Congress  of 
+Physiological  Sciences  . 
+
+Pakhomov,  A.  G.,  Prol,  H.  K.,  Akyel,  Y.,  &  Campbell,  C.  B.  G.  (1995).  Frequency 
+Dependence  of  Low-Level  Millimeter  Waves  Effect  on  Nerve  Conduction. 
+First  CERT  Symposium  on  Environmental  Radiation  Toxicology. 
+
+Pakhomov,  A.  G.,  Prol,  H.  K.,  Akyel,  Y.,  &  Campbell,  C.  B.  G.  (1995).  Low-Level 
+Millimeter-Wave  Radiation  Alters  Isolated  Nerve  Resistance  To  A  High-Rate 
+Stimulation.  The  Seventeenth  Annual  Meeting  of  the  Bioelectromagnetics 
+Society ,  46. 
+
+Pakhomov,  A.  G.,  Prol,  H.  K.,  Mathur,  S.  P.,  &  Akyel,  Y.  (1997).  Effect  of 
+Millimeter  Waves  on  Polysynaptic  Conduction  in  Isolated  Spinal  Cord. 
+Presented  at  The  Second  World  Congress  for  Electricity  and  Magnetism  in 
+Biology  and  Medicine  . 
+
+Pakhomov,  A.  G.,  Prol,  H.  K.,  Mathur,  S.  P.,  &  Akyel,  Y.  (1997).  A  Pilot  Study  of 
+the  Millimeter  Wavelength  Radiation  Effect  on  Synaptic  Transmission. 
+Electro-  and  Magnetobiology. 
+
+Pakhomov,  A.  G.,  Prol,  H.  K.,  Mathur,  S.  P.,  Akyel,  Y.,  &  Campbell,  C.  B.  G. 
+(1996).  Frequency  and  Intensity  Dependence  of  the  Millimeter-Wave 
+Radiation  Effect  on  Isolated  Nerve  Function.  The  Eighteenth  Annual  Meeting 
+
+
+of  the  Bioelectromagnetics  Society  . 
+
+Pakhomov,  A.  G.,  Prol,  H.  K.,  Mathur,  S.  P.,  Akyel,  Y.,  &  Campbell.  C.  B.  G. 
+
+(1996).  Frequency-Specific  Effects  of  Low-Intensity  Millimeter  Waves  on 
+Isolated  Nerve  Function.  Third  International  Congress  of  the  European 
+Bioelectromagnetics  Association  . 
+
+Pakhomov,  A.  G.,  Prol,  H.  K.,  Mathur,  S.  P.,  Akyel,  Y.,  &  Campbell,  C.  B.  G. 
+
+(In  Press).  Role  of  Field  Intensity  in  The  Biological  Effectiveness  of  Millimeter 
+Waves  At  A  Resonance  Frequency.  Bioelectrochemistry  and  Bioenergetics  . 
+Pakhomov,  A.  G.,  Prol,  H.  K.,  Mathur,  S.  P.,  Akyel,  Y.,  &  Campbell,  C.  B.  G. 
+
+(1997).  Search  for  Frequency-Specific  Effects  of  Millimeter-Wave  Radiation 
+on  Isolated  Nerve  Function.  Bioelectromagnetics ,  4(18),  324-334. 
+
+Pakhomov,  A.  G.,  Prol,  H.  K.,  Mathur,  S.  P.,  &  Campbell,  C.  B.  G.  (1997). 
+Frequency-Specific  Effects  of  Millimeter-Wavelength  Electromagnetic 
+Radiation  in  Isolated  Nerve.  Electro-  and  Magnetobioiogy,  76(1),  43-57. 
+Pakhomova,  O.  N.,  Pakhomov,  A.  G.,  &  Akyel,  Y.  (1996).  Effect  of  Millimeter 
+Waves  on  Mutagenic  and  Recombinagenic  Repair  in  Yeast.  The  Third 
+International  Congress  of  the  European  Bioelectromagnetics  Association  . 
+Pakhomova,  0.  N.,  Pakhomov,  A.  G.,  &  Akyel,  Y.  (1997).  Effect  of  Millimeter 
+Waves  on  UV-Induced  Recombination  and  Mutagenesis  in  Yeast. 
+Bioelectrochemistry  and  Bioenergetics. 
+
+Pakhomova,  O.  N.,  Pakhomov,  A.  G.,  &  Akyel,  Y.  (1995).  Mutagenic  and 
+Recombinagenic  Effects  of  Millimeter-Wave  Radiation.  First  CERT 
+
+
+Symposium  on  Environmental  Radiation  Toxicology. 
+
+Prol,  H.  K.,  Pakhomov,  A.  G.,  Akyel,  Y.,  &  Campbell,  C.  B.  G.  (1995).  A  Screening 
+Assessment  of  Frequency-Specific  Effects  of  Millimeter  Waves  on  Isolated 
+Nerve  Function.  The  Seventeenth  Annual  Meeting  of  the  Bioelectromagnetics 
+Society,  110. 
+
+Prol,  H.  K.,  Pakhomov,  A.  G.,  Mathur,  S.  P.,  &  C.  B.  G.  Campbell.  (1996). 
+
+Comparison  of  Field  Intensity  Levels  on  the  Biological  Effect  of  Millimeter 
+Waves  at  41 .34  GHz.  Second  CERT  Symposium  for  Environmental  Radiation 
+
+
+Toxicology  . 
+
+
+VI.  Determination  of  Field  Strengths,  Dosimetry  and  Modeling  of  Radiofrequency 
+Fields. 
+
+
+A.  Complex  Dielectric  Characterization  of  Materials 
+
+The  issue  of  the  lack  of  complex  dielectric  data  of  materials  (biological, 
+liquids,  solids)  at  super  high  frequencies  and  models  in  wide  frequency  band  led  Dr. 
+Jian-Zhong  Bao,  to  study  the  "Complex  Dielectric  Characterization  of  Materials" . 
+
+The  objective  of  this  research  was  to  obtain  dielectric  spectra  and  models  of 
+biological  materials  and  low  and  high  density  solids  in  a  wide  frequency  range. 
+
+To  study  this  problem,  we  utilized  the  open  ended  coaxial  probe  technique 
+with  a  computer  controlled  HP  851  OB  network  analyzer  to  measure  the  dielectric 
+spectra  in  the  frequency  range  between  45  MHz  and  26.5  GHz,  and  the  complex 
+nonlinear  least  squares  method  to  model  the  dispersions  with  the  common 
+empirical  formulas:  Debye,  Cole  Cole,  Cole  Davidson,  Havriliak  Negami  functions. 
+An  object  oriented  analysis  program  with  C+  +  has  been  developed  to  model  the 
+complex  dielectric  spectra. 
+
+
+Many  complex  dielectric  measurements  on  biological  tissues,  tissue 
+simulating  phantom  material,  and  some  low  and  high  density  solids  have  been 
+performed.  The  results  are  consistent  with  the  previously  published  data  in  low 
+
+
+frequencies.  The  data  of  rat  brain  tissues  have  been  analyzed  extensively. 
+
+Thanks  to  the  efforts  of  McKesson  BioServices'  scientists,  a  complex 
+dielectric  measurement  laboratory  has  been  set  up  and  an  object  oriented  analysis 
+program  with  C+  +  has  been  developed  in  the  Microwave  Bioeffects  Branch.  With 
+these  hardware  and  software  tools,  it  is  possible,  in  principle,  to  measure  and 
+analyze  all  the  liquid  and  solid  materials  in  the  radio  and  microwave  frequencies. 
+This  new  addition  to  the  capabilities  of  the  US  Army's  Microwave  Bioeffects 
+Branch  has  been  recognized  by  the  other  two  services  on  the  compound  and  the 
+facility  has  been  used  to  provide  assistance  and  support  for  other  Services'  needs. 
+
+B.  Development  of  Finite-Difference  Time-Domain  Simulation  Software  with 
+
+Object-Oriented  Design. 
+
+Lack  of  effective  experimental  methods  for  the  measurements  of 
+electromagnetic  field  distributions  in  a  complex  system,  such  as  biological  bodies, 
+in  a  detail  form  is  one  of  the  biggest  and  complex  issue  in  the  radio  frequency  field. 
+
+The  objective  of  this  project  is  to  develop  a  generic  simulation  program  using 
+finite-difference  time-domain  method  to  study  the  electromagnetic  problems  in 
+complex  systems.  Computer  simulation  is  the  only  solution  to  this  problem. 
+
+
+The  finite-difference  time-domain  technique  is  a  powerful  tool  to  solve  the 
+Maxwell's  equation,  especially  for  the  complex  systems  in  time  domain.  With  a 
+bigger  and  faster  computer,  a  better  accuracy  can  be  achieved.  The  Yee's 
+discretization  algorithm  with  Berenger  and  Mur  absorption  boundary  conditions  is 
+utilized. 
+
+Developing  this  software  with  object-oriented  technique  offers  the  following 
+advantages: 
+
+1)  Code  Reuse:  The  code  is  much  more  apt  to  be  reused  again.  It  is  feasible 
+and  practical  to  considering  writing  something  once  and  to  have  it  used 
+repeatedly. 
+
+2)  Localization  of  Change :  Because  of  the  polymorphism  and  inheritance, 
+changes  are  usually  local  to  a  class  rather  than  spread  out  across  a  whole 
+application. 
+
+3)  Short  Development  Cycle:  Because  of  the  above  advantages,  the  cycle  of 
+development  is  short,  in  the  long  run. 
+
+A  new  Sun  Workstation  has  been  acquired  for  this  project.  Although  Yee's 
+discretization  algorithm  and  some  of  the  boundary  conditions  have  been  coded,  the 
+code  is  still  under  development.  In  the  near  future  some  simple  geometry  object 
+will  be  tested  first,  followed  by  more  complex  systems. 
+
+
+C.  Characterization  of  Ultra-Wide-Band  Electromagnetic  Pulses 
+The  characterization  of  the  ultrawide  band  exposure  system  is  extremely 
+difficult  due  to  the  errors  in  fast  pulse  measurements  caused  by  sensors,  cables, 
+and  a  sampling  scope.  In  order  to  obtain  the  best  characterization  of  the  E-field  in 
+the  UWB  pulses  and  their  energy  spectra  in  an  exposure  facility  for  biological 
+effects  studies,  a  two-step  deconvolution  routine  was  developed. 
+
+The  following  steps  have  been  taken  to  correct  the  measurement  errors: 
+
+1 )  Obtain  the  transfer  function  for  the  connection  cable  and  SCD5000 
+system  with  a  pico  second  pulse  generator  and  a  CSA803  sampling  scope. 
+
+2)  Model  the  impulse  response  function  of  the  D-dot  sensor  with  delta- 
+functions  to  cancel  the  reflections,  and  optimize  the  parameters  of  the  delta- 
+functions  with  a  reference  measurement  and  our  object-oriented  software. 
+
+3)  Deconvolve  the  measured  pulse  using  the  transfer  functions  obtained  in 
+the  above  two  steps  with  various  filters. 
+
+The  UWB  pulses  delivered  by  this  system  have  been  characterized  with  this 
+technique  and  were  found  to  have  a  rise  time  less  than  1 66ps  and  a  magnitude  as 
+high  as  107kV/m.  This  routine  worked  successfully  in  correcting  the  rise  time  and 
+the  magnitude  of  UWB  pulses,  and  in  compensating  pulse  shape  and  energy 
+spectra.  This  has  also  been  adopted  by  the  Air  Force.  Four  measurements  have 
+been  performed  on  their  KenTech  system  thus  far. 
+
+
+Relevant  Presentations/Publications 
+
+
+Bao,  J.-Z.  (1997).  Picosecond  Domain  Electromagnetic  Pulse  Measurements  in  an 
+Exposure  Facility:  An  Error  Compensation  Routine  Using  Deconvolution 
+Techniques.  Review  of  Scientific  Instruments,  68(4),  2221-2227. 
+
+Bao,  J.-Z.,  Lee,  J.  C.,  Belt,  M.  E.,  Cox,  D.  D.,  Mathur,  S.  P.,  &  Lu,  S.  T.  (1996). 
+Characterization  of  Ultra-Wide  Band  Electromagnetic  Pulses  in  a  Biological 
+Exposure  Facility.  The  Eighteenth  Annual  Meeting  of  the  Bioelectromagnetics 
+Society  . 
+
+Bao,  J.-Z.,  Lee,  J.  C.,  Belt,  M.  E.,  Cox,  D.  D.,  Mathur,  S.  P.,  &  Lu,  S.-T.  (1996). 
+Error  Correction  in  Transient  Electromagnetic  Field  Measurements  Using 
+Deconvolution  Techniques.  American  Electromagnetics  International 
+Conference  . 
+
+Bao,  J.-Z.,  Lee,  J.  C.,  Belt,  M.  E.,  Cox,  D.  D.,  Mathur,  S.  P.,  &  Lu,  S.  T.  (1995). 
+
+Field  Characterization  of  an  Ultra-Wide  Band  Bioeffect  Exposure  Facility.  First 
+CERT  Symposium  on  Environmental  Radiation  Toxicology. 
+
+Bao,  J.-Z.,  Lee,  J.  C.,  Belt,  M.,  Cox,  D.,  Mathur,  S.,  &  Lu,  S.-T.  (1997).  Ultra- 
+
+Wideband,  Short-Pulse  Electromagnetics  3.  (Baum  et  al.  ed.,  pp.  373-380). 
+New  York:  Plenum  Press. 
+
+Bao,  J.-Z.,  Lee,  J.  C.,  Lu,  S.-T.,  Seaman,  R.  L.,  &  Akyel,  Y.  (1995).  Analysis  of 
+Ultra-Wide-Band  Pulses  in  a  GTEM  Cell.  Intense  Microwave  Pulses  III,  SPIE 
+Proceedings  (Vol.  2557  pp.  237-248).  H.E.  Brandt. 
+
+Bao,  J.-Z.,  Lee,  J.  C.,  Lu,  S.-T.,  Seaman,  R.  L.,  &  Akyel,  Y.  (1995).  Analysis  of 
+
+
+Ultra-Wide-Band  Pulses  in  a  GTEM  Cell.  Presented  at  Fortieth  Annual 
+Meeting  of  International  Society  of  Optical  Engineering  . 
+
+Bao,  J.-Z.,  Lu,  S.-T.,  &  Hurt,  W.  D.  (1997).  Complex  Dielectric  Measurements  and 
+Analysis  of  Brain  Tissues  in  Radio  and  Microwave  Frequencies.  IEEE 
+Transactions  on  Microwave  Theory  and  Techniques,  45(9). 
+
+Bao,  J.-Z.,  Lu,  S.-T.,  Hurt,  W.  D.,  Belt,  M.  E.,  Cox,  D.  D.,  &  Henry,  P.  J.  (1996). 
+Dielectric  Measurements  of  Brain  Tissues  in  the  Frequency  Range  Between 
+45  MHz  and  26.5  GHz.  The  Eighteenth  Annual  Meeting  of  the 
+Bioelectromagnetics  Society . 
+
+Lee,  J.,  Bao,  J.  Z.,  Lu,  S.  T.,  &  Seaman,  R.  L.  (1995).  An  Ultra-Wide-Band 
+
+Exposure  System  For  Studying  Biological  Effects.  The  Seventeenth  Annual 
+Meeting  of  the  Bioelectromagnetics  Society,  1 60. 
+
+
+Microwave  Bioeffects  Branch  Representation  in  Scientific  Meetings 
+
+
+One  or  several  members  of  the  Microwave  Bioeffects  Branch  staff  attended 
+and  made  presentations  at  the  following  meetings: 
+
+♦  Seventh  National  Conference  on  High  Power  Microwave  Technology 
+
+♦  First,  2nd,  and  3rd  CERT  Symposium  on  Environmental  Radiation  Toxicology 
+
+♦  Second,  3rd.,  and  4th  Annual  Michaelson  Conference 
+
+♦  Sixteenth,  17th,  and  18th.  Annual  Meeting  of  the  Bioelectromagnetics  Society 
+
+♦  Fortieth  Annual  Meeting  of  the  International  Society  of  Optical  Engineering 
+
+♦  Third  International  Congress  of  the  European  Bioelectromagnetics  Association 
+
+♦  Ninth  International  Congress  on  Genes,  Gene  Families,  and  Isozymes 
+
+Besides  the  above  conferences  that  have  been  attended,  the  work  of  the 
+MBB  has  also  been  presented  in  the  following  meetings: 
+
+♦  Second  World  Congress  for  Electricity  and  Magnetism  in  Biology  and  Medicine 
+
+♦  Thirty-Third  International  Congress  of  Physiological  Sciences 
+
+♦  Seventy-Third  Annual  Meeting  of  the  American  Association  of  the 
+
+
+Advancement  of  Science 
+
+
+CONCLUSIONS 
+
+
+Behavioral,  biological,  cardiovascular,  cellular  effects  of  ultrawide  band  and 
+high  peak  power  pulsed  microwave  fields;  ocular  effects  of  high  peak  power  pulsed 
+microwave  fields,  and  biological  effects  of  millimeter  wave  fields  were  studied 
+using  various  physiological  and  behavioral  paradigms  in  animal  models.  Behavioral 
+studies  involved  analgesia  and  open  field  activity  in  mice.  Cardiovascular  effect 
+studies  indicated  systolic,  mean,  and  diastolic  arterial  pressures  decreased 
+significantly  in  UWB  exposed  rats.  Cellular  effects  involved  Nitric  Oxide  Synthase 
+activity  in  cultured  cells,  and  mutagenic  and  recombinagenic  effects  of 
+electromagnetic  fields.  Millimeter  wave  studies  showed  frequency  specific  neural 
+effects  below  the  effective  permissible  safety  limits.  Engineering  part  of  the 
+program  involved  determination  of  fields  strengths,  dosimetry  and  modeling  of 
+radiofrequency  fields.  A  two-step  deconvolution  routine  was  developed  to 
+characterize  ultra  fast  rise  time  UWB  pulse  and  has  been  adopted  by  other  military 
+services  to  be  used  in  their  systems. 
+
+McKesson  is  determined  to  provide,  under  the  general  guidance  of  the  COR 
+and  appropriate  WRAIR  program  managers,  a  high-quality  peer-reviewed  scientific 
+journal  publishable  research  support.  Specific  research  protocols  will  focus 
+primarily  on  the  behavioral  and  biological  effects  of  the  electromagnetic  radiation  in 
+the  microwave  region  of  the  spectrum.  McKesson  researchers  will  continue  to 
+investigate  potential  hazards  of  the  RF  Directed  Energy  Sources  to  personnel 
+
+
+operating  in  a  tactical  environment  using  existing  L-Band,  UWB,  EMP,  and  MMW 
+sources  supplied  by  the  Government. 
+
+McKesson  will  continue  to  give  priority  to  behavioral  and  CNS  experiments 
+with  a  commitment  to  the  highest  scientific  standards  resulting  in  high  quality  peer- 
+reviewed  publications.  We  understand  that  the  MMB  research  efforts  in  high 
+power  microwave  fields  have  little  precedent  and  are  considered  innovative  and 
+pioneering. 
+
+We  were  able  to  publish  and/or  present  46  articles  over  the  three  base  year 
+period.  This  is  excellent  proof  of  the  productivity  and  the  dedication  of  the 
+McKesson  staff  employed  here  at  The  US  Army  Medical  Research  Detachment. 
+
+The  value  of  this  productivity  is  heightened  when  limited  financial  resources  of  the 
+Branch  is  considered.  We  do  realize  the  resource  difficulties  of  the  Command  in 
+recent  years.  Our  staff  is  willing  to  accommodate  revised  and  further  limited 
+resources  and  to  produce  the  highest  quality  research  possible  under  the  new 
+circumstances. 
+
+With  the  guidance  of  the  US  Army  Operational  Medicine  Research  Program 
+managers  and  our  COR  Bruce  E.  Stuck  McKesson  BioServices  scientific  staff  will 
+investigate  new  arenas  of  research  to  respond  to  current  health  and  safety  issue  of 
+the  warfighters.  We  will  continue  to  promote  the  success  of  Walter  Reed  Army 
+
+
+Institute  of  Research  and  be  the  world  leader  in  military  relevant  biomedical 
+research.  We  will  help  WRAIR  to  ensure  that  the  warfighters  will  have  the  best 
+available  knowledge  and  protection  against  environmental  electromagnetic  threats. 
+Concurrently,  we  are  committed  to  support  the  efforts  of  the  program  to  acquire 
+new  funding  from  various  sources. 
+
+
