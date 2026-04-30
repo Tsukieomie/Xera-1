@@ -886,3 +886,32 @@ was not directly fetched in this pass. Not a speech-evidence anchor.
 Full forensic detail (verbatim transcription of pp. 1073-1074, whole-volume topical search, cross-checks against §6.3's earlier negative findings, and FY74 follow-on candidates AD-A009337/AD-A009338): see **`BERMAN_1985_REF24_CHASE.md`** (companion file in this directory).
 
 Local PDF + OCR archived in `findings/investigation-dig/ad776967_berman_ref24/`.
+
+---
+
+## §8. EXTENSION TO FY74 WRAIR COMPOSITE — see addendum
+
+**As of 2026-04-29**, following the resolution of §7 (Berman 1985 ref 24 = AD-776967 FY73 Vol 2), the investigation was extended to the FY74 WRAIR Annual Progress Report — the volume covering 1 July 1973 – 30 June 1974, the period containing Justesen's 28-September-1973 personal-communication date for the Sharp/Grove speech demonstration.
+
+**Documents pulled**:
+- **AD-A009337** — *WRAIR Annual Progress Report, 1 Jul 1973 – 30 Jun 1974, Volume 1* (Internet Archive: `DTIC_ADA009337`).
+- **AD-A009338** — *WRAIR Annual Progress Report, 1 Jul 1973 – 30 Jun 1974, Volume 2* (Internet Archive: `DTIC_ADA009338`) — contains the WU 057 narrative.
+
+### §8.1 Major positive finding
+
+The FY74 WU 057 narrative explicitly contains a section titled **"Modulated microwave signals"** (printed pp. 985-986, OCR lines 9476-9489 in AD-A009338) that openly references "the so-called hearing effect produced by extremely low average power levels" and "the auditory study". This is the **first direct unclassified Army-internal documentary acknowledgement** that Sharp and Grove conducted formal microwave-auditory-effect research at WRAIR in the period containing Justesen's 28-Sept-1973 date. The work is officially linked to the Sharp/Grove/Gandhi 1974 IEEE T-MTT paper "Generation of acoustic signals of pulsed microwaves" (which appears as Publication #1 in WU 057's FY74 publication list).
+
+### §8.2 Critical limitations
+
+- The work is described in **bioeffects/safety dosimetry framing only** — no mention of speech, voice, verbal stimuli, phonemes, words, intelligibility, or human voice-modulation schemes.
+- The work is reported as **officially halted** during the latter half of the FY74 reporting period, for two stated reasons: (a) a non-biological electrostrictive transducer model is adequate, and (b) BBB-permeability concerns at similar exposure parameters.
+- **No mention of Justesen** appears anywhere in either FY74 volume; no mention of the 28-Sept-1973 demonstration; no description of voice-modulation experiments.
+- The narrative does NOT constitute a primary technical-report account of the speech demonstration itself.
+
+### §8.3 Updated assessment of the §6.7 conclusion
+
+The §6.7 conclusion — that **Justesen 1975 (*American Psychologist*) remains the sole primary unclassified published account of the Sharp/Grove speech-demonstration claim** — is reaffirmed by the FY74 evidence. The FY74 WU 057 narrative is the **strongest contemporaneous Army-internal corroboration of the existence of Sharp/Grove auditory work** but does not bridge from "Frey-effect bioeffects characterization" to "speech transmission demonstration." The most parsimonious reading consistent with both records is that an informal speech-modulation extension of the formal study was conducted around the time the formal study was being wound down, demonstrated to Justesen, and never written into the formal WU 057 narrative.
+
+Full forensic detail (verbatim transcription of the "Modulated microwave signals" section, FY74 investigator roster delta vs FY73, full WU 057 narrative outline, false-positive disambiguation of WU 031 Military Psychiatry / WU 112 Drugs of Abuse, and recommended further-inquiry threads): see **`fy74_wrair_speech_demo_hunt/FY74_SPEECH_DEMO_HUNT.md`** (companion file).
+
+Local PDFs + OCR archived in `findings/investigation-dig/fy74_wrair_speech_demo_hunt/`.
