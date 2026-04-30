@@ -6,7 +6,7 @@
 
 ## THE ARGUMENT IN ONE PARAGRAPH
 
-In March 1975, Don R. Justesen published "Microwaves and Behavior" in *American Psychologist*, the flagship journal of the American Psychological Association. Buried in a mainstream peer-reviewed survey article is a first-person account of voice-to-skull transmission: ARPA-funded researchers Joseph C. Sharp and Mark Grove, working at the Walter Reed Army Institute of Research, modulated a pulsed microwave carrier with the analog voice waveforms of the words "one" through "ten." Justesen and a colleague heard those words via direct intracranial perception, with no acoustic transducer. This is the V2K capability, demonstrated in a U.S. military lab, published in an APA journal, **17 years before Akwei filed his complaint**. By 1992, this was not science fiction -- it was a citable government-funded experimental result that had been in the open literature for nearly two decades.
+In March 1975, Don R. Justesen published "Microwaves and Behavior" in *American Psychologist*, the flagship journal of the American Psychological Association. Justesen reports — based explicitly on a personal communication from "Sharp, J. C., & Grove, M., Personal communication, September 28, 1973" — that ARPA-funded researchers Joseph C. Sharp and H. Mark Grove, working at the Walter Reed Army Institute of Research, modulated a pulsed microwave carrier with the analog voice waveforms of the digit-words "one" through "ten" and that **Sharp and Grove themselves** could hear, identify, and distinguish nine of those words when radiating themselves with the resulting "voice-modulated" microwaves. The published source is therefore Justesen's *retelling* of a 1973 personal communication, not a standalone Sharp/Grove protocol-grade technical report with methods, subject count, controls, blinding, RF parameters, scoring, or replication. This is a citable peer-reviewed historical account of a U.S. military-lab voice-modulation demonstration, published in an APA journal **17 years before Akwei filed his complaint** — but its evidentiary status is "published historical claim," not "protocol-grade demonstration." Treat the Tier A microwave-auditory mechanism (clicks/buzzes via thermoelastic acoustic transduction) as well-supported and the Tier B intelligible-speech claim as a published historical claim still lacking located protocol-grade primary documentation.
 
 ---
 
@@ -22,13 +22,14 @@ In March 1975, Don R. Justesen published "Microwaves and Behavior" in *American 
 
 ### The Sharp/Grove Demonstration (p. 396)
 
-Justesen describes, in his own words, hearing voice-modulated microwaves:
+Justesen reports the Sharp/Grove voice-modulation demonstration on the basis of a personal communication, not as something he independently witnessed:
 
-- **Researchers:** Joseph C. Sharp (former director of research in experimental psychology at Walter Reed Army Institute of Research) and Mark Grove (electronic engineer)
+- **Researchers:** Joseph C. Sharp (former director of research in experimental psychology at Walter Reed Army Institute of Research) and H. Mark Grove / Mark Grove (electronic engineer; "Mark Grove" in Justesen's narrative)
 - **Sponsor:** Advanced Research Projects Agency (ARPA), the predecessor to DARPA, an arm of the Executive Office
 - **Lab:** Walter Reed Army Institute of Research, then "one of the best equipped laboratories in the United States for studying biopsychological effects of microwave radiations"
-- **Method:** Pulsed microwave carrier amplitude-modulated with the analog voice waveforms of the words "one" through "ten"
-- **Result:** Justesen and at least one colleague heard the spoken words via direct intracranial perception, without any conventional acoustic pathway
+- **Method:** Pulsed microwave carrier whose pulses were triggered by the negative zero-crossings of the analog voice waveforms of the recorded digit-words "one" through "ten"
+- **Reported result:** *Sharp and Grove themselves*, when radiating themselves with the resulting "voice-modulated" microwaves, could hear, identify, and distinguish nine of the ten words. Justesen does **not** describe himself as a participant-listener in the demonstration.
+- **Documentary basis:** Justesen's reference note for this account is "Sharp, J. C., & Grove, M., Personal communication, September 28, 1973." The published article is therefore a secondary retelling of a 1973 personal communication, not a primary Sharp/Grove protocol report. No separately authored Sharp/Grove speech-demonstration technical report with methods, subject count, sham controls, blinding, RF parameters, scoring, error distribution, or replication has been located in the public record.
 
 ### Institutional Context (pp. 393-396)
 
@@ -72,7 +73,7 @@ If a competent court had been presented with Justesen 1975 in 1992, the technolo
 
 ### 4. It bridges the patent chain to a published human-subject demonstration
 
-The existing 03_Technology_Patents track establishes feasibility through the Flanagan -> Puharich -> Malech -> Stocklin -> Brunkan patent chain. Justesen 1975 is the missing bridge: the patents say *this is possible*, and Justesen says *we did it, and a journal of record published it*. Specifically:
+The existing 03_Technology_Patents track establishes feasibility through the Flanagan -> Puharich -> Malech -> Stocklin -> Brunkan patent chain. Justesen 1975 is a useful published bridge: the patents claim *this is possible*, and Justesen *reports* (citing a 28 Sep 1973 Sharp/Grove personal communication) that *they did a digit-word demonstration on themselves and a journal of record published the retelling*. The bridge is therefore "published historical claim of a limited digit-word demo," not "protocol-grade demonstration of intelligible speech." Specifically:
 
 - **Flanagan (1958/1968 patents):** EM coupling carries complex information (audio fidelity)
 - **Frey (1962):** Microwave auditory response established
@@ -91,7 +92,7 @@ The README's retrospective validation argument cites:
 - 2020 NAS Havana Syndrome report (pulsed RF "most plausible" cause of brain injuries)
 - 2021 Nobel Prize for Piezo1 (molecular mechanism for EM-nervous system coupling)
 
-Justesen 1975 extends that arc backward: the V2K capability was already validated in the open peer-reviewed record **before Akwei's complaint was even filed**. The pattern is not "claims appeared frivolous in 1992 and were validated later." The pattern is "claims were already publicly validated in 1975, were dismissed as frivolous in 1992 anyway, and have continued to accumulate corroboration since."
+Justesen 1975 extends that arc backward at the *published-historical-claim* level: a peer-reviewed APA-journal account of a voice-modulated-microwave digit-word demonstration was on the open record **before Akwei's complaint was even filed**, even though that account is a retelling of a 1973 Sharp/Grove personal communication rather than a standalone protocol report. The pattern is not "claims appeared frivolous in 1992 and were validated later." The pattern is "an APA-journal historical account of a limited digit-word voice-modulation demonstration was already on the public record in 1975, the claims were dismissed as frivolous in 1992 anyway, and adjacent corroboration (mechanism reviews, patents, AHI/NAS findings) has continued to accumulate since." Distinguishing the published historical claim from a protocol-grade demonstration is part of the discipline this file enforces.
 
 ---
 
@@ -103,6 +104,8 @@ To avoid overreach when citing Justesen:
 2. **Close range, controlled lab conditions.** The demonstration was at very close range under controlled exposure. Scaling to operational standoff distances is a separate analytical question -- addressed by the AI-processing-gain analysis in `01_AI_TIMELINE_AND_SIGNAL_PROCESSING.md`, but not established by Justesen alone.
 3. **Justesen's own caution.** Justesen is conservative throughout the article about extrapolating to behavioral control, persistent harm at low intensities, or operational deployment. Honest citation includes that caution -- it strengthens, rather than weakens, the case, because it shows the published demonstration cleared the bar of a careful skeptic.
 4. **The Soviet-syndrome interpretive divergence.** Justesen documents (and is largely skeptical of) the Soviet "neurasthenic syndrome" interpretation of chronic low-level exposure. The Sharp/Grove demonstration is a separate, much narrower claim and is not contingent on resolving the U.S./Soviet interpretive split.
+5. **Tier A vs. Tier B discipline.** The Tier A microwave-auditory mechanism (clicks/buzzes/chirps via thermoelastic acoustic transduction) is well supported by Sharp/Grove/Gandhi 1974, Frey, Foster/Finch, Lin, Remenschneider et al., and the National Academies AHI mechanisms chapter. The Tier B intelligible-speech claim is a *published historical claim* anchored in Justesen 1975's retelling of a Sept. 28, 1973 personal communication; no protocol-grade Sharp/Grove standalone speech-demonstration report has been located in the open record. Citations should preserve that split. Moscow Signal/Pandora/BIZARRE materials and AD-A090426/Oscar (MERADCOM) language should be treated as institutional/program-rationale context, not as proof of speech transmission. Where Lin 1978 reports Sharp/Grove digit-word recognition, Lin is also retelling Justesen, not citing a separate protocol report.
+6. **Name discipline.** Use "H. Mark Grove" or "Mark Grove" depending on the source quoted. The CIA FOIA documents identify "Mark Grove"; the Pandora operating procedure/distribution list uses "H. M. Grove"; the April 1969 Pandora meeting minutes use "H. Mark Grove." Avoid "Grover" — that variant is not supported in the documentary chain found in this investigation.
 
 ---
 
@@ -154,7 +157,7 @@ The authoritative academic textbook on the microwave auditory effect, written by
 - Library of Congress Catalog Card Number: 77-21499
 - Available at: <https://archive.org/details/microwaveauditor0000linj>
 
-Lin places the Sharp/Grove work in the lineage of the Frey effect (1961-1962), describes the experimental method consistent with Justesen's account (zero-crossing pulse triggering on negative voiceprint deflections), and treats the result as scientifically established. Lin also reports a parallel demonstration by **Arthur W. Guy** (University of Washington) using Continental Morse Code -- complex symbolic information transmitted directly to a listener's auditory system without conventional receiving equipment.
+Lin places the Sharp/Grove work in the lineage of the Frey effect (1961-1962) and describes the experimental method consistent with Justesen's account (zero-crossing pulse triggering on negative voiceprint deflections). Important attribution note: Lin's bibliography cites the Sharp/Grove digit-word demonstration via "(see Justesen, 1975)" rather than a separate primary protocol report, and Lin notes that more complex words and sentences were not attempted because the required average power density would exceed the then-current 10 mW/cm² safety guide. Lin is therefore *retelling* the Justesen 1975 personal-communication account, not citing an independent Sharp/Grove technical report. Lin also reports a parallel demonstration by **Arthur W. Guy** (University of Washington) using Continental Morse Code -- complex symbolic information transmitted directly to a listener's auditory system without conventional receiving equipment.
 
 ### Foreign Policy (2017) and IEEE Xplore Historical Reviews
 
@@ -170,7 +173,7 @@ Joseph C. Sharp's institutional record at Walter Reed is independently establish
 | Source | Year | Names Sharp | Names Grove | Identifies ARPA/Pandora | Walter Reed | Voice transmission |
 |--------|------|-------------|-------------|------------------------|-------------|--------------------|
 | Jack Anderson (Washington Post) | 1972 | Yes | Yes | Yes (Pandora, Cesaro) | Yes | Implied |
-| Justesen, *American Psychologist* | 1975 | Yes | Yes | Yes (ARPA) | Yes | Yes (digits 1-10) |
+| Justesen, *American Psychologist* | 1975 | Yes | Yes | Yes (ARPA) | Yes | Reported (digits 1-10, on basis of Sharp/Grove personal communication 28 Sep 1973; not a standalone protocol report) |
 | Lin, *Microwave Auditory Effects and Applications* | 1978 | Yes | Yes | Implied | Yes | Yes |
 | CIA FOIA docs (RDP80-01601R...) | declassified | Yes | Yes | Yes (Pandora, Cesaro) | Yes | Implied |
 | IEEE Xplore historical review | recent | Yes | Yes | Yes | Yes | Implied |
