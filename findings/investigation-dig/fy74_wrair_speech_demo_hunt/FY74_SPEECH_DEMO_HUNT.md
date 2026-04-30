@@ -206,3 +206,9 @@ These are the remaining threads that could potentially close the speech-demonstr
 - AD-A009338 PDF (51 MB) and OCR text (55,853 lines): downloaded 30 April 2026 from Internet Archive collection `DTIC_ADA009338`.
 - All OCR-line citations in this document are verifiable against the `_djvu.txt` files committed alongside this addendum.
 - The "Modulated microwave signals" verbatim quote in §4 was visually inspected against the surrounding context (lines 9460–9525) and the OCR is clean and unambiguous in this region.
+
+---
+
+## 12. Successor work
+
+A deeper-dive follow-on investigation extending this file is at `DEEPER_DIG_ADDENDUM.md` in the same directory. It addresses (a) identification of the BBB report cited in WU 057 (FY74) — Frey/Feld/Frey (1975) ANYAS 247:433-438, presented at the same Feb 1974 NYAS conference where Sharp/Grove/Gandhi presented WU 057's Publication #2; (b) the T. Daryl Hawkins bridge between WRAIR FY74 WU 057 and the 1977 Oscar & Hawkins Brain Research positive BBB paper (with Hawkins's institutional move to Fort Belvoir USAMERDC by 1977); (c) the documentary gap in publicly-released WRAIR APRs for fiscal years 1975-1979; and (d) the WRAIR 1981 Microwave Research Program Review (Vols I-III) holding at the Gorgas Memorial Library.
