@@ -212,3 +212,18 @@ These are the remaining threads that could potentially close the speech-demonstr
 ## 12. Successor work
 
 A deeper-dive follow-on investigation extending this file is at `DEEPER_DIG_ADDENDUM.md` in the same directory. It addresses (a) identification of the BBB report cited in WU 057 (FY74) — Frey/Feld/Frey (1975) ANYAS 247:433-438, presented at the same Feb 1974 NYAS conference where Sharp/Grove/Gandhi presented WU 057's Publication #2; (b) the T. Daryl Hawkins bridge between WRAIR FY74 WU 057 and the 1977 Oscar & Hawkins Brain Research positive BBB paper (with Hawkins's institutional move to Fort Belvoir USAMERDC by 1977); (c) the documentary gap in publicly-released WRAIR APRs for fiscal years 1975-1979; and (d) the WRAIR 1981 Microwave Research Program Review (Vols I-III) holding at the Gorgas Memorial Library.
+
+---
+
+## 13. Successor work — round 2
+
+A second deeper-dive iteration extending both this file and `DEEPER_DIG_ADDENDUM.md` is at `DEEPER_DIG_2_ADDENDUM.md` in the same directory. Round 2 closes three of the five round-1 open leads using NTIA Report 79-19 Appendix A and Justesen 1975's primary-source citation note. Key results:
+
+- **Sharp/Grove demonstration date confirmed as 28 September 1973** (Justesen 1975 Note 2 personal-communication citation), inside the WU 057 FY74 reporting window.
+- **Frey/Feld/Frey 1975 ANYAS pagination corrected** to 433-**439** (round 1 cited 433-438).
+- **Hawkins-WRAIR-Fort Belvoir bridge resolved:** NTIA 79-19 Appendix A places Hawkins on WRAIR's FY77 "Modulated Microwave Bio-Effects: Nervous System (rat)" project (Oscar/Hawkins/Hunt, 1300 MHz) — i.e., the Oscar & Hawkins 1977 *Brain Research* paper was a WRAIR-USAMERDC collaboration with experimental work at WRAIR Forest Glen, despite the paper's listed Fort Belvoir affiliation. Hawkins is gone from WRAIR's FY78 roster.
+- **FY75-79 documentary gap partly explained** by WRAIR Forest Glen Annex reconstruction during FY76-FY78 (anechoic chambers, animal rooms, HVAC), per NTIA 79-19, which suspended several research projects.
+- **1977 Senate hearings formally identified:** "Oversight of Radiation Health and Safety," Senate Commerce Committee, June 16-29 1977, Serial 95-49 (1224 pp); plus a May 23 1977 Human Resources Subcommittee hearing. DARPA letter to chairman Magnuson (15 Sep 1977) confirms Pandora total cost $4.615M, March 1970 termination, and full asset transfer to WRAIR.
+- **Updated synthesis:** WU 057 (FY74) → Forest Glen reconstruction (FY76-78) → "Modulated Microwave Bio-Effects" 1300 MHz Oscar/Hawkins/Hunt at WRAIR (FY77) → Oscar & Hawkins 1977 *Brain Research* 126:281-293 → BBB program effective wind-down by FY78 (Hunt alone).
+
+Remaining open leads (not closed in round 2): Sharp's NIH/HHS post-WRAIR papers and oral histories; FY78-79 program continuation under Hunt; Frey/Feld/Frey 1975 ANYAS full text BBB parameters; WRAIR 1981 Microwave Research Program Review Vols I-III (Gorgas on-site only); Justesen's KU Medical Center research files (highest-value remaining lead — could carry primary-source weight if a 28 Sept 1973 contemporaneous note exists); 1977 Senate hearings Serial 95-49 full transcript.
