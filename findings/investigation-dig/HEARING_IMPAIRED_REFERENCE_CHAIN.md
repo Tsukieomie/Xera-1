@@ -4,6 +4,9 @@
 **Companion to:** `SHARP_GROVE_PRIMARY_REPORT_HUNT.md`,
 `findings/03_Technology_Patents/34_JUSTESEN_1975_APA_MICROWAVE_HEARING.md`,
 `V2K_EVIDENCE_MATRIX.md`
+**Deep-dig addendum:** `HEARING_IMPAIRED_DEEP_DIG.md` (§II) — supersedes
+§§3–6 below on the patient count (15, not 9), the negative-replication
+evidence (Glattke & Simmons 1974), and the patent quantitative disclosure.
 
 ---
 
