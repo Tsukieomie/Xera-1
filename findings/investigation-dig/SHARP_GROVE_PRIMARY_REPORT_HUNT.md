@@ -871,3 +871,18 @@ was not directly fetched in this pass. Not a speech-evidence anchor.
   `https://www.magdahavas.com/wp-content/uploads/2010/09/Mortarity_in_Rats_Exposed_to_CW_Microwave_Radiation.pdf`
 - PNNL/OSTI 1978 PNL-2634 SPS bioeffects review (Justesen et al.) —
   `https://www.osti.gov/servlets/purl/1069245`
+
+---
+
+## §7. RESOLUTION OF §6.3 (Berman 1985 ref 24) — see addendum
+
+**As of 2026-04-29**, the Berman 1985 ref 24 lead (§6.3) has been fully resolved:
+
+- **Cited document**: DTIC **AD-776967**, *Research in Biological and Medical Sciences ... Annual Progress Report 1 July 1972 – 30 June 1973, Volume II*, Walter Reed Army Institute of Research, **RCS MEDDH-288(R1)**.
+- **Cited pages 1073-1074**: Inside Project 3A062110A824, Work Unit 057 — "Biological effects and hazards of microwave radiation" — with Sharp (PI), Grove, Hawkins, Githens, Hirsch, Larsen, Schrot, Brown.
+- **Topic at pp. 1073-1074**: Rat lethality at 3.0 GHz and 2.45 GHz, frequency-dependent operant-performance decrement (1.7 GHz peak), mouse/rat/rabbit species lethality comparisons. **No speech, no auditory, no microwave-hearing, no V2K content.**
+- **Implication**: Berman 1985 ref 24 is a topically-appropriate lethality citation within Berman's own lethality paper, and does NOT corroborate the V2K speech-transmission lineage. The Justesen 1975 *American Psychologist* article remains the sole unclassified contemporaneous published account of the September 1973 Sharp/Grove speech demo.
+
+Full forensic detail (verbatim transcription of pp. 1073-1074, whole-volume topical search, cross-checks against §6.3's earlier negative findings, and FY74 follow-on candidates AD-A009337/AD-A009338): see **`BERMAN_1985_REF24_CHASE.md`** (companion file in this directory).
+
+Local PDF + OCR archived in `findings/investigation-dig/ad776967_berman_ref24/`.
