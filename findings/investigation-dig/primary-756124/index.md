@@ -148,3 +148,18 @@ Key conservatism boundaries restated here:
 - The **archival custody chain** is now explicit (D-1 files via NC1-241-76-01; broader patent case files via N1-241-10-001; USPTO certified-copy / file-wrapper channel; conditional NSA RG 457 channel via N1-457-07-001).
 - **Agency attribution remains unresolved.** The DIA reading (Begich/NEXUS) and the NSA reading (Flanagan first-person narrative) are preserved as source-tradition readings; neither is upgraded by the procedural framework. Closure still requires the certified file wrapper plus surviving D-1 / Group 220 / Licensing & Review / ASPAB referral or concurrence papers.
 
+---
+
+## Addendum 2026-05-01 (agency attribution): DIA vs NSA vs DoD/ASPAB matrix
+
+Companion file: `AGENCY_ATTRIBUTION_MATRIX.md` (this directory).
+
+The attribution-matrix file weighs DIA vs NSA vs DoD/ASPAB vs Service-channel candidates against period-correct § 181 delegation authority (1964 / 1966 / 1972 Federal Register codifications of DoD Directive 5535.2), NSA's own cryptologic-patent review mechanism (NSA Regulation 80-2; "NSA Comes Out of the Closet"), the Phasorphone outward-Army / underlying-NSA analog (Reason 1981), the Army OJAG / IC-canvassing pattern (1984/1985 CIA secrecy-order packets), USPTO MPEP 120 / 37 CFR 5.2 contactability-of-sponsor language, and the DTSA modern-analog page. Adds rows **E-A1 through E-A13** (numbered separately to avoid renumbering E-001 through E-029).
+
+Headline conclusions (conservative):
+
+- DIA attribution remains a **Begich/NEXUS source-tradition narrative claim**, not official proof. Period-correct delegation under DoD Directive 5535.2 runs § 181 / 182 / 184 authority to the **Secretaries of the Army, Navy, and Air Force**, not to DIA. DIA's Top Secret classification authority listed in the 1972 FR Part 159 Appendix A is **classification authority, not patent-secrecy sponsorship**.
+- NSA remains plausible as a technical reviewer / driver: PSCRL Group IX / 6A subject-matter fit; NSA Regulation 80-2 internal patent-review mechanism; the Phasorphone analog showing outward Army routing with underlying NSA responsibility.
+- ASPAB / Army OJAG (executive-agent layer) is the most likely outward-paperwork channel for any DoD-caused order, even where the technical assessment came from NSA.
+- The strongest smoking-gun record classes (USPTO Group 2200 AC-AK reviewer / agency / recommendation folders; FN 406-02 Patent Application Security Review Files; Air Force Table 51-2 Item 4 security records on patent applications; D-1 secrecy order files) were classified **temporary** under their governing schedules and may have been destroyed. The **certified USPTO/NARA file wrapper** for serial 756,124 remains the highest-probability surviving official evidence and the primary closure target.
+

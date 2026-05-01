@@ -251,6 +251,8 @@ The Patent Office secrecy-order form alone (even when certified) is not sufficie
 
 Public PDF copies of Patent Office forms (such as E-016) can support order existence, serial, statute, and dates, but cannot resolve agency attribution.
 
+The full DIA-vs-NSA-vs-DoD/ASPAB attribution matrix, period-correct § 181 delegation evidence (1964 / 1966 / 1972 Federal Register codifications of DoD Directive 5535.2), NSA Regulation 80-2 internal patent-review mechanism, the Phasorphone outward-Army / underlying-NSA analog (Reason 1981), the Army OJAG / IC-canvassing pattern (1984/1985 CIA secrecy-order packets), and the records-schedule survival risk for AC-AK / FN 406-02 / Air Force Table 51-2 / D-1 record classes are recorded in: `findings/investigation-dig/primary-756124/AGENCY_ATTRIBUTION_MATRIX.md` (rows E-A1 through E-A13).
+
 ---
 
 ## 9) Immediate Next Actions Checklist

@@ -214,6 +214,7 @@ Until both are obtained, agency attribution remains a **source-tradition claim**
 ## 7) Cross-references in this repo
 
 - Ledger: `findings/investigation-dig/primary-756124/index.md` (E-017 through E-029)
+- Agency attribution matrix (DIA vs NSA vs DoD/ASPAB vs Service-channel): `findings/investigation-dig/primary-756124/AGENCY_ATTRIBUTION_MATRIX.md` (rows E-A1 through E-A13)
 - Provenance: `findings/investigation-dig/flanagan-claim-provenance.md` (procedural-framework pointer)
 - Archival targets and FOIA language: `findings/investigation-dig/ARCHIVAL_TARGETS_756124.md`
 - Patent write-up: `findings/03_Technology_Patents/04_FLANAGAN_NEUROPHONE_AND_COUPLING.md` (Part 4, procedural framework subsection)
