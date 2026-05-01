@@ -118,6 +118,47 @@ The official Patent Office forms in E-016 do not identify a sponsoring agency. T
 
 Both readings are mutually exclusive on agency identity, internally coherent within their own source traditions, and **not adjudicable from the Patent Office forms alone**. Closure requires a certified USPTO/NARA file wrapper plus a sponsoring-agency referral memo (or equivalent inter-agency correspondence). See `findings/investigation-dig/ARCHIVAL_TARGETS_756124.md` for the refined retrieval target and FOIA language requesting referring-agency correspondence including DIA/NSA/OSD where appropriate.
 
+### Procedural framework (statute / MPEP / ASPAB / PSCRL / archival custody)
+
+Companion file: `findings/investigation-dig/primary-756124/PROCEDURAL_FRAMEWORK_ASPAB_PSCRL.md`. Ledger rows: E-017 through E-029 in `findings/investigation-dig/primary-756124/index.md`.
+
+The Apr 25 1969 order on application 756,124 sits inside a well-defined statutory and procedural machinery:
+
+- **Statute (35 U.S.C. §§ 181-188).** Under § 181, the Commissioner issues a secrecy order upon notice from the chief officer of an interested defense agency. For privately owned applications, the Commissioner makes the application available to AEC / Secretary of Defense / designated defense agencies, and acknowledgments of receipt and disposition are entered in the application file. The Apr 25 1969 form on E-016 page 2 cites the **1952 codification** of the same chapter. The file wrapper is therefore the canonical place where the recommending defense agency for serial 756,124 would have been recorded.
+- **USPTO process (MPEP § 120 / 37 CFR 5.2).** The Commissioner issues the order after the defense-agency notice; petitions for modification or rescission are coordinated with the **sponsoring agency**, which can be contacted in connection with the petition. The Jan 11 1971 Notice of Allowability on E-016 page 3 ("withheld from issue during such period as the national interest requires") is consistent with MPEP § 120 handling of an active order on an allowable application.
+- **DoD coordination via ASPAB.** Per FAS, the Patent Office makes private applications available to defense agencies, and DoD referrals are coordinated through the **Armed Services Patent Advisory Board (ASPAB)**, which is the **sole DoD authority** for making secrecy-order recommendations. Operationally, applications are routed via **Group 220 / Licensing & Review** (the file is held physically at PTO; microfiche review copies are forwarded to the relevant defense agencies). Defense-agency concurrences (DIA, NSA, military departments, OSD) return to ASPAB, which transmits the unified DoD recommendation to the Commissioner.
+- **PSCRL screening fit (background, not attribution).** The **PSCRL (Jan 1971) Group IX / 6A** category covers NSA-cryptology / communications-security subject matter, including **voice privacy / speech secrecy** (analog and digitized), **pseudo-random digit / sequence generation** for digital messages and digitized voice, and **low-detectability / spread-spectrum** communications. The application's USPTO-public title ("METHOD AND SYSTEM FOR SIMPLIFYING SPEECH WAVEFORMS") and the issued patent's abstract ("a system for transmitting secure speech information"), together with H04K "Secret communication" classifications on the Google Patents record, sit **inside** PSCRL Group IX / 6A. This explains **screening routing** for cryptology / communications-security review; it **does not prove NSA sponsored the order**. Both the DIA reading (Begich/NEXUS) and the NSA reading (Flanagan first-person) are compatible with PSCRL screening, because PSCRL determines review routing, not recommending agency.
+- **Archival custody chain.** The documents that would identify the sponsoring agency are not on the order form itself; they live in (a) the **PTO file wrapper / Licensing & Review correspondence**, (b) **NARA RG 241** USPTO national-security patent application files (D-1 family, NARA records schedule **NC1-241-76-01**) and the broader patent case-file series (**N1-241-10-001**, NAID 302050, NARA Kansas City), (c) **ASPAB referral / concurrence papers**, and — only if NSA-channel review occurred — (d) **NARA RG 457** under NSA records schedule **N1-457-07-001**.
+
+Modern, public-facing analog of the DoD-side review function (used **only** as analog, not as the entity that handled 756,124 in 1969-1972): **DTSA**, "Patent Security Reviews."
+
+Closure of the agency-attribution question requires:
+
+1. A **certified USPTO/NARA file wrapper** for application serial 756,124 (with Licensing & Review correspondence intact).
+2. Any surviving **D-1 / Group 220 / Licensing & Review or ASPAB referral / concurrence papers** identifying which defense entity referred the secrecy action to the Commissioner.
+
+Until both are obtained, agency attribution remains a **source-tradition claim** (Begich/NEXUS = DIA; Flanagan first-person = NSA), not official proof.
+
+### Extended procedural-framework sources
+
+- 35 U.S.C. § 181 (current codification): <https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title35-section181&num=0&edition=prelim>
+- MPEP § 120, "Secrecy Orders": <https://www.uspto.gov/web/offices/pac/mpep/s120.html>
+- FAS, "Invention Secrecy Order Program": <https://sgp.fas.org/othergov/invention/program.html>
+- FAS, "Administration of the Invention Secrecy Act": <https://sgp.fas.org/othergov/invention/admin.html>
+- DTSA, "Patent Security Reviews" (modern analog only): <https://www.dtsa.mil/SitePages/assessing-and-managing-risk/patent-security-reviews.aspx>
+- PSCRL (Jan 1971), via FAS: <https://sgp.fas.org/othergov/invention/pscrl.pdf>
+- Google Patents `US3647970A`: <https://patents.google.com/patent/US3647970A/en>
+- Public PDF "Patrick Flanagan High Security Speech Scramble" (E-016 form scans, public copy, not certified): <https://img1.wsimg.com/blobby/go/a56ed7e4-a072-4dc8-b939-26ab140309de/downloads/Patrick%20Flanagan%20High%20Security%20Speech%20Scramble.pdf?ver=1685486536436>
+- Source-tradition narrative anchors: <http://www.rexresearch.com/flanagan/neuroph.htm>; <https://www.jedisimon.com/articles/Deaf%20can%20hear.htm>
+- NARA SF-115 NC1-241-76-01 (USPTO national-security patent application files / D-1): <https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-commerce/rg-0241/nc1-241-76-01_sf115.pdf>
+- NARA SF-115 N1-241-10-001 (broader USPTO patent case files): <https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-commerce/rg-0241/n1-241-10-001_sf115.pdf>
+- NARA "Records of the Patent and Trademark Office": <https://www.archives.gov/research/patents>
+- USPTO update on paper file-wrapper requests: <https://www.uspto.gov/about-us/news-updates/update-paper-patent-file-wrapper-requests>
+- USPTO order page for certified copies: <https://www.uspto.gov/patents/apply/checking-application-status/order-certified-copies>
+- USPTO Certified Copy Center FAQ: <https://www.uspto.gov/learning-and-resources/frequently-asked-questions-about-certified-copy-center>
+- NSA, "Patent Office Secrecy Orders" (1948, declassified, historical context only): <https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/friedman-documents/patent-equipment/folder_527/41771019081010.pdf>
+- NARA SF-115 N1-457-07-001 (NSA records schedule, conditional NSA-side custody chain): <https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-defense/defense-agencies/rg-0457/n1-457-07-001_sf115.pdf>
+
 ---
 
 ## PART 5: THE FLANAGAN -> NORRIS-PUTTERMAN ARC

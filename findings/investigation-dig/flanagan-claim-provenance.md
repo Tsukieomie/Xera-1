@@ -129,6 +129,25 @@ Full ledger entry: **E-016** in `investigation-dig/primary-756124/index.md`. Ref
 
 ---
 
+## Addendum 2026-05-01 (procedural framework): ASPAB / PSCRL / archival custody
+
+A companion procedural file has been added at:
+
+- `findings/investigation-dig/primary-756124/PROCEDURAL_FRAMEWORK_ASPAB_PSCRL.md`
+
+That file explains — conservatively — the statutory and procedural machinery that surrounds the Apr 25 1969 secrecy order on application 756,124: **35 U.S.C. §§ 181-188**, **MPEP § 120 / 37 CFR 5.2**, the **FAS-described DoD coordination via ASPAB** (Armed Services Patent Advisory Board, sole DoD authority for secrecy-order recommendations), the **PSCRL (Jan 1971) Group IX / 6A** screening category for NSA-cryptology / communications-security subject matter (voice privacy / digitized voice / pseudo-random digit generation / spread-spectrum), and the **NARA RG 241 / RG 457** archival custody chains.
+
+Key conservatism boundaries restated for this provenance file:
+
+- The Patent Office form scans (E-016) support order existence, serial, statute, title, applicant, order date, and the Notice of Allowability. They do **not** name an agency.
+- DIA attribution remains a **Begich/NEXUS-tradition narrative claim**, not official proof.
+- PSCRL Group IX / 6A explains why the application's "secure speech" subject matter would have been routed for cryptology / communications-security review, but does **not** prove NSA sponsored the order.
+- Closure of the agency-attribution question requires the **certified file wrapper** plus any surviving **D-1 / Group 220 / Licensing & Review or ASPAB referral / concurrence papers**.
+
+Ledger entries supporting this addendum: **E-017 through E-029** in `investigation-dig/primary-756124/index.md`. Refined retrieval targets and FOIA language: `investigation-dig/ARCHIVAL_TARGETS_756124.md`.
+
+---
+
 ## Name disambiguation (SEC LR-21612 -- dismissed)
 
 A web search collision exists between **Patrick Flanagan (Neurophone inventor)** and **Patrick T. Flanagan** listed in **[SEC Litigation Release LR-21612](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-21612)** alongside **Thomas P. Flanagan** (Deloitte insider-trading/settlement narrative, Northern District of Illinois, 2010).

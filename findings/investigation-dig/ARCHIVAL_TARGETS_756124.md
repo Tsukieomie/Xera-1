@@ -28,6 +28,62 @@ The remaining closure target is therefore narrower and more specific:
 
 Until both are obtained, agency attribution remains source-tradition only (Begich/NEXUS = DIA; Flanagan first-person narrative = NSA).
 
+### 2026-05-01 update — procedural framework / refined targets (ASPAB / D-1 / Group 220 / Licensing & Review)
+
+Companion procedural file: `investigation-dig/primary-756124/PROCEDURAL_FRAMEWORK_ASPAB_PSCRL.md`. Ledger rows: E-017 through E-029.
+
+The procedural framework narrows the closure question to specific document classes and custodians:
+
+1. **Certified USPTO file wrapper for application serial 756,124.** Statutorily, 35 U.S.C. § 181 requires the Commissioner to "enter acknowledgment of the receipt and disposition" of the application by defense agencies in the application file. The file wrapper is therefore the canonical place where the recommending defense agency for serial 756,124 would have been recorded. Request channels:
+   - USPTO certified-copy ordering: <https://www.uspto.gov/patents/apply/checking-application-status/order-certified-copies>
+   - USPTO Certified Copy Center FAQ: <https://www.uspto.gov/learning-and-resources/frequently-asked-questions-about-certified-copy-center>
+   - USPTO update on paper file-wrapper requests: <https://www.uspto.gov/about-us/news-updates/update-paper-patent-file-wrapper-requests>
+
+2. **D-1 files / Licensing & Review / former Group 220 correspondence.** USPTO national-security patent application files (D-1 family) are described in NARA records schedule **NC1-241-76-01** as potentially including the application, the **request from the defense agency** for secrecy treatment, the secrecy order itself, internal/inter-agency memoranda, concurrences, and rescission correspondence. Schedule contemplates possible destruction after a fixed retention (commonly cited as 35 years), so survival of any specific 1969-era D-1 file must be confirmed by direct inquiry against the surviving NARA accession.
+   - NARA SF-115 NC1-241-76-01: <https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-commerce/rg-0241/nc1-241-76-01_sf115.pdf>
+
+3. **Broader USPTO patent case-file series (RG 241).** Operational target for the patent case file for `US 3,647,970` and the file wrapper for application serial 756,124 — held at NARA Kansas City under the band already recorded as E-006 (`Patent Case Files (#3,647,069 - 3,651,016); ENTRY UD13W 12; NAID 302050`).
+   - NARA SF-115 N1-241-10-001: <https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-commerce/rg-0241/n1-241-10-001_sf115.pdf>
+   - NARA "Records of the Patent and Trademark Office": <https://www.archives.gov/research/patents>
+
+4. **ASPAB referral / concurrence correspondence.** Per FAS, the **Armed Services Patent Advisory Board (ASPAB)** is the **sole DoD authority** for making secrecy-order recommendations. If the order on serial 756,124 was a DoD-channel order, ASPAB is the entity that would have transmitted the recommendation to the Commissioner, and the underlying defense-agency concurrences (DIA, NSA, military departments, OSD) would have been routed through ASPAB. ASPAB referral or concurrence papers are the document class most likely to resolve the DIA-vs-NSA attribution.
+   - FAS, "Invention Secrecy Order Program": <https://sgp.fas.org/othergov/invention/program.html>
+   - FAS, "Administration of the Invention Secrecy Act": <https://sgp.fas.org/othergov/invention/admin.html>
+   - MPEP § 120, "Secrecy Orders": <https://www.uspto.gov/web/offices/pac/mpep/s120.html>
+   - 35 U.S.C. § 181: <https://uscode.house.gov/view.xhtml?req=granuleid%3AUSC-prelim-title35-section181&num=0&edition=prelim>
+   - DTSA, "Patent Security Reviews" (modern analog only): <https://www.dtsa.mil/SitePages/assessing-and-managing-risk/patent-security-reviews.aspx>
+
+5. **PSCRL screening fit (background, not attribution).** The application's "secure speech" subject matter sits inside **PSCRL Group IX / 6A** (NSA-cryptology / communications-security category, including voice privacy / speech secrecy analog and digitized, pseudo-random digit generation for digital messages and digitized voice, low-detectability / spread-spectrum communications). This explains screening routing; it does **not** prove NSA sponsored the order.
+   - PSCRL (Jan 1971), via FAS: <https://sgp.fas.org/othergov/invention/pscrl.pdf>
+   - Google Patents `US3647970A` (title, filing date 1968-08-29, issue date 1972-03-07, abstract "secure speech information," CPC includes H04K secret communications): <https://patents.google.com/patent/US3647970A/en>
+
+6. **Conditional NSA-side route (RG 457).** Queryable **only if** the certified file wrapper or ASPAB records identify NSA as a referring or concurring agency for serial 756,124. Until then, an NSA RG 457 inquiry is speculative. The NSA-declassified 1948 "Patent Office Secrecy Orders" document is recorded only as historical context for ANPAB / Signal Corps cryptology review, not as Flanagan-specific evidence.
+   - NARA SF-115 N1-457-07-001: <https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-defense/defense-agencies/rg-0457/n1-457-07-001_sf115.pdf>
+   - NSA, "Patent Office Secrecy Orders" (1948, declassified): <https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/friedman-documents/patent-equipment/folder_527/41771019081010.pdf>
+
+7. **Tertiary corroboration anchors (already in ledger).** Recorded for completeness as the narrative endpoints of the two attribution traditions:
+   - <http://www.rexresearch.com/flanagan/neuroph.htm> (Flanagan first-person, NSA tradition)
+   - <https://www.jedisimon.com/articles/Deaf%20can%20hear.htm> (Begich, DIA tradition)
+   - <https://img1.wsimg.com/blobby/go/a56ed7e4-a072-4dc8-b939-26ab140309de/downloads/Patrick%20Flanagan%20High%20Security%20Speech%20Scramble.pdf?ver=1685486536436> (E-016 form scans; order existence / serial / statute / dates only — does not name an agency)
+
+### Refined FOIA / request enumeration
+
+The earlier FOIA template (Section 4.2) is retained. The procedural framework adds the following targeted requests, each tied to a specific document class:
+
+- **(a) USPTO — certified file wrapper for serial 756,124.** Request a certified copy of the complete prosecution file wrapper for application serial 756,124, including all Licensing & Review / former Group 220 correspondence retained in the wrapper, all § 181 acknowledgments of receipt and disposition by defense agencies (per 35 U.S.C. § 181), all secrecy-order issuance, renewal, modification, and rescission instruments, and all petition-related correspondence under 37 CFR 5.4 / 5.8. Cite USPTO Certified Copy Center channel above.
+
+- **(b) NARA — D-1 / national-security patent application file for serial 756,124.** Inquire under NARA records schedule NC1-241-76-01 whether a surviving D-1 file (or equivalent national-security patent application file) exists for application serial 756,124, and request a finding aid / accession identifier for any such file. Note the schedule's retention provision and request confirmation of survival.
+
+- **(c) NARA Kansas City — patent case file for `US 3,647,970`.** Request the patent case file for `US 3,647,970` from RG 241, NAID 302050, ENTRY UD13W 12 (band `#3,647,069 - 3,651,016`) per E-006, and any cross-reference material tied to application serial 756,124. Email: `kansascity.archives@nara.gov`.
+
+- **(d) DoD — ASPAB referral / concurrence records.** FOIA the cognizant DoD records office for ASPAB (Armed Services Patent Advisory Board) referral and concurrence correspondence for application serial 756,124 (and patent `US 3,647,970`), including any defense-agency concurrences from DIA, NSA, military departments, and OSD routed through ASPAB during the period **Aug 1968 - Mar 1972**, and any recommendation transmitted to the Commissioner of Patents. Reference 35 U.S.C. §§ 181-188 (1952 codification) and the Apr 25 1969 secrecy-order issuance.
+
+- **(e) DIA — referral correspondence.** FOIA DIA for any referral, review, or recommendation correspondence with the U.S. Patent Office / Commissioner of Patents concerning application serial 756,124 / patent `US 3,647,970` / inventor Gillis Patrick Flanagan during **Aug 1968 - Mar 1972**, including any concurrence routed through ASPAB.
+
+- **(f) NSA — referral correspondence (conditional).** FOIA NSA for any referral, review, or recommendation correspondence with the U.S. Patent Office / Commissioner of Patents concerning the same application/patent/inventor during the same period, including any concurrence routed through ASPAB. Cite the NSA records schedule N1-457-07-001 as a possible custody anchor.
+
+- **(g) Commerce — USPTO Licensing & Review / Group 220 correspondence.** FOIA Department of Commerce / USPTO for Licensing & Review / former Group 220 correspondence concerning application serial 756,124 not retained inside the certified file wrapper.
+
 ---
 
 ## 2) Primary Questions to Resolve
