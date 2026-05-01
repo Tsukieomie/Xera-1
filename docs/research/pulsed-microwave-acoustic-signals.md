@@ -179,3 +179,136 @@ The taxonomy in §7 still holds; this section sharpens it for ongoing investigat
 - **Older Soviet / Russian "radio sound" literature** — search VINITI, eLIBRARY.RU, and Russian Academy of Sciences institute reports from the 1960s–1980s for "радиозвук" and microwave auditory perception experiments contemporaneous with Frey/Foster/Guy.
 - **Defense Technical Information Center (DTIC) microwave auditory reports** — search DTIC for technical reports on microwave-induced auditory effects, particularly Walter Reed Army Institute of Research (WRAIR) and Air Force Research Laboratory technical reports adjacent to the O'Loughlin & Loree patent family.
 - **Exact "Groves speech" primary references** — locate any primary-source Sharp/Grove/Grove-and-Sharp document (technical report, conference proceedings, internal WRAIR memo) beyond the Justesen 1975 personal communication; rule in or out a standalone speech paper.
+
+---
+
+## 10. Follow-up (2026-05-01) — Tightening the Sharp/Grove Speech Trail and Source Class Separation
+
+This follow-up tightens the evidence around the so-called "Groves speech" anecdote, expands the technology/patent map, and explicitly separates primary peer-reviewed literature from patent claims and secondary or uncertain claims. It supersedes loose phrasing earlier in this note where the speech demonstration risked being read as a published Sharp/Grove paper.
+
+### 10.1 Name Discipline and What the Open Record Actually Says
+
+- **Correct names.** The researchers are **Joseph C. Sharp** and **Mark Grove** (also rendered **H. M. Grove**), not "Groves." The published 1974 IEEE letter has the author line **Sharp, Grove, and O. P. Gandhi**.
+- **The published Sharp/Grove/Gandhi paper is not about speech to humans.** It is a short technical letter:
+  - *Generation of Acoustic Signals by Pulsed Microwave Energy*, IEEE Transactions on Microwave Theory and Techniques, 1974, 22, 583–584. DOI [10.1109/TMTT.1974.1128293](http://ieeexplore.ieee.org/document/1128293/). PDF mirror: [zoryglaser.com PDF](https://zoryglaser.com/wp-content/uploads/2020/05/GENERATION-OF-ACOUSTIC-SIGNALS-BY-PULSED-MICROWAVE-ENERGY.pdf).
+  - Abstract-level takeaway: short microwave pulses directed at an absorber produce sound; the same physics is plausibly part of the explanation for the microwave "hearing" effect in humans.
+- **The strongest public account of the speech anecdote is Don R. Justesen 1975**, *Microwaves and Behavior*, American Psychologist, citing **"Sharp, J. C., & Grove, M. Personal communication, September 28, 1973"** for the speech experiment. This is a cited personal communication relayed in a review article — not a Sharp/Grove peer-reviewed speech-transmission paper.
+- **Plain caveat to carry forward.** The open evidence supports "reported demonstration via personal communication, repeated in Justesen 1975." It does **not** support a fully reproducible peer-reviewed speech-transmission paper authored by Sharp and Grove.
+
+### 10.2 Sharp/Grove/Gandhi 1974 — Key Parameters from the PDF
+
+Recorded here so the published paper is not conflated with the speech anecdote.
+
+- Absorber: **carbon-impregnated polyurethane**, Emerson and Cuming **Eccosorb WG4**, surface area ~**300 cm²**.
+- Reflector: **crumpled aluminum foil**.
+- Pulses: **14 μs**, ~**3 pulses/s** random triggering; repetition also driven up to **100 pulses/s**.
+- Carrier: **1500 MHz** for the main setup; little difference observed across **1200–1500 MHz** and **2450 MHz**.
+- Power: net transmitted power **~4500 W/pulse**; peak power density **~75 kW/m²** at **0.5–0.6 m**.
+- Detection: microphone with cone-shaped acoustic guides (**1.42 m** and **0.78 m**).
+- Reported delays were **consistent with the velocity of sound** (the source extraction had a likely typo around delay units; do not overclaim exact milliseconds).
+- Decoupling control: **no acoustic signal** when the absorber was acoustically decoupled, except a clearly identified RF artifact.
+- Threshold: audibility threshold on the order of **~275 W peak** under less ideal conditions, corresponding to estimated **~0.46–0.92 kW/m²** peak power density.
+
+This is the published, primary-literature core. It establishes the thermoacoustic physics in absorbers; it does not establish remote intelligible speech in humans.
+
+### 10.3 Justesen 1975 — Exact Content of the Speech and Morse-Code Anecdotes
+
+From [Justesen 1975 (PDF)](https://zoryglaser.com/wp-content/uploads/2020/05/MICROWAVES-AND-BEHAVIOR.pdf):
+
+- **ARPA contacted Joseph C. Sharp**, former director of research in experimental psychology at the **Walter Reed Army Institute of Research (WRAIR)**, and electronic engineer **Mark Grove**. They built a **microwave biopsychology laboratory** at Walter Reed.
+- **Sharp and Grove** recorded **single-syllable digit words from 1 to 10**, processed sine-wave analogs so that **each negative-going zero crossing triggered a brief microwave pulse**, and **by radiating themselves with the voice-modulated microwaves were able to hear, identify, and distinguish among 9 of the 10 digit words**. The perceived sounds were said to **resemble artificial-larynx speech**.
+- **Complex words and sentences were not attempted** because the average energy densities required would have approached the then-current **10 mW/cm²** safe exposure limit.
+- Justesen also reports that **Arthur Guy** received **Continental Morse Code** by microwave pulses keyed by his father, citing **"Guy, A. W. Personal communication, October 15, 1973."**
+
+These are personal communications relayed by Justesen, not standalone primary publications by the original experimenters.
+
+### 10.4 False-Trail Caveat — US3951134A Is Not the Sharp/Grove Speech Patent
+
+A common misattribution that should be ruled out explicitly:
+
+- **US3951134A — "Apparatus and method for remotely monitoring and altering brain waves,"** Robert G. Malech, assigned to Dorne and Margolin. URL: [US3951134A on Google Patents](https://patents.google.com/patent/US3951134A/en).
+- This patent concerns **remote brain-wave monitoring and altering using EM signals**. It is **not** the Sharp/Grove speech experiment and **not** the Sharp/Grove/Gandhi acoustic-signal letter. Citations that conflate them should be rejected.
+
+### 10.5 DTIC / Government Trail — What Open Search Did and Did Not Show
+
+- Public searches of DTIC and other open government records **did not surface** a Sharp/Grove primary report for speech-by-microwave in open results during this investigation.
+- **DTIC ADA443237** — *Interdisciplinary Research Project to lay foundation for RF/MW non-lethal stunning/immobilizing weaponry*. URL: [archive.org/details/DTIC_ADA443237](https://archive.org/details/DTIC_ADA443237). This is RF/MW bioeffects research focused on **exocytosis** and **1–6 GHz exposure systems**. It does **not** mention the microwave auditory effect, RF hearing, speech, thermoacoustic hearing, or acoustic signals. Treat as **adjacent but not direct** evidence for the speech branch.
+
+### 10.6 ARPANSA — Mechanism and Numerical Limits
+
+- **ARPANSA** technical paper, *Human auditory perception resulting from exposure to high power pulsed or modulated microwave radiation — specification of appropriate safety limits*. URL: [arpansa.gov.au PDF](https://www.arpansa.gov.au/sites/default/files/legacy/pubs/rps/aud_perc.pdf).
+- Mechanism: **rapid thermoelastic expansion** is the key mechanism; the **first ~30–70 μs** of energy delivery is most efficient at producing the perceived sound.
+- Reported thresholds: ~**100–400 mJ/m²** for pulses **<30 μs at 2.45 GHz**, corresponding to **~4–16 mJ/kg specific absorption (SA)**.
+- ARPANSA limit table (head, within any 50 μs interval): **occupational spatial peak SA 10 mJ/kg**, **general public 2 mJ/kg**; **instantaneous spatial peak SAR 10,000 W/kg (occupational)** and **2,000 W/kg (general public)**.
+
+### 10.7 Russian / Soviet Branch — Tyazhelov 1979, Tigranyan/Shorokhov 1991, RU Patent Citation
+
+Strongest open Soviet/Russian academic pointer:
+
+- **Tyazhelov, Tigranian, Khizhniak, Akoev (1979)** — *Some peculiarities of auditory sensations evoked by pulsed microwave fields*, Radio Science. DOI [10.1029/RS014I06SP00259](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/RS014i06Sp00259).
+
+Monograph evidence:
+
+- **R. E. Tigranyan and V. V. Shorokhov**, *Физические основы слухового эффекта СВЧ*. Pushchino: ONTI Pushchino Scientific Center, USSR Academy of Sciences, **1991**.
+  - [rusneb.ru catalog entry](https://rusneb.ru/catalog/010003_000061_739703d1c8b9294244b35e9109cf33b6/) lists 131 pages (1991).
+  - [DM-Centre library entry](https://lib.dm-centre.ru/lib/document/gpntb/ESVODT/a0be8765660cb36685c8f49be7c0de06/) lists 131 pages, illustrated, **370 copies**.
+  - **Source conflict:** a KP.ru article reports **250 copies**; this is a popular-press secondary source and should not be relied on as primary. Catalog records (370 copies) are the more authoritative figures.
+
+Patent citation evidence (not peer-reviewed):
+
+- **RU2708040C2** — URL: [RU2708040C2 on Google Patents](https://patents.google.com/patent/RU2708040C2/en). Listed only as evidence that **later Russian patent literature cites Tigranyan/Shorokhov** and describes "**radio sound**" as an auditory sensation when a person's head is irradiated with microwave pulses. The patent itself is about **detecting weak 1.5–5 GHz EM waves from the brain**, not about producing auditory speech. It is not peer-reviewed evidence; treat as patent-only.
+
+### 10.8 Patents and Technology Map — Updated and Source-Class Tagged
+
+These extend §3 / §9.2 with explicit source-class tagging. Patents are engineering claims; do not read them as proof of safe or practical implementation.
+
+| Item | Source class | Notes |
+|------|--------------|-------|
+| [US4877027A — Brunkan, *Hearing system*](https://patents.google.com/patent/US4877027A/en) | Patent claim | RF carrier ~100 MHz–10 GHz, preferred ~1000 MHz; pulse widths 10 ns–1 μs; bursts 500 ns–100 μs; 10–20 pulses/burst; burst timing/density modulated by audio. Not a public reduction-to-practice. |
+| [DE10222439A1](https://patents.google.com/patent/DE10222439A1/en) | Patent claim, withdrawn | Brunkan-style microwave hearing device, withdrawn German application. Treat as patent-only. |
+| [US6470214B1](https://patents.google.com/patent/US6470214B1/en) | Patent claim, government-purpose | Air Force method patent: suppressed-carrier AM/SSB/CSAM; **40 dB/decade** audio predistortion; bias plus square-root processing; RF-to-acoustic transducer model with thermoacoustic demodulation. |
+| [US6587729B2](https://patents.google.com/patent/US6587729B2/en) | Patent claim, government-purpose | Apparatus form of the Air Force speech-by-RF-hearing chain. |
+| [US4858612A — Stocklin, *Hearing device*](https://patents.google.com/patent/US4858612A/en) | Patent claim, speculative/adjacent | Claims microwave stimulation **near the auditory cortex**; mechanism diverges from the consensus thermoelastic cochlear/bone-conduction model. Mark as speculative. |
+| [US3393279A — Flanagan](https://patents.google.com/patent/US3393279A/en) | Patent claim, early adjacent | Nervous-system excitation / audio-modulated RF. **Do not present as Frey-effect-validated speech technology.** |
+| [US6567688B1](https://patents.google.com/patent/US6567688B1/en) | Patent (imaging) | Pulsed EM energy producing acoustic waves in absorbers, used for **imaging**. |
+| [US20050107692A1](https://patents.google.com/patent/US20050107692A1/en) | Patent (imaging) | Multi-frequency microwave-induced thermoacoustic imaging. |
+| [US7266407B2](https://patents.google.com/patent/US7266407) | Patent (imaging) | Same physics, used for imaging/measurement, not human hearing. |
+| [CN103207321B](https://patents.google.com/patent/CN103207321B/en) | Patent (measurement) | Thermoacoustic measurement application of the same pulsed-EM-into-absorber physics. |
+
+Framing note: the imaging/measurement cluster shares the **same physics** (pulsed EM energy → thermoelastic expansion → acoustic wave in an absorber) but is applied to **imaging and measurement of materials and tissue**, not to producing audible speech in a human listener.
+
+### 10.9 MEDUSA — Secondary/Reporting-Only
+
+MEDUSA (Mob Excess Deterrent Using Silent Audio) appears in popular and secondary sources but no primary government contract report has been located in this investigation.
+
+- [New Scientist 2008, *Microwave ray gun controls crowds with noise*](https://www.newscientist.com/article/dn14250-microwave-ray-gun-controls-crowds-with-noise/) — secondary press source.
+- Archive/blog mirrors are likewise secondary.
+- Reportedly used the **microwave audio effect** for crowd control; **James Lin** raised safety concerns at the time.
+- Until a primary government contract or technical report is located, MEDUSA should be carried as **secondary/reporting-only** and should not be presented as a validated weapon system.
+
+### 10.10 Modern Reviews and Practical Limits
+
+- **Foster, Garrett, Ziskin (2021)**, *Can the Microwave Auditory Effect Be "Weaponized"?*, Frontiers in Public Health. URL: [PMC8733248](https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/).
+  - Reported thresholds **~0.02–0.4 J/m²** for low-GHz pulses of tens of microseconds; acoustic pressures **~0.1–3 Pa**.
+  - **AN/FPS-67B** radar example: **1.3 GHz**, **6 μs**, **1.9 MW**, **0.3 J/m² at 45 m** — produced an obvious/distracting but not distressing auditory response.
+  - Conclusion: **practical weaponization is unlikely** on effect-size and practicality grounds; public information gaps remain.
+- **James C. Lin (2022)**, *The Microwave Auditory Effect*, IEEE Journal of Electromagnetics, RF and Microwaves in Medicine and Biology. DOI [10.1109/JERM.2021.3062826](https://ieeexplore.ieee.org/document/9366412/).
+  - Single pulse perceived as **zip/click/knocking**; pulse trains as **buzz/chirp/tune**.
+  - Mechanism: **pressure wave to cochlea via bone conduction**.
+  - At sufficiently high powers, tissue injury becomes possible.
+
+### 10.11 Source-Strength Summary — Primary Literature vs. Patent Claims vs. Secondary/Uncertain
+
+| Source class | What it can establish | Items |
+|--------------|----------------------|-------|
+| **Primary peer-reviewed literature** | Thermoacoustic mechanism in absorbers and tissue; psychophysics; thresholds; clinical thermoacoustic imaging. | Frey 1962; Frey & Messenger 1973; Foster & Finch 1974; Sharp/Grove/Gandhi 1974 (acoustic signals in absorbers); Guy et al. 1975; Chou et al. 1975/1979/1982; Tyazhelov et al. 1979; Lin & Wang 2007; Foster/Garrett/Ziskin 2021; Lin 2022; Kruger and Xu/Wang TAT papers. |
+| **Patent claims (engineering disclosures)** | What inventors claim a system could do; parameter ranges and architectures. **Not** independent validation. | US4877027A; US6470214B1; US6587729B2; DE10222439A1; US4858612A; US3393279A; thermoacoustic imaging patents (US6567688B1; US20050107692A1; US7266407B2; CN103207321B); RU2708040C2 (citation-only for Tigranyan/Shorokhov + "radio sound"). |
+| **Secondary or uncertain** | Anecdotes, personal communications, review articles citing personal communications, popular press, withdrawn applications. | Justesen 1975 (carries the Sharp/Grove speech personal communication and the Guy Morse-code personal communication); MEDUSA New Scientist coverage and blog/archive mirrors; KP.ru figure of 250 copies for the Tigranyan/Shorokhov monograph (catalogs say 131 pp., 370 copies); Tigranyan/Shorokhov 1991 monograph itself, until copies are independently accessed. |
+
+### 10.12 Bottom Line of This Follow-up
+
+- The **published Sharp/Grove/Gandhi 1974 letter** firmly establishes that **pulsed microwaves can launch acoustic signals in absorbers**, with parameters and a decoupling control consistent with a **thermoelastic** mechanism.
+- The **speech demonstration** attributed to Sharp and Grove rests on **a personal communication relayed in Justesen 1975**, not on a peer-reviewed Sharp/Grove speech paper.
+- The **Air Force speech-by-RF-hearing patents** (US6470214B1, US6587729B2) describe an engineering chain consistent with the thermoacoustic mechanism, but remain **patent claims** absent open reduction-to-practice.
+- The **Russian/Soviet branch** is anchored academically by **Tyazhelov et al. 1979** and the **Tigranyan/Shorokhov 1991** monograph; the RU2708040C2 patent is useful only as **citation evidence** that this lineage is referenced in later patent literature, not as proof of a speech weapon.
+- The **strongest, most reproducible technological descendant** of the Sharp/Grove/Gandhi physics remains **thermoacoustic imaging, microscopy, ablation monitoring, and materials/NDE** — not covert remote speech delivery.
