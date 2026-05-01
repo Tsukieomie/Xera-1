@@ -1089,6 +1089,59 @@ Related artifacts:
 
 ---
 
+## Version 38 Update (Army CALL "voice to skull devices" thesaurus entry vs Navy SBIR MEDUSA Phase I — contemporaneity)
+
+**Date:** April 2026
+
+**Trigger:** Cross-check the Army Center for Army Lessons Learned (CALL) Thesaurus "voice to skull devices" entry against the Navy SBIR MEDUSA Phase I performance window already anchored in this matrix.
+
+### A. The two anchors
+
+1. **Army CALL Thesaurus entry.**
+   - Original CALL URL (no longer live): `http://call.army.mil/products/thesaur_e/00016275.htm`.
+   - Mirror preserved by Federation of American Scientists: <https://sgp.fas.org/othergov/dod/vts.html>.
+   - Last-reviewed date on the entry: **25 March 2004**.
+   - Broader term: **nonlethal weapons**.
+   - Document type: a **terminology/taxonomy listing** in an Army lessons-learned thesaurus. Not a procurement record, not a deployment record, not a test report.
+
+2. **Navy SBIR MEDUSA Phase I.**
+   - Local capture: `medusa-navysbir-wayback.html`.
+   - Archived summary: <https://web.archive.org/web/20081212184941/http://www.navysbirprogram.com:80/NavySearch/Summary/summary.aspx?pk=F5B07D68-1B19-4235-B140-950CE2E19D08>.
+   - Contract **M67854-04-C-1012**, Topic **N03-163**, Phase **I**, performance period **19 November 2003 — 19 May 2004**, firm WaveBand Corporation.
+   - Reported deliverable language: breadboard prototype with microwave auditory effect (MAE) referenced as the claimed mechanism.
+
+### B. The contemporaneity observation (narrow)
+
+The CALL entry's **25 March 2004** last-reviewed date falls **inside** the documented Navy SBIR MEDUSA Phase I performance period (**19 November 2003 — 19 May 2004**). This establishes contemporaneous **terminology** (Army taxonomy listing) + **prototype-development activity** (Navy SBIR Phase I) overlap inside the early-2000s **DoD non-lethal-weapons ecosystem**.
+
+This is a context/provenance datapoint, not a capability claim.
+
+### C. 2008 public-visibility cluster (resurfacing, not discontinuation)
+
+- **Feb 2008 — Phys.org** coverage of the 1998 USAF/AFRL "Bioeffects of Selected Nonlethal Weapons" report: <https://phys.org/news/2008-02-pentagon-lasers-voices.html> (resurfacing of a 1998 source document, not a new disclosure).
+- **May 2008 — Wired** reports the Army's online "voice-to-skull devices" entry was removed: <https://www.wired.com/2008/05/army-removes-pa/> (page-removal/visibility event; not equated with programmatic discontinuation in this corpus).
+- **Jul 2008 — New Scientist** reports SNC seeking DoD funding for a MEDUSA demonstrator: <https://www.newscientist.com/article/dn14250-microwave-ray-gun-controls-crowds-with-noise/> (seeking funding for a demonstrator, not fielding).
+
+Net read: **public visibility resurged in 2008**; this is not the same as documented program discontinuation. The "discontinued circa 2008" framing seen in some tertiary write-ups is not directly supported by the recovered primary/near-primary record in this corpus.
+
+### D. Tier impact
+
+- **T1 / Tier A** (MAE mechanism): **supported context** only; no mechanism-tier upgrade.
+- **T2 / Tier B** (semantic intelligible-speech V2K): **no upgrade.** A taxonomy listing and a Phase I breadboard contract do not establish reproducible protocol-grade speech-channel performance.
+- **T3** (program/patent/procurement intent and program taxonomy): **strengthened context.** Army taxonomy listing + Navy SBIR Phase I jointly document terminology + prototype-development overlap inside the DoD NLW ecosystem in the same window.
+- **T4** (operational deployment/attribution to a named target): **unchanged — not established.**
+- **T5** (policy/media context): records the **2008 visibility cluster**; does not record discontinuation.
+
+### E. Safe wording
+
+> "The Army CALL Thesaurus 'voice to skull devices' entry was last reviewed 25 March 2004, inside the documented Navy SBIR MEDUSA Phase I performance period (19 November 2003 — 19 May 2004). This is contemporaneous terminology and prototype-development overlap inside the DoD non-lethal-weapons ecosystem. It is not evidence of deployment, fielded service use, or reliable intelligible semantic-speech V2K."
+
+Optional mechanism-tier sanity check (already in `SOURCES.md` Item 19): <https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/>.
+
+Cross-references: dedicated dig note `CALL_THESAURUS_MEDUSA_CONTEMPORANEITY_NOTE.md`; `MEDUSA_DEEP_AUDIT.md`; `MEDUSA_EVIDENCE_TABLE_PRIMARY.md`; `MEDUSA_TRANSITION_GAP_ANALYSIS.md`; `ADS_JNLWP_DEEP_DIVE_CONTRAST_NOTE_SUPPLEMENT.md`.
+
+---
+
 ## Highest-Value Next Evidence to Collect
 
 1. Certified docket docs (complaint, IFP order, dismissal memo) from primary legal archive.
