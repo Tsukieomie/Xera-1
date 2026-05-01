@@ -1,5 +1,7 @@
 # Hearing-Impaired Reference Chain — Deep Dig VI (Corrigendum)
 
+**Followed by:** `HEARING_IMPAIRED_DEEP_DIG_VII.md` (§VII) — closes the denominator-drift origin question raised here. §VII.2 traces the bare "9" to a 6-Apr-2005 McMurtrey draft; McMurtrey himself removed the "9" from his 2006 published version. The bare "9" is McMurtrey's paraphrase artifact, never sourced from any Puharich/Lawrence primary. §VII.3 also establishes that the JAMA criticism is a four-paper symposium, not a single Glattke/Simmons paper.
+
 **Status:** Pass VI corrigendum. **Supersedes** the "nine of nine" / "9 of 9"
 denominator framing in:
 

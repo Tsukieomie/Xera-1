@@ -3,6 +3,7 @@
 **Date:** 2026-04-30
 **Companion to / addendum on:** `HEARING_IMPAIRED_REFERENCE_CHAIN.md` (first-pass note, this directory, commit `e3e5bd7`)
 **Subsequent pass:** `HEARING_IMPAIRED_DEEP_DIG_III.md` (§III) — verifies all numerical claims here against verbatim primary quotes; resolves the Atti Ronchi citation (co-author U. Bombelli, Nov-Dec 1963); strengthens §II.1 with F. Blair Simmons's cochlear-implant authority.
+**Followed by:** `HEARING_IMPAIRED_DEEP_DIG_VII.md` (§VII) — **§II.1 framing of Glattke/Simmons 1974 as "the" JAMA-line negative replication is superseded.** §VII.3 establishes that *Archives of Otolaryngology* 100(2) August 1974 contained a coordinated **four-paper symposium** on transdermal electrostimulation therapy: Glattke/Simmons (n=31, negative), Gerken/Glorig/Roeser (n=16, double-blind randomized placebo-controlled, negative), Hughes/Arthur/Whitaker (mixed-positive pilot with self-defeating durability), and an unsigned editorial. Glattke/Simmons is one of **two** independent double-blind negative replications, not a singular skeptical paper.
 **Related:** `SHARP_GROVE_PRIMARY_REPORT_HUNT.md`, `findings/03_Technology_Patents/34_JUSTESEN_1975_APA_MICROWAVE_HEARING.md`, `V2K_EVIDENCE_MATRIX.md`
 
 ---
