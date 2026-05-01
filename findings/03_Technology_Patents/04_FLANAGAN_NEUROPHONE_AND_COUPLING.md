@@ -86,10 +86,11 @@ Illuminating RF -> reflects off brain tissue -> neural ion channel activity modu
 
 ### Timeline
 1. August 29, 1968: Flanagan files digital Neurophone patent (Application No. 756,124)
-2. ~February 1969: Department of Defense directs Department of Commerce to place Secrecy Order No. 756,124 under 35 USC 181
-3. 1969: Defense Intelligence Agency identified as the seizing agency
-4. 1969-1972: Flanagan fights secrecy order through three law firms
-5. March 7, 1972: Secrecy order rescinded after 4 years; Patent #3,647,970 granted
+2. April 25, 1969: Per Begich, *Towards a New Alchemy* §3.5 / p.17, official word of Secrecy Order No. 756,124 sent under 35 USC 181; Defense Intelligence Agency identified as the seizing agency
+3. 1969-1972: Flanagan fights secrecy order through three law firms
+4. March 7, 1972: Secrecy order rescinded after ~3 years from notice (~4 years from filing); Patent #3,647,970 granted
+
+> **Note (2026-05-01 addendum):** Earlier phrasing of "1968 DIA secrecy order" in this repo conflated the filing year with the notice/order year. Filing was Aug 29, 1968; per Begich, the secrecy-order notice was sent Apr 25, 1969. The DIA attribution is corroborated by NEXUS-derived "Three papers on Flanagan's Neurophone" (page 5) and Begich (§3.5/p.17), but remains tertiary pending USPTO/NARA/FOIA primary records. Some Flanagan first-person passages instead attribute the action to the NSA — that conflict is preserved. See ledger entries E-013/E-014/E-015 in `findings/investigation-dig/primary-756124/index.md` and the corresponding addendum in `findings/investigation-dig/flanagan-claim-provenance.md`. Public-source transcriptions: <https://www.scribd.com/doc/106800112/Patrick-Flanagan-s-Neurophone> and <https://www.jedisimon.com/articles/Deaf%20can%20hear.htm>.
 
 ### Flanagan's Account
 > "The order said that my invention was being suppressed in the interest of National Security. It further stated that I could be tried for treason and shot by firing squad if I revealed its working nature to anyone other than an authorized government representative."
