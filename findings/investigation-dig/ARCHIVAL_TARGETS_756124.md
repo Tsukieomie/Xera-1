@@ -84,6 +84,13 @@ The earlier FOIA template (Section 4.2) is retained. The procedural framework ad
 
 - **(g) Commerce — USPTO Licensing & Review / Group 220 correspondence.** FOIA Department of Commerce / USPTO for Licensing & Review / former Group 220 correspondence concerning application serial 756,124 not retained inside the certified file wrapper.
 
+- **(h) NARA — Group 2200 selected-application record (N1-241-96-003 item 37 / N1-241-10-001 crosswalk).** NARA SF-115 **N1-241-96-003** item 37 covers Group 2200 applications selected for security review by defense agencies / DOE, including secrecy orders issued on those applications. NARA SF-115 **N1-241-10-001** crosswalks item 37 a/b into a **permanent transfer-to-NARA** bucket after closure of the application. Inquire whether a Group 2200 selected-application record exists for serial 756,124 in the N1-241-10-001 successor accession, and request a finding aid / accession identifier. Phrase the request as "permanent transfer after closure"; do not commit to an exact closure interval, because local OCR / extraction of the SF-115 disagree (one read 18 years; another read 40 years) — cite the underlying PDF rather than the interval value.
+   - N1-241-96-003: <https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-commerce/rg-0241/n1-241-96-003_sf115.pdf>
+   - N1-241-10-001: <https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-commerce/rg-0241/n1-241-10-001_sf115.pdf>
+   - D-1 schedule cross-reference: <https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-commerce/rg-0241/nc1-241-76-01_sf115.pdf>
+
+   This target is added because the successor crosswalk improves survival odds for Group 2200 selected-application material above stand-alone D-1 / AC-AK / ASPAB folders, while D-1, AC-AK, certified-copy-log, and ASPAB files still had short destruction schedules under their governing instruments unless copied into the file wrapper or retained elsewhere.
+
 ---
 
 ## 2) Primary Questions to Resolve

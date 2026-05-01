@@ -178,3 +178,68 @@ Existing ledger rows E-001 through E-029 (in `index.md`) supply the procedural f
 - Archival targets / FOIA language: `findings/investigation-dig/ARCHIVAL_TARGETS_756124.md`
 - Provenance pointer: `findings/investigation-dig/flanagan-claim-provenance.md`
 - Patent write-up: `findings/03_Technology_Patents/04_FLANAGAN_NEUROPHONE_AND_COUPLING.md`
+
+---
+
+## 12) Third-layer addendum (2026-05-01): form-face omission, successor-retention, negative agency-side search, CIA process lead
+
+This addendum re-weights three readings from new ledger work without changing the section 1 / 7 conclusions. It adds rows **E-A14 through E-A17**.
+
+### 12.1 Form-face sponsor omission is normal form behavior
+
+Comparison of declassified secrecy-order forms in the NSA Friedman Collection (1941-1947 Patent Office secrecy-order forms held in NSA's patent-equipment folders) and a CIA-released 1956 Patent Office secrecy-order file shows that the generic Patent Office / Department of Commerce secrecy-order form historically does **not** name the sponsoring or recommending agency on the order face. The order face routinely carries only the Commissioner's signature line and the statutory recital.
+
+Implication for E-016: the absence of NSA / DIA / DoD / ASPAB on the Flanagan order face is **normal form behavior**, not evidence against an agency sponsor. The argument in section 3 ("Why DIA is not yet proven") therefore should not lean on form-face silence; it leans on period-correct § 181 delegation, subject-matter routing, and the Begich/NEXUS source-tradition character of the DIA claim.
+
+Sponsor identity for serial 756,124 is more likely to be recorded in:
+
+- **D-1** (USPTO national-security patent application file; E-026 / NC1-241-76-01)
+- **AC-AK** (USPTO Group 2200 reviewer / agency / recommendation folders; E-A11 / N1-241-96-003)
+- **Group 2200** application correspondence retained inside the certified file wrapper (E-027 / E-028)
+- **ASPAB** referral / concurrence correspondence (E-017, E-018, E-A9 / FN 406-02)
+- **Defense-agency concurrence** correspondence routed through ASPAB (NSA, DIA, military departments, OSD)
+- **File-wrapper correspondence** (Licensing & Review / former Group 220 letters retained in the wrapper)
+
+This refines, but does not contradict, section 6's ranking of likely-surviving smoking-gun record classes.
+
+### 12.2 Successor-retention refinement (N1-241-96-003 item 37 → N1-241-10-001 permanent transfer to NARA)
+
+NARA SF-115 **N1-241-96-003** item 37 describes Group 2200 applications selected for security review by defense agencies and DOE, including secrecy orders issued on those applications. NARA SF-115 **N1-241-10-001** crosswalks N1-241-96-003 item 37 a/b into a **permanent transfer-to-NARA** bucket after closure of the application.
+
+Caveat: local OCR and source extraction disagree on the exact closure-window length (one extraction read 18 years; another read 40 years). The disagreement is in the closure-timing parameter, not in the permanent-transfer disposition. Until the SF-115 PDF is read by a human reviewer, this should be cited as **"permanent transfer to NARA after closure"**, citing the underlying PDF, and **without** committing to an exact closure interval.
+
+Implication for survival odds:
+
+- A **Group 2200 selected-application record** for serial 756,124 has materially better survival odds than a stand-alone D-1 or AC-AK or ASPAB folder, because the successor schedule promotes the selected-application bucket from temporary to permanent transfer to NARA.
+- The other temporary classes recorded in section 6 (D-1 under NC1-241-76-01; AC-AK under N1-241-96-003 strict 3-year retention; FN 406-02 ASPAB review files under Army schedule, 20 years after rescission; Air Force Table 51-2 Item 4) **still** had short destruction schedules under their governing instruments unless the underlying papers were copied into the file wrapper or retained elsewhere.
+- The certified USPTO/NARA file wrapper (E-027 / E-028) remains the single highest-probability surviving record. Group 2200 selected-application material crosswalked under N1-241-10-001 is the next most likely surviving channel and should be added to the closure-target queue.
+
+### 12.3 Negative agency-side search result (Aug 1968 - Mar 1972 window)
+
+Exact-string searches across NSA, CIA, DIA, Defense (DTIC / DoD), NARA, GovInfo, FAS, and Archive.org for variants including "Gillis Flanagan," "Patrick Flanagan," "756,124," "756124," "US756124A," "US3647970A," "3,647,970," and the patent title "Method and System for Simplifying Speech Waveforms" did **not** locate a public agency-side record tying NSA, DIA, CIA, Army, ASPAB, or DoD to this specific application.
+
+Recorded as a **negative finding**, not as proof of absence. Possible explanations include: (a) the relevant referral / concurrence papers were destroyed under temporary schedules (D-1 / AC-AK / FN 406-02 / Air Force Table 51-2 Item 4); (b) any surviving papers are inside the certified file wrapper (E-027 / E-028) or the Group 2200 selected-application bucket (N1-241-10-001 successor) and have not been digitized for public discovery; (c) any surviving NSA-side material under RG 457 (E-029) has not been declassified for the 1968-1972 cryptologic-patent review window; (d) the search did not reach the right finding aids.
+
+Implication: the absence of a public agency-side hit is consistent with section 6's records-schedule risk landscape and does not move the attribution conclusion.
+
+### 12.4 CIA RDP93B01194 — process / cross-check lead, not Flanagan-specific
+
+The CIA-released file titled "Review of Patent Applications Under Secrecy Order" (CIA Reading Room series RDP93B01194) is useful as **process / cross-check context**: snippets indicate CIA reviewed secrecy-order applications and could sponsor renewal requests for some applications routed through the IC canvassing layer. That establishes a documented pattern of CIA participation in the renewal-recommendation channel.
+
+Caveat: the extraction did **not** show "Flanagan," "756,124," "US3647970," "NSA-as-Flanagan-sponsor," or "DIA-as-Flanagan-sponsor" anywhere in the file. Treat as **process lead only**; do not cite as Flanagan-specific evidence. Existing rows E-A6 and E-A8 already record adjacent documents from the same CIA series for the IC-canvassing pattern.
+
+### 12.5 Evidence Table additions (E-A14 through E-A17)
+
+| Artifact ID | Date added | Artifact | Source class | Authenticity confidence | Claim impact | Scope | Notes |
+|---|---|---|---|---|---|---|---|
+| E-A14 | 2026-05-01 | NSA Friedman Collection 1941-1947 Patent Office secrecy-order form examples (NSA patent-equipment folders): <https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/friedman-documents/patent-equipment/FOLDER_129/41765629080473.pdf> ; <https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/friedman-documents/patent-equipment/FOLDER_131/41715959075526.pdf> ; <https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/friedman-documents/patent-equipment/FOLDER_119/41761979080112.pdf> | Primary (declassified period-form examples) | High for form text | Neutral | form-face behavior of generic Patent Office secrecy-order forms | Period Patent Office / Department of Commerce secrecy-order forms in the NSA Friedman Collection do not name the sponsoring / recommending agency on the order face. Establishes that the absence of NSA / DIA / DoD / ASPAB on the Flanagan order face (E-016) is normal form behavior, not evidence against an agency sponsor. |
+| E-A15 | 2026-05-01 | CIA-released 1956 Patent Office secrecy-order file (Internet Archive copy: <https://archive.org/details/CIA-RDP62-00631R000200010002-8>) | Primary (CIA-released period file) | Medium-High | Neutral | form-face behavior corroboration | A 1956 Patent Office secrecy-order file released through CIA's Reading Room corroborates that the order face does not name the sponsoring agency. Sponsor identity is recorded in correspondence around the order, not on the order itself. |
+| E-A16 | 2026-05-01 | NARA SF-115 N1-241-96-003 item 37 (Group 2200 applications selected for security review): <https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-commerce/rg-0241/n1-241-96-003_sf115.pdf> ; crosswalked by N1-241-10-001: <https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-commerce/rg-0241/n1-241-10-001_sf115.pdf> ; D-1 schedule reference: <https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-commerce/rg-0241/nc1-241-76-01_sf115.pdf> | Primary (NARA records schedules) | High for schedule text; Medium for exact closure-window value (local OCR disagrees: 18 vs 40 years) | Neutral | successor-schedule survival upgrade for Group 2200 selected applications | N1-241-96-003 item 37 covers Group 2200 applications selected for security review by defense agencies and DOE, including secrecy orders issued. N1-241-10-001 crosswalks item 37 a/b into a permanent transfer-to-NARA bucket after closure. Improves survival odds for a Group 2200 selected-application record on serial 756,124 above stand-alone D-1 / AC-AK / ASPAB folders. Phrase as "permanent transfer after closure"; do not commit to an exact closure interval until the PDF is human-read. |
+| E-A17 | 2026-05-01 | Negative agency-side search across NSA, CIA, DIA, Defense (DTIC / DoD), NARA, GovInfo, FAS, and Archive.org for "Gillis Flanagan" / "Patrick Flanagan" / "756,124" / "756124" / "US756124A" / "US3647970A" / "3,647,970" / "Method and System for Simplifying Speech Waveforms" | Negative finding | High for absence in tested search surfaces; not proof of absence in the underlying record system | Neutral | absence of public agency-side record tying NSA / DIA / CIA / Army / ASPAB / DoD to serial 756,124 | Recorded as negative finding only. Consistent with the records-schedule risk landscape (section 6); not evidence against agency involvement, since likely-surviving sponsorship paper sits inside the certified file wrapper (E-027 / E-028) or the Group 2200 selected-application bucket (E-A16) and has not been digitized for public discovery. |
+
+### 12.6 Effect of E-A14 through E-A17 on the matrix
+
+- **Section 3 wording correction:** "Why DIA is not yet proven" should not lean on form-face silence. The argument continues to rest on period-correct § 181 delegation, subject-matter routing through PSCRL Group IX / 6A to NSA, DIA's own out-of-purview pattern in the 1984 CIA packets (E-A6), and the Begich/NEXUS source-tradition character of the DIA claim. E-A14 / E-A15 explicitly remove the form-face-silence sub-argument from the available evidence base.
+- **Section 6 update:** add a row for the Group 2200 selected-application bucket under the N1-241-96-003 item 37 / N1-241-10-001 crosswalk. Survival risk is **Low (permanent transfer to NARA after closure)**, behind only the certified file wrapper. Caveat the closure-interval value pending human read of the SF-115.
+- **Section 7 (best concise reading) is unchanged:** if DoD-caused, outward paperwork most likely names ASPAB / Service Secretary / Army OJAG with NSA as the technical reviewer; the present public record does not identify the reviewer; NSA / ASPAB / Service-channel attribution remains better supported than DIA-as-formal-sponsor.
+- **CIA RDP93B01194** ("Review of Patent Applications Under Secrecy Order"): treat as process / cross-check lead only; the extracted snippets show CIA reviewed secrecy-order applications and could sponsor renewal requests for some applications, but show no Flanagan / 756,124 / US3647970 / NSA-Flanagan / DIA-Flanagan tie. Existing rows E-A6 and E-A8 already capture adjacent documents in the same CIA series.
