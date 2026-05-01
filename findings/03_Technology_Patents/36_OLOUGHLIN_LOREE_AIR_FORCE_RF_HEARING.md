@@ -188,6 +188,14 @@ The thinness of the prior-art citation list and the absence of any pre-grant pub
 
 The 6,470,214 / 6,587,729 patent pair is the **federal-ownership bridge** between the private-inventor V2K patents of the 1980s and the contractual MEDUSA record of the 2000s. Stocklin and Brunkan filed as private citizens. WaveBand built MEDUSA hardware as a Navy contractor. O'Loughlin and Loree filed as Air Force employees with the U.S. Air Force as named assignee. **The V2K modulation method is on the patent record as a federally owned invention.**
 
+### Source-class discipline: 6,470,214 / 6,587,729 do not cite Sharp / Grove / Justesen
+
+The cited prior-art row in Part 1 lists the **only three references** in the granted 6,470,214 record (Intelectron US 3,563,246; Intelectron US 3,629,521; Rockwell US 4,835,791). Sharp/Grove 1973, Sharp/Grove/Gandhi 1974 *IEEE T-MTT* 22(5):583-584, Justesen 1975 *American Psychologist*, and Frey 1962 *J. Appl. Physiol.* are **not cited** as prior art in either US 6,470,214 B1 or its companion US 6,587,729 B2. The 1996-2002 Air Force patent record is therefore an **independent later-engineering bridge** to V2K speech, not a self-citation chain back to the 1973 Sharp/Grove demonstration. For the purposes of this investigation, that means:
+
+- The patents corroborate the **engineering feasibility** of intelligible-speech RF-hearing transmission as understood by the U.S. Air Force in 1996, and they assert it on the federal record as a granted USPTO claim.
+- They **do not** function as a primary or secondary attestation of the 1973 Sharp/Grove voice-modulation demonstration. They are not the missing protocol-grade Sharp/Grove report — the absence of a Sharp/Grove citation in 6,470,214 is itself part of the institutional citation-silence pattern documented across the WRAIR-DMR / OGDEN / McKesson / USAFSAM record (see `findings/investigation-dig/fy74_wrair_speech_demo_hunt/DEEPER_DIG_13_ADDENDUM.md`).
+- Treat 6,470,214 / 6,587,729 as Tier-A-mechanism + later-engineering-intent evidence under the Tier A / Tier B framing in `34_JUSTESEN_1975_APA_MICROWAVE_HEARING.md` Part 3 item 5, not as a substitute for the still-missing 1973 Sharp/Grove protocol-grade source.
+
 ---
 
 ## PART 7: IMPLICATIONS FOR THE AKWEI INVESTIGATION
