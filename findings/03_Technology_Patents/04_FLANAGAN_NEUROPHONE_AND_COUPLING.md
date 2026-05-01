@@ -21,9 +21,11 @@ The entire active RF neural sensing argument depends on one assumption: that ele
 
 ### Patent 2: US 3,647,970 -- "Method and System for Simplifying Speech Waveforms"
 
-- **Filed:** August 29, 1968
-- **Granted:** March 7, 1972 (after 4-year DIA secrecy order)
-- **Mechanism:** Digital version using 60V square waves through piezoelectric ceramic electrodes (lead zirconium titanate). Audio signal is double-differentiated and converted to zero-crossing modulated waveform.
+- **Filed:** August 29, 1968 (application serial 756,124)
+- **Granted:** March 7, 1972
+- **Mechanism (per patent text, verified rounds 17-18):** Audio signal passes through a clipper to produce a square wave, then through a single differentiator producing transition-edge spike pulses on both directions, then through a single-shot multivibrator. The output drives a transducer placed against the body. The patent does **not** contain "zero-crossing" or "double-differentiation" language anywhere in its text or claims. Verified verbatim quote: "The square wave is then passed through a differentiator 102 which produces a sharp spike pulse in time correspondence to each transition of the square wave."
+- **Secrecy-order claim — provenance and verification status:** The widely-circulated claim that Patent 2 was placed under a 4-year DIA secrecy order numbered 756,124 dated August 28, 1968 traces to a single primary source: G. Harry Stine, *Analog Magazine* February 1980 column "Biocybernetics Revisited." Stine's actual text attributes the order to "the Department of Defense, the Department of Commerce" — not specifically to DIA. Round 18 verification: (a) The number "756,124" is structurally the USPTO patent application serial number for Patent 2, not an independent secrecy-order identifier (USPTO MPEP Chapter 100 confirms secrecy orders are keyed by application number). (b) USPTO FOIA F-12-00189 (active orders 1965-2012) contains zero entries dated 1968-08-28 and zero 1968 entries overall, though as a list of currently-active orders it cannot definitively falsify a rescinded 1968 order. (c) Definitive verification requires a fresh FOIA to USPTO Group 220 for the secrecy-order history of application 4|756,124. See `findings/investigation-dig/fy74_wrair_speech_demo_hunt/DEEPER_DIG_17_ADDENDUM.md` and `DEEPER_DIG_18_ADDENDUM.md`.
+- **Stine 1979 hardware-visit description (separate from patent):** During a July 26, 1979 personal visit to Flanagan's home, Stine described the then-current production neurophone as: "The audio signal is double differentiated and converted to a 60 volt square wave which is then run through a zero crossing detector. The sensor electrodes are one inch diameter plates made from lead zirconium titanate." This describes post-1972 commercial hardware Stine inspected, not the encoding chain claimed in Patent 2.
 
 ### The Deaf Demonstration
 
@@ -84,12 +86,14 @@ Illuminating RF -> reflects off brain tissue -> neural ion channel activity modu
 
 ## PART 4: THE DIA SEIZURE
 
-### Timeline
+> **PROVENANCE NOTE (added round 18):** The claims in this section depend on a single primary source — G. Harry Stine, *Analog Magazine* February 1980 column "Biocybernetics Revisited" — and on Flanagan's own 1979 promotional manual. Round 17-18 investigation found that (a) Stine attributes the order to "the Department of Defense, the Department of Commerce" — DIA-specific attribution is a downstream amplification not in Stine's text, (b) "756,124" is structurally the USPTO patent application serial number, not an independent secrecy-order identifier, (c) USPTO FOIA records contain no 1968-08-28 entry, though as a list of currently-active orders this cannot falsify a rescinded order. The Flanagan quote about "firing squad" appears in Flanagan's own 1979 manual `Neuroph11.ASC` and is not independently corroborated. See `findings/investigation-dig/fy74_wrair_speech_demo_hunt/DEEPER_DIG_18_ADDENDUM.md` for full provenance analysis. The timeline below should be read as Stine/Flanagan-narrative-derived, not as USPTO/DoD-archive-verified.
+
+### Timeline (per Stine 1980 + Flanagan 1979 manual; not independently verified)
 1. August 29, 1968: Flanagan files digital Neurophone patent (Application No. 756,124)
-2. ~February 1969: Department of Defense directs Department of Commerce to place Secrecy Order No. 756,124 under 35 USC 181
-3. 1969: Defense Intelligence Agency identified as the seizing agency
-4. 1969-1972: Flanagan fights secrecy order through three law firms
-5. March 7, 1972: Secrecy order rescinded after 4 years; Patent #3,647,970 granted
+2. ~February 1969 (Stine 1980 says August 28, 1968): Department of Defense directs Department of Commerce to place secrecy order under 35 USC 181
+3. 1969: Defense Intelligence Agency identified as the seizing agency (downstream attribution; not in Stine 1980)
+4. 1969-1972: Flanagan reports fighting secrecy order through three law firms
+5. March 7, 1972: Patent #3,647,970 granted (USPTO record-confirmed)
 
 ### Flanagan's Account
 > "The order said that my invention was being suppressed in the interest of National Security. It further stated that I could be tried for treason and shot by firing squad if I revealed its working nature to anyone other than an authorized government representative."
