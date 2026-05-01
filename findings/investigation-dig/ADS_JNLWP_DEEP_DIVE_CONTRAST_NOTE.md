@@ -86,6 +86,10 @@ For V2K / microwave-auditory-effect (MAE) claims that rely on MEDUSA as a "field
 - Tier B (covert semantic speech, operational deployment) does **not** gain support from the JNLWP public trail.
 - Any future claim that MEDUSA was JNLWP-transitioned must be backed by primary records that this corpus does not currently contain.
 
+## 6.1) Lineage-question recap
+
+A direct answer to the recurring question "are ADS and LRAD evolutions or variations of WaveBand MEDUSA?" is: **no.** ADS is JNLWP / JNLWD 95 GHz millimeter-wave skin-heating; LRAD / AHD is fielded audible acoustic-hailing / voice-and-tone projection; WaveBand MEDUSA was a Navy SBIR Phase I microwave-auditory-effect breadboard prototype. Same broad non-lethal / counter-personnel ecosystem; different funding paths, different mechanisms, disjoint public evidence trails. "Adjacent" is fair; "evolution / variant / successor / transition path" is not supported by the public record. Consolidated write-up: `MEDUSA_VS_ADS_LRAD_LINEAGE_QUESTION.md`.
+
 ## 7) Open TODOs
 
 - Locate the HEAP (Human Effects Advisory Panel) ADS report if archived.
