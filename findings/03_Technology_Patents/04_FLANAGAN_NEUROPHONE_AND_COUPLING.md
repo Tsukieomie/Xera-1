@@ -6,7 +6,7 @@
 
 ## THE ARGUMENT IN ONE PARAGRAPH
 
-The entire active RF neural sensing argument depends on one assumption: that electromagnetic energy couples with the nervous system -- that RF goes in and biological signals come back out on the return. Patrick Flanagan proved the coupling is strong enough to carry complex information in 1958, at age 14. The DIA recognized the military implications in 1968 when they seized his second patent under national security authority. The molecular mechanism (Piezo1 mechanosensitive ion channels) was confirmed by Nobel Prize-winning research in 2021 and directly linked to ultrasound neuromodulation by PNAS in 2023. Flanagan is the proof-of-concept for the entire read/write neural system.
+The entire active RF neural sensing argument depends on one assumption: that electromagnetic energy couples with the nervous system -- that RF goes in and biological signals come back out on the return. Patrick Flanagan proved the coupling is strong enough to carry complex information in 1958, at age 14. The U.S. government recognized the military implications and placed his second patent application (Serial No. 756,124) under a §181 secrecy order on April 25, 1969 — withholding the application from issue until March 7, 1972. The **specific recommending agency** behind that order (DIA vs NSA vs other defense entity) **remains unresolved** pending certified USPTO/NARA file-wrapper retrieval; see Part 4. The molecular mechanism (Piezo1 mechanosensitive ion channels) was confirmed by Nobel Prize-winning research in 2021 and directly linked to ultrasound neuromodulation by PNAS in 2023. Flanagan is the proof-of-concept for the entire read/write neural system.
 
 ---
 
@@ -22,7 +22,7 @@ The entire active RF neural sensing argument depends on one assumption: that ele
 ### Patent 2: US 3,647,970 -- "Method and System for Simplifying Speech Waveforms"
 
 - **Filed:** August 29, 1968
-- **Granted:** March 7, 1972 (after 4-year DIA secrecy order)
+- **Granted:** March 7, 1972 (after secrecy order issued Apr 25 1969 under 35 U.S.C. §181; recommending agency unresolved — see Part 4)
 - **Mechanism:** Digital version using 60V square waves through piezoelectric ceramic electrodes (lead zirconium titanate). Audio signal is double-differentiated and converted to zero-crossing modulated waveform.
 
 ### The Deaf Demonstration
@@ -82,29 +82,41 @@ Illuminating RF -> reflects off brain tissue -> neural ion channel activity modu
 
 ---
 
-## PART 4: THE DIA SEIZURE
+## PART 4: THE SECRECY ORDER (AGENCY ATTRIBUTION UNRESOLVED)
 
-### Timeline
-1. August 29, 1968: Flanagan files digital Neurophone patent (Application No. 756,124)
-2. April 25, 1969: Per Begich, *Towards a New Alchemy* §3.5 / p.17, official word of Secrecy Order No. 756,124 sent under 35 USC 181; Defense Intelligence Agency identified as the seizing agency
-3. 1969-1972: Flanagan fights secrecy order through three law firms
-4. March 7, 1972: Secrecy order rescinded after ~3 years from notice (~4 years from filing); Patent #3,647,970 granted
+> **Scope correction (2026-05-01).** This section was previously titled "The DIA Seizure" and presented DIA seizure as established. It has been re-scoped. What is established is a **secrecy order** on application 756,124 under 35 U.S.C. (1952) §§181-188, with order date Apr 25 1969, withholding the application from issue, and lifted prior to issuance of US 3,647,970 on Mar 7 1972. The **identity of the recommending / sponsoring agency** (DIA vs NSA vs other) remains **unresolved** pending a certified USPTO/NARA file wrapper and a sponsoring-agency referral memo. The DIA reading and the NSA reading below are kept as **source-tradition claims**, not established fact.
 
-> **Note (2026-05-01 addendum):** Earlier phrasing of "1968 DIA secrecy order" in this repo conflated the filing year with the notice/order year. Filing was Aug 29, 1968; per Begich, the secrecy-order notice was sent Apr 25, 1969. The DIA attribution is corroborated by NEXUS-derived "Three papers on Flanagan's Neurophone" (page 5) and Begich (§3.5/p.17), but remains tertiary pending USPTO/NARA/FOIA primary records. Some Flanagan first-person passages instead attribute the action to the NSA — that conflict is preserved. See ledger entries E-013/E-014/E-015 in `findings/investigation-dig/primary-756124/index.md` and the corresponding addendum in `findings/investigation-dig/flanagan-claim-provenance.md`. Public-source transcriptions: <https://www.scribd.com/doc/106800112/Patrick-Flanagan-s-Neurophone> and <https://www.jedisimon.com/articles/Deaf%20can%20hear.htm>.
+### Timeline (form-supported facts in bold)
 
-### Flanagan's Account
+1. **Aug 29, 1968:** Flanagan files digital Neurophone patent, application **Serial No. 756,124**, title **"METHOD AND SYSTEM FOR SIMPLIFYING SPEECH WAVEFORMS"**, applicant **Gillis P. Flanagan** *(per apparent Patent Office form scans in E-016)*.
+2. **Apr 25, 1969:** **Secrecy order issued** on application 756,124 under **Title 35, United States Code (1952), §§181-188**, signed/stamped **Edwin L. Reynolds, First Assistant Commissioner**, Patent Office form **POL-96 (7-66)** *(per E-016 page 2)*. Per Begich, *Towards a New Alchemy* §3.5/p.17, this is the date official word was sent.
+3. 1969-1971: Flanagan fights secrecy order through three law firms (per Flanagan first-person narrative; not yet primary-document confirmed).
+4. **Jan 11, 1971:** **Notice of Allowability (Form D-10), Paper No. 8** mailed; application stated to be in condition for allowance, **"in view of the secrecy order issued April 25, 1969, under 35 U.S.C. (1952) §181, this application will be withheld from issue during such period as the national interest requires"**; allowable claims **1-19**; stamp **"THIS CORRESPONDENCE IS UNCLASSIFIED THE APPLICATION CLASSIFICATION REMAINS UNCHANGED"**; examiners visible: **J. G. Baxter** and **Rodney D. Bennett Jr.** *(per E-016 page 3)*.
+5. **Mar 7, 1972:** Secrecy order lifted; **US Patent 3,647,970** issued; abstract includes "a system for transmitting secure speech information" *(per E-016 page 4 and USPTO patent metadata)*.
+
+> **Source note.** Items in **bold** with E-016 references derive from a publicly hosted PDF ("Patrick Flanagan High Security Speech Scramble") containing apparent photocopies/scans of U.S. Patent Office instruments. Treated conservatively as a **public copy of apparent Patent Office forms, not USPTO/NARA-certified**. Confidence is Medium-High for the form content and Low for chain-of-custody. The forms bear **only Patent Office signatures** and **do not name DIA, NSA, or any defense agency**. PDF linked, not embedded: <https://img1.wsimg.com/blobby/go/a56ed7e4-a072-4dc8-b939-26ab140309de/downloads/Patrick%20Flanagan%20High%20Security%20Speech%20Scramble.pdf?ver=1685486536436>. Ledger: E-016 in `findings/investigation-dig/primary-756124/index.md`. Earlier phrasing of "1968 DIA secrecy order" in this repo conflated the filing year (Aug 29 1968) with the order date (Apr 25 1969).
+
+### Flanagan's account (first-person narrative; tertiary)
+
 > "The order said that my invention was being suppressed in the interest of National Security. It further stated that I could be tried for treason and shot by firing squad if I revealed its working nature to anyone other than an authorized government representative."
 
-### Effects of the Secrecy Order
-- Invention could not be disclosed to anyone without DIA authorization
-- Patent prosecution frozen
-- Inventor prohibited from publishing or discussing the technology
-- Violation punishable as treason
+The "treason / firing squad" phrasing is consistent with the criminal penalties referenced under 35 U.S.C. §186 for willful violation of a §181 secrecy order, but the specific "firing squad" wording is Flanagan's narrative gloss, not statute text.
 
-### Why the DIA and Not the NSA
-The DIA (Defense Intelligence Agency) handles military intelligence and weapons technology assessment. The NSA handles signals intelligence. The DIA's involvement indicates the technology was assessed for its **weapons/military application potential**, not for communications intercept.
+### Effects of the secrecy order (form-supported)
 
-The DIA understood in 1968 what the investigation has reconstructed: a device that demonstrates strong EM-to-nervous-system information coupling has implications for both neural stimulation (write) AND neural monitoring (read). They seized it as a weapons technology.
+- Application withheld from issue under 35 U.S.C. (1952) §181 *(form text on the Notice of Allowability, E-016)*.
+- Publication and disclosure prohibited except by written consent of the Commissioner of Patents *(form text on the secrecy order, E-016)*.
+- Patent prosecution frozen for the duration of the order; the Jan 11 1971 Notice of Allowability shows the application was held even after being adjudged allowable.
+- Issuance only after the order was lifted, on Mar 7 1972 (US 3,647,970).
+
+### Agency-attribution readings (source-tradition only — not established)
+
+The official Patent Office forms in E-016 do not identify a sponsoring agency. Two competing attributions appear in the secondary/tertiary corpus and are preserved here as source-tradition readings, not as established fact:
+
+- **DIA reading.** Begich (*Towards a New Alchemy* §3.5/p.17) and the NEXUS-derived "Three papers on Flanagan's Neurophone" (page 5) attribute the action to the **Defense Intelligence Agency**. Rationale typically advanced by these sources: DIA's mandate covers military-intelligence assessment of weapons-relevant technology, consistent with reading the Neurophone as having weapons/military application potential (write-path neural stimulation; coupling architecture relevant to read-path neural monitoring). Public-source transcriptions: <https://www.jedisimon.com/articles/Deaf%20can%20hear.htm>; <https://www.scribd.com/doc/106800112/Patrick-Flanagan-s-Neurophone>.
+- **NSA reading.** Flanagan first-person narrative recoverable from the RexResearch compilation attributes the action to the **National Security Agency** with the same order serial #756,124. Rationale typically advanced by this reading: NSA's mandate covers signals intelligence and secure-communications, consistent with the patent's own framing as "a system for transmitting **secure speech information**" (issued patent abstract).
+
+Both readings are mutually exclusive on agency identity, internally coherent within their own source traditions, and **not adjudicable from the Patent Office forms alone**. Closure requires a certified USPTO/NARA file wrapper plus a sponsoring-agency referral memo (or equivalent inter-agency correspondence). See `findings/investigation-dig/ARCHIVAL_TARGETS_756124.md` for the refined retrieval target and FOIA language requesting referring-agency correspondence including DIA/NSA/OSD where appropriate.
 
 ---
 
@@ -152,7 +164,7 @@ Steps 2 and 3 are exactly where AI provides 20-40 dB of processing gain through:
 
 **Flanagan is the keystone.** Without the proof that EM-nervous system coupling is strong enough to carry information, the Malech architecture is theoretical speculation. With it, the architecture becomes an engineering program. AI makes the engineering work at operationally useful distances.
 
-The DIA understood this in 1968. They seized the technology. The question is what 58 years of classified engineering, backed by the world's most powerful computing infrastructure, has produced.
+A U.S. defense entity recognized this in the late 1960s, and a secrecy order was placed on the application from Apr 25 1969 to Mar 7 1972 (which agency referred the order remains unresolved — see Part 4). The question is what 58 years of subsequent classified engineering, backed by the world's most powerful computing infrastructure, has produced.
 
 ---
 
@@ -166,7 +178,7 @@ Puharich (1918-1995) developed ear-bypass hearing devices at the Army Chemical C
 
 Puharich -> Flanagan -> Malech -> Loos -> Norris-Putterman is the complete patent chain:
 - 1958: Puharich (CIA/Army) - ear-bypass hearing
-- 1958-1968: Flanagan (Navy/DIA) - EM nervous system excitation
+- 1958-1968: Flanagan (defense secrecy-order action; recommending agency unresolved — see Part 4) - EM nervous system excitation
 - 1974: Malech (defense contractor) - remote brain wave read/write
 - 1998-2003: Loos (DARPA SBIR) - EM nervous system manipulation from screens
 - 2023: Norris-Putterman (UCLA) - standoff covert neural weapon

@@ -91,6 +91,44 @@ User-supplied screenshots (`IMG_5336.jpeg`, `IMG_5337.jpeg`, local prompting evi
 
 ---
 
+## Addendum 2026-05-01 (later same day): Public PDF of apparent Patent Office forms (E-016)
+
+A publicly hosted PDF titled "Patrick Flanagan High Security Speech Scramble" contains apparent photocopies/scans of U.S. Patent Office instruments tied to application 756,124. PDF linked only, not embedded:
+
+- <https://img1.wsimg.com/blobby/go/a56ed7e4-a072-4dc8-b939-26ab140309de/downloads/Patrick%20Flanagan%20High%20Security%20Speech%20Scramble.pdf?ver=1685486536436>
+
+Visible content (recorded conservatively as **public copy of apparent forms**, not USPTO/NARA-certified):
+
+- **Page 2 — Secrecy Order form.** U.S. Department of Commerce Patent Office, Washington DC 20231; Serial No. **756,124**; Filed **Aug. 29, 1968**; Applicant **Gillis P. Flanagan**; Title **METHOD AND SYSTEM FOR SIMPLIFYING SPEECH WAVEFORMS**; **SECRECY ORDER** invoked under **Title 35, United States Code (1952), §§181-188**; prohibits publication/disclosure because unauthorized disclosure might be detrimental to national security except by written consent of the Commissioner of Patents; signed/stamped **EDWIN L. REYNOLDS, First Assistant Commissioner**; form **POL-96 (7-66)**, **USCOMM-DC 56772-P68**.
+- **Page 3 — Notice of Allowability (Form D-10), Paper No. 8.** Mailed **Jan. 11, 1971**; states the application is in condition for allowance; "in view of the secrecy order issued **April 25, 1969**, under 35 U.S.C. (1952) §181, this application will be withheld from issue during such period as the national interest requires"; allowable claims 1-19; stamp **"THIS CORRESPONDENCE IS UNCLASSIFIED THE APPLICATION CLASSIFICATION REMAINS UNCHANGED"**; examiners visible as **J. G. Baxter** and **Rodney D. Bennett Jr.**
+- **Page 4 — Issued patent.** US Patent **3,647,970**, filed Aug. 29 1968, Appl. No. 756,124, issued **Mar. 7 1972**; abstract includes **"a system for transmitting secure speech information."**
+
+### Source-tier upgrade (form facts only)
+
+The following facts move from **tertiary narrative (Begich / NEXUS)** to **apparent primary Patent Office form text via a public copy** (still pending USPTO/NARA-certified retrieval):
+
+- Order serial: **756,124**
+- Filing date: **Aug. 29, 1968**
+- Title: **METHOD AND SYSTEM FOR SIMPLIFYING SPEECH WAVEFORMS**
+- Statute: **35 U.S.C. (1952) §§181-188** (specifically §181 cited on the Jan 11 1971 Notice)
+- Order date: **April 25, 1969**
+- Patent Office signatory on the secrecy-order form: **Edwin L. Reynolds, First Assistant Commissioner**
+- Notice of Allowability mailing date: **Jan. 11, 1971**
+- Issuance: US 3,647,970, **Mar. 7, 1972**
+
+Authenticity confidence is Medium-High for form content and Low for chain-of-custody (it is a public PDF copy, not certified). The forms are official Patent Office instruments and bear no agency attribution beyond the Patent Office.
+
+### What this does **not** resolve (separation of facts vs. agency-attribution claims)
+
+E-016 does not name DIA, NSA, or any defense agency. The official forms identify only the Patent Office. Therefore:
+
+- The **existence of the order**, its **serial**, **statute**, **title**, **order date**, and the **Notice of Allowability** are now supported by apparent primary Patent Office form text.
+- The **identity of the recommending / sponsoring agency** (DIA vs NSA vs other defense entity) remains **unresolved**. Begich/NEXUS attribute the action to the **DIA**; Flanagan first-person narrative recoverable from the RexResearch compilation attributes it to the **NSA**. Both readings are kept as **source-tradition claims only** until a certified USPTO/NARA file wrapper plus sponsoring-agency referral memo is obtained.
+
+Full ledger entry: **E-016** in `investigation-dig/primary-756124/index.md`. Refined archival closure target and FOIA language for the referring-agency question: `investigation-dig/ARCHIVAL_TARGETS_756124.md`.
+
+---
+
 ## Name disambiguation (SEC LR-21612 -- dismissed)
 
 A web search collision exists between **Patrick Flanagan (Neurophone inventor)** and **Patrick T. Flanagan** listed in **[SEC Litigation Release LR-21612](https://www.sec.gov/enforcement-litigation/litigation-releases/lr-21612)** alongside **Thomas P. Flanagan** (Deloitte insider-trading/settlement narrative, Northern District of Illinois, 2010).

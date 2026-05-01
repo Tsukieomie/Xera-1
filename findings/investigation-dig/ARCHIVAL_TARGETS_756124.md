@@ -17,6 +17,17 @@ Purpose: obtain primary documentary evidence for three unresolved claims in the 
 
 Stop condition: first primary document with explicit `756,124` + secrecy-order action + rescission/removal status.
 
+### 2026-05-01 update — refined closure target
+
+A publicly hosted PDF (E-016 in `investigation-dig/primary-756124/index.md`) contains apparent photocopies/scans of the Patent Office secrecy-order form and the Jan 11 1971 Notice of Allowability for application 756,124. Treated conservatively as a **public copy of apparent Patent Office forms (not USPTO/NARA-certified)**, it tentatively confirms order existence, serial 756,124, title, the 35 U.S.C. (1952) §§181-188 statutory basis, and the Apr 25 1969 order date — but it bears only Patent Office signatures and **does not name a recommending or sponsoring agency**.
+
+The remaining closure target is therefore narrower and more specific:
+
+1. **Certified USPTO/NARA file wrapper** for application serial 756,124 (the official prosecution and security-review record).
+2. **Sponsoring-agency referral memo** (or equivalent inter-agency correspondence) identifying which defense entity referred the secrecy action to the Commissioner of Patents — the only document class that can resolve the DIA-vs-NSA attribution conflict.
+
+Until both are obtained, agency attribution remains source-tradition only (Begich/NEXUS = DIA; Flanagan first-person narrative = NSA).
+
 ---
 
 ## 2) Primary Questions to Resolve
@@ -101,7 +112,9 @@ Request references containing:
 
 FOIA template:
 
-"Please search records for references to patent application serial number 756,124 (`US756124A`) and/or patent `US3647970`, including secrecy-order recommendations, review memoranda, rescission/removal actions, and related correspondence."
+"Please search records for references to patent application serial number 756,124 (`US756124A`) and/or patent `US3647970`, including secrecy-order recommendations, review memoranda, rescission/removal actions, and related correspondence.
+
+In particular, please provide any **referring-agency correspondence** between your agency and the U.S. Patent Office / Commissioner of Patents concerning application serial 756,124, the secrecy order issued **April 25, 1969** under 35 U.S.C. (1952) §§181-188, and its eventual removal prior to issuance of `US 3,647,970` on March 7, 1972. This includes referral memoranda, security-review recommendations, renewal/rescission correspondence, and any inter-agency cross-references involving the **Defense Intelligence Agency (DIA)**, **National Security Agency (NSA)**, **Office of the Secretary of Defense (OSD)**, or other defense components, where applicable to your agency's recordkeeping responsibilities."
 
 NARA contact endpoint (confirmed):
 
@@ -172,6 +185,15 @@ Upgrade secrecy-order claim confidence only if:
 3. Source is agency/archival primary record.
 
 Do not upgrade based on repeated tertiary retellings.
+
+### Sub-rule for agency attribution (DIA vs NSA)
+
+The Patent Office secrecy-order form alone (even when certified) is not sufficient to attribute the order to a specific defense agency, because the form bears only Patent Office signatures. Upgrade the **agency-attribution** sub-claim only on:
+
+1. A sponsoring-agency referral memo or inter-agency correspondence that explicitly names the referring agency for serial 756,124; or
+2. A FOIA release in which the responsive agency itself acknowledges referring or recommending the secrecy action on application 756,124.
+
+Public PDF copies of Patent Office forms (such as E-016) can support order existence, serial, statute, and dates, but cannot resolve agency attribution.
 
 ---
 
