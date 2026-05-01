@@ -179,3 +179,19 @@ Headline points (do not change earlier conclusions; refine wording and survival 
 
 4. **CIA RDP93B01194 — process / cross-check lead only.** The CIA-released file titled "Review of Patent Applications Under Secrecy Order" (CIA Reading Room series RDP93B01194) is useful for **process / cross-check** context: the extracted snippets indicate CIA reviewed secrecy-order applications and could sponsor renewal requests for some applications routed through the IC canvassing layer. The extraction did **not** show "Flanagan," "756,124," "US3647970," or any NSA/DIA-Flanagan tie. Treat as **process lead**; do not cite as Flanagan-specific evidence. Existing rows **E-A6** and **E-A8** already capture adjacent documents in the same CIA series for the IC-canvassing pattern.
 
+---
+
+## Addendum 2026-05-01 (fourth-layer findings): primary-source read of NARA SF-115 N1-241-96-003 and N1-241-10-001
+
+Companion file: `SF115_PRIMARY_READ_LAYER4.md` (this directory). Adds rows **E-A18 through E-A20**.
+
+Direct read of the two SF-115 PDFs corrects two narrower sub-claims in the third-layer findings without changing the section 1 / section 7 attribution conclusions:
+
+1. **The "18 vs 40 years" OCR ambiguity was not in N1-241-96-003 item 37.** Item 37's disposition is event-driven (trigger = rescission) and routes to USPTO-internal central files / PTO repository, not to NARA. The original entry contains no closure-interval value at all. The "18 years" reading should be retired as an OCR artifact; the "40 years" reading applies to the **N1-241-10-001 item 2 successor bucket** (Patent Case Files, Granted), with the printed-form digit on the Group 2200 crosswalk row partially obscured by handwritten reviewer markings and reported by analogy with sibling patent-case-file entries on the same page.
+
+2. **The successor disposition is split, not unified.** N1-241-10-001 item 2 (Patent Case Files, Granted) is **PERMANENT, transfer to NARA after closure**; N1-241-10-001 item 4.1 (Evidentiary Patent Applications) is **TEMPORARY, destroy or delete after 50 years after receipt or when no longer needed, whichever is sooner**. For serial 756,124 — which issued as US 3,647,970 on Mar 7 1972 — the controlling successor bucket is item 2 (permanent). Item 4.1 would only control if the application had been abandoned. The survival-odds upgrade for the Flanagan record under the N1-241-10-001 successor schedule therefore stands on item 2 alone.
+
+3. **Form-face omission finding (E-A14 / E-A15) is unchanged.** Sponsor identity remains in correspondence around the order, not on the order face.
+
+4. **Section 1 / section 7 conclusions unchanged.** DIA attribution unproven; NSA / ASPAB / Service-channel attribution better supported than DIA-as-formal-sponsor on the present record.
+

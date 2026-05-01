@@ -204,6 +204,12 @@ This refines, but does not contradict, section 6's ranking of likely-surviving s
 
 ### 12.2 Successor-retention refinement (N1-241-96-003 item 37 → N1-241-10-001 permanent transfer to NARA)
 
+> **Layer-4 correction (2026-05-01):** see `SF115_PRIMARY_READ_LAYER4.md` (this directory) for a primary-source read of both SF-115 PDFs. Two narrower sub-claims below are corrected by that read:
+> 1. The "18 years" OCR reading is **not present in either SF-115 PDF**; it should be retired as an OCR artifact. The closure-interval value applies only to the N1-241-10-001 item 2 successor bucket (not to N1-241-96-003 item 37 itself, which has no closure interval), and the conservative reading is **40 years after closure** (printed-form digit partially obscured on the Group 2200 crosswalk row, reported by analogy with sibling patent-case-file entries on the same page).
+> 2. The successor disposition is **split**: N1-241-10-001 item 2 (Granted Patent Case Files) is permanent, but item 4.1 (Evidentiary Patent Applications) is temporary 50 years. For serial 756,124 (issued, did not abandon), the controlling successor bucket is item 2 alone. The "permanent transfer-to-NARA bucket" framing in the original third-layer phrasing below is therefore correct only for the granted case-file half.
+>
+> Section 7 attribution conclusion is unchanged.
+
 NARA SF-115 **N1-241-96-003** item 37 describes Group 2200 applications selected for security review by defense agencies and DOE, including secrecy orders issued on those applications. NARA SF-115 **N1-241-10-001** crosswalks N1-241-96-003 item 37 a/b into a **permanent transfer-to-NARA** bucket after closure of the application.
 
 Caveat: local OCR and source extraction disagree on the exact closure-window length (one extraction read 18 years; another read 40 years). The disagreement is in the closure-timing parameter, not in the permanent-transfer disposition. Until the SF-115 PDF is read by a human reviewer, this should be cited as **"permanent transfer to NARA after closure"**, citing the underlying PDF, and **without** committing to an exact closure interval.
