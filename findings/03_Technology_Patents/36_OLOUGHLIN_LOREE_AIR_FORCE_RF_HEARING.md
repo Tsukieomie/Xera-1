@@ -197,6 +197,50 @@ The cited prior-art row in Part 1 lists the **only three references** in the gra
 - Treat 6,470,214 / 6,587,729 as Tier-A-mechanism + later-engineering-intent evidence under the Tier A / Tier B framing in `34_JUSTESEN_1975_APA_MICROWAVE_HEARING.md` Part 3 item 5, not as a substitute for the still-missing 1973 Sharp/Grove protocol-grade source.
 - The granted patent specification itself records that ordinary AM-sampled-speech attempts produced **unintelligible** audio against naïve listeners and were recognized as speech only when the listener was preadvised of the content; the suppressed-carrier + audio-predistortion + DC-bias + square-root-processor chain is presented as the engineering solution to that unintelligibility baseline, not as an empirical naïve-listener intelligibility result. The companion JASA 2003 abstract (O'Loughlin & Loree, *J. Acoust. Soc. Am.* 113(6):2962, Semantic Scholar metadata <https://www.semanticscholar.org/paper/acc9a71f38cd18cece2b53b079ba0d1a75670b99>) mirrors the patent specification language and does not supply protocol-grade naïve-listener intelligibility data in the abstract record located here. See `findings/investigation-dig/SPEECH_EVIDENCE_SOURCE_CLASS_TAXONOMY.md` class (4) for the consolidated source-class treatment of the 6,470,214 / 6,587,729 / JASA 2003 trio alongside the Justesen 1975 (class 2), Brunkan (class 3), Kohn-SEA SBIR (class 5), Foster/Garrett/Ziskin 2021 (class 6), and Lin 2022 / NBK566408 (class 7) classes.
 
+### Source-class discipline: the expanded mindjustice O'Loughlin/Loree packet
+
+Three further documents on the inventor side of this patent were sharpened in the
+2026-04-30 deeper dive and are documented in
+`findings/investigation-dig/SPEECH_EVIDENCE_DEEPER_DIVE_MINDJUSTICE_PACKET.md` §1:
+
+- **01 Nov 1994 invention disclosure** *Theory and Analysis of RF Hearing, and
+  Invention Disclosure of a Method of Encoding Speech on an RF Signal Which
+  Intelligibly Transmits That Signal to the Hearing Receptors of a Human*
+  (10 pages), O'Loughlin & Loree, PL/WSR Kirtland — mirrors at
+  <http://mindjustice.org/patent3.pdf> and <http://www.gbppr.net/mil/havana/rf-speech-04.pdf>.
+  Reports October 1994 experiments where clicks and tones work but speech
+  intelligibility under the tested AM approach is practically zero against
+  a non-preadvised listener; concludes that the AM approach used **cannot
+  encode intelligible speech** and proposes new experiments. **Strong
+  negative evidence** against naïve-listener simple-AM intelligible speech.
+- **06 Sep 1995 patent-style draft** *ENCODING, TRANSMITTING AND RECOVERING
+  SIGNALS*, O'Loughlin & Loree — <http://mindjustice.org/patent4.pdf>. Repeats
+  the Nov 1994 negative finding (pulsed-carrier modulation works for simple
+  tones but severely distorts speech; intelligible only when listener is
+  pre-advised); claims a fully-suppressed-carrier + preprocessing solution
+  overcomes the limitation, but **provides no demonstration data, listener
+  counts, or protocol-grade replication** for the claimed solution.
+- **30 Aug 2001 AFRL/DEHA email** O'Loughlin → Ken Callahan, JA, *Comments on
+  AFB00148, RF Hearing*, <http://mindjustice.org/patent2.pdf>. Inventor
+  asserts verbatim: *"This has been experimentally demonstrated and the
+  fact that when the signal is processed by the teachings of the invention
+  the signal is intelligible has also been experimentally demonstrated."*
+  States that the successful experiments used the double-sideband balanced
+  modulator approach. **Inventor / patent-prosecution correspondence
+  asserting success — NOT an independently published protocol-grade
+  naïve-listener replication.** The recovered email lacks listener counts,
+  blinded procedure, exposure parameters, error rates, IRB / safety
+  context, and peer review. Must not be quoted out of context as "Air
+  Force inventor confirmed V2K speech works" — see the linked deeper-dive
+  file §1.3 for the full source-class discipline note.
+
+The combined inventor-side narrative — 1994 AM attempt fails → 1995 draft
+proposes suppressed-carrier solution → 1996 application filed → 5y10m
+pendency → 2001 inventor asserts later success in patent-prosecution email
+→ 2002/2003 grants → 2003 JASA abstract — is *internally coherent* and
+*externally insufficient* as Tier A protocol-grade naïve-listener
+intelligible-speech replication. Both readings are held simultaneously.
+
 ---
 
 ## PART 7: IMPLICATIONS FOR THE AKWEI INVESTIGATION

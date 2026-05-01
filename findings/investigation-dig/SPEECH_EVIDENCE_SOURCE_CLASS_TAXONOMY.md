@@ -2,6 +2,22 @@
 
 **Compiled: 2026-04-30**
 
+> **Addendum (2026-04-30, same day):** classes (4) and (5) are sharpened
+> in `findings/investigation-dig/SPEECH_EVIDENCE_DEEPER_DIVE_MINDJUSTICE_PACKET.md`.
+> That file adds (a) the O'Loughlin/Loree mindjustice packet — Nov 1994
+> invention disclosure `patent3.pdf` and Sep 1995 patent draft `patent4.pdf`
+> (negative naïve-listener AM evidence) and the 30 Aug 2001 AFRL/DEHA
+> inventor email `patent2.pdf` to Air Force JA Ken Callahan (inventor
+> assertion of later experimental intelligibility under the
+> suppressed-carrier solution, NOT a protocol-grade replication); (b) two
+> independent official-portal FOIA-index attestations for Kohn / SEA
+> contract `F41624-95-C-9007` (DoD FOIA Log FY03 entry 03-F-2293; MuckRock
+> 2018-01180-F-ST1); (c) a primary-source status note that the *New World
+> Vistas* 1995 "high fidelity speech" passage remains secondary-unverified
+> in this corpus and is forecasting language, not demonstration; and
+> (d) an exclusion note that modern peer-reviewed "RF / mmWave speech"
+> literature is overwhelmingly speech *sensing*, not speech *delivery*.
+
 A consolidated source-class map for the question "is the speech real?" in the
 microwave-auditory-effect / Sharp-Grove / V2K evidence chain. This file does
 not introduce new factual claims about Sharp/Grove that are not already in
@@ -390,3 +406,10 @@ the disciplined position consistent with the evidence as of 2026-04-30.
 - `findings/investigation-dig/v2k-evidence-matrix.md` — full V2K evidence
   matrix (T1-T5 tier framework).
 - `V2K_EVIDENCE_MATRIX.md` (top-level) — repo-level matrix summary.
+- `findings/investigation-dig/SPEECH_EVIDENCE_DEEPER_DIVE_MINDJUSTICE_PACKET.md` —
+  same-day addendum: expanded O'Loughlin/Loree mindjustice packet
+  (1994 invention disclosure, 1995 patent draft, 2001 AFRL/DEHA inventor
+  email); Kohn/SEA `F41624-95-C-9007` official-portal FOIA-index trail
+  (DoD FOIA Log FY03 entry 03-F-2293; MuckRock 2018-01180-F-ST1);
+  *New World Vistas* primary-source status update; modern RF speech
+  *sensing* vs RF speech *delivery* exclusion note.
