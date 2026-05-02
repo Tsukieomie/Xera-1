@@ -307,9 +307,29 @@ OpenAlex enumerated citing works (**same six**):
 
 **Europe PMC oddity:** query `REFERENCES:1137231` returned exactly **one** hit whose topic was unrelated leukaemia/cell-biology (**false positive / bad reference edge**)—not relied on here.
 
-### D. Regulatory / critique literature hooks not executed (blocked)
+### D. USAFSAM Heynick TR **ADA183672** — IA mirror executes what DTIC blocked (2026‑05‑03)
 
-A natural place to look for methodological attack on overstated behavioral claims would be Heynick‑style USAFSAM critiques (**e.g. DTIC ADA183672**) or COMAR-era COM documents. **`curl https://apps.dtic.mil/sti/tr/pdf/ADA183672.pdf`** returned plaintext **`Request Blocked`** in-session (no OCR pass). Treat as **unverified** pending user-side PDF or authenticated mirror.
+[`https://apps.dtic.mil/sti/tr/pdf/ADA183672.pdf`](https://apps.dtic.mil/sti/tr/pdf/ADA183672.pdf) still returns plaintext **`Request Blocked`** bot-guard in-session. **`pdftotext`** on **`https://archive.org/download/DTIC_ADA183672/DTIC_ADA183672.pdf`** (**~46 MB**, item [`DTIC_ADA183672`](https://archive.org/details/DTIC_ADA183672)) succeeds.
+
+**Lexical corpus check (whole extracted text ~43k lines):**
+
+- **`American Psychologist`**, **`Microwaves and behavior`**, **`receiverless`**, **`personal communication`** (excluding unrelated “nine … groups” demographics hits): **no substantive passage** recounting Justesen **1975** *Am Psych* or the Sharp/Grove **nine‑word speech** anecdote / Note 2.
+- **`Justesen`**: many hits for **animal behavior**, **BBB**, warmth thresholds, Levinson/King/coauthors — consistent with encyclopedic bibliography + summary of **later** VA work—not engagement with speech claim.
+- **`Sharp`** in MAE context: a **numbered narrative subsection** summarizes **Sharp *et al.* (1974)** **shield‑region / RF‑absorber** localization experiments and confirms **measurable acoustic propagation** consistent with thermoelastic / air‑path interpretation—i.e. the **IEEE T‑MTT mechanism paper**, **not** the Justesen‑only speech paragraph.
+
+Representative synopsis (conceptual quote; page **~114** in PDF flow per “`114`” print marker before “Sharp et al.” in extract): Heynick summarizes head vs absorber localization, horn distance, pulse parameters (**14 µs**, **~3 pps** random), absorbed‑power‑density band, and repetition‑rate‑tracking auditory quality from **pulser + absorber**—the same **hardware / external acoustic coupling** lineage as Sharp/Grove/Gandhi **1974**, orthogonal to proving or disproving Note 2.
+
+**Bibliography layer:** cites **Sharp, J.C., H.M. Grove, and O.P. Gandhi**, *IEEE Trans. Microwave Theory Tech.* **22**(5):583–584 **(1974)** — again **mechanism letter**, **not** Justesen **1975**.
+
+**Reading:** Heynick‑class **government synthesis** is exactly where one would bury a methodological takedown of an infamous behavioral sound bite; **this TR’s extracted text behaves as if the speech demo were outside scope or unknown** relative to hundreds of denser citations—strengthening the **thin‑graph / non‑integrated** finding without proving the anecdote false.
+
+### D.2 Steneck *The Microwave Debate* (commercial scan PDF)
+
+An accessible full-text mirror was probed (**`pdftotext`** on **`The-Microwave-Debate.pdf`**, **`gbppr.net`** host, ~655k chars). **`rg -ni`** for paired tokens **`American Psychologist`**, **`receiverless speech`**, **`Sharp.*Grove.*speech`** did **not** surface the Justesen **nine‑word**/demo thread in obvious indexed form; corpus is dominated by Pandora “Jo Sharp” (primate‑program Sharp, **distinct person**) and unrelated “Sharp … sharply.” **Residual:** OCR noise / index-only hits could still hide a fleeting mention—the negative is **rapid full-text lexical**, not hand pagination of MIT Press edition.
+
+### D.3 Osepchuk bibliography slice (OpenAlex **`author.id:A5028303271`**, publication years **1973–1979`)
+
+Enumerated **`meta.count`** = **9** works—**microwave oven safety**, IMS symposia, physical aspects chapters, tube engineering—**no** titled item suggesting a **printed** response / letter to editor aimed at **`Microwaves and behavior`** (1975 **APA**) in metadata alone. Matches web-search negative on “Osepchuk published rebuttal naming Justesen” unless buried inside an untitled symposium volume not indexed here.
 
 ### E. Bottom line on “was he questioned?”
 
@@ -318,8 +338,9 @@ A natural place to look for methodological attack on overstated behavioral claim
 | **Formal post‑publication APA retraction / Letters to Editor on Sharp&Grove** | **No** in repo + Crossref/OpenAlex corpus above |
 | **Named criticism of *manuscript*** (could include Sharp section) | **Yes—Osepchuk + Wike/Sheridan** (acknowledgments only; **topic unspecified**) |
 | **Citing literature as implicit debunk** of Note 2 | **Not evident** among the **six** indexed citing works via abstract/title skim + Crossref bibliography checks (Chou cites both but does not replicate speech experiment) |
+| **Major USARF / USAFSAM RF‑bioeffects critique (Heynick TR)** addressing Justesen **1975** speech paragraph | **Not in extracted ADA183672 corpus** (`2026‑05‑03`); TR **does** treat Sharp **1974** as standard MAE mechanism literature |
 
-**Net:** There is **no located print record** stating “Justesen exaggerated Sharp/Grove” or documenting a **focused** exchange solely on Note 2. What **does** exist is **standard acknowledgment of industrial peer pushback** (Osepchuk / Raytheon) with **dissent signaled in general terms**, plus a **thin** formal citation aftermath that **never forces** Sharp/Grove speech into a disputed-results column.
+**Net:** There is **no located print record** stating “Justesen exaggerated Sharp/Grove” or documenting a **focused** exchange solely on Note 2. What **does** exist is **standard acknowledgment of industrial peer pushback** (Osepchuk / Raytheon) with **dissent signaled in general terms**, plus a **thin** formal citation aftermath that **never forces** Sharp/Grove speech into a disputed-results column. A **heavyweight contemporaneous‑era Air Force bibliography review** reachable from IA **similarly skips** Justesen **1975 APA** speech content while absorbing Sharp **1974**.
 
 ---
 
