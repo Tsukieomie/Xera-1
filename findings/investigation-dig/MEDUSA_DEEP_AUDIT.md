@@ -266,3 +266,34 @@ Sensory wording that can be **mis-read** beside MAE in quick scans: dependent-cl
 Separate positive hits (**expected**, anatomy / mechanism vocabulary): **`vestibular`**, **`Lorentz`**, **`auditory`** (system / cortex pathway description), **`interdiction`**, **`M67854-04-C-1013`**, **`915 MHz`**.
 
 **Interpretation for §11 / MEDUSA corpus hygiene:** EPIC’s **published primary specification** reinforces a **distinct mechanism story** (**RF Lorentz-force sensory / vestibular disruption** plus **incoherent wideband-sound sensation** language) vs WaveBand MEDUSA’s **microwave auditory effect (MAE)** SBIR wording. OCR confirms **non-merger**: no lexical bridge to MAE nomenclature, MEDUSA branding, or intelligible-speech messaging in this patent instrument.
+
+### 13.4 EPIC patent **US7841989** — prior-art / examiner-citation cluster (face sheet + specification anchors)
+
+This subsection reads the **References Cited** block on the US7841989 facsimile (`US7841989_EPIC_patent_uspto_ocr.txt` **page 02**) and ties it to **in-body** scientific anchors (Hudspeth / BPPV), so the EPIC story is not only “no MAE words” (§13.3.3) but also **positively anchored** in a **hair-cell electro-mechanics + clinical vertigo** literature stack.
+
+#### 13.4.1 U.S. patent documents (as printed on the grant; titles from Google Patents HTML `DC.title` except where noted)
+
+| As printed (OCR) | Normalized ID | Short title (verification source) |
+| --- | --- | --- |
+| `4,611,599 A` … Bentall et al. | **US4611599** | *Electrical apparatus for influencing the metabolic characteristics of living systems* — [Google Patents](https://patents.google.com/patent/US4611599A/en) |
+| `2002/0072781 A1` … Lattner et al. | **US20020072781 A1** | *Vestibular stimulation system and method* — [Google Patents](https://patents.google.com/patent/US20020072781A1/en) |
+| `5,787,340 A` … Sepponen | **US5787340** | *Radiation shielding apparatus for communication device* — [Google Patents](https://patents.google.com/patent/US5787340A/en) |
+| `5,935,054 A` … Loos | **US5935054** | *Magnetic excitation of sensory resonances* — [Google Patents](https://patents.google.com/patent/US5935054A/en) |
+| `6,077,237 A` … Campbell et al. | **US6077237** | *Headset for vestibular stimulation in virtual environments* — [Google Patents](https://patents.google.com/patent/US6077237A/en) |
+| `6,238,333 B1` … Loos | **US6238333** | *Remote magnetic manipulation of nervous systems* — [Google Patents](https://patents.google.com/patent/US6238333B1/en) |
+| `6,314,324 B1` … *(assignee line OCR-garbled on face)* | **US6314324 B1** | *Vestibular stimulation system and method* — [Google Patents](https://patents.google.com/patent/US6314324B1/en) (same title family as **US20020072781**; typical continuation pattern) |
+| `7,277,749 B2` … Lattner et al. / Gordon et al. | **US7277749 B2** | **USPTO first-page OCR** (not Google Patents `DC.title` in this environment): *Treatments for snoring using injectable neuromuscular stimulators* — inventors **David C. Gordon** et al., assignee **Alfred E. Mann Institute…** — USPTO PDF `GET https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7277749` + `tesseract` page 1. |
+
+**OCR hygiene on the face sheet:** the printed **References** line pairs **`7,277,749 B2`** with **“Lattner et al.”** while the **USPTO grant** for `7277749` lists **Gordon** (and others) on the title block — treat the **number** as authoritative; treat the **inventor string on the EPIC face OCR** as **likely mis-keyed or merged-line noise** unless a second facsimile confirms.
+
+**Examiner flag:** the face sheet marks **`* cited by examiner`** on at least **US20020072781** and **US7277749** rows in the OCR extract — i.e. parts of this cluster entered via **examination**, not only applicant choice.
+
+#### 13.4.2 Non-patent literature (as printed)
+
+- **Miller, Diane F.,** “Basics of Radio Astronomy,” Mar. 1997, Caltech JPL D-13835 (general RF / propagation literacy).
+- **Bozovic D, Hudspeth A. J.,** “Hair-bundle movements elicited by transepithelial electrical stimulation of hair cells in the sacculus of the bullfrog,” *Proc. Natl. Acad. Sci. USA* **100**(3):958–63 (2003) — this is also **quoted in the EPIC specification** (OCR around **US7841989** p. 12) as the bridge from **transepithelial electrical stimulation** of hair bundles to the inventors’ **RF / Lorentz-force** excitation analogy.
+
+#### 13.4.3 Why this deepens the EPIC vs MAE separation (and one folklore guardrail)
+
+- **Inner-ear / balance / hair-cell physics** dominates both the **cited patent titles** (vestibular headsets; vestibular stimulation publication) and the **in-body** argumentation (**BPPV** mimicry, **Hudspeth** hair-bundle mechanics) — still **no thermo-acoustic / MAE / skull-conduction hearing** pathway in the instrument text (§13.3.3).
+- **US5935054 (*Magnetic excitation of sensory resonances*, Loos)** is a patent that **Internet “sensory resonance” lore** often treats as a standalone meme. Here it appears only as **U.S. patent prior art on EPIC’s face**; **EPIC’s specification** does not adopt Loos’s “sensory resonance” framing by name in the OCR corpus checked for §13.3. **Do not** treat “EPIC cites Loos” as “EPIC equals Loos weaponology” without in-body text support.
