@@ -16,6 +16,8 @@
 | [Europe PMC](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:861720&resulttype=core&format=json) | Abstract and bibliographic record returned; `fullTextUrlList` shows **subscription** DOI link only; `hasPDF` = **N**. |
 | [OpenAlex](https://api.openalex.org/works/https://doi.org/10.1016/0006-8993(77)90726-0) | `open_access.is_oa` = **false**; `oa_status` = **closed**; no repository PDF indexed. |
 | [PubMed `efetch` (MEDLINE XML)](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=861720&retmode=xml) | Returns citation, abstract, MeSH, and DOI — **no** `ReferenceList` / bibliography block in the MEDLINE deposit (expected for this era); **no** Sharp/Grove/Justesen strings in the XML body. |
+| [Europe PMC `fullTextXML`](https://www.ebi.ac.uk/europepmc/webservices/rest/MED/861720/fullTextXML) | **HTTP 404**, empty body — no open full-text XML for this PMID in Europe PMC (2026-05-02). |
+| [Semantic Scholar Graph API](https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/0006-8993(77)90726-0?fields=openAccessPdf) | `openAccessPdf.status` = **CLOSED**; no repository PDF URL (2026-05-02). |
 
 Full text of the PDF body was **not** retrieved here; conclusions below are limited to **Crossref’s deposited reference list** (bibliography metadata), not to in-PDF discussion paragraphs.
 
@@ -70,6 +72,9 @@ These support the **Tier A** (microwave hearing / thermoacoustic) literature con
 | CDN PDF | `https://archive.org/download/.../...pdf` → `dn710104.ca.archive.org/.../...pdf` | **401 Authorization Required** |
 | CDN EPUB | `https://archive.org/download/.../...epub` | **401 Authorization Required** (same class as PDF) |
 | CDN `djvu.xml` | `https://archive.org/download/.../..._djvu.xml` (after redirect) | **401 Authorization Required** |
+| Alternate IA item `zappingofamerica0000unse` PDF | `https://ia802904.us.archive.org/29/items/zappingofamerica0000unse/zappingofamerica0000unse.pdf` | **HTTP 403** (2026-05-02) — same access class as CDN-gated Norton scan, not an open mirror |
+
+**Wayback Machine (2026-05-02):** `web.archive.org/cdx/search/cdx` **exact** query on `https://archive.org/download/zappingofamerica00brod/zappingofamerica00brod.pdf` returned **no rows** (no historical 200 capture indexed in that pass). A **wildcard** CDX query for `*zappingofamerica00brod*.pdf` **timed out (504)** — inconclusive for older captures; do not treat as proof of absence.
 
 So from this workspace, **page-image OCR verification** of Brodeur (chapters / pp. cited in secondary sources) remains **blocked** without credentials, on-site download, or a user-provided copy. The round-5 caveat in `FY74_SPEECH_DEMO_HUNT.md` (unreliable web-fetch paraphrase) still applies.
 
