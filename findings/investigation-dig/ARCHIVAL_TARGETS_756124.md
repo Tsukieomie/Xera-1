@@ -28,6 +28,28 @@ The remaining closure target is therefore narrower and more specific:
 
 Until both are obtained, agency attribution remains source-tradition only (Begich/NEXUS = DIA; Flanagan first-person narrative = NSA).
 
+### 2026-05-02 update — Layer-5 catalog-side anchor for NAID 302050 + USPTO Patent Center IFW posture
+
+Companion file: `investigation-dig/primary-756124/NARA_CATALOG_PROBE_LAYER5.md`. Ledger rows: E-A21 through E-A24.
+
+Three confirmations:
+
+1. **NAID 302050 disposition-authority crosswalk is catalog-confirmed.** The NARA Online Catalog detail page for NAID 302050 ("Utility Patent Case Files, January 1, 1836 - December 31, 1998") cites **N1-241-10-1, Item 2** and **N1-241-96-3, Item 4a** as the governing Disposition Authority Numbers for the series. This is the catalog-side confirmation of the SF-115 successor-schedule read in Layer-4 (`SF115_PRIMARY_READ_LAYER4.md`). Access: Unrestricted; Use: Unrestricted; series is partially digitized (704 of 708 file units online with ~29,434 digital objects); physical originals paper at NARA Kansas City.
+   - NARA Catalog detail page: <https://catalog.archives.gov/id/302050>
+2. **Band-membership confirmation for `US 3,647,970`.** The May 2018 RG 241 custodial-list entry verbatim reads "Patent Case Files (#3,647,069 - 3,651,016); ENTRY UD13W 12 (NAID 302050)". Patent number 3,647,970 falls inside that band; the catalog arrangement statement ("Patent files numbered 1 - 4,143,353 are arranged numerically by patent number") covers it. The existing `E-006` band assignment is upgraded from schedule analogy to catalog-side series confirmation plus custodial-list named-band entry.
+   - RG 241 May 2018 custodial-list page: <https://www.archives.gov/research/news/rg-241-change-custodial-unit-2018-march-list>
+3. **USPTO Patent Center IFW is empty for this filing date.** The Patent Center detail page at `https://patentcenter.uspto.gov/applications/05756124` is route-recognized but renders an empty bibliographic / Documents & Transactions panel under the SPA shell, consistent with paper-only / pre-IFW applications filed in 1968. Google Patents cross-confirms the bibliographic block (filed 1968-08-29; granted 1972-03-07; CPC `H04K1/06`; no assignee, no government-interest clause, no government-rights statement, no license-rights notice on the face of the issued patent). The certified-copy ordering channel (target (a) below) remains the operative request channel; the Patent Center IFW path is not the channel for this filing date.
+   - Patent Center: <https://patentcenter.uspto.gov/applications/05756124>
+   - Google Patents: <https://patents.google.com/patent/US3647970A/en>
+
+Three non-confirmations (recorded as gaps, not refutations):
+
+- The catalog detail page does **not** expose a file-unit-level finding aid for the band `#3,647,069 - 3,651,016`. File-unit confirmation specifically for serial 756,124 / `US 3,647,970` requires either a Catalog API search inside the series (API key required) or a direct Kansas City inquiry.
+- A NARA Catalog public-UI search for `"application serial" "756,124" OR "US 3,647,970"` returned 1,862 false-positive hits and **no** top-20 result naming the Flanagan identifiers. Consistent with the earlier `E-A17` negative-search finding.
+- The NARA Catalog API v2 requires an `x-api-key` issued by `Catalog_API@nara.gov`. The 2016 NARAtions claim that "no API key or account at all is required to do basic searching" is obsolete per the 2025 documentation. Programmatic Catalog probes for follow-up Layer-6 targets (D-1 / NC1-241-76-01 series; AC-AK reviewer/agency folders; ASPAB FN 406-02 routing) require a Catalog API key. Records remain Access: Unrestricted, Use: Unrestricted; the API-key requirement is an access-method constraint, not an access-rights constraint.
+
+**Target merger:** Targets (c) and (h) below are operationally the same target for serial 756,124 specifically; both crosswalk to the same series under N1-241-10-1, Item 2. They should be merged into a single email inquiry to `kansascity.archives@nara.gov` requesting the file unit for `US 3,647,970` (application serial 756,124) within **ENTRY UD13W 12 / band `#3,647,069 - 3,651,016` / NAID 302050**, citing **N1-241-10-1, Item 2** as the governing disposition authority and asking specifically (i) whether the file unit is present in the holding, (ii) whether digitized images are available online, and (iii) whether any 35 U.S.C. § 181 acknowledgment of receipt and disposition by defense agencies is retained inside the wrapper. Target (b) (D-1 / NC1-241-76-01) is **not** catalog-confirmed by NAID 302050 and is queued as a separate Layer-6 catalog probe.
+
 ### 2026-05-01 update — procedural framework / refined targets (ASPAB / D-1 / Group 220 / Licensing & Review)
 
 Companion procedural file: `investigation-dig/primary-756124/PROCEDURAL_FRAMEWORK_ASPAB_PSCRL.md`. Ledger rows: E-017 through E-029.
