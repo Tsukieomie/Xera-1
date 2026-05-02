@@ -192,3 +192,28 @@ Internet Archive and forum bundles sometimes tag material with **`voice of god` 
 ### 12.4 In-repo advocacy layer — **Mode label on MEDUSA, not primary text**
 
 `findings/03_Technology_Patents/35_MEDUSA_DUAL_USE_AND_NAVY_SBIR.md` labels a speculative operating mode as **“Individual targeted incapacitation / ‘voice of god’”** and ties it to the Navy’s **crowd-to-individual** language. That is **author synthesis** building on press/Sadovnik threads — useful as **hypothesis navigation**, but it must not be back-read as if it appeared on **`medusa-navysbir-wayback.html`**. For tier discipline, keep §11 primary text separate from Part 4 of file 35.
+
+### 12.5 Wired (Dec 2007) — early headline tying **“Voice of God”** to **LRAD** in major press
+
+*Wired* published **“The Voice of God Weapon Returns”** (URL slug `the-voice-of-go`, Dec 2007) — an early **mainstream-tech-press** instance of the nickname in a **weapon / NLW** frame: [https://www.wired.com/2007/12/the-voice-of-go/](https://www.wired.com/2007/12/the-voice-of-go/). Later explainers (e.g. [Forbes, 2020](https://www.forbes.com/sites/markcancian/2020/09/18/will-dod-deploy-a--heat-ray-and-the-voice-of-god-against-demonstrators/), [Popular Science](https://www.popsci.com/story/technology/heat-weapon-active-denial-system-ads-lrad-explained/)) repeat **LRAD** as **“voice of God”** alongside **ADS** as **“heat ray,”** still treating them as **distinct** systems. **Caveat:** tracing the **first** spoken use in Iraq or elsewhere is beyond this repo’s primary-archive scope; the chain above is sufficient to show the nickname was **journalism- and operator-culture-driven** on the **acoustic** side, not derived from the **WaveBand MEDUSA** SBIR HTML.
+
+## 13) EPIC sibling line — quantitative bulk row (Invocon) vs SNC press capture (WaveBand)
+
+This section deepens `MEDUSA_TRANSITION_GAP_ANALYSIS.md` with **exact fields** pulled from `medusa-contract-cluster-from-sbir-bulk.json` (SBIR bulk extract used across MEDUSA passes).
+
+### 13.1 Invocon EPIC — Phase I and Phase II (open index)
+
+| Phase | Contract | Company | Agency tracking | Topic code | Award year | Amount (USD) | Other dates |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| **Phase I** | `M67854-04-C-1013` | INVOCON, INC. | `N032-0874` | *(blank in bulk row)* | 2003 | **69,977.00** | — |
+| **Phase II** | `M67854-05-C-6509` | INVOCON, INC. | `N032-0874` | **`N03-163`** | 2005 | **749,843.00** | Proposal award **2005-06-09**; contract end **2007-12-08**; solicitation **`2003.2`** |
+
+**Interpretation:** the **only** row in this bulk slice that carries **`Topic Code = N03-163` with a Phase II** flag is **EPIC**, not WaveBand MEDUSA. That is the clean quantitative backbone for the “**continuation ≠ MEDUSA**” warning already stated in §11.6.
+
+### 13.2 SNC acquisition press page — **MMW radar framing only** (negative for MEDUSA/MAE in this mirror)
+
+`medusa-sncorp-wayback.html` (Wayback **2012-11-27** capture of SNC `press_more_info.php`-style content) announces **acquisition of WaveBand Corporation (May 2005)** and describes WB as **millimeter wave (MMW)** innovation: **beam-steering antennas and imaging radar**; applications listed include **aircraft landing aids, missile seekers, surveillance sensors**.
+
+**String scan (negative):** `rg` over this HTML file for `MEDUSA`, `MAE`, `microwave auditory`, `auditory` (case-insensitive) → **no matches**.
+
+**Interpretation:** the **corporate-facing** acquisition narrative preserved here does **not** surface the Navy MEDUSA / MAE non-lethal wording at all. That is consistent with treating **SNC’s public press layer** as **imaging / radar / aperture** marketing, while the **MAE crowd-control narrative** lives on the **separate** `navysbirprogram.com` summary capture (`medusa-navysbir-wayback.html`). Do not merge the two into one “SNC admitted MEDUSA” sentence without a primary that explicitly does so.
