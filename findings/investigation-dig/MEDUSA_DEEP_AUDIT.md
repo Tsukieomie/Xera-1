@@ -17,6 +17,7 @@ Conclusion: source filtering is mandatory before any inference.
 ### A. Archived Navy SBIR summary (primary anchor in corpus)
 
 `medusa-navysbir-wayback.html` captures a Wayback snapshot of the old Navy SBIR search record with:
+
 - Contract: `M67854-04-C-1012`
 - Topic: `N03-163`
 - Phase: `I`
@@ -69,6 +70,7 @@ Media coverage (e.g., Wired/New Scientist references in repository search captur
 ## 6) Noise-control rules for future MEDUSA searches
 
 When searching MEDUSA, require at least one of:
+
 - `WaveBand`
 - `M67854-04-C-1012`
 - `N03-163`
@@ -76,6 +78,7 @@ When searching MEDUSA, require at least one of:
 - `Mob Excess Deterrent Using Silent Audio`
 
 Exclude or separately bucket:
+
 - Undersea sensor-array MEDUSA pages
 - Recent AI/COP software MEDUSA pages
 - Non-defense "Medusa" company/entity results
@@ -94,7 +97,7 @@ A second recurring follow-up is whether Clint McLean's Havana / Hodgkin-Huxley m
 
 ## 10) Contemporaneity context: Army CALL "voice to skull devices" thesaurus entry
 
-The Army Center for Army Lessons Learned (CALL) Thesaurus "voice to skull devices" entry — preserved by FAS at <https://sgp.fas.org/othergov/dod/vts.html>, original CALL URL `http://call.army.mil/products/thesaur_e/00016275.htm`, broader term "nonlethal weapons" — carries a last-reviewed date of **25 March 2004**, which falls inside the MEDUSA Phase I performance period **19 November 2003 — 19 May 2004**. This is contemporaneous **terminology + prototype-development** overlap inside the early-2000s DoD non-lethal-weapons ecosystem. It strengthens T3 provenance only; it does not upgrade T2 (semantic speech) or T4 (deployment/attribution). The 2008 Phys.org / Wired / New Scientist coverage cluster is a public-visibility resurfacing event, not documented program discontinuation. See `CALL_THESAURUS_MEDUSA_CONTEMPORANEITY_NOTE.md` and `v2k-evidence-matrix.md` Version 38.
+The Army Center for Army Lessons Learned (CALL) Thesaurus "voice to skull devices" entry — preserved by FAS at [https://sgp.fas.org/othergov/dod/vts.html](https://sgp.fas.org/othergov/dod/vts.html), original CALL URL `http://call.army.mil/products/thesaur_e/00016275.htm`, broader term "nonlethal weapons" — carries a last-reviewed date of **25 March 2004**, which falls inside the MEDUSA Phase I performance period **19 November 2003 — 19 May 2004**. This is contemporaneous **terminology + prototype-development** overlap inside the early-2000s DoD non-lethal-weapons ecosystem. It strengthens T3 provenance only; it does not upgrade T2 (semantic speech) or T4 (deployment/attribution). The 2008 Phys.org / Wired / New Scientist coverage cluster is a public-visibility resurfacing event, not documented program discontinuation. See `CALL_THESAURUS_MEDUSA_CONTEMPORANEITY_NOTE.md` and `v2k-evidence-matrix.md` Version 38.
 
 ## 11) Primary-page deep read — `medusa-navysbir-wayback.html` (Wayback 2008-04-09)
 
@@ -104,22 +107,24 @@ This section is a **line-by-line discipline pass** on the archived Navy SBIR **P
 
 From the HTML award table (verbatim strings, punctuation as captured):
 
-| Field | Value in mirror |
-| --- | --- |
-| Page title | `Phase I Summary Report` |
-| Government contact | Mr. George Gibbs (`george.gibbs@usmc.mil`) |
-| Contractor POC | Dr. Lev Sadovnik (`lsadovnik@waveband.com`) |
-| Firm | WaveBand Corporation, 17152 Armstrong Avenue, Irvine, CA 92614-5718 |
-| Contract # | `M67854-04-C-1012` |
-| Topic | `N03-163` |
-| Solicitation | `03.2` |
-| SYSCOM | `MARCOR` |
-| Award amount | `99965.00` |
-| Phase | `I` |
-| Program | `Navy SBIR` |
-| Start / End Date | `11/19/2003 - 05/19/2004` |
-| FY Reported | `2004` |
-| Title | `Remote Personnel Incapacitation System` |
+
+| Field              | Value in mirror                                                     |
+| ------------------ | ------------------------------------------------------------------- |
+| Page title         | `Phase I Summary Report`                                            |
+| Government contact | Mr. George Gibbs (`george.gibbs@usmc.mil`)                          |
+| Contractor POC     | Dr. Lev Sadovnik (`lsadovnik@waveband.com`)                         |
+| Firm               | WaveBand Corporation, 17152 Armstrong Avenue, Irvine, CA 92614-5718 |
+| Contract #         | `M67854-04-C-1012`                                                  |
+| Topic              | `N03-163`                                                           |
+| Solicitation       | `03.2`                                                              |
+| SYSCOM             | `MARCOR`                                                            |
+| Award amount       | `99965.00`                                                          |
+| Phase              | `I`                                                                 |
+| Program            | `Navy SBIR`                                                         |
+| Start / End Date   | `11/19/2003 - 05/19/2004`                                           |
+| FY Reported        | `2004`                                                              |
+| Title              | `Remote Personnel Incapacitation System`                            |
+
 
 **Interpretation:** six-month Phase I, **USMC SYSCOM** channel, **under $100k** — consistent with breadboard risk reduction, not a program-of-record procurement.
 
@@ -137,10 +142,10 @@ The objective `<span>` text (Wayback capture) defines MEDUSA and ties it to MAE.
 
 The Phase I results list is only:
 
-1. An operating frequency was chosen  
-2. Hardware requirements were established (commercial magnetron, high-voltage pulse former)  
-3. Hardware was designed and built  
-4. Power measurements; pulse parameters confirmed  
+1. An operating frequency was chosen
+2. Hardware requirements were established (commercial magnetron, high-voltage pulse former)
+3. Hardware was designed and built
+4. Power measurements; pulse parameters confirmed
 5. **Experimental evidence of MAE was observed**
 
 **Load-bearing negative:** there is **no** separate bullet for human-subject testing at range, crowd trials, **intelligibility metrics**, **word error rate**, **deployment**, or **transition to Phase II**. Evidence grade stays **contractor Phase I self-report** (Moderate confidence for "something was built and MAE was seen in the lab sense of the summary," per §5).
@@ -165,3 +170,25 @@ Combine §11 with `MEDUSA_TRANSITION_GAP_ANALYSIS.md`:
 - **MEDUSA (WaveBand)** shows **Phase I only** at `M67854-04-C-1012` with topic **`N03-163`** on the summary page but **topic code blank** in the SBIR bulk row used in the gap analysis.
 
 So: **shared topic code on paper does not equal same engineering line.** Safe sentence: *Open SBIR bulk + archived summary support a WaveBand MEDUSA Phase I MAE prototype and a separate Invocon EPIC line with visible Phase II; they do not, in this corpus, merge into one transitioned MEDUSA product record.*
+
+## 12) “Voice of God” — where the phrase comes from (and what it is **not** in-repo)
+
+This section answers a recurring confusion: **“Voice of God” is not language from the archived WaveBand MEDUSA SBIR summary page.** A case-insensitive search of `medusa-navysbir-wayback.html` for `voice of god` / `Voice of God` returns **no matches**.
+
+### 12.1 Journalism / NLW community — **LRAD (acoustic hailing), not MAE**
+
+In open reporting, **“Voice of God” is widely used as a colloquial nickname for the Long Range Acoustic Device (LRAD)** and similar **acoustic hailing** systems: highly directional **airborne** sound used to project warnings or voice commands at distance. Examples accessible without paywall friction include the Wikipedia article on [Long-range acoustic devices](https://en.wikipedia.org/wiki/Long-range_acoustic_device) and popular-press explainers that pair **ADS (“heat ray”)** with **LRAD (“voice of God”)** as distinct NLW items (e.g. [Forbes, 2020](https://www.forbes.com/sites/markcancian/2020/09/18/will-dod-deploy-a--heat-ray-and-the-voice-of-god-against-demonstrators/)).
+
+**Mechanism contrast (repo discipline):** LRAD/AHD is **ordinary sound in air**. WaveBand MEDUSA Phase I language is **microwave auditory effect (MAE)** — a different physical channel. Conflating the nicknames across channels is a common **category error**; see also §8 (`MEDUSA_VS_ADS_LRAD_LINEAGE_QUESTION.md`).
+
+### 12.2 Targeted-individual / V2K discourse — **folk label, not a program name**
+
+Internet Archive and forum bundles sometimes tag material with **`voice of god` alongside `v2k`, `voice to skull`, `targeted individuals`** (see metadata string captured in `findings/investigation-dig/search-dig-lin1978-archive.json`). That is **community vocabulary**, not a DoD system-of-record designation.
+
+### 12.3 UK FOI / McMurtrey trail — **request title, not a verified weapon system name**
+
+`HEARING_IMPAIRED_DEEP_DIG_VII.md` cites a WhatDoTheyKnow request titled **“Use of voice of god weapon system”** as the provenance path for a **McMurtrey draft** attachment ([WhatDoTheyKnow](https://www.whatdotheyknow.com/request/use_of_voice_of_god_weapon_syste)). There, **“Voice of God” is the requester’s framing / misnomer**, not an indexed program identifier returned as a verified MoD equipment name in the sense of a stable procurement nomenclature.
+
+### 12.4 In-repo advocacy layer — **Mode label on MEDUSA, not primary text**
+
+`findings/03_Technology_Patents/35_MEDUSA_DUAL_USE_AND_NAVY_SBIR.md` labels a speculative operating mode as **“Individual targeted incapacitation / ‘voice of god’”** and ties it to the Navy’s **crowd-to-individual** language. That is **author synthesis** building on press/Sadovnik threads — useful as **hypothesis navigation**, but it must not be back-read as if it appeared on **`medusa-navysbir-wayback.html`**. For tier discipline, keep §11 primary text separate from Part 4 of file 35.
