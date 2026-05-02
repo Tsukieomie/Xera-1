@@ -274,3 +274,28 @@ This addendum records a Layer-5 catalog-side and Patent-Center-side probe driven
 - **Closure-target queue: unchanged in ranking; refined in operational specificity.** Target (a) remains the certified USPTO file wrapper via the Certified Copy Center (Patent Center IFW is empty for this filing date). Target (c)/(h) is now a single email inquiry to `kansascity.archives@nara.gov` requesting the file unit for `US 3,647,970` within ENTRY UD13W 12 / NAID 302050 / N1-241-10-1, Item 2. Target (b) (D-1 / NC1-241-76-01) is queued as Layer-6.
 
 Evidence rows E-A21 through E-A24 are recorded in `NARA_CATALOG_PROBE_LAYER5.md` § 6.
+
+### 12.8 Fifth-layer addendum (2026-05-02): Layer-5b workarounds — NARA AWS bulk export, USPTO IFW closure, new records class NAID 159071266
+
+This addendum records a Layer-5b set of workaround probes against the three Layer-5 access blocks. Companion file: `WORKAROUNDS_LAYER5B.md` (this directory). Adds rows **E-A25 through E-A27**.
+
+**Two blocks collapsed; one block confirmed closed.**
+
+1. **Block (1) Catalog API key requirement — collapsed for descriptive metadata.** The NARA AWS Open Data Registry mirror (`arn:aws:s3:::nara-national-archives-catalog`, region `us-east-2`, ~261 GB, biannual updates) provides keyless `--no-sign-request` access to all archival descriptions and authority records, including all 708 file units and 19 items inside NAID 302050 and all 174 file units inside NAID 159071266. The 2025 API-key requirement remains binding only for real-time interactive search and read-write workflow, not for descriptive-metadata bulk read. Layer-5b refines E-A23 accordingly.
+2. **Block (3) File-unit confirmation for `US 3,647,970` — bulk-export confirms zero catalog coverage.** All 708 file unit titles inside NAID 302050 were enumerated; **none** reference the band `#3,647,069 - 3,651,016` or any patent number in that band. The 19 items are all famous historical patent drawings (Zamboni, Strowger, Selden, Brownell, etc.) unrelated to the Flanagan band. The Kansas City email inquiry remains the only catalog-side path that can resolve file-unit presence; it must request the file under the entry-level identifier (UD13W 12), not under any NAID.
+3. **Block (2) Patent Center IFW empty — workaround does not exist.** All four documented USPTO public-data channels are closed for this filing date: PEDS sunsetted (DNS resolution failure); ODP returns HTTP 403 `Missing Authentication Token` on every endpoint; PPubs JSON returns 404 without a session; Wayback has no coverage of legacy PAIR routes. The certified-copy paper channel remains the only operational path for the prosecution file wrapper. The Google-mirrored primary PDF for `US 3,647,970` (542 KB, 6 pages) does close the question of whether the issued-patent face records sponsorship: **it does not** (no government-interest clause, no secrecy-rescission notice, no licensee statement, no defense-agency assignee).
+
+**New records class for the matrix — NAID 159071266 "Index to Patent Assignments by Government Licensees".**
+
+A previously-unprobed records class surfaced as a by-product of the bulk-export read. Series-level scope (verbatim from the bulk export): "This series consists of an index which documents the issuance of patent assignments to government licensees." The roster is alphabetical by licensee-name letter range, with separate alphabetic ranges for Abandoned Applications (3 file units) and Abandoned, Decated [sic], Plant, Etc. (3 file units), and explicitly indexes Bendix Aviation, Boeing, General Electric, GM, Hughes Aircraft, IBM, North American Aviation, Northern Ordnance, RCA, Raytheon, Sperry Rand, AT&T / Western Electric, Westinghouse, NASA Administrators (Webb, Fletcher), and the abandoned-applications brackets. This is the records class that would document any government licensee that took an assignment of `US 3,647,970` during or after the Apr 25 1969 secrecy-order period. The full structured roster is committed to `layer5b-data/NAID_159071266_assignment_index_file_units.csv`.
+
+The F file unit — **NAID 256511711, "Fiala, John P. and Barditch, Irving F. THRU Fletcher, James C., Admin of NASA"** — is the alphabetical bracket that would index Flanagan if any government licensee took an assignment of `US 3,647,970`. New target (i) in `ARCHIVAL_TARGETS_756124.md` § 1 records this as a Kansas City inquiry.
+
+**Net effect on the matrix:**
+
+- **Section 1, 3, 7 conclusions: unchanged.** Layer-5b is an access / records-class read, not an attribution read.
+- **Section 6 (records-schedule risk landscape): refined.** A new records class is added — NAID 159071266, alphabetical by licensee — that is the structurally-correct place to look for whether any defense entity took an assignment in the Flanagan invention. This sharpens the matrix's "highest-probability surviving record class" inventory: in addition to the granted-utility-patent-case-file series (NAID 302050) and the D-1 / NC1-241-76-01 national-security-application series, the licensee-assignment index (NAID 159071266) is now listed as an independent records-class probe target.
+- **Section 12.7 (Layer-5 access posture): refined.** E-A23 is partially refuted by E-A25 — the API-key requirement is binding only for real-time interactive use, not for descriptive-metadata bulk read.
+- **Closure-target queue: extended.** Adds target (i) (NAID 159071266 inquiry); updates target (a) and target (c)/(h) operational forms; deprioritizes the Catalog API key request.
+
+Evidence rows E-A25 through E-A27 are recorded in `WORKAROUNDS_LAYER5B.md` § 5.
