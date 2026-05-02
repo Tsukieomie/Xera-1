@@ -116,6 +116,18 @@ This is consistent with — and stronger than — the FY74 "halted" finding: by 
 
 **No reference in the entire WU 057 FY76 reference list cites Sharp, Sharp/Grove, or any speech/voice/auditory-perception work.** This is consistent across both the cited literature and the publications subsection. Frey appears only in his Annals NYAS 247 chapter (the same proceedings volume Sharp's group was published in for FY74-era work) and only on the "escape behavior" topic.
 
+### A.3.5 Negative full-volume string scan (FY76 Vol II OCR) — Justesen / Joseph C. Sharp
+
+**Corpus:** `ADA038320_FY76_Vol2_djvu.txt` (~61k lines), entire file (`rg` / workspace search, 2026-05-02).
+
+| Pattern | Result |
+|--------|--------|
+| `Justesen`, `Jusiesen`, `Jestesen` (case-insensitive) | **No matches** |
+| `Joseph C. Sharp` / `Joseph C\. Sharp` | **No matches** (other unrelated "Joseph" strings and pharma "Sharp" appear elsewhere in the volume) |
+| `Grove` outside Lenox/Gandhi citation lines | **No** — only **Grove, H.M.** on Lenox/Gandhi/Meyerhoff enzyme-inactivation references (~13593, ~14525, ~14582) |
+
+**Interpretation:** FY76 Vol II contains **no** OCR-recoverable mention of **D.R. Justesen**, **no** return of **Joseph C. Sharp** as a name string on the microwave WU 057 line, and **no** Tier-B "speech / nine words / voice-to-skull" lexicon in the WU 057 block (incidental "speech" in unrelated psychiatry work units is not microwave Tier B). This tightens the reading that **Tier B remains Justesen-anchored** against a stray APR name-drop.
+
 ---
 
 ## §A.4 Disambiguation: "Audiogenic Seizure" ≠ "Auditory Perception of Microwaves"
@@ -136,6 +148,8 @@ The §2.B blood-brain-barrier work in FY76 — co-conducted with K.J. Oscar (Ame
 - **Oscar, K.J., & Hawkins, T.D. (1977).** Microwave alteration of the blood-brain barrier system of rats. *Brain Research*, 126(2), 281–293. DOI [10.1016/0006-8993(77)90726-0](https://doi.org/10.1016/0006-8993(77)90726-0); PMID [861720](https://pubmed.ncbi.nlm.nih.gov/861720/). **Elsevier / ScienceDirect (PII `0006899377907260`):** [https://www.sciencedirect.com/science/article/abs/pii/0006899377907260](https://www.sciencedirect.com/science/article/abs/pii/0006899377907260)
 
 **Full-text access (2026-05-02):** Unauthenticated `curl` to ScienceDirect returns **HTTP 403** with **`cf-mitigated: challenge`** (Cloudflare), not article HTML or PDF. [Europe PMC](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:861720&resulttype=core&format=json) returns `hasPDF` = **N** and full-text availability **S** (subscription DOI only). [OpenAlex](https://api.openalex.org/works/https://doi.org/10.1016/0006-8993(77)90726-0) reports `is_oa` = **false**, `oa_status` = **closed**. Discussion, acknowledgments, and in-PDF references beyond Crossref-deposited metadata still require **licensed access** or a **user-supplied PDF** in the workspace.
+
+**Crossref reference metadata (2026-05-02):** `GET https://api.crossref.org/works/10.1016/0006-8993(77)90726-0` — `message.reference` contains **34** entries; concatenated scan of `article-title`, `journal-title`, `author`, and `unstructured` fields finds **no** **Sharp**, **Grove**, **Justesen**, **Walter Reed**, **WRAIR**, **speech**, **voice**, or **intelligib** strings.
 
 - This paper, and its follow-ons in the Oscar 1980-era Walter Reed Letterman/AFRRI documents, demonstrate that **WU 057's open output continued vigorously into the late 1970s — but along the BBB / dosimetry / behavioral-escape axes, not the auditory/speech axis.**
 

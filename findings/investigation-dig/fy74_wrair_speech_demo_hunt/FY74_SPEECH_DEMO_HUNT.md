@@ -28,6 +28,8 @@ This is the first time the FY74 Sharp/Grove Work Unit 057 narrative has been pul
 | ADA038319 (FY76 Vol 1) | 70,148 lines | TOC lists WU 057 at printed p. 979; **WU 057 body text is not in this volume** (same split as FY74). **WU 204** (selective breeding / Hunt principal, Hawkins associate) reports seizure-prone rats **used in several experiments to evaluate the CNS effects of microwave radiation** (`ADA038319_FY76_Vol1_djvu.txt` ~17854–17866) — institutional cross-link between microwave facility and audiogenic-seizure colony, **not** Tier-B speech. |
 | ADA038320 (FY76 Vol 2) | 61,150 lines | Full **WU 057** block under Hunt begins ~**13891** (investigators ~13900–13909); Progress §1 "Energy Absorption…" ~**13941**; duplicate WU 057 header + Literature Cited ~**14489–14558** (printed ~990–991). **No** Sharp or H. Mark Grove on the WU 057 roster; **Grove, H.M.** appears only on Lenox/Gandhi enzyme-inactivation citations in that reference list. |
 
+**Whole-volume FY76 Vol II OCR scan (2026-05-02):** `rg` over the entire `ADA038320_FY76_Vol2_djvu.txt` finds **no** `Justesen` (or obvious OCR corruptions), **no** `Joseph C. Sharp` string on the microwave line (other unrelated "Joseph" / pharma "Sharp" hits exist elsewhere in the volume), and **no** Tier-B speech lexicon in WU 057 beyond unrelated psychiatry "speech" hits. See `SHARP_GROVE_NEXT_PASS_THREAD_A_FY75_FY76.md` §A.3.5.
+
 ---
 
 ## 3. Work Unit 057 — Biological effects and hazards of microwave radiation (FY74)
