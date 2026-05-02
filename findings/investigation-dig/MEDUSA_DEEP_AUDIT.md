@@ -233,3 +233,36 @@ This section deepens `MEDUSA_TRANSITION_GAP_ANALYSIS.md` with **exact fields** p
 **String scan (negative):** `rg` over this HTML file for `MEDUSA`, `MAE`, `microwave auditory`, `auditory` (case-insensitive) → **no matches**.
 
 **Interpretation:** the **corporate-facing** acquisition narrative preserved here does **not** surface the Navy MEDUSA / MAE non-lethal wording at all. That is consistent with treating **SNC’s public press layer** as **imaging / radar / aperture** marketing, while the **MAE crowd-control narrative** lives on the **separate** `navysbirprogram.com` summary capture (`medusa-navysbir-wayback.html`). Do not merge the two into one “SNC admitted MEDUSA” sentence without a primary that explicitly does so.
+
+### 13.3 EPIC patent **US7841989** — USPTO full text in-repo (PDF + OCR lexical pass)
+
+This subsection grounds `MEDUSA_EPIC_CALIFORNIA_EVIDENCE_NOTE.md` §2.3 with a **reproducible primary pull** suitable for corpus audit (not reliance on mirrors alone).
+
+#### 13.3.1 Artifacts
+
+| Artifact | Role |
+| --- | --- |
+| `findings/investigation-dig/primary/US7841989_EPIC_patent_uspto.pdf` | Official USPTO image-PDF (**16 pp.**), fetched **2026-05-02** from `GET https://image-ppubs.uspto.gov/dirsearch-public/print/downloadPdf/7841989` (`Content-Type: application/pdf`). |
+| `findings/investigation-dig/primary/US7841989_EPIC_patent_uspto_ocr.txt` | Full-document OCR text (`pdftoppm` PNG @ 150 DPI, **`tesseract` eng** concatenated per page). **Hygiene:** the source PDF carries **no extractable text layer** (`pdftotext` output empty); OCR introduces character noise on headings and formulae — treat verbatim quotes from OCR as **best-effort** unless checked against the PDF raster. |
+
+**Note on Google Patents direct PDF shortcut:** `https://patents.google.com/patent/US7841989B2/pdf` returned **`text/html`** in this workspace (SPA shell ~141 KB), not a binary PDF; **USPTO image-PPUBS** is the stable machine pull used here.
+
+#### 13.3.2 Government support and stated mechanism (OCR-aligned)
+
+Federal clause (p. ~9 on USPTO facsimile, OCR extraction):
+
+> This invention was made with Government support under DOD Small Business Innovation Research (SBIR) Contract No. **M67854-04-C-1013** awarded by the **U.S. Marine Corps Systems Command.**
+
+Framing through the specification (same corpus): EPIC describes **non-destructive stun / interdiction** by **beamed RF** energy whose principal claimed coupling is **Lorentz force on ion currents in sensory / vestibular hair-cell cilia**, disrupting mechanical transduction and related electrochemistry → **disorientation, confusion, temporary incapacity** (“through walls” is claimed as an operational aspiration in the narrative block).
+
+Worked example in the illustrative hardware discussion (Fig. 11 schematic, OCR): example parameters cited include **carrier ~915 MHz**, **driving / modulation frequency ~300 Hz**, **~1.3 kW transmit power**, **parabolic antenna ~20 dB gain**, illustrative **hair-bundle power on target ~5 nW at ~10 m** (values read from patent body OCR; formulas/tables adjacent in the patent contain scaling discussion).
+
+Sensory wording that can be **mis-read** beside MAE in quick scans: dependent-claim language (OCR) states that random excitation of vestibular hair cells can yield sensations of **“intense wideband sound”** *together with* vestibular / visual mismatch disorientation — that is framed as **undecodable, confused sensory flooding**, **not** as **intelligible speech** or semantic messaging.
+
+#### 13.3.3 Negative lexical scan (full OCR file) vs MAE / MEDUSA / V2K-adjacent terms
+
+`rg` over `US7841989_EPIC_patent_uspto_ocr.txt`, case-insensitive, on a MAE-centric watchlist (`microwave auditory`, `Frey`, `thermoelastic`, `thermo acoustic`, thermo+acoustic compounds, **`MEDUSA`**, **`WaveBand`**, `Sadovnik`, `Manasson`, `Mob Excess`, `silent audio`, **`speech`**, **`voice`**, `intelligib`, semantic, conversational, **`skull`**) → **no hits**.
+
+Separate positive hits (**expected**, anatomy / mechanism vocabulary): **`vestibular`**, **`Lorentz`**, **`auditory`** (system / cortex pathway description), **`interdiction`**, **`M67854-04-C-1013`**, **`915 MHz`**.
+
+**Interpretation for §11 / MEDUSA corpus hygiene:** EPIC’s **published primary specification** reinforces a **distinct mechanism story** (**RF Lorentz-force sensory / vestibular disruption** plus **incoherent wideband-sound sensation** language) vs WaveBand MEDUSA’s **microwave auditory effect (MAE)** SBIR wording. OCR confirms **non-merger**: no lexical bridge to MAE nomenclature, MEDUSA branding, or intelligible-speech messaging in this patent instrument.
