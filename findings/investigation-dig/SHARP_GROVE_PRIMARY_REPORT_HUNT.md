@@ -221,6 +221,18 @@ The OpenCitations Index API requires **HTTPS + redirect follow** (`curl -L`); ba
 - **Negative (Crossref text layer):** **no** `Justesen` / *American Psychologist* / `30:391` / `speech` lemma match across **all** reference rows when searching the full JSON `reference` objects (not only `article-title`; many rows are empty strings in Crossref but carry no hidden Justesen key in this deposit).
 - **T2 read:** Lin’s **1980 IEEE review bibliography** (as deposited) **anchors mechanism** via Sharp **without** listing the psychology-article speech channel — parallel to **Guy 1975** (§1.36) and consistent with Lin 1978’s in-text “(see Justesen, 1975)” pattern living in **prose/bibliography elsewhere**, not necessarily in every Crossref-parsed reference row for every Lin article in the COCI pipeline.
 
+### 1.38 Outgoing-reference APIs and Lin 1980 **OpenAlex graph** — **Justesen absent** machine-check (2026-05-02)
+
+**Justesen → references (OpenCitations):** `GET https://opencitations.net/index/api/v2/references/doi:10.1037/0003-066x.30.3.391` returned **`[]`** in this workspace. COCI openly prioritizes citation *edges* reconstructed from PubMed/OpenCitations ingestion; APA / psychology journals are **thin** on outgoing-reference coverage compared with biomedicine. **Do not** treat an empty OC `references/` payload as proof that Justesen 1975 has no footnotes in print.
+
+**Lin 1980 → OpenAlex `referenced_works`:** work [`https://doi.org/10.1109/proc.1980.11583`](https://doi.org/10.1109/proc.1980.11583) ([`W2026834927`](https://openalex.org/W2026834927)) lists **34** referenced-work IDs. Dereferencing each ID (with two **404** ids at list tail — OpenAlex orphan stubs) shows **Sharp 1974** present as *Generation of Acoustic Signals by Pulsed Microwave Energy (Letters)*, DOI [`10.1109/TMTT.1974.1128293`](https://doi.org/10.1109/TMTT.1974.1128293). **Justesen 1975** OpenAlex id [`W4213062251`](https://openalex.org/W4213062251) (**Microwaves and behavior.**) is **not** an element of `referenced_works` for Lin 1980.
+
+**Cross-check:** the only `10.1037/...` edge resolved in those 34 is **Justesen *et al.* 1975 *J Comp Physiol Psychol*** on rat avoidance ([`10.1037/h0076662`](https://doi.org/10.1037/h0076662)) — behavioral microwave work, **not** the *American Psychologist* speech-demo article.
+
+**Europe PMC citation tools on PMID 1137231:** REST paths such as `/article/MED/1137231/citations` and `/linkages/MED/1137231` returned **404** here; searchable core metadata for Justesen is reachable via **`EXT_ID:1137231 AND SRC:MED`**, but **automated citation fan-out from Europe PMC remains blocked** in this session for PMID 1137231.
+
+**Synthesis:** across **Crossref reference strings** (§1.37), **OpenAlex dereferenced reference graph**, and **COCI incoming-only strength** for APA DOIs, the **IEEE-side canonical review** (Lin *Proc.* 1980) **does not** attach the psychology-journal Sharp/Grove speech anchor in machine-readable bibliography layers — sharpening the interpretation that **speech-channel lore stayed psychology-corpus-local** unless a paper explicitly bridged it (cf. **Chou** Crossref bundle in §1.35).
+
 ### 1.4 ARPA / Pandora institutional record
 
 The institutional record on Project Pandora and Project Bizarre (the ARPA
