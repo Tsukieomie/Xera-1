@@ -53,19 +53,41 @@ FY74 narrative describes **modulated microwaves**, **“hearing effect,”** **�
 
 ---
 
-## 5) Where to read next
+## 5) FY76 WU 057 (July 1975 – June 1976) — **Grove off roster**; no microwave speech line
+
+**Source:** WRAIR Annual Progress Report **FY76 Vol 2**, Internet Archive [DTIC_ADA038320](https://archive.org/details/DTIC_ADA038320), machine-readable `ADA038320_FY76_Vol2_djvu.txt` (this directory; ~61k lines).
+
+**Work Unit 057 block** (OCR lines ~13891–13910): same project family **`3A762758A824`**, Task 02 Microwave Radiation, title **“Biological effects and hazards of microwave radiation.”**
+
+| Field | FY76 text |
+|--------|-----------|
+| **Principal** | **Edward L. Hunt, B.A.** (dosimetry / calorimetry successor line per `SHARP_GROVE_OFF_PROGRAM_ANALYSIS.md`) |
+| **Associates** | MAJ Lawrence E. Larsen, MC; John H. Jacobi, M.Sc.; **T. Daryl Hawkins**, M.A.; Peter V.K. Brown, B.S.; John F. Schrot, Ph.D.; Sandra H. Githens, B.S. |
+| **Sharp** | **No** “Sharp” string in a repo `rg` pass of this volume’s WU 057 narrative region |
+| **H. Mark Grove** | **Not** listed on the FY76 WU 057 investigator roster (Grove **does** appear elsewhere in the volume on **Lenox/Gandhi/Meyerhoff** enzyme-inactivation co-authorship lines — different co-author string, not WU 057 staff) |
+
+**Speech / “voice” in the FY76 volume:** `rg` hits on “speech” / “voice” in this file are **psychoacoustic literature** (Wood, Studdert-Kennedy, etc.) and **unrelated** “Groves, M.G.” veterinary citations — **not** the FY74 “modulated microwave signals / hearing effect” subsection and **not** a Tier-B microwave-word narrative.
+
+**Conclusion:** one fiscal year after the FY74 window that contained Justesen’s 28 Sept 1973 date, **Army-internal WU 057 narrative under Hunt does not carry Sharp or Grove on the roster** and does **not** introduce a documented microwave speech-transmission program element. This is **consistent with** the off-program / non-formalization reading: Tier B remains **Justesen-anchored**.
+
+---
+
+## 6) Where to read next
 
 | Topic | File |
 |--------|------|
 | Project-number pair (747684 + 758136 + 1J662712AJ21) | `NTIS_PROJECT_1J662712AJ21_PRIMARY_TEXTS.md` |
 | FY74 line-by-line | `FY74_SPEECH_DEMO_HUNT.md` |
+| **FY76 Vol 2 full OCR (WU 057 Hunt era)** | `ADA038320_FY76_Vol2_djvu.txt` |
 | Round-9 institutional sequencing | `DEEPER_DIG_9_ADDENDUM.md` |
 | Off-program vs hidden-program framing | `../SHARP_GROVE_OFF_PROGRAM_ANALYSIS.md` |
 | Tier table | `../../../V2K_EVIDENCE_MATRIX.md` (speech-evidence trace updated 2026-05-02 for project `1J662712AJ21` + AD-A090426 status) |
 | AD758136 hunt closure | `../ad758136_hunt/AD758136_HUNT_LOG.md` |
 
+**Note on “Xera”:** there is **no `xera` CLI** in this cloud workspace. This repository **is** [Tsukieomie/Xera-1](https://github.com/Tsukieomie/Xera-1). Older investigation notes refer to a local path `/home/user/workspace/xera1/` for sidecar extracts; the **same** DTIC mirrors (e.g. `DTIC_ADA038320`) are pulled here under `fy74_wrair_speech_demo_hunt/` for continuity.
+
 ---
 
-## 6) One-sentence brief
+## 7) One-sentence brief
 
-**H. Mark Grove** is well attested as a **WRAIR microwave bioeffects engineer** (FY74 roster; March 1973 NTIS co-authorship; 1974 Lin co-authorship) on the **same MERADCOM project number** that carried a **1972 RF speech-induction negative result** (Frey et al.); the **nine-word “speech”** claim remains **Tier B** and **Justesen-anchored**, not duplicated in FY74 APR or Hawkins/Grove 1973 NTIS body text.
+**H. Mark Grove** is well attested as a **WRAIR microwave bioeffects engineer** (FY74 roster; March 1973 NTIS co-authorship; 1974 Lenox/Gandhi co-authorship) on the **same MERADCOM project number** that carried a **1972 RF speech-induction negative result** (Frey et al.); **FY76 WU 057 under Hunt lists neither Sharp nor Grove on staff**; the **nine-word “speech”** claim remains **Tier B** and **Justesen-anchored**, not duplicated in FY74–FY76 APR narrative or Hawkins/Grove 1973 NTIS body text.

@@ -43,8 +43,20 @@
 
 ---
 
-## 3) Cross-links
+## 3) FY76 WRAIR APR Vol 2 (WU 057 under Hunt) — context only
+
+| Field | Value |
+|--------|--------|
+| **IA item** | [DTIC_ADA038320](https://archive.org/details/DTIC_ADA038320) |
+| **Local plain text** | `ADA038320_FY76_Vol2_djvu.txt` (this directory) |
+
+WU 057 in FY76 lists **Edward L. Hunt** as Principal; **Sharp** and **H. Mark Grove** are **not** on the WU 057 investigator roster in the extracted block (see `GROVE_AND_SPEECH_DEEP_SYNTHESIS.md` §5). Not part of the NTIS `1J662712AJ21` pair but **same WU / project family** narrative for post-1974 continuity.
+
+---
+
+## 4) Cross-links
 
 - `../ad758136_hunt/AD758136_HUNT_LOG.md` — hunt status updated 2026-05-02 for IA full-text under `fy74_wrair_speech_demo_hunt/`
 - `DEEPER_DIG_9_ADDENDUM.md` — round-9 narrative tying AD-747684 + AD-758136 + project number
 - `../AD_A090426_REFERENCE_CHAIN_EVIDENCE.md` — Oscar 1980 reference chain
+- `GROVE_AND_SPEECH_DEEP_SYNTHESIS.md` — Grove vs speech consolidated brief (includes FY76 §5)
