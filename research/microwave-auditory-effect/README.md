@@ -36,6 +36,11 @@ Research compiled May 2, 2026, tracing the citation chain from the 1973 Sharp & 
 | `dhs_pulsed_rf_device.md` | The DHS ~$15M Russian-origin pulsed-RF device acquisition (late 2024 / disclosed January 2026); Sasha Ingber Substack scoop, CNN/CBS/60 Minutes follow-ups |
 | `havana_act_compensation.md` | The HAVANA Act 2021 (PL 117-46) compensation framework — payment tiers, approval rate disparities (CIA 21% vs. HAVANA Act 67%), institutional contradiction |
 | `akwei_vs_mae_evidence.md` | Cross-reference of John St. Clair Akwei's NSA complaint technology claims against the MAE evidence base — what's physically possible, what's unsupported, what has partial historical traction |
+| `mark_lenzi_guangzhou.md` | The Guangzhou 2017 cluster and Mark Lenzi's role as the first State Department AHI victim to go fully on the record — medical course, retaliation litigation, congressional testimony, public advocacy |
+| `operation_reduktor_soviet_rf.md` | Critical assessment of "Operation Reduktor" and the broader Soviet/Russian non-thermal RF / psychotronic research record from the 1960s through 2026 — what's documented, what's mythologized |
+| `ratcliffe_ic_retraction.md` | John Ratcliffe at CIA, Tulsi Gabbard at ODNI, the December 2024 HPSCI findings, the January 2025 ODNI partial reversal, and the March 2026 reported retraction agreement on the 2023 ICA |
+| `ghost_murmur_remote_sensing.md` | The April 2026 "Ghost Murmur" disclosure (NV-diamond quantum magnetometry for cardiac detection) and its relationship — and notable distance — from "remote neural monitoring" claims |
+| `akwei_mae_full_crossref.md` | Comprehensive cross-reference document mapping every specific technological claim in Akwei's 1992 NSA complaint against the MAE evidence base, V2K matrix, and Havana Syndrome record |
 
 ## Key facts established
 
@@ -92,6 +97,29 @@ Research compiled May 2, 2026, tracing the citation chain from the 1973 Sharp & 
 
 29. **HAVANA Act of 2021 (PL 117-46) signed October 8, 2021** — established a tiered compensation framework: Base $140K–$153K, Base+ $187K–$204K (FY2024 figures).
 30. **Approval-rate disparity:** HAVANA Act ~67% approval vs. parallel CIA workers' compensation ~21% approval — an institutional contradiction (one arm of government compensates, another denies).
+
+### On the on-record victim voices
+
+31. **Mark Lenzi (DSS, Guangzhou 2017–):** First State Department AHI patient to go fully on-record. UPenn imaging participant. Filed federal whistleblower / retaliation suit. Has consistently named foreign-actor RF as his belief about cause; sharply critical of the 2023 ICA and of State Department early-period handling.
+
+### On the institutional reversal mechanics
+
+32. **HPSCI CIA Subcommittee December 2024 report:** Found 2023 ICA was "compartmented" away from analysts who would have dissented; characterized as "predetermined." Released in unclassified form; classified annex remains.
+33. **John Ratcliffe (CIA Director, confirmed Jan 23, 2025):** On record committing CIA to revisit the 2023 ICA. As of May 2026: no formal retraction document has been published.
+34. **Tulsi Gabbard (DNI, confirmed Feb 12, 2025):** Has publicly questioned the 2023 ICA's analytic integrity. Initiated the ODNI-level review that ran in parallel with HPSCI's.
+35. **Greg Edgreen (DIA, retired):** The original DIA assessment under his leadership found Russian foreign-actor involvement likely; this was overridden in the 2023 ICA. He has spoken on record (60 Minutes, Spiegel) since 2024.
+
+### On capability vs. mechanism (Ghost Murmur)
+
+36. **April 2026 disclosure:** CIA used "Ghost Murmur" — reportedly NV-diamond quantum magnetometry plus AI noise filtering — to locate a downed F-15 weapons systems officer in southern Iran. Lockheed Martin Skunk Works developer; first known operational use.
+37. **Physics dispute:** The reported ~64 km / 40-mile range is ~10¹⁰ below known physical limits for cardiac magnetic detection. Multiple physicists (Wikswo, Roth, Orzel) have argued the disclosure is partially misdirection, with the actual locating method involving the airman's CSEL beacon.
+38. **Implication for RNM:** Ghost Murmur detects CARDIAC magnetic fields, which are ~1000× stronger than neural (MEG) signals. If detecting cardiac at distance is at the edge of physics, neural decoding at distance is far past it. The capability validates the *category* of "passive remote bioelectromagnetic detection" that Akwei flagged in 1992, but does not validate his specific RNM / synthetic-telepathy claims.
+
+### On Operation Reduktor
+
+39. **The name's provenance is suspect.** "Operation Reduktor" appears almost exclusively in Western secondary literature (1980s–2000s non-lethal-weapons polemics) and is not robustly attested in Russian-language primary sources or declassified U.S. intelligence assessments.
+40. **Documented Soviet research existed** (Kholodov microwave neuroscience; Smirnov psychocorrection; LIDA device) but the gap between "research interest" and "deployable weapon" was as wide for the Soviets as for the U.S.
+41. **Cheryl Rofer's critique applies:** Much of the Western Operation Reduktor / psychotronics literature was source-amplified by U.S. defense contractors seeking funding, then recycled into TI / V2K narratives without methodological scrutiny.
 
 ## Citation chain summary
 
