@@ -95,3 +95,73 @@ A second recurring follow-up is whether Clint McLean's Havana / Hodgkin-Huxley m
 ## 10) Contemporaneity context: Army CALL "voice to skull devices" thesaurus entry
 
 The Army Center for Army Lessons Learned (CALL) Thesaurus "voice to skull devices" entry — preserved by FAS at <https://sgp.fas.org/othergov/dod/vts.html>, original CALL URL `http://call.army.mil/products/thesaur_e/00016275.htm`, broader term "nonlethal weapons" — carries a last-reviewed date of **25 March 2004**, which falls inside the MEDUSA Phase I performance period **19 November 2003 — 19 May 2004**. This is contemporaneous **terminology + prototype-development** overlap inside the early-2000s DoD non-lethal-weapons ecosystem. It strengthens T3 provenance only; it does not upgrade T2 (semantic speech) or T4 (deployment/attribution). The 2008 Phys.org / Wired / New Scientist coverage cluster is a public-visibility resurfacing event, not documented program discontinuation. See `CALL_THESAURUS_MEDUSA_CONTEMPORANEITY_NOTE.md` and `v2k-evidence-matrix.md` Version 38.
+
+## 11) Primary-page deep read — `medusa-navysbir-wayback.html` (Wayback 2008-04-09)
+
+This section is a **line-by-line discipline pass** on the archived Navy SBIR **Phase I Summary Report** page mirrored in-repo. It does not add new URLs; it constrains how far primary language can be pushed.
+
+### 11.1 Frozen bibliographic header (award block)
+
+From the HTML award table (verbatim strings, punctuation as captured):
+
+| Field | Value in mirror |
+| --- | --- |
+| Page title | `Phase I Summary Report` |
+| Government contact | Mr. George Gibbs (`george.gibbs@usmc.mil`) |
+| Contractor POC | Dr. Lev Sadovnik (`lsadovnik@waveband.com`) |
+| Firm | WaveBand Corporation, 17152 Armstrong Avenue, Irvine, CA 92614-5718 |
+| Contract # | `M67854-04-C-1012` |
+| Topic | `N03-163` |
+| Solicitation | `03.2` |
+| SYSCOM | `MARCOR` |
+| Award amount | `99965.00` |
+| Phase | `I` |
+| Program | `Navy SBIR` |
+| Start / End Date | `11/19/2003 - 05/19/2004` |
+| FY Reported | `2004` |
+| Title | `Remote Personnel Incapacitation System` |
+
+**Interpretation:** six-month Phase I, **USMC SYSCOM** channel, **under $100k** — consistent with breadboard risk reduction, not a program-of-record procurement.
+
+### 11.2 Objective paragraph — acronym, mechanism, phenomenology (not speech)
+
+The objective `<span>` text (Wayback capture) defines MEDUSA and ties it to MAE. Notable details:
+
+- **Acronym is explicit:** *"MEDUSA (Mob Excess Deterrent Using Silent Audio)"* — the word **"silent"** here is **MAE / internal-sensation framing**, not a claim that the device is silent to bystanders in all modes; the same paragraph still describes **microwave irradiation** and **auditory sensation**.
+- **Mechanism claim:** *"well established microwave auditory effect (MAE)"* and *"strong sound sensation in the human head"* under *"specifically selected microwave pulses of low energy"*.
+- **Operational verbs:** *"discomfort"*, *"deterring personnel"*, *"temporarily incapacitating particular individuals"* — **aversive / incapacitation** intent, not **semantic communication** intent.
+
+**OCR/typography in government HTML:** the mirror reads *"The main goal of the Phase I project **wad** to design…"* — almost certainly **"was"**; do not treat the typo as substantive.
+
+### 11.3 Results paragraph — five self-reported bullets (prototype, not field)
+
+The Phase I results list is only:
+
+1. An operating frequency was chosen  
+2. Hardware requirements were established (commercial magnetron, high-voltage pulse former)  
+3. Hardware was designed and built  
+4. Power measurements; pulse parameters confirmed  
+5. **Experimental evidence of MAE was observed**
+
+**Load-bearing negative:** there is **no** separate bullet for human-subject testing at range, crowd trials, **intelligibility metrics**, **word error rate**, **deployment**, or **transition to Phase II**. Evidence grade stays **contractor Phase I self-report** (Moderate confidence for "something was built and MAE was seen in the lab sense of the summary," per §5).
+
+### 11.4 "Potential Applications and Benefits" — **requirements language**, not demonstrated capability
+
+The benefits paragraph mixes **stated use cases** (perimeter protection, hearing-impaired assistive communication, law enforcement / military crowd control) with a **future-tense specification block:** *"The system **will**: be portable, require low power, … be able to **switch from crowd to individual coverage**, …"*.
+
+**Discipline point:** in acquisition grammar, this reads like **desired system attributes** copied from a solicitation or internal concept brief — **not** outcomes demonstrated inside the six-month Phase I window. Treating that sentence as proof of built hardware capability would be **tier collapse** (requirements text → T4). It remains **T3 / intent** unless a separate test report is produced.
+
+### 11.5 Tier-B lexical scan on the primary page body
+
+A case-insensitive search of `medusa-navysbir-wayback.html` for: `speech`, `intelligib`, `word`, `voice`, `semantic`, `conversation` → **no matches** in the objective/results/benefits spans.
+
+**Conclusion:** the **archived Navy SBIR summary page itself** does **not** assert Tier-B **conversational microwave speech**; press and secondary narratives are where that escalation usually enters. Repo advocacy file `findings/03_Technology_Patents/35_MEDUSA_DUAL_USE_AND_NAVY_SBIR.md` may **infer** operational bridges; this audit file stays bound to **what the primary mirror text says**.
+
+### 11.6 Tight coupling back to EPIC / `N03-163` (continuation hygiene)
+
+Combine §11 with `MEDUSA_TRANSITION_GAP_ANALYSIS.md`:
+
+- **EPIC (Invocon)** shows **Phase I → Phase II** under bulk-row topic code **`N03-163`** (`M67854-05-C-6509`).
+- **MEDUSA (WaveBand)** shows **Phase I only** at `M67854-04-C-1012` with topic **`N03-163`** on the summary page but **topic code blank** in the SBIR bulk row used in the gap analysis.
+
+So: **shared topic code on paper does not equal same engineering line.** Safe sentence: *Open SBIR bulk + archived summary support a WaveBand MEDUSA Phase I MAE prototype and a separate Invocon EPIC line with visible Phase II; they do not, in this corpus, merge into one transitioned MEDUSA product record.*
