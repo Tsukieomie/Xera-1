@@ -159,6 +159,44 @@ APA’s Crossref deposit for [`10.1037/0003-066X.30.3.391`](https://doi.org/10.1
 
 **Negative control:** none of these six cite-by edges, inspected at title + (for *Science*) full Crossref references, substitutes for **Lin 1978**-style bibliography closure of **T2** (intelligible speech under controlled replication).
 
+### 1.36 Complement — who cites **Sharp/Grove/Gandhi (1974 IEEE T-MTT)** and whether they bridge to **Justesen** (2026-05-02)
+
+Symmetric to §1.35: if a later paper cited the **mechanism letter** and **independently documented** the Sharp/Grove **speech** demonstration, that would narrow T2. OpenAlex work ID [`W2089706740`](https://openalex.org/W2089706740) (*Generation of Acoustic Signals by Pulsed Microwave Energy*, DOI [`10.1109/TMTT.1974.1128293`](https://doi.org/10.1109/TMTT.1974.1128293)) lists **`cited_by_count: 23`**. Enumerated `filter=cites:W2089706740` (OpenAlex query, `per_page=50`):
+
+| Year | Citing work (short) | DOI |
+| --- | --- | --- |
+| 1975 | Microwave-induced acoustic effects in mammalian auditory systems and physical materials* (Guy *Ann. N.Y. Acad. Sci.* proceedings line) | [`10.1111/j.1749-6632.1975.tb35996.x`](https://doi.org/10.1111/j.1749-6632.1975.tb35996.x) |
+| 1975 | Sensation and Perception of Microwave Energy (Guy book chapter) | [`10.1007/978-1-4684-0760-0_9`](https://doi.org/10.1007/978-1-4684-0760-0_9) |
+| 1977 | Further studies on the microwave auditory effect | [`10.1109/tmtt.1977.1129245`](https://doi.org/10.1109/tmtt.1977.1129245) |
+| 1977 | On microwave-induced hearing sensation | [`10.1109/tmtt.1977.1129167`](https://doi.org/10.1109/tmtt.1977.1129167) |
+| 1977 | Single auditory unit responses … pulsed microwave radiation | [`10.1016/0006-8993(77)90735-1`](https://doi.org/10.1016/0006-8993(77)90735-1) |
+| 1977 | Theoretical analysis of acoustic signal generation… | [`10.1109/tmtt.1977.1129246`](https://doi.org/10.1109/tmtt.1977.1129246) |
+| 1977 | Theoretical calculation of frequencies and thresholds … *Radio Science* | [`10.1029/rs012i06sp00237`](https://doi.org/10.1029/rs012i06sp00237) |
+| 1978 | Mammalian auditory responses to 3.0 GHz microwave pulses | [`10.1109/tbme.1978.326343`](https://doi.org/10.1109/tbme.1978.326343) |
+| 1979 | Holographic assessment of a hypothesized microwave hearing mechanism (Frey *Science*) | [`10.1126/science.482939`](https://doi.org/10.1126/science.482939) |
+| 1980 | *Response*: Holographic assessment of microwave hearing (Frey/Coren *Science* letter) | [`10.1126/science.209.4461.1144`](https://doi.org/10.1126/science.209.4461.1144) |
+| 1980 | Alterations in activity at auditory nuclei… | [`10.1016/0006-8993(80)90204-8`](https://doi.org/10.1016/0006-8993(80)90204-8) |
+| 1980 | The microwave auditory phenomenon (Lin *Proc. IEEE*) | [`10.1109/proc.1980.11583`](https://doi.org/10.1109/proc.1980.11583) |
+| 1981 | Field-induced forces at dielectric interfaces … *Bull. Math. Biol.* | [`10.1007/bf02459430`](https://doi.org/10.1007/bf02459430) |
+| 1981 | Field-induced forces … *Math. Biosci.* | [`10.1016/s0092-8240(81)90003-3`](https://doi.org/10.1016/s0092-8240(81)90003-3) |
+| 1982 | Biological effects and medical applications… *IEEE T-MTT* tutorial | [`10.1109/tmtt.1982.1131332`](https://doi.org/10.1109/tmtt.1982.1131332) |
+| 1988 | Microwave-induced auditory effect in a dielectric sphere | [`10.1109/22.6090`](https://doi.org/10.1109/22.6090) |
+| 1988 | The bioelectromagnetics research laboratory, University of Washington… | [`10.1002/bem.2250090203`](https://doi.org/10.1002/bem.2250090203) |
+| 1995 | Effects of microwave radiation exposure on behavioral performance in nonhuman primates | [`10.1007/978-1-4899-0945-9_26`](https://doi.org/10.1007/978-1-4899-0945-9_26) |
+| 2007 | Radio frequency electromagnetic fields (*Prog. Brain Res.* chapter) | [`10.1016/s0079-6123(06)62007-4`](https://doi.org/10.1016/s0079-6123(06)62007-4) |
+| 2016 | Photoacoustics: a historical review | [`10.1364/aop.8.000586`](https://doi.org/10.1364/aop.8.000586) |
+| 2018 | Sensing magnetic fields with magnetosensitive ion channels | [`10.3390/s18030728`](https://doi.org/10.3390/s18030728) |
+| 2021 | Mechanisms for microwave to acoustic energy conversion | [`10.1007/978-3-030-64544-1_7`](https://doi.org/10.1007/978-3-030-64544-1_7) |
+| 2021 | Applied Aspects and Applications | [`10.1007/978-3-030-64544-1_10`](https://doi.org/10.1007/978-3-030-64544-1_10) |
+
+**Overlap with §1.35 (Justesen → cited-by):** **Chou et al. 1980 *Science*** and the **2021 book chapter** [`10.1007/978-3-030-64544-1_10`](https://doi.org/10.1007/978-3-030-64544-1_10) appear in **both** directions — expected, because Chou 1980 cites **both** anchors in Crossref (§1.35). The rest of the Sharp-1974 citing set is **mechanism / dosimetry / neurophysiology / reviews**, not secondary speech-protocol deposits.
+
+**Spot check — Guy, *Sensation and Perception of Microwave Energy* (1975 chapter):** Crossref reference list ([`10.1007/978-1-4684-0760-0_9`](https://doi.org/10.1007/978-1-4684-0760-0_9)) contains an explicit bibliographic line for **Sharp, Grove, Gandhi** *IEEE Trans. Microwave Theory Tech.* **MTT-22 (1974) 583** (keyword scan of **49** reference rows: **no** `Justesen` / *American Psychologist* / `speech` lemma match in reference strings). So a **first-hand Guy-line** citation of the mechanism letter **did not**, in the deposited metadata, require bundling the psychology-article speech channel in the same reference table.
+
+**Spot check — Frey & Coren, *Science* “Response: Holographic assessment…” (1980):** DOI [`10.1126/science.209.4461.1144`](https://doi.org/10.1126/science.209.4461.1144) cites Frey’s own *Science* holography line; Crossref **`reference` list (11 rows)** shows **no Justesen** and **no Sharp** string in the deposit — it is an **exchange within the holographic-mechanism thread**, not an extension into speech psychophysics.
+
+**T2 net:** the **1974 letter** is cited widely for **acoustic / thermoelastic / neural** MAE work; **none** of the 23 OpenAlex-indexed citing edges, on title inspection, presents as a **protocol publication** for the nine-word demonstration. The **Guy 1975 chapter** reference deposit is a concrete example of **Sharp without Justesen** at the bibliography layer.
+
 ### 1.4 ARPA / Pandora institutional record
 
 The institutional record on Project Pandora and Project Bizarre (the ARPA
