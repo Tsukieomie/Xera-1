@@ -268,6 +268,61 @@ A small but non-zero probability remains that:
 
 ---
 
+## Supplement (2026‑05‑03): Was Justesen “questioned” (post‑publication) specifically about Sharp/Grove / Note 2?
+
+This supplement answers whether **any searchable record shows Justesen formally challenged—in print exchanges, APA correspondence, citations-as-rebuttal, or hearings—specifically over the Sharp/Grove personal-communication passage** (“Note 2,” 28 Sep 1973).
+
+### A. Peer review / manuscript critique (pre-publication)—documented only as acknowledgments
+
+The Glaser-hosted full-text PDF of Justesen 1975 (*Microwaves and behavior*) confirms **only generic manuscript criticism** in the acknowledgement block—not a named debate over Sharp/Grove:
+
+- **E. L. Wike** and **C. L. Sheridan**, “For a critical reading.”
+- **John Osepchuk** (Raytheon), “…for his **searching criticism** of the manuscript; **our opinions differ**, **his advice is appreciated**.”
+
+Source PDF (same mirror already cited §5): [`https://zoryglaser.com/wp-content/uploads/2020/05/MICROWAVES-AND-BEHAVIOR.pdf`](https://zoryglaser.com/wp-content/uploads/2020/05/MICROWAVES-AND-BEHAVIOR.pdf). Plain `pdftotext` on that PDF confirms the verbatim lines above.
+
+**Interpretation hygiene:** acknowledgement text does **not** state which passages Osepchuk disputed (dosimetry, thermoregulation rhetoric, citations, Sharp/Grove, etc.). It is therefore **weak evidence** that “Justesen was questioned about Sharp/Grove explicitly”; it **is** evidence that Raytheon-side technical pushback existed **on some part** of the manuscript before print.
+
+### B. APA *American Psychologist* letters / errata (post‑publication)
+
+Per §4.2 item 5, **no located** follow‑up letter, erratum, or correction in *American Psychologist* (or companion commentary adding protocol detail). This pass **does not revise** that negative finding.
+
+### C. Indexed “who cites Justesen 1975?” sweep—no Sharp/Grove debunk surfaced in abstracts
+
+Bibliographic duplication check:
+
+| Index | Snapshot | Indexed citing count / note |
+| --- | --- | --- |
+| Crossref (`10.1037/0003-066X.30.3.391`) | `2026‑05‑03` | **`is-referenced-by-count: 6`** |
+| OpenAlex **`W4213062251`** | same | **`cited_by_count: 6`** |
+
+OpenAlex enumerated citing works (**same six**):
+
+1. [10.1029/rs012i06sp00173](https://doi.org/10.1029/rs012i06sp00173)—lymphocyte microwave morphology (Radio Science)—Crossref **`reference`** includes Justesen APA DOI.
+2. [10.1007/978-3-030-64544-1_10](https://doi.org/10.1007/978-3-030-64544-1_10)—Springer handbook chapter (bundles Sharp + Justesen in refs per prior hunt).
+3. [10.1029/rs012i06sp00073](https://doi.org/10.1029/rs012i06sp00073)—ectothermia / microwave dosimetry rodent study—Crossref refs include Justesen APA DOI; OpenAlex rebuilt abstract contains **no** Sharp/speech lexical hits.
+4. [10.2466/pms.1986.62.3.831](https://doi.org/10.2466/pms.1986.62.3.831)—behavioral thermoregulation rats.
+5. [10.1126/science.7403877](https://doi.org/10.1126/science.7403877)—Chou *et al.* *Science* “Holographic assessment…” (physical MAE assessment; cites Justesen 1975 alongside Sharp mechanism paper—see §1.35 in `SHARP_GROVE_PRIMARY_REPORT_HUNT.md`).
+6. [10.1029/RS012i003p00355](https://doi.org/10.1029/RS012i003p00355)—**Justesen 1977** *Radio Science* “Diathermy versus…”—**same author** cites his own 1975 APA piece (Crossref `reference` includes `10.1037/0003-066X.30.3.391`). This is continuity / terminology argumentation, **not** an outsider’s interrogation of Note 2.
+
+**Europe PMC oddity:** query `REFERENCES:1137231` returned exactly **one** hit whose topic was unrelated leukaemia/cell-biology (**false positive / bad reference edge**)—not relied on here.
+
+### D. Regulatory / critique literature hooks not executed (blocked)
+
+A natural place to look for methodological attack on overstated behavioral claims would be Heynick‑style USAFSAM critiques (**e.g. DTIC ADA183672**) or COMAR-era COM documents. **`curl https://apps.dtic.mil/sti/tr/pdf/ADA183672.pdf`** returned plaintext **`Request Blocked`** in-session (no OCR pass). Treat as **unverified** pending user-side PDF or authenticated mirror.
+
+### E. Bottom line on “was he questioned?”
+
+| Mechanism | Found? |
+| --- | --- |
+| **Formal post‑publication APA retraction / Letters to Editor on Sharp&Grove** | **No** in repo + Crossref/OpenAlex corpus above |
+| **Named criticism of *manuscript*** (could include Sharp section) | **Yes—Osepchuk + Wike/Sheridan** (acknowledgments only; **topic unspecified**) |
+| **Citing literature as implicit debunk** of Note 2 | **Not evident** among the **six** indexed citing works via abstract/title skim + Crossref bibliography checks (Chou cites both but does not replicate speech experiment) |
+
+**Net:** There is **no located print record** stating “Justesen exaggerated Sharp/Grove” or documenting a **focused** exchange solely on Note 2. What **does** exist is **standard acknowledgment of industrial peer pushback** (Osepchuk / Raytheon) with **dissent signaled in general terms**, plus a **thin** formal citation aftermath that **never forces** Sharp/Grove speech into a disputed-results column.
+
+---
+
 ## Appendix: Key Factual Corrections from This Investigation
 
 1. **Death date:** Justesen died November 9, 2014 (not 2004 as stated in task brief). He was 84, born 1930.
