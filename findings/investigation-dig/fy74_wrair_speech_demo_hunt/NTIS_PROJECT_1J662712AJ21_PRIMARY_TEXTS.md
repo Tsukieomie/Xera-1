@@ -19,7 +19,7 @@
 
 **Abstract (djvu extract, lines ~189–199):** two major efforts — (1) **lethal** effects of 3000 MHz in rat; (2) **behavioral performance decrements** vs wavelength and power. No speech / voice / intelligibility study described in the abstract.
 
-**Quick negative grep (case-insensitive) on the local file:** no matches for `speech`, `voice`, `auditory`, `hearing`, `word`, `Frey` in the OCR corpus (same negative pattern as the `_deeper_dig_pass2/AD758136_djvu.txt` duplicate).
+**Quick negative grep (case-insensitive) on the local file:** no matches for `speech`, `voice`, `auditory`, `hearing`, or `word` in the OCR corpus; no **`Frey`** author string (the report does cite **Justesen & King (1969)** in the behavioral section — see `GROVE_AND_SPEECH_DEEP_SYNTHESIS.md` §3).
 
 **Evidentiary role:** primary **bioeffects / hazards** document placing **H. Mark Grove** on WRAIR Microwave Research **in calendar year 1973**; **not** a speech-protocol report.
 
