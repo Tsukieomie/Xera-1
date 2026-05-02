@@ -195,3 +195,18 @@ Direct read of the two SF-115 PDFs corrects two narrower sub-claims in the third
 
 4. **Section 1 / section 7 conclusions unchanged.** DIA attribution unproven; NSA / ASPAB / Service-channel attribution better supported than DIA-as-formal-sponsor on the present record.
 
+
+---
+
+## Addendum (2026-05-02): Layer-5 catalog-side anchor for NAID 302050 + USPTO Patent Center probe
+
+Companion file: `NARA_CATALOG_PROBE_LAYER5.md` (this directory). Adds rows E-A21 through E-A24 in `AGENCY_ATTRIBUTION_MATRIX.md` § 12.7. Section 1 / section 7 conclusions unchanged.
+
+Headline reads:
+
+1. **Catalog confirmation of the disposition authority.** The NARA Online Catalog detail page for NAID 302050 ("Utility Patent Case Files, January 1, 1836 - December 31, 1998") cites N1-241-10-1, Item 2 and N1-241-96-3, Item 4a as the governing Disposition Authority Numbers, independently confirming the SF-115 successor-schedule read in Layer-4.
+2. **Band-membership confirmation for `US 3,647,970`.** The May 2018 RG 241 custodial-list entry "Patent Case Files (#3,647,069 - 3,651,016); ENTRY UD13W 12 (NAID 302050)" places the granted patent case file at NARA Kansas City under series NAID 302050. The catalog-stated arrangement range ("Patent files numbered 1 - 4,143,353 are arranged numerically by patent number") covers patent number 3,647,970. The existing `E-006` band assignment is upgraded from schedule analogy to catalog-side confirmation.
+3. **USPTO Patent Center IFW is empty for this filing date.** The detail page at `https://patentcenter.uspto.gov/applications/05756124` is route-recognized but returns an empty bibliographic / Documents & Transactions panel, consistent with paper-only / pre-IFW applications filed in 1968. Google Patents cross-confirms the bibliographic block (no assignee, no government-interest clause, no government-rights statement, no license-rights notice on the face of the issued patent). The certified-copy ordering channel (closure target (a)) remains the operative request channel.
+4. **Catalog API access posture.** The 2016 NARAtions claim that "no API key or account at all is required to do basic searching" is obsolete per the 2025 documentation; the v2 API requires an `x-api-key` issued by `Catalog_API@nara.gov`. Public web-UI search remains keyless. Records themselves remain Access: Unrestricted, Use: Unrestricted; the API-key requirement is an access-method constraint, not an access-rights constraint.
+
+Targets (c) and (h) in `ARCHIVAL_TARGETS_756124.md` § 1 are operationally the same target for serial 756,124 specifically and should be merged in the next-pass refinement; both crosswalk to the same series under N1-241-10-1, Item 2. Target (b) (D-1 / NC1-241-76-01) is queued as Layer-6.
