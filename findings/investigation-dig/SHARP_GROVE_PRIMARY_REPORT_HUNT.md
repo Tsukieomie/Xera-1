@@ -133,6 +133,30 @@ No third Sharp+Grove primary publication on speech transmission has surfaced
 in the open record indexed by Lin 1978, Foster/Garrett/Ziskin 2021, the NMRI
 Glaser bibliography, or DTIC.
 
+### 1.35 Bibliometric closure check — who cites Justesen (1975) and what **they** cite (2026-05-02)
+
+APA’s Crossref deposit for [`10.1037/0003-066X.30.3.391`](https://doi.org/10.1037/0003-066X.30.3.391) lists **`reference-count: 0`** (metadata only; the article obviously has footnotes in print). **OpenAlex** ([`W4213062251`](https://openalex.org/W4213062251)) reports **`cited_by_count: 6`** as of this pass — a **small** citing set, which is useful: it can be **enumerated** without leaving the open graph.
+
+**Works OpenAlex lists as citing Justesen 1975** (year, title, DOI where present):
+
+| Year | Title (short) | DOI |
+| --- | --- | --- |
+| 1977 | The effect of microwave radiation (2450 MHz) on the morphology and chromosomes of lymphocytes in vitro | [`10.1029/rs012i06sp00173`](https://doi.org/10.1029/rs012i06sp00173) |
+| 1977 | Drug-induced ectothermia in small mammals: The quest for a biological microwave dosimeter | [`10.1029/rs012i06sp00073`](https://doi.org/10.1029/rs012i06sp00073) |
+| 1977 | Diathermy versus the microwaves and other radio-frequency radiations: A rose by any other name is a rose by any other name | [`10.1029/rs012i003p00355`](https://doi.org/10.1029/rs012i003p00355) |
+| 1980 | Holographic Assessment of Microwave Hearing | [`10.1126/science.7403877`](https://doi.org/10.1126/science.7403877) |
+| 1986 | Behavioral Thermoregulation with Microwave Radiation of Albino Rats | [`10.2466/pms.1986.62.3.831`](https://doi.org/10.2466/pms.1986.62.3.831) |
+| 2021 | Applied Aspects and Applications (book chapter — *Electromagnetic Fields in Biology and Medicine*) | [`10.1007/978-3-030-64544-1_10`](https://doi.org/10.1007/978-3-030-64544-1_10) |
+
+**Deep read — Chou et al., *Science* 209:1143–1145 (1980)** ([Crossref-derived reference list](https://api.crossref.org/works/10.1126/science.7403877)):
+
+- **Authorship overlap:** fifth author **`Don R. Justesen`** appears on what is primarily a UW / microwave-dosimetry / holographic-mechanism paper (**Chou, Guy, Foster, Galambos, Justesen** per OpenAlex).
+- **Citational practice:** references include **both** `JUSTESEN, D.R., MICROWAVES AND BEHAVIOR, AMERICAN PSYCHOLOGIST 30:391 (1975)` **and** `SHARP, J.C., GENERATION OF ACOUSTIC-SIGNALS BY PULSED MICROWAVE-ENERGY` (*IEEE Trans. Microwave Theory Tech.* — mechanism line), along with canonical MAE bibliography (Guy, Lin, Tyazhelov, …).
+
+**T2 implication:** contemporaneous microwave-hearing investigators **were aware** of the *American Psychologist* article and the **Sharp et al. 1974** mechanism paper in the **same** reference block, yet the **1980 *Science* paper is not a replication or protocol extension of the nine-word Sharp/Grove claim** — it advances **physical assessment** of hypothesized microwave hearing (**holographic** tissue-displacement framing per title). Enumerating citations therefore **widens corroborating context** (Justesen-as-cited-literature hub) **without** producing a missing **Sharp/Grove speech-protocol** technical report.
+
+**Negative control:** none of these six cite-by edges, inspected at title + (for *Science*) full Crossref references, substitutes for **Lin 1978**-style bibliography closure of **T2** (intelligible speech under controlled replication).
+
 ### 1.4 ARPA / Pandora institutional record
 
 The institutional record on Project Pandora and Project Bizarre (the ARPA
