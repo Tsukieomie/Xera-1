@@ -31,6 +31,11 @@ Research compiled May 2, 2026, tracing the citation chain from the 1973 Sharp & 
 | `jason_panel_ahi.md` | The 2018 JASON cricket finding (declassified Sept 2021 via FOIA); 2022 follow-up; relationship to JAMA 2018 and NAS 2020 |
 | `havana_ic_timeline.md` | Full chronology of IC assessments, scientific reports, and policy events 2016 through May 2026 |
 | `mae_havana_2026_analysis.md` | Review of Martin Broughton's 2026 Academia.edu synthesis (not peer-reviewed; adds nothing new on Sharp & Grove) |
+| `nih_jama_2024.md` | The March 2024 NIH JAMA studies (Pierpaoli neuroimaging, Chan clinical) — no structural injury pattern found; methodology debate vs. UPenn 2018/2019 |
+| `gru_29155_ahi.md` | GRU Unit 29155 and the 2023 Insider/Spiegel/60 Minutes joint investigation; the March 31, 2024 broadcast and its aftermath |
+| `dhs_pulsed_rf_device.md` | The DHS ~$15M Russian-origin pulsed-RF device acquisition (late 2024 / disclosed January 2026); Sasha Ingber Substack scoop, CNN/CBS/60 Minutes follow-ups |
+| `havana_act_compensation.md` | The HAVANA Act 2021 (PL 117-46) compensation framework — payment tiers, approval rate disparities (CIA 21% vs. HAVANA Act 67%), institutional contradiction |
+| `akwei_vs_mae_evidence.md` | Cross-reference of John St. Clair Akwei's NSA complaint technology claims against the MAE evidence base — what's physically possible, what's unsupported, what has partial historical traction |
 
 ## Key facts established
 
@@ -71,6 +76,22 @@ Research compiled May 2, 2026, tracing the citation chain from the 1973 Sharp & 
 21. **Late 2025:** DOJ criminal referral on the 2023 assessment.
 22. **Late 2024 / disclosed January 2026:** DHS reportedly spent ~$15M acquiring a Russian-origin pulsed-RF device.
 23. **March 2026:** House Intel, ODNI, FBI reportedly agree to seek retraction of the 2023 and 2025 assessments.
+
+### On the 2024 medical evidence
+
+24. **March 18, 2024 NIH JAMA neuroimaging study (Pierpaoli et al.):** No significant structural brain differences between AHI patients (n=81) and matched controls on MRI/DTI. Direct contradiction of the 2018/2019 UPenn (Smith/Verma) findings.
+25. **March 18, 2024 NIH JAMA clinical study (Chan et al.):** 41% of AHI patients met criteria for Functional Neurological Disorder; no consistent neurological injury pattern.
+26. **The 2024 results do not rule out injury**, but they remove the strongest published structural-imaging evidence cited in 2018–2019 for an external causative agent.
+
+### On the GRU and acquisition disclosures
+
+27. **March 31, 2024 (corrected date):** *60 Minutes* / *Der Spiegel* / *The Insider* joint broadcast tying GRU Unit 29155 (the same unit linked to the 2018 Skripal poisoning) to multiple AHI cases via travel-record correlation. Lead reporter: Christo Grozev.
+28. **January 12–13, 2026 disclosure:** Sasha Ingber's HUMINT Substack first reported DHS spent ~$15M in late 2024 acquiring a Russian-origin pulsed-RF device; CNN (Atwood), CBS, and *60 Minutes* (Pelley, March 8, 2026) followed. February 2026: Norwegian self-experiment with the device documented in *Washington Post* exclusive.
+
+### On the HAVANA Act
+
+29. **HAVANA Act of 2021 (PL 117-46) signed October 8, 2021** — established a tiered compensation framework: Base $140K–$153K, Base+ $187K–$204K (FY2024 figures).
+30. **Approval-rate disparity:** HAVANA Act ~67% approval vs. parallel CIA workers' compensation ~21% approval — an institutional contradiction (one arm of government compensates, another denies).
 
 ## Citation chain summary
 
