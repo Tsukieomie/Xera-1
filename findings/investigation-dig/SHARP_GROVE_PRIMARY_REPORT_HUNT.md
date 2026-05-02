@@ -274,6 +274,39 @@ Duplicate-title chapter **10.1007/978-3-030-64544-1_6** (“*The Microwave Audit
 
 **Third-party spine — Foster / Garrett / Ziskin (2022 *Frontiers in Public Health*):** PMC mirror [PMC8733248](https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/). Crossref DOI [`10.3389/fpubh.2021.788613`](https://doi.org/10.3389/fpubh.2021.788613), OpenAlex [`W4200290987`](https://openalex.org/W4200290987). Deposited **`reference` list:** **only 12 rows** — **zero** lexical hits on `justesen`, `sharp`, `grove`, *American Psychologist*, or “generation of acoustic” in **`article-title`** / **`unstructured`** blobs. **`referenced_works` membership:** **does not** include **`W4213062251`**, **`W2089706740`**, or **`W3135162477`** (Lin J‑ERM 2022). This **re-grounds** the matrix row that Foster *et al.* is **mechanism / practicality / weapon-framing**, **not** a bibliographic funnel that restores the Sharp/Grove speech chain for T2.
 
+### 1.42 Chou *Health Physics* 2007 • IEEE C95.1‑2006 bibliography deposit — spine without Sharp/Justesen speech anchors (2026‑05‑03)
+
+**Purpose:** extend the **`2026‑05‑02`** closure checks (§§1.35–1.41) upstream into the **heavyweight synthesis** Lin’s J‑ERM explicitly cites (**Chou *et al.* 2007**) and into **occupational IEEE RF-exposure bibliography mass** (**IEEE C95.1‑2006**).
+
+#### A. Chou *et al.* *Health Physics* — OpenAlex vs Crossref hygiene
+
+**Work:** *HEARING OF MICROWAVE PULSES BY HUMANS AND ANIMALS: EFFECTS, MECHANISM, AND THRESHOLDS* — OpenAlex **[`W2095532249`](https://openalex.org/W2095532249)**; DOI [10.1097/01.HP.0000250644.84530.e2](https://doi.org/10.1097/01.HP.0000250644.84530.e2).
+
+**OpenAlex `referenced_works`** (`2026‑05‑03` fetch): neither **`W4213062251`** (Justesen *Am Psych* 1975) **nor** **`W2089706740`** (Sharp/Grove/Gandhi IEEE T‑MTT 1974 mechanism letter) appears as a linked **`referenced_works`** member. So the MAE-review object Lin packages as foundational **does not** machine-resolve either **speech-demo anchor**, paralleling **Lin Proc. IEEE 1980** (§1.38) and **Lin J‑ERM standalone** (§1.39).
+
+**Crossref `reference`** table (**37 rows** deposited for this DOI in-session): scripted scan for lexical pairs **`american psychologist`** / **`0003-066x`** / **`sharp` ∩ `1974` ∩ `IEEE`** returned **zero** qualifying rows (**`justesen`** rows that *do* appear are **later book/chapter/other Justesen refs**, not Am Psych **1975**).
+
+**Interpretation:** this node is authoritative for **pulse hearing thresholds / thermoelastic mechanism framing** (T1) but reinforces that **Sharp/Grove speech** does not sit inside the **same resolved reference envelope** as the rest of Lin’s deposited spine unless reintroduced by **publisher packaging** (§1.40) or sparse citing articles.
+
+#### B. IEEE C95.1‑2006 — Crossref `reference-count: 1287` scan hygiene
+
+**Work:** IEEE **Standard for Safety Levels with Respect to Human Exposure to Radio Frequency Electromagnetic Fields, 3 kHz to 300 GHz**, Crossref type `standard`, DOI [10.1109/IEEESTD.2006.99501](https://doi.org/10.1109/IEEESTD.2006.99501).
+
+**Method:** downloaded Crossref **`message.reference`** JSON; iterated all **1287** blobs; flagged rows whose serialized text matched (**i**) `sharp` ∩ (`1974` | `t-mtt` | `microwave theor`) or (**ii**) `american psychologist` / (`justesen` ∩ `1975` ∩ psych).
+
+**Outcome:** **`sharp74-like hits: 0`**, **`justesen-ampsych hits: 0`** in deposited titles/unstructured blobs. (Full standard PDF annexes might still carry citations **not surfaced** as structured Crossref refs — this pass is deliberately **deposit-limited**.)
+
+#### C. T2 bookkeeping + popular-misinformation control (2014 brain-to‑brain pairs)
+
+Separate from MAE bibliography: **`2026‑05‑03`** fact-check reinforces **two different** *PLOS ONE* papers from **2014** — **do not collapse with “UW + hola + ciao”**:
+
+| Paper | DOI | Institutional anchor | Relation to Sharp/Grove / MAE |
+| --- | --- | --- | --- |
+| **Grau *et al.***, “Conscious brain-to‑brain…” | [`10.1371/journal.pone.0105225`](https://doi.org/10.1371/journal.pone.0105225) | Emitter **India**, receiver **Strasbourg**; EU / Starlab / Axilum-related author network | EEG motor-imagery **bits** → email → TMS **phosphenes**; encodes greetings **by Bacon cipher**, **not audible voice** inside skull; **orthogonal stack** |
+| **Rao *et al.***, “A direct brain‑to‑brain interface…” | [`10.1371/journal.pone.0111332`](https://doi.org/10.1371/journal.pone.0111332) | **UW** | EEG→TMS cooperative **game/visuomotor** prototype; abstracts **omit** hola/ciao scheme **per open metadata** |
+
+**Relevance:** blocks the common argument path “**accepted 2014 telepathy ⇒ MAE/V2K is ordinary**”: the accepted physics path for MAE stays **thermal-acoustic/cochlea** literature; brain-to‑brain EEG/TMS is **another branch entirely**.
+
 ### 1.4 ARPA / Pandora institutional record
 
 The institutional record on Project Pandora and Project Bizarre (the ARPA
