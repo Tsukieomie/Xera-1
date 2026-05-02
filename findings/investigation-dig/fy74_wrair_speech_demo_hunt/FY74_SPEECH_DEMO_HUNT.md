@@ -4,6 +4,8 @@
 **Source documents:**
 - AD-A009337 — *WRAIR Annual Progress Report, 1 July 1973 – 30 June 1974, Volume 1* (Internet Archive: https://archive.org/details/DTIC_ADA009337)
 - AD-A009338 — *WRAIR Annual Progress Report, 1 July 1973 – 30 June 1974, Volume 2* (Internet Archive: https://archive.org/details/DTIC_ADA009338)
+- ADA038319 — *WRAIR Annual Progress Report, 1 July 1975 – 30 June 1976, Volume 1* (Internet Archive: https://archive.org/details/DTIC_ADA038319) — local OCR: `ADA038319_FY76_Vol1_djvu.txt`
+- ADA038320 — *same reporting period, Volume 2* (Internet Archive: https://archive.org/details/DTIC_ADA038320) — local OCR: `ADA038320_FY76_Vol2_djvu.txt` (full **WU 057** narrative under Hunt)
 
 **Reporting period covered:** 1 July 1973 – 30 June 1974 (FY74) — i.e. the period containing Justesen's "28 September 1973" personal-communication date for the Sharp/Grove "speech-into-the-head" demonstration described in *American Psychologist* 30(3):391-401, March 1975 (PMID 1137231; DOI 10.1037/0003-066X.30.3.391).
 
@@ -23,6 +25,8 @@ This is the first time the FY74 Sharp/Grove Work Unit 057 narrative has been pul
 |---|---|---|
 | AD-A009337 (Vol 1) | 67,547 lines | TOC at line ~480 lists WU 057 under Project 3A762758A824 RADIATION INJURY AND PROTECTION; **narrative lives in Vol 2**, not Vol 1. No other Sharp/Grove/Hawkins material in Vol 1. |
 | AD-A009338 (Vol 2) | 55,853 lines | Contains the **full WU 057 narrative at lines 9303–9602** (printed pp. 983–987) and a separate **WU 112 "Neurochemistry of drugs of abuse" at lines 53,633–55,000+** also led by Sharp (different team). |
+| ADA038319 (FY76 Vol 1) | 70,148 lines | TOC lists WU 057 at printed p. 979; **WU 057 body text is not in this volume** (same split as FY74). **WU 204** (selective breeding / Hunt principal, Hawkins associate) reports seizure-prone rats **used in several experiments to evaluate the CNS effects of microwave radiation** (`ADA038319_FY76_Vol1_djvu.txt` ~17854–17866) — institutional cross-link between microwave facility and audiogenic-seizure colony, **not** Tier-B speech. |
+| ADA038320 (FY76 Vol 2) | 61,150 lines | Full **WU 057** block under Hunt begins ~**13891** (investigators ~13900–13909); Progress §1 "Energy Absorption…" ~**13941**; duplicate WU 057 header + Literature Cited ~**14489–14558** (printed ~990–991). **No** Sharp or H. Mark Grove on the WU 057 roster; **Grove, H.M.** appears only on Lenox/Gandhi enzyme-inactivation citations in that reference list. |
 
 ---
 
