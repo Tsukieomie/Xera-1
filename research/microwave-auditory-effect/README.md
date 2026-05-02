@@ -41,6 +41,7 @@ Research compiled May 2, 2026, tracing the citation chain from the 1973 Sharp & 
 | `ratcliffe_ic_retraction.md` | John Ratcliffe at CIA, Tulsi Gabbard at ODNI, the December 2024 HPSCI findings, the January 2025 ODNI partial reversal, and the March 2026 reported retraction agreement on the 2023 ICA |
 | `ghost_murmur_remote_sensing.md` | The April 2026 "Ghost Murmur" disclosure (NV-diamond quantum magnetometry for cardiac detection) and its relationship — and notable distance — from "remote neural monitoring" claims |
 | `akwei_mae_full_crossref.md` | Comprehensive cross-reference document mapping every specific technological claim in Akwei's 1992 NSA complaint against the MAE evidence base, V2K matrix, and Havana Syndrome record |
+| `morris_nonlethality_psychotech_provenance.md` | Chris and Janet Morris as nonlethal-weapons policy actors and Smirnov-channel provenance witnesses — what the open record supports (T2 policy influence, T3 technology cataloging, T3 Russian psychotechnology pitch) and what it does not (HAARP mind control, Project Blue Beam, RNM/V2K deployment, satellite-hologram operations) |
 
 ## Key facts established
 

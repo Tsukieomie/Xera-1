@@ -427,6 +427,8 @@ The honest accounting is this: Akwei was correct that the U.S. and Soviet govern
 
 The V2K question remains methodologically open in the narrow sense that close-range MAE-based voice induction cannot be ruled out for any specific case without controlled RF measurements. Everything beyond that narrow open question — the architecture, the distance, the continuity, the thought decoding — falls outside what the evidence supports.
 
+A bounded reading of the Chris Morris and Janet Morris record — frequently cited in TI / V2K compilations as "Pentagon insider" confirmation of HAARP mind-control, Project Blue Beam, RNM, or operational V2K — is in [`morris_nonlethality_psychotech_provenance.md`](morris_nonlethality_psychotech_provenance.md). The Morrises are real nonlethal-weapons policy actors and useful provenance witnesses for how acoustic, RF, microwave, and information-warfare categories migrated into U.S. defense-policy discourse, but their primary doctrine writing does not contain operational HAARP, Blue Beam, RNM, or V2K-deployment claims, and the extracted Monast Project Blue Beam tract does not name Chris Morris and treats Janet Morris only as an adjacent psychocorrection figure.
+
 ---
 
 ## Sources
