@@ -210,3 +210,19 @@ Headline reads:
 4. **Catalog API access posture.** The 2016 NARAtions claim that "no API key or account at all is required to do basic searching" is obsolete per the 2025 documentation; the v2 API requires an `x-api-key` issued by `Catalog_API@nara.gov`. Public web-UI search remains keyless. Records themselves remain Access: Unrestricted, Use: Unrestricted; the API-key requirement is an access-method constraint, not an access-rights constraint.
 
 Targets (c) and (h) in `ARCHIVAL_TARGETS_756124.md` § 1 are operationally the same target for serial 756,124 specifically and should be merged in the next-pass refinement; both crosswalk to the same series under N1-241-10-1, Item 2. Target (b) (D-1 / NC1-241-76-01) is queued as Layer-6.
+
+---
+
+## Addendum (2026-05-02): Layer-5b workarounds for the three Layer-5 access blocks
+
+Companion file: `WORKAROUNDS_LAYER5B.md` (this directory). Adds rows E-A25 through E-A27 in `AGENCY_ATTRIBUTION_MATRIX.md` § 12.8. Section 1 / section 7 conclusions unchanged. Companion data: `layer5b-data/NAID_302050_items.json`, `layer5b-data/NAID_159071266_assignment_index_file_units.json`, `layer5b-data/NAID_159071266_assignment_index_file_units.csv`.
+
+Three findings:
+
+1. **NARA Catalog API-key block is collapsed for the descriptive-metadata use case.** The NARA AWS Open Data mirror (`arn:aws:s3:::nara-national-archives-catalog`, region `us-east-2`, ~261 GB) provides keyless `--no-sign-request` access to all archival descriptions and authority records, biannually updated (latest export 2026-03-12).
+2. **File-unit-level catalog coverage for the Flanagan band is zero.** Bulk-export read of all 708 file units inside NAID 302050 (matching the catalog detail page's stated 708) and all 19 items confirms no description for serial 756,124 / patent 3,647,970 / band `#3,647,069 - 3,651,016` exists at the file-unit or item level. The Kansas City email inquiry remains the only catalog-side path that can resolve file-unit presence.
+3. **No keyless workaround exists for the USPTO file wrapper for this filing date.** PEDS sunsetted, ODP returns 403, PPubs JSON returns 404, Wayback has no coverage of legacy PAIR. The certified-copy paper channel via the USPTO Certified Copy Center remains the operative request channel. The Google-mirrored primary PDF for `US 3,647,970` (542 KB, 6 pages) closes the issued-patent-face question: no government-interest clause, no secrecy-rescission notice, no licensee statement, no defense-agency assignee on the face.
+
+**New records class — NAID 159071266 "Index to Patent Assignments by Government Licensees".** A previously-unprobed records class surfaced as a by-product of the bulk-export read. 174 file units alphabetical by licensee-name letter range; the F file unit (NAID 256511711, "Fiala, John P. and Barditch, Irving F. THRU Fletcher, James C., Admin of NASA") is the bracket that would index Flanagan if any government licensee took an assignment of `US 3,647,970`. Plus three Abandoned-Applications file units (NAID 256603800, 256604405, 256603196). Series-level scope (verbatim): "This series consists of an index which documents the issuance of patent assignments to government licensees." Major DoD-adjacent licensees explicitly indexed include Bendix Aviation, Boeing, GE, GM, Hughes Aircraft, IBM, North American Aviation, Northern Ordnance, RCA, Raytheon, Sperry Rand, AT&T / Western Electric, Westinghouse, NASA Administrators (Webb, Fletcher).
+
+This becomes new target (i) in `ARCHIVAL_TARGETS_756124.md` § 1: a bundled Kansas City email inquiry covering UD13W 12 (target c), NAID 159071266 F file unit + 3 Abandoned-Applications units (target i), and the D-1 / NC1-241-76-01 series catalog-side accession status.
