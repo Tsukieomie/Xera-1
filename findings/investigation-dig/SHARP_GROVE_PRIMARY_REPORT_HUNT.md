@@ -197,6 +197,30 @@ Symmetric to §1.35: if a later paper cited the **mechanism letter** and **indep
 
 **T2 net:** the **1974 letter** is cited widely for **acoustic / thermoelastic / neural** MAE work; **none** of the 23 OpenAlex-indexed citing edges, on title inspection, presents as a **protocol publication** for the nine-word demonstration. The **Guy 1975 chapter** reference deposit is a concrete example of **Sharp without Justesen** at the bibliography layer.
 
+### 1.37 Independent citation index — **OpenCitations COCI** vs OpenAlex (2026-05-02)
+
+The OpenCitations Index API requires **HTTPS + redirect follow** (`curl -L`); bare `http://` returns **301** with an empty body.
+
+**Justesen 1975** — `GET https://opencitations.net/index/api/v2/citations/doi:10.1037/0003-066x.30.3.391` (saved payload in this pass: `/tmp/oc_justesen.json`):
+
+- **`citations` edges:** **6** (`unique citing DOIs: 6`) — **matches** OpenAlex `cited_by_count: 6` ([`W4213062251`](https://openalex.org/W4213062251)).
+- Citing DOIs (lowercased): `10.1029/rs012i06sp00073`, `10.1029/rs012i06sp00173`, `10.1029/rs012i003p00355`, `10.1126/science.7403877`, `10.2466/pms.1986.62.3.831`, `10.1007/978-3-030-64544-1_10`.
+
+**Sharp 1974 IEEE T-MTT** — `GET https://opencitations.net/index/api/v2/citations/doi:10.1109/tmtt.1974.1128293` (`/tmp/oc_sharp.json`):
+
+- **`citations` edges:** **19** (`unique citing DOIs: 19`) vs OpenAlex **`cited_by_count: 23`** ([`W2089706740`](https://openalex.org/W2089706740)).
+- **Set difference (in OpenAlex, not in OpenCitations on this date):**  
+  `10.1016/0006-8993(77)90735-1` (Lebovitz *Brain Res.* single-unit MAE), `10.1016/s0092-8240(81)90003-3` (Lin *Math. Biosci.* RF-hearing forces), `10.1126/science.482939` (Frey *Science* holography 1979), `10.1126/science.209.4461.1144` (Frey/Coren *Science* response 1980), `10.3390/s18030728` (MDPI *Sensors* 2018). Interpretation: **COCI lags or omits some publisher deposits**; use **OpenAlex for enumeration**, OpenCitations for **third-party corroboration** of the smaller core.
+- **Set difference (in OpenCitations, not in OpenAlex):** `10.20944/preprints201801.0248.v1` — likely **preprint** shard of a later Sensors paper; treat as **bibliography noise** unless deduplicated to a final DOI.
+
+**Intersection of citing sets (COCI-derived):** `|citing(Justesen) ∩ citing(Sharp)| = 1` → **`10.1007/978-3-030-64544-1_10`** (2021 handbook chapter) only. **Chou *Science* 1980** cites **both** anchors in **Crossref** (§1.35) but OpenCitations **does not** index `10.1126/science.7403877` as citing the Sharp 1974 DOI in this snapshot — another **indexCompleteness** warning, not a factual claim about the letter’s reference list.
+
+**Lin, “The microwave auditory phenomenon,” *Proc. IEEE* 68(1):67–76 (1980)** — Crossref deposit [`10.1109/proc.1980.11583`](https://doi.org/10.1109/proc.1980.11583), **41** `reference` rows:
+
+- **Positive:** row **15** article-title string is **“Generation of acoustic signals by pulsed microwave energy”** (Sharp mechanism letter) — present in the **canonical review’s** reference table.
+- **Negative (Crossref text layer):** **no** `Justesen` / *American Psychologist* / `30:391` / `speech` lemma match across **all** reference rows when searching the full JSON `reference` objects (not only `article-title`; many rows are empty strings in Crossref but carry no hidden Justesen key in this deposit).
+- **T2 read:** Lin’s **1980 IEEE review bibliography** (as deposited) **anchors mechanism** via Sharp **without** listing the psychology-article speech channel — parallel to **Guy 1975** (§1.36) and consistent with Lin 1978’s in-text “(see Justesen, 1975)” pattern living in **prose/bibliography elsewhere**, not necessarily in every Crossref-parsed reference row for every Lin article in the COCI pipeline.
+
 ### 1.4 ARPA / Pandora institutional record
 
 The institutional record on Project Pandora and Project Bizarre (the ARPA
