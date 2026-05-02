@@ -61,7 +61,7 @@ FY74 narrative describes **modulated microwaves**, **“hearing effect,”** **�
 | FY74 line-by-line | `FY74_SPEECH_DEMO_HUNT.md` |
 | Round-9 institutional sequencing | `DEEPER_DIG_9_ADDENDUM.md` |
 | Off-program vs hidden-program framing | `../SHARP_GROVE_OFF_PROGRAM_ANALYSIS.md` |
-| Tier table | `../../../V2K_EVIDENCE_MATRIX.md` |
+| Tier table | `../../../V2K_EVIDENCE_MATRIX.md` (speech-evidence trace updated 2026-05-02 for project `1J662712AJ21` + AD-A090426 status) |
 | AD758136 hunt closure | `../ad758136_hunt/AD758136_HUNT_LOG.md` |
 
 ---
