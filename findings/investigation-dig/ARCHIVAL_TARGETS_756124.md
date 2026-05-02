@@ -274,5 +274,5 @@ The full DIA-vs-NSA-vs-DoD/ASPAB attribution matrix, period-correct § 181 deleg
 - [ ] Submit DoD/NSA/Commerce FOIA with `756,124` + `US3647970` keywords.
 - [ ] Acquire periodical primary scans for LIFE/WaPo/Anchorage citations.
 - [ ] Populate `investigation-dig/primary-756124/index.md` as records arrive.
-- [ ] If using NARA API, resolve access/auth path for `/api/v2/records/search` (docs reachable; record payload retrieval not yet functional in this environment).
+- [ ] If using NARA API, resolve access/auth path for `/api/v2/records/search` (docs reachable; record payload retrieval not yet functional in this environment). **2026-05-02:** v1 `catalog.archives.gov/api/v1/search` and `api/v1?naIds=302050` with `Accept: application/json` also return SPA HTML, not JSON, from non-browser clients (ledger E-030); treat as same access-class problem as E-012.
 
