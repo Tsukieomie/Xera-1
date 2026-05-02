@@ -8,18 +8,20 @@
 
 ## §A.1 AD-Number Inventory of WRAIR Annual Progress Reports
 
-| Fiscal Year | Reporting Period | DTIC AD Number | Archive.org Identifier | WU 057 Status | Notes |
-|---|---|---|---|---|---|
-| FY73 | 1 Jul 72 – 30 Jun 73 | AD-776967 | `DTIC_AD0776967` | Active under Sharp | Original Sharp-era WU 057 text — speech demo would post-date this volume by ~3 months |
-| FY74 | 1 Jul 73 – 30 Jun 74 | ADA009337 (Vol I) / ADA009338 (Vol II) | `DTIC_ADA009337` / `DTIC_ADA009338` | Active under Sharp; **auditory line "halted"** pending guidance | Contains the language interpreted in primary report §3 as the FY74 administrative halt |
-| **FY75** | **1 Jul 74 – 30 Jun 75** | **NOT FOUND on archive.org or in DTIC public discover** | — | **Unknown — gap year** | See §A.2 below |
-| FY76 | 1 Jul 75 – 30 Jun 76 | ADA038319 (Vol I) / ADA038320 (Vol II) | `DTIC_ADA038319` / `DTIC_ADA038320` | Active under **new PI Edward L. Hunt** | Vol I: TOC + cross-unit note (WU 204: Hunt/Hawkins, microwave on seizure-prone rats). Vol II: full WU 057 narrative §A.3. Project number `3A062110A824` → `3A762758A824`. |
-| FY79 | 1 Jul 78 – 30 Jun 79 | ADA084365 | `DTIC_ADA084365` | (Clinical Investigation Service only — different volume class) | Not the matching general-research volume |
-| FY80 | 1 Oct 79 – 30 Sep 80 | ADA108791 | `DTIC_ADA108791` | Already extracted to workspace; "Grove/Groves" hits = M.G. Groves VC (different person) | |
-| FY81 | 1 Oct 80 – 30 Sep 81 | ADA117411 | `DTIC_ADA117411` | Already extracted to workspace; same disambiguation as FY80 | |
-| FY82 | | ADA139177 | `DTIC_ADA139177` | Out of scope for this thread | |
-| FY83 | | ADA147533 / ADA163200 | `DTIC_ADA147533` / `DTIC_ADA163200` | Out of scope | |
-| FY84 | | ADA163377 | `DTIC_ADA163377` | Out of scope | |
+
+| Fiscal Year | Reporting Period         | DTIC AD Number                                          | Archive.org Identifier              | WU 057 Status                                                                           | Notes                                                                                                                                                                     |
+| ----------- | ------------------------ | ------------------------------------------------------- | ----------------------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| FY73        | 1 Jul 72 – 30 Jun 73     | AD-776967                                               | `DTIC_AD0776967`                    | Active under Sharp                                                                      | Original Sharp-era WU 057 text — speech demo would post-date this volume by ~3 months                                                                                     |
+| FY74        | 1 Jul 73 – 30 Jun 74     | ADA009337 (Vol I) / ADA009338 (Vol II)                  | `DTIC_ADA009337` / `DTIC_ADA009338` | Active under Sharp; **auditory line "halted"** pending guidance                         | Contains the language interpreted in primary report §3 as the FY74 administrative halt                                                                                    |
+| **FY75**    | **1 Jul 74 – 30 Jun 75** | **NOT FOUND on archive.org or in DTIC public discover** | —                                   | **Unknown — gap year**                                                                  | See §A.2 below                                                                                                                                                            |
+| FY76        | 1 Jul 75 – 30 Jun 76     | ADA038319 (Vol I) / ADA038320 (Vol II)                  | `DTIC_ADA038319` / `DTIC_ADA038320` | Active under **new PI Edward L. Hunt**                                                  | Vol I: TOC + cross-unit note (WU 204: Hunt/Hawkins, microwave on seizure-prone rats). Vol II: full WU 057 narrative §A.3. Project number `3A062110A824` → `3A762758A824`. |
+| FY79        | 1 Jul 78 – 30 Jun 79     | ADA084365                                               | `DTIC_ADA084365`                    | (Clinical Investigation Service only — different volume class)                          | Not the matching general-research volume                                                                                                                                  |
+| FY80        | 1 Oct 79 – 30 Sep 80     | ADA108791                                               | `DTIC_ADA108791`                    | Already extracted to workspace; "Grove/Groves" hits = M.G. Groves VC (different person) |                                                                                                                                                                           |
+| FY81        | 1 Oct 80 – 30 Sep 81     | ADA117411                                               | `DTIC_ADA117411`                    | Already extracted to workspace; same disambiguation as FY80                             |                                                                                                                                                                           |
+| FY82        |                          | ADA139177                                               | `DTIC_ADA139177`                    | Out of scope for this thread                                                            |                                                                                                                                                                           |
+| FY83        |                          | ADA147533 / ADA163200                                   | `DTIC_ADA147533` / `DTIC_ADA163200` | Out of scope                                                                            |                                                                                                                                                                           |
+| FY84        |                          | ADA163377                                               | `DTIC_ADA163377`                    | Out of scope                                                                            |                                                                                                                                                                           |
+
 
 **Search method.** Direct query of archive.org's advanced-search API for `title:("Walter Reed" "Annual Progress")` returned 15 hits, sorted by date. The earliest DTIC-prefixed records are FY63 (AD-409450, AD-409983) and FY64 (AD-445277, AD-445282); the next general-research volume in the set is **ADA038319/ADA038320 (FY76)**. There is no FY75 (1 Jul 74 – 30 Jun 75) volume in the archive's WRAIR collection.
 
@@ -40,7 +42,7 @@
 
 1. **No separate FY75 volume was produced.** The federal fiscal-year shift in 1976 (the "transitional quarter" caused by the FY moving from a 1 July start to a 1 October start) consolidated FY75 and the transition quarter into adjacent reporting cycles for many DoD R&D programs. WRAIR's FY76 volume covers 1 Jul 75 – 30 Jun 76; the *prior* fiscal year (FY75 = 1 Jul 74 – 30 Jun 75) may have been reported in a transitional document or rolled forward.
 2. **The volume was produced but never released to DTIC's public-distribution stream.** Internal Army medical-research progress documents are sometimes withheld at the time of issue and only later cleared. The absence from archive.org is consistent with non-public disposition.
-3. **The volume exists at DTIC but has not been digitized for archive.org.** archive.org's DTIC mirror is not a complete copy of the DTIC catalog. A DTIC discover-API search at [`https://discover.dtic.mil/`](https://discover.dtic.mil/) would be the next step (out of scope for this pass without authenticated access).
+3. **The volume exists at DTIC but has not been digitized for archive.org.** archive.org's DTIC mirror is not a complete copy of the DTIC catalog. A DTIC discover-API search at [discover.dtic.mil](https://discover.dtic.mil/) would be the next step (out of scope for this pass without authenticated access).
 
 ### Why the gap matters for the Sharp/Grove speech question
 
@@ -79,6 +81,7 @@ The FY76 pair mirrors the FY74 pattern: **Volume I carries the composite table o
 > This research task is to develop information on the potential biological hazards of electromagnetic radiations (EMR), primarily microwaves, to Army and other military personnel. Of particular interest are the biological effects of acute and chronic exposure to radiation fields produced by military sources, such as the high peak power, pulsed fields produced by radars. A wide variety of biological effects data needed for hazards analysis are being developed in experimental animal investigations to characterize (1) microwave energy absorption and distribution in biological systems, (2) effects on nervous and sensory systems, (3) effects on behavior and performance, (4) stress reactions to microwave irradiation and (5) physiological and biophysical effects at the cellular and tissue level of function. … This engineering resource is utilized also in (6) a collaborative, programmatic development of tissue enzyme inactivation systems with the Department of Medical Neurosciences (see FY77 Work Unit 070) and in (7) providing direct research support to extramural research investigators using the WRAIR's Microwave Research facilities.
 
 **Note absent terms.** The FY76 description contains **no mention** of:
+
 - speech transmission, voice transmission, or communication;
 - modulated microwave audition or modulated-pulse auditory perception;
 - the "auditory effect" or "Frey effect" by name;
@@ -88,18 +91,20 @@ This is consistent with — and stronger than — the FY74 "halted" finding: by 
 
 ### A.3.3 Six work segments (summary; full verbatim narrative in workspace file `ADA038320_FY76_Vol2_djvu.txt` from Progress §1 at line **13941** through the end of the WU 057 narrative before the next project header at line **14489**)
 
-| § | Topic | Personnel | Speech-relevant? |
-|---|---|---|---|
-| 1.A | Implantable RF-transparent temperature electrode; calorimetry; microwave interrogation of dielectric targets | Larsen, Moore, Acevedo (per cited 1974 paper); Hunt, Phillips | No |
-| 1.B | Physical modeling of EMR absorption in size-scaled isotropic models of man; dipole-resonance theory; reflector enhancement | **Om P. Gandhi (U Utah, collaborator)**; Schrot, Hawkins | No |
-| 1.C | Biodosimetry via thermal-seizure latency; rats at 985 MHz with reflectors | Schrot, Hawkins | No |
-| 2.A | Audiogenic seizure sensitivity after acute and 10-week chronic 2450 MHz CW exposure | Hawkins, Hunt | **Tangentially: this is *audiogenic* seizure (sound-evoked motor seizures in genetically prone rats), not auditory perception of microwaves**. See §A.4. |
-| 2.B | Blood-brain barrier permeability under low-level 1.3 GHz; "power window" effect | Hunt, **K.J. Oscar (American University)**, Hawkins | No — but see §A.5: this is the prelude to Oscar 1980 |
-| 3 | Escape behavior from pulsed microwave fields (1.2, 2.88 GHz) in rats and mice | Frey (cited 1975); Hunt, King, Loveley, Phillips | No |
-| 4 | Stress reactions to microwave irradiation; ambient temperature/humidity index vs seizure latency | (Unattributed) | No |
-| 5 | Physiological/biophysical: nerve-cell membrane dynamics under microwave (giant-axon prep, planning stage) | (Planning) | No |
-| 6 | **Tissue enzyme inactivation systems — Lenox/Gandhi/Meyerhoff/Grove 1976 IEEE T-MTT 24:58–61** | Lenox (Med Neurosciences); Gandhi (U Utah); Meyerhoff; **H.M. Grove** (engineering) | **Grove is here — but for an enzyme-inactivation applicator, not speech.** See §A.6. |
-| 7 | Extramural research support / tri-partite WRAIR–Navy–AFRRI committee | (Administrative) | No |
+
+| §   | Topic                                                                                                                      | Personnel                                                                           | Speech-relevant?                                                                                                                                         |
+| --- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.A | Implantable RF-transparent temperature electrode; calorimetry; microwave interrogation of dielectric targets               | Larsen, Moore, Acevedo (per cited 1974 paper); Hunt, Phillips                       | No                                                                                                                                                       |
+| 1.B | Physical modeling of EMR absorption in size-scaled isotropic models of man; dipole-resonance theory; reflector enhancement | **Om P. Gandhi (U Utah, collaborator)**; Schrot, Hawkins                            | No                                                                                                                                                       |
+| 1.C | Biodosimetry via thermal-seizure latency; rats at 985 MHz with reflectors                                                  | Schrot, Hawkins                                                                     | No                                                                                                                                                       |
+| 2.A | Audiogenic seizure sensitivity after acute and 10-week chronic 2450 MHz CW exposure                                        | Hawkins, Hunt                                                                       | **Tangentially: this is *audiogenic* seizure (sound-evoked motor seizures in genetically prone rats), not auditory perception of microwaves**. See §A.4. |
+| 2.B | Blood-brain barrier permeability under low-level 1.3 GHz; "power window" effect                                            | Hunt, **K.J. Oscar (American University)**, Hawkins                                 | No — but see §A.5: this is the prelude to Oscar 1980                                                                                                     |
+| 3   | Escape behavior from pulsed microwave fields (1.2, 2.88 GHz) in rats and mice                                              | Frey (cited 1975); Hunt, King, Loveley, Phillips                                    | No                                                                                                                                                       |
+| 4   | Stress reactions to microwave irradiation; ambient temperature/humidity index vs seizure latency                           | (Unattributed)                                                                      | No                                                                                                                                                       |
+| 5   | Physiological/biophysical: nerve-cell membrane dynamics under microwave (giant-axon prep, planning stage)                  | (Planning)                                                                          | No                                                                                                                                                       |
+| 6   | **Tissue enzyme inactivation systems — Lenox/Gandhi/Meyerhoff/Grove 1976 IEEE T-MTT 24:58–61**                             | Lenox (Med Neurosciences); Gandhi (U Utah); Meyerhoff; **H.M. Grove** (engineering) | **Grove is here — but for an enzyme-inactivation applicator, not speech.** See §A.6.                                                                     |
+| 7   | Extramural research support / tri-partite WRAIR–Navy–AFRRI committee                                                       | (Administrative)                                                                    | No                                                                                                                                                       |
+
 
 ### A.3.4 Cited literature (verbatim from FY76 WU 057 reference list)
 
@@ -120,15 +125,17 @@ This is consistent with — and stronger than — the FY74 "halted" finding: by 
 
 ### A.3.5 Negative full-volume string scan (FY76 Vol II OCR) — Justesen / Joseph C. Sharp
 
-**Corpus:** `ADA038320_FY76_Vol2_djvu.txt` (~61k lines), entire file (`rg` / workspace search, 2026-05-02).
+**Corpus:** `ADA038320_FY76_Vol2_djvu.txt` (~61k lines), entire file.
 
-| Pattern | Result |
-|--------|--------|
-| `Justesen`, `Jusiesen`, `Jestesen` (case-insensitive) | **No matches** |
-| `Joseph C. Sharp` / `Joseph C\. Sharp` | **No matches** (other unrelated "Joseph" strings and pharma "Sharp" appear elsewhere in the volume) |
-| `Grove` outside Lenox/Gandhi citation lines | **No** — only **Grove, H.M.** on Lenox/Gandhi/Meyerhoff enzyme-inactivation references (~13593, ~14525, ~14582) |
 
-**Interpretation:** FY76 Vol II contains **no** OCR-recoverable mention of **D.R. Justesen**, **no** return of **Joseph C. Sharp** as a name string on the microwave WU 057 line, and **no** Tier-B "speech / nine words / voice-to-skull" lexicon in the WU 057 block (incidental "speech" in unrelated psychiatry work units is not microwave Tier B). This tightens the reading that **Tier B remains Justesen-anchored** against a stray APR name-drop.
+| Pattern                                                                | Result                                                                                                                                              |
+| ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Justesen`, `Jusiesen`, `Jestesen` (case-insensitive)                  | **No matches**                                                                                                                                      |
+| `Joseph C. Sharp` / `Joseph C\. Sharp` / `Sharp, J` as *microwave* PI  | **No** Joseph C. Sharp string (other "Joseph" / "Merck Sharp and Dohme" / "Sharpies" strings appear elsewhere in the volume for unrelated sections) |
+| `Grove` in WU 057 narrative body (outside Lenox/Gandhi citation lines) | **No** — only **Grove, H.M.** on Lenox/Gandhi/Meyerhoff enzyme-inactivation references (~13593, ~14525, ~14582)                                     |
+
+
+**Interpretation:** FY76 Vol II contains **no** OCR recoverable mention of **D.R. Justesen**, **no** return of **Joseph C. Sharp** on the microwave WU 057 line, and **no** Tier-B "speech / nine words / voice" lexicon in the WU 057 block beyond ordinary psychoacoustic "speech" in unrelated psychiatry work units. This tightens the "Tier B remains Justesen-anchored" reading against a stray APR name-drop.
 
 ---
 
@@ -149,13 +156,15 @@ The §2.B blood-brain-barrier work in FY76 — co-conducted with K.J. Oscar (Ame
 
 - **Oscar, K.J., & Hawkins, T.D. (1977).** Microwave alteration of the blood-brain barrier system of rats. *Brain Research*, 126(2), 281–293. DOI [10.1016/0006-8993(77)90726-0](https://doi.org/10.1016/0006-8993(77)90726-0); PMID [861720](https://pubmed.ncbi.nlm.nih.gov/861720/). **Elsevier / ScienceDirect (PII `0006899377907260`):** [https://www.sciencedirect.com/science/article/abs/pii/0006899377907260](https://www.sciencedirect.com/science/article/abs/pii/0006899377907260)
 
-**Full-text access (2026-05-02):** Unauthenticated `curl` to ScienceDirect returns **HTTP 403** with **`cf-mitigated: challenge`** (Cloudflare), not article HTML or PDF. [Europe PMC](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:861720&resulttype=core&format=json) returns `hasPDF` = **N** and full-text availability **S** (subscription DOI only). [OpenAlex](https://api.openalex.org/works/https://doi.org/10.1016/0006-8993(77)90726-0) reports `is_oa` = **false**, `oa_status` = **closed**. [Semantic Scholar Graph API](https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/0006-8993(77)90726-0?fields=openAccessPdf) returns `openAccessPdf.status` = **CLOSED** (2026-05-02). Discussion, acknowledgments, and in-PDF references beyond Crossref-deposited metadata still require **licensed access** or a **user-supplied PDF** in the workspace.
+**Full-text access (2026-05-02):** Unauthenticated `curl` to ScienceDirect returns **HTTP 403** with **`cf-mitigated: challenge`** (Cloudflare), not article HTML or PDF. [Europe PMC](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:861720&resulttype=core&format=json) returns `hasPDF` = **N** and full-text availability **S** (subscription DOI only). [OpenAlex](https://api.openalex.org/works/https://doi.org/10.1016/0006-8993(77)90726-0) reports `is_oa` = **false**, `oa_status` = **closed**. [Semantic Scholar Graph API](https://api.semanticscholar.org/graph/v1/paper/DOI:10.1016/0006-8993(77)90726-0?fields=openAccessPdf) returns `openAccessPdf.status` = **CLOSED**. Discussion, acknowledgments, and in-PDF references beyond Crossref-deposited metadata still require **licensed access** or a **user-supplied PDF** in the workspace.
 
-**PubMed LinkOut (2026-05-02):** `elink.fcgi?dbfrom=pubmed&id=861720&cmd=llinks` returns a single **Elsevier Science** full-text object, URL [https://linkinghub.elsevier.com/retrieve/pii/0006-8993(77)90726-0](https://linkinghub.elsevier.com/retrieve/pii/0006-8993(77)90726-0), category **Full Text Sources**, attribute **`subscription/membership/fee required`**. A plain `curl` GET of that LinkingHub URL returns **HTTP 200** with a **2-second meta-refresh** to ScienceDirect `.../article/pii/0006899377907260?via%3Dihub` (small redirect shell only — **no** article body or PDF in the response).
+**PubMed LinkOut (2026-05-02):** `elink.fcgi?dbfrom=pubmed&id=861720&cmd=llinks` returns a single **Elsevier Science** full-text object, URL [https://linkinghub.elsevier.com/retrieve/pii/0006-8993(77)90726-0](https://linkinghub.elsevier.com/retrieve/pii/0006-8993(77)90726-0), category **Full Text Sources**, attribute **`subscription/membership/fee required`**. Plain `curl` GET of that LinkingHub URL returns **HTTP 200** with a **2-second meta-refresh** to ScienceDirect `.../article/pii/0006899377907260?via%3Dihub` (small redirect shell only — **no** article body or PDF).
+
+**PubMed abstract layer (2026-05-02):** `efetch.fcgi?db=pubmed&id=861720&retmode=xml` — MEDLINE abstract is **BBB / saccharide permeability only** (1.3 GHz, 20 min single exposure, pulsed vs CW, mannitol/inulin/dextran, regional medulla > cerebellum > hypothalamus, immediate and 4 h vs 24 h, pulse-parameter sensitivity). **Keyword scan** of the returned XML (`sharp`, `grove`, `justesen`, `speech`, `voice`, `walter`, `wrair`, `nine`, `word`) → **all false**. **OCR/typography note:** MEDLINE text has **`mW/sp. cm`** (likely **`mW/cm²`**); do not over-read the unit token when quoting from PubMed alone.
 
 **Crossref reference metadata (2026-05-02):** `GET https://api.crossref.org/works/10.1016/0006-8993(77)90726-0` — `message.reference` contains **34** entries; concatenated scan of `article-title`, `journal-title`, `author`, and `unstructured` fields finds **no** **Sharp**, **Grove**, **Justesen**, **Walter Reed**, **WRAIR**, **speech**, **voice**, or **intelligib** strings.
 
-**PubMed abstract layer (2026-05-02):** `efetch.fcgi?db=pubmed&id=861720&retmode=xml` — MEDLINE abstract is **BBB / saccharide permeability only** (1.3 GHz, 20 min single exposure, pulsed vs CW, mannitol/inulin/dextran, regional medulla > cerebellum > hypothalamus, immediate and 4 h vs 24 h, power-window wording). **Keyword scan** of the returned XML (`sharp`, `grove`, `justesen`, `speech`, `voice`, `walter`, `wrair`, `nine`, `word`) → **all false**. The deposited abstract ends: *"Our findings suggest that microwaves induce a temporary change in the permeability for small molecular weight saccharides in the blood-brain barrier system of rats."* **OCR/typography note:** MEDLINE text has **`mW/sp. cm`** (likely **mW/cm²**); do not over-read the unit token when quoting from PubMed alone.
+**PubMed “cited in” link (2026-05-02):** `elink.fcgi?dbfrom=pubmed&id=861720&cmd=neighbor_history&linkname=pubmed_pubmed_citedin` → `esearch` on the returned `WebEnv` / `QueryKey` yields **`count` = 17** citing PMIDs: `40311754,39104617,34298941,32945403,32672118,31463749,30558545,30481957,30023251,19305951,15150403,12782486,9441959,8748794,7039662,7136503,756056`. Batched `efetch` on those IDs and a **case-insensitive substring scan** of each `<PubmedArticle>` block for `sharp`, `grove`, `justesen`, `walter reed`, `wrair`, `speech`, `voice`, `microwave auditory`, `frey` → **zero** hits. **Caveat:** PubMed cited-in sets are **incomplete** vs. Web of Science / Scopus; this is still a useful negative on the **NLM-indexed** citing envelope.
 
 - This paper, and its follow-ons in the Oscar 1980-era Walter Reed Letterman/AFRRI documents, demonstrate that **WU 057's open output continued vigorously into the late 1970s — but along the BBB / dosimetry / behavioral-escape axes, not the auditory/speech axis.**
 
@@ -189,14 +198,16 @@ This was already extracted in the prior session and is consistent with the FY76 
 
 ## §A.8 Classification
 
-| Question | Answer | Confidence |
-|---|---|---|
-| Did WU 057 survive past FY74? | **Yes** — under new PI Hunt, project number `3A762758A824`, in the FY76 volume (ADA038320). | HIGH |
-| Did the speech / modulated-microwave / auditory-perception line return in FY76? | **No.** The FY76 narrative is dosimetry, BBB, audiogenic-seizure (≠ auditory perception), behavioral escape, enzyme inactivation, and tri-service administration. | HIGH |
-| Is there an FY75 (1 Jul 74 – 30 Jun 75) volume in the open record that could fill the gap year? | **No.** archive.org's WRAIR set has no FY75 entry; pplx and direct Solr queries return zero. The FY75 volume is either non-existent, unreleased, or undigitized. | HIGH |
-| Did Grove return to WRAIR-published work after FY74? | **Yes** — but as an engineer (Lenox/Gandhi/Meyerhoff/Grove 1976 enzyme-inactivation applicator paper), not as an auditory researcher. | HIGH |
-| Did the Oscar/BBB axis develop into the Oscar 1980 work that the V2K matrix relies on? | **Yes** — Oscar/Hawkins 1977 (Brain Research) is a direct descendant of FY76 §2.B, with K.J. Oscar (American University) as the consistent collaborator from FY76 onward. | HIGH |
-| Are FY80 / FY81 WRAIR APRs Grove/Sharp-relevant? | **No** — "Grove/Groves" hits resolve to Michael G. Groves (VC, scrub typhus); Sharp does not appear. | HIGH |
+
+| Question                                                                                        | Answer                                                                                                                                                                    | Confidence |
+| ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| Did WU 057 survive past FY74?                                                                   | **Yes** — under new PI Hunt, project number `3A762758A824`, in the FY76 volume (ADA038320).                                                                               | HIGH       |
+| Did the speech / modulated-microwave / auditory-perception line return in FY76?                 | **No.** The FY76 narrative is dosimetry, BBB, audiogenic-seizure (≠ auditory perception), behavioral escape, enzyme inactivation, and tri-service administration.         | HIGH       |
+| Is there an FY75 (1 Jul 74 – 30 Jun 75) volume in the open record that could fill the gap year? | **No.** archive.org's WRAIR set has no FY75 entry; pplx and direct Solr queries return zero. The FY75 volume is either non-existent, unreleased, or undigitized.          | HIGH       |
+| Did Grove return to WRAIR-published work after FY74?                                            | **Yes** — but as an engineer (Lenox/Gandhi/Meyerhoff/Grove 1976 enzyme-inactivation applicator paper), not as an auditory researcher.                                     | HIGH       |
+| Did the Oscar/BBB axis develop into the Oscar 1980 work that the V2K matrix relies on?          | **Yes** — Oscar/Hawkins 1977 (Brain Research) is a direct descendant of FY76 §2.B, with K.J. Oscar (American University) as the consistent collaborator from FY76 onward. | HIGH       |
+| Are FY80 / FY81 WRAIR APRs Grove/Sharp-relevant?                                                | **No** — "Grove/Groves" hits resolve to Michael G. Groves (VC, scrub typhus); Sharp does not appear.                                                                      | HIGH       |
+
 
 ---
 
