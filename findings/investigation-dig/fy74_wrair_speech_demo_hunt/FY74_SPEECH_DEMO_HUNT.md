@@ -7,6 +7,8 @@
 
 **Reporting period covered:** 1 July 1973 – 30 June 1974 (FY74) — i.e. the period containing Justesen's "28 September 1973" personal-communication date for the Sharp/Grove "speech-into-the-head" demonstration described in *American Psychologist* 30(3):391-401, March 1975 (PMID 1137231; DOI 10.1037/0003-066X.30.3.391).
 
+**Companion — NTIS project-line primaries (same folder):** `NTIS_PROJECT_1J662712AJ21_PRIMARY_TEXTS.md` indexes machine-readable text for **AD0758136** (Hawkins / **H. Mark Grove** / Heiple / Schrot, March 1973) and **DTIC_AD0747684** (Frey / Messenger / Eichert, June 1972, NTIS AD-747684), both on USAMERDC / WRAIR project **`1J662712AJ21`** — the documentary pair round 9 uses as **failed speech induction (1972)** vs **lethality/behavior bioeffects (1973)** on the same project number as the Sept 1973 demonstration attested only via Justesen 1975 Note 2.
+
 ---
 
 ## 1. Why this volume matters
