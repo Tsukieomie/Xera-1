@@ -128,6 +128,8 @@ From the HTML award table (verbatim strings, punctuation as captured):
 
 **Interpretation:** six-month Phase I, **USMC SYSCOM** channel, **under $100k** — consistent with breadboard risk reduction, not a program-of-record procurement.
 
+**SBIR-bulk vs Wayback-summary amount mismatch (data hygiene):** `medusa-contract-cluster-from-sbir-bulk.json` lists the WaveBand **Remote Personnel Incapacitation System** row as **`M67854-04-C-1012`**, Phase **I**, award year **2003**, amount **`69990.0000`**, agency tracking **`N032-0412`**, with **Topic Code blank** in that extract. The archived Navy summary page (`medusa-navysbir-wayback.html`) instead shows **`99965.00`** and topic **`N03-163`** in the visible award table. **Do not over-fit the dollar figure or topic-code field across extracts** without reconciling which database row maps 1:1 to the Wayback snapshot; treat the **Wayback HTML** as the **displayed** program summary anchor and the **bulk JSON** as a **separate index projection** that can drift on nullable columns.
+
 ### 11.2 Objective paragraph — acronym, mechanism, phenomenology (not speech)
 
 The objective `<span>` text (Wayback capture) defines MEDUSA and ties it to MAE. Notable details:
@@ -196,6 +198,20 @@ Internet Archive and forum bundles sometimes tag material with **`voice of god` 
 ### 12.5 Wired (Dec 2007) — early headline tying **“Voice of God”** to **LRAD** in major press
 
 *Wired* published **“The Voice of God Weapon Returns”** (URL slug `the-voice-of-go`, Dec 2007) — an early **mainstream-tech-press** instance of the nickname in a **weapon / NLW** frame: [https://www.wired.com/2007/12/the-voice-of-go/](https://www.wired.com/2007/12/the-voice-of-go/). Later explainers (e.g. [Forbes, 2020](https://www.forbes.com/sites/markcancian/2020/09/18/will-dod-deploy-a--heat-ray-and-the-voice-of-god-against-demonstrators/), [Popular Science](https://www.popsci.com/story/technology/heat-weapon-active-denial-system-ads-lrad-explained/)) repeat **LRAD** as **“voice of God”** alongside **ADS** as **“heat ray,”** still treating them as **distinct** systems. **Caveat:** tracing the **first** spoken use in Iraq or elsewhere is beyond this repo’s primary-archive scope; the chain above is sufficient to show the nickname was **journalism- and operator-culture-driven** on the **acoustic** side, not derived from the **WaveBand MEDUSA** SBIR HTML.
+
+### 12.6 Wired Dec 2007 (Wayback HTML) — **LRAD “Voice of God”** chain **and** a **microwave MAE** paragraph in the **same** article (press mixing)
+
+A Wayback **raw HTML** capture of *Wired* **“The Voice of God Weapon Returns”** (`http://www.wired.com/2007/12/the-voice-of-go/`, capture **20140416132938**, `https://web.archive.org/web/20140416132938id_/http://www.wired.com/2007/12/the-voice-of-go/`) lets us quote the **body** without the live site’s modern JS shell.
+
+**Directed-sound / LRAD block (acoustic channel).** The article cites **Holosonic Research Labs** and **American Technology Corporation** as vendors of directed sound, notes **DARPA** work on a **“sonic projector,”** then writes (ellipsis in square brackets marks a skip of navigation chrome in the plain-text extract):
+
+> … **Strategy Page** reports that troops are using the **Long Range Acoustic Device** as a **modified Voice of God weapon**: It appears that some of the troops in **Iraq** are using **"spoken"** (as opposed to **"screeching"**) **LRAD** to mess with enemy fighters. … **LRAD** can put the **"word of God"** into their heads. If God, in the form of a **voice that only you can hear**, tells you to surrender, or run away, what are you gonna do?
+
+**Microwave / MAE block (RF channel) — same article, same scroll.** Immediately after CNET / *Paranormal State* advertising aside, the piece continues:
+
+> Beyond directed sound, it’s long been known that **microwaves** at certain frequencies can produce an **auditory effect** that sounds like it’s coming from **within someone’s head** (and there’s the nagging question of **classified microwave work at Brooks Air Force Base**, that the Air Force stubbornly refuses to talk about). That brings us back to the **Voice of God/Allah Weapon**. Is it real or bogus?
+
+**Why this matters for investigation hygiene:** in **one December 2007 *Wired* column**, the author **stitches** (a) **LRAD / “voice only you hear”** tactical lore, (b) **Holosonics / ATC** directed-audio marketing, (c) **DARPA sonic projector** rumor-space, and (d) **microwave auditory effect + Brooks classified-work** rumor-space — then asks a single “real or bogus?” question about **“Voice of God/Allah Weapon.”** That is **Tier‑5 / journalism** texture: it helps explain **why** later readers **merge LRAD nicknames with MAE / MEDUSA / V2K** on social media, but it is **not** a primary program record that **equates** WaveBand MEDUSA with LRAD or with a Brooks fielded system.
 
 ## 13) EPIC sibling line — quantitative bulk row (Invocon) vs SNC press capture (WaveBand)
 
