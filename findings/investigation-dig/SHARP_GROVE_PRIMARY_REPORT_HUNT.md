@@ -245,6 +245,27 @@ The matrix already treats Lin 2022 as **mechanism/phenomenology**, not speech cl
 
 **Contrast with Lin 1980 (§§1.37–1.38):** *Proc. IEEE* 1980 **does** include Sharp 1974 in Crossref + OpenAlex graphs; **Lin 2022 J-ERM includes neither Sharp 1974 nor Justesen *Am Psych* 1975** in those same machine layers. That is consistent with **progressive narrowing** of the IEEE-review reference graph toward **mechanism + health-physics** threads, leaving the **nine-word** narrative **outside** the structured bibliography even when Lin 1978 monograph **prose** still carried the Justesen speech description (human-verified in prior passes, not re-OCR’d here).
 
+### 1.40 Springer handbook deposit restores bibliographic coupling J-ERM standalone drops (2026-05-02)
+
+Lin’s MAE prose appears both as standalone **IEEE J-ERM article** [`10.1109/jerm.2021.3062826`](https://doi.org/10.1109/jerm.2021.3062826) (§1.39 omits **`W4213062251` / `W2089706740`**) **and** as **Springer volume chapters** ISBN **978-3-030-64544-1**. The **`citing(Justesen) ∩ citing(Sharp-1974)`** singleton in §1.37 (**`10.1007/978-3-030-64544-1_10`**) is the linkage target.
+
+Crossref handbook chapter **`10.1007/978-3-030-64544-1_10`** (*Applied Aspects and Applications*) — **`reference`** list **88** rows:
+
+| Crossref-ref index | Verbatim-shape summary |
+| --- | --- |
+| **19** | `Justesen DR (1975) Microwaves and behavior. Am Psychol 30:391–401` |
+| **67** | `Sharp JC, Grove HM, Gandhi OP (1974) Generation of acoustic signals by pulsed microwave energy. IEEE Trans Microw Theory Tech 22:583–584` |
+
+**OpenAlex:** [`W3211355265`](https://openalex.org/W3211355265) — **`referenced_works` 76** — **includes** [`W4213062251`](https://openalex.org/W4213062251) **and** [`W2089706740`](https://openalex.org/W2089706740) (membership aligns with Crossref lines above).
+
+Sibling chapter **10.1007/978-3-030-64544-1_7** (*Mechanisms for Microwave to Acoustic Energy Conversion*): **42** reference rows — **Sharp/Grove/Gandhi 1974** (Crossref-ref **~34**) **without** a Justesen *Am Psych* line in scanned reference fields (**Sharp-without-Justesen** at chapter granularity).
+
+Duplicate-title chapter **10.1007/978-3-030-64544-1_6** (“*The Microwave Auditory Effect*”): **61** references; **serialized `message` JSON** scan yields **zero** hits on `justesen`, `sharp`, `grove`, or doi-ish substrings **`1128293` / `0003-066x`** — chapter `_6`’s cite table **does not** mirror handbook `_10`’s bundled anchors in this Crossref snapshot despite shared wording with standalone J‑ERM.
+
+**Lin 2022 cites (OpenCitations):** `https://opencitations.net/index/api/v2/citations/doi:10.1109/jerm.2021.3062826` returned **20** edges in-session vs OpenAlex **`cited_by_count: 27`** — reinforces **multi-index** cite checks.
+
+**T2 takeaway:** **publisher/book packaging** (`_10`) re-establishes **dual coupling** stripped from standalone **J-ERM** graphs; **still no** Sharp/Grove **speech-protocol** primary beyond Justesen.
+
 ### 1.4 ARPA / Pandora institutional record
 
 The institutional record on Project Pandora and Project Bizarre (the ARPA
