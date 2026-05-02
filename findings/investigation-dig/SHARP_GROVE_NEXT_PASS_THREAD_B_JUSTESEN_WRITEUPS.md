@@ -342,6 +342,18 @@ Enumerated **`meta.count`** = **9** works—**microwave oven safety**, IMS sympo
 
 **Net:** There is **no located print record** stating “Justesen exaggerated Sharp/Grove” or documenting a **focused** exchange solely on Note 2. What **does** exist is **standard acknowledgment of industrial peer pushback** (Osepchuk / Raytheon) with **dissent signaled in general terms**, plus a **thin** formal citation aftermath that **never forces** Sharp/Grove speech into a disputed-results column. A **heavyweight contemporaneous‑era Air Force bibliography review** reachable from IA **similarly skips** Justesen **1975 APA** speech content while absorbing Sharp **1974**.
 
+### F. Addendum — OpenCitations COCI, PMS “generic cite,” PMC/S2 hygiene (2026‑05‑03)
+
+**COCI requires redirect follow.** `curl -L` to `https://opencitations.net/index/api/v2/citations/doi:10.1037/0003-066x.30.3.391` returns **`[]` if redirects are not followed**; with **`-L`** the edge list **matches** Crossref/OpenAlex **six** citing DOIs (creation dates **1977-11**, **1980-09-05**, **1986-06**, **2021**, etc.)—**no hidden seventh** citer in COCI for this DOI string in-session.
+
+**`10.2466/pms.1986.62.3.831` (Perceptual and Motor Skills rat thermoregulation)**—Crossref **`reference`** blob includes **`DOI: 10.1037/0003-066X.30.3.391`** as **`bibr5`**, while OpenAlex’s deposited **abstract text** (!) contains **zero** “Justesen,” “Sharp,” or “American”—i.e. likely a **bibliography / background** hook to the general **microwave + behavior** discourse, **not** substantive engagement with Note 2. Useful only as a **negative illustration** of how the six-paper graph can **inflate** “cited by” without deepening T2.
+
+**PubMed Central `esearch` probes:** `Justesen AND Sharp AND microwave AND hearing` → **`count: 0`**. Quoted title + author query returns many **unrelated** PMCIDs (term explosion on “Microwaves … behavior” substring); **manual disambiguation required** for any follow-on—no automated smoking-gun abstract in that hit list was evaluated by hand in this pass.
+
+**Semantic Scholar** public API returned **HTTP 429** on a free-text search attempt in-session; no S2 secondary-citation layer added here.
+
+**Glaser 1975 NMRI bibliography / `ADA025354`:** direct `apps.dtic.mil/sti/pdfs/ADA025354.pdf` → **`Request Blocked`** (same bot-wall as other STI PDFs). **Archive.org** Solr `ADA025354` → **no** mirror in-session; **IA full-text** archive search `Justesen AND Sharp AND title:microwave` → **0** hits (expected: most DTIC PDFs are **not** OCR-indexed as `text:` fields).
+
 ---
 
 ## Appendix: Key Factual Corrections from This Investigation
