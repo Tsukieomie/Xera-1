@@ -233,6 +233,18 @@ The OpenCitations Index API requires **HTTPS + redirect follow** (`curl -L`); ba
 
 **Synthesis:** across **Crossref reference strings** (§1.37), **OpenAlex dereferenced reference graph**, and **COCI incoming-only strength** for APA DOIs, the **IEEE-side canonical review** (Lin *Proc.* 1980) **does not** attach the psychology-journal Sharp/Grove speech anchor in machine-readable bibliography layers — sharpening the interpretation that **speech-channel lore stayed psychology-corpus-local** unless a paper explicitly bridged it (cf. **Chou** Crossref bundle in §1.35).
 
+### 1.39 Lin **2022** J-ERM review — **neither** Justesen *Am Psych* **nor** Sharp 1974 in machine-resolved reference layers (2026-05-02)
+
+The matrix already treats Lin 2022 as **mechanism/phenomenology**, not speech closure. This pass **machine-checks** that the modern review’s **deposited bibliography** does not quietly reattach the speech-demo anchor as a structured reference.
+
+**Work:** *The Microwave Auditory Effect*, **IEEE J. Electromagn. RF Microwaves Med. Biol.** (J-ERM), resolved in Crossref as DOI [`10.1109/jerm.2021.3062826`](https://doi.org/10.1109/jerm.2021.3062826) (publisher year **2021** in Crossref metadata; bibliographically cited as **Lin 2022** in this corpus). OpenAlex: [`W3135162477`](https://openalex.org/W3135162477).
+
+**Crossref `reference` list:** **75** rows. Case-insensitive scan of `article-title` + `unstructured` JSON text for `justesen`, `sharp`, `grove`, `american psycholo`, `speech`, `voice` → **no hits** (the sole `psychol` substring is **unrelated** — *Fundamentals of Experimental Psychology*, Sheridan 1971, `volume-title` field).
+
+**OpenAlex `referenced_works`:** **72** IDs. Membership check: **neither** [`W4213062251`](https://openalex.org/W4213062251) (Justesen *Microwaves and behavior.*) **nor** [`W2089706740`](https://openalex.org/W2089706740) (Sharp **1974** IEEE T-MTT mechanism letter) appears. Full-title dereference pass (keyword filter) still surfaces **Frey & Messenger 1973** *Science* paper, **Frey 1971** *IEEE T-MTT*, **Justesen et al.** 1975 *J Comp Physiol Psychol* ([`10.1037/h0076662`](https://doi.org/10.1037/h0076662)) — same **non–*Am Psych*** Justesen edge seen for Lin 1980 (§1.38) — plus generic psych/biophysics refs (e.g. **Frey 1965**, *Psychol Bull* review).
+
+**Contrast with Lin 1980 (§§1.37–1.38):** *Proc. IEEE* 1980 **does** include Sharp 1974 in Crossref + OpenAlex graphs; **Lin 2022 J-ERM includes neither Sharp 1974 nor Justesen *Am Psych* 1975** in those same machine layers. That is consistent with **progressive narrowing** of the IEEE-review reference graph toward **mechanism + health-physics** threads, leaving the **nine-word** narrative **outside** the structured bibliography even when Lin 1978 monograph **prose** still carried the Justesen speech description (human-verified in prior passes, not re-OCR’d here).
+
 ### 1.4 ARPA / Pandora institutional record
 
 The institutional record on Project Pandora and Project Bizarre (the ARPA
