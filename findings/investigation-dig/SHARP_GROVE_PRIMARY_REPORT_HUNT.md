@@ -266,6 +266,14 @@ Duplicate-title chapter **10.1007/978-3-030-64544-1_6** (“*The Microwave Audit
 
 **T2 takeaway:** **publisher/book packaging** (`_10`) re-establishes **dual coupling** stripped from standalone **J-ERM** graphs; **still no** Sharp/Grove **speech-protocol** primary beyond Justesen.
 
+### 1.41 Duplicate DOI packaging — handbook `_6` vs IEEE J‑ERM, citing edge, Foster 2022 negative (2026-05-02)
+
+**Lin J‑ERM as two distinct OpenAlex works:** Springer chapter DOI **`10.1007/978-3-030-64544-1_6`** maps to **[`W4240494194`](https://openalex.org/W4240494194)** (*The Microwave Auditory Effect*, **`referenced_works` 49**) — confirming §1.40’s observation that **`W4213062251` / `W2089706740` are absent** from that graph. Standalone IEEE J‑ERM **[`10.1109/jerm.2021.3062826`](https://doi.org/10.1109/jerm.2021.3062826)** remains **[`W3135162477`](https://openalex.org/W3135162477)** (**72** references; §1.39). **Same human-facing title ≠ same bibliography object** across publisher channels.
+
+**Who cites handbook `_10`?** OpenAlex `filter=cites:W3211355265` returns **`meta.count = 1`**: **`10.1007/978-3-030-64544-1`** (“*Auditory Effects of Microwave Radiation*”), i.e. the **parent handbook DOI/book record**, not downstream reviews — partly explaining why **COCI’s Justesen∩Sharp cite intersection** collapses toward **publisher-cluster** edges.
+
+**Third-party spine — Foster / Garrett / Ziskin (2022 *Frontiers in Public Health*):** PMC mirror [PMC8733248](https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/). Crossref DOI [`10.3389/fpubh.2021.788613`](https://doi.org/10.3389/fpubh.2021.788613), OpenAlex [`W4200290987`](https://openalex.org/W4200290987). Deposited **`reference` list:** **only 12 rows** — **zero** lexical hits on `justesen`, `sharp`, `grove`, *American Psychologist*, or “generation of acoustic” in **`article-title`** / **`unstructured`** blobs. **`referenced_works` membership:** **does not** include **`W4213062251`**, **`W2089706740`**, or **`W3135162477`** (Lin J‑ERM 2022). This **re-grounds** the matrix row that Foster *et al.* is **mechanism / practicality / weapon-framing**, **not** a bibliographic funnel that restores the Sharp/Grove speech chain for T2.
+
 ### 1.4 ARPA / Pandora institutional record
 
 The institutional record on Project Pandora and Project Bizarre (the ARPA
