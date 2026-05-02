@@ -15,6 +15,7 @@
 |--------|--------|
 | [Europe PMC](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:861720&resulttype=core&format=json) | Abstract and bibliographic record returned; `fullTextUrlList` shows **subscription** DOI link only; `hasPDF` = **N**. |
 | [OpenAlex](https://api.openalex.org/works/https://doi.org/10.1016/0006-8993(77)90726-0) | `open_access.is_oa` = **false**; `oa_status` = **closed**; no repository PDF indexed. |
+| [PubMed `efetch` (MEDLINE XML)](https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?db=pubmed&id=861720&retmode=xml) | Returns citation, abstract, MeSH, and DOI — **no** `ReferenceList` / bibliography block in the MEDLINE deposit (expected for this era); **no** Sharp/Grove/Justesen strings in the XML body. |
 
 Full text of the PDF body was **not** retrieved here; conclusions below are limited to **Crossref’s deposited reference list** (bibliography metadata), not to in-PDF discussion paragraphs.
 
@@ -67,13 +68,27 @@ These support the **Tier A** (microwave hearing / thermoacoustic) literature con
 |---------|-------------|--------------|
 | Stream “djvu.txt” | `https://archive.org/stream/.../..._djvu.txt` | **200** but body is **HTML shell** (not OCR text) |
 | CDN PDF | `https://archive.org/download/.../...pdf` → `dn710104.ca.archive.org/.../...pdf` | **401 Authorization Required** |
+| CDN EPUB | `https://archive.org/download/.../...epub` | **401 Authorization Required** (same class as PDF) |
+| CDN `djvu.xml` | `https://archive.org/download/.../..._djvu.xml` (after redirect) | **401 Authorization Required** |
 
 So from this workspace, **page-image OCR verification** of Brodeur (chapters / pp. cited in secondary sources) remains **blocked** without credentials, on-site download, or a user-provided copy. The round-5 caveat in `FY74_SPEECH_DEMO_HUNT.md` (unreliable web-fetch paraphrase) still applies.
 
 ---
 
-## 6) Cross-links
+## 6) Workspace tooling installed (2026-05-02)
+
+For PDF text extraction, merge/split checks, and OCR passes on any user-supplied scans, this environment now includes (via `apt-get` on Ubuntu 24.04):
+
+- **poppler-utils** (`pdftotext`, `pdfinfo`, …) — version **24.02.0** at install time  
+- **tesseract-ocr** + **tesseract-ocr-eng** — **5.3.4** at install time  
+- **qpdf** — **11.9.0** at install time  
+- **wget**, **ca-certificates** (fetch hygiene)
+
+**Parallel CLI** remains at `/root/.local/bin/parallel-cli` (**0.2.0**); `parallel-cli auth` still requires `PARALLEL_API_KEY` or `parallel-cli login` (not set in this workspace).
+
+---
+
+## 7) Cross-links
 
 - `FY74_SPEECH_DEMO_HUNT.md` (round synthesis; Brodeur carry)  
-- `DEEPER_DIG_7_ADDENDUM.md` (Oscar/Hawkins URSI 1975 → 1977 arc)  
-- `GROVE_VS_GROVES_NAME_NOTE.md` (engineer naming discipline)
+- `DEEPER_DIG_7_ADDENDUM.md` (Oscar/Hawkins URSI 1975 → 1977 arc)
