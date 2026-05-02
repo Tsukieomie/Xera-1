@@ -32,6 +32,7 @@
 - archive.org's `Walter Reed Annual Progress` collection contains **no** entry between ADA009337/9338 (FY74) and ADA038319/8320 (FY76).
 - A targeted `pplx search web` for "WRAIR Annual Progress Report FY75 1975 ADA0 archive.org" and three variant queries returned only adjacent-year hits (FY83 and an NLM catalog stub), no FY75 record.
 - A direct archive.org Solr query (`title:("Walter Reed" "Annual Progress" "1975")`) returned `numFound: 0`.
+- **2026-05-02 additional Solr passes (same negative class):** `title:(("Walter Reed" AND "Annual Progress") AND (title:1974 OR title:1975 OR title:1976))` → `numFound: 0`; `ADA019* AND mediatype:texts` → `numFound: 0` (no stray FY75-sized `ADA019xxx` item in the IA mirror); `WRAIR AND "1 July 1974"` → `numFound: 0`. Still **no** discrete FY75 (1 Jul 74 – 30 Jun 75) WRAIR Annual Progress item indexed like the FY74/FY76 DTIC pair.
 
 ### Possible explanations (not mutually exclusive)
 
@@ -132,9 +133,9 @@ The two share only the substring "audio." The FY76 audiogenic-seizure work (Hawk
 
 The §2.B blood-brain-barrier work in FY76 — co-conducted with K.J. Oscar (American University) — is the WU 057 thread that produced the **most-cited subsequent open-literature output**:
 
-- **Oscar, K.J., & Hawkins, T.D. (1977).** Microwave alteration of the blood-brain barrier system of rats. *Brain Research*, 126(2), 281–293. DOI [10.1016/0006-8993(77)90726-0](https://doi.org/10.1016/0006-8993(77)90726-0); PMID [861720](https://pubmed.ncbi.nlm.nih.gov/861720/). **Elsevier / ScienceDirect landing page (same article, PII `0006899377907260`):** [https://www.sciencedirect.com/science/article/abs/pii/0006899377907260](https://www.sciencedirect.com/science/article/abs/pii/0006899377907260)
+- **Oscar, K.J., & Hawkins, T.D. (1977).** Microwave alteration of the blood-brain barrier system of rats. *Brain Research*, 126(2), 281–293. DOI [10.1016/0006-8993(77)90726-0](https://doi.org/10.1016/0006-8993(77)90726-0); PMID [861720](https://pubmed.ncbi.nlm.nih.gov/861720/). **Elsevier / ScienceDirect (PII `0006899377907260`):** [https://www.sciencedirect.com/science/article/abs/pii/0006899377907260](https://www.sciencedirect.com/science/article/abs/pii/0006899377907260)
 
-**Access probe (automation / headless client, 2026-05-02):** `curl` to that ScienceDirect URL returns **HTTP 403** with response headers **`cf-mitigated: challenge`** and **`server: cloudflare`** — i.e. the HTML shell is a **bot-interstitial / browser challenge**, not the article abstract or PDF. Full text still requires an **institutional subscription, personal Elsevier access, or a normal browser session** that completes Cloudflare. Crossref lists Elsevier TDM API endpoints for this PII (`api.elsevier.com/content/article/...?httpAccept=text/xml|text/plain` with `intended-application: text-mining`); those also expect **registered TDM / API credentials**, not anonymous curl.
+**Full-text access (2026-05-02):** Unauthenticated `curl` to ScienceDirect returns **HTTP 403** with **`cf-mitigated: challenge`** (Cloudflare), not article HTML or PDF. [Europe PMC](https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:861720&resulttype=core&format=json) returns `hasPDF` = **N** and full-text availability **S** (subscription DOI only). [OpenAlex](https://api.openalex.org/works/https://doi.org/10.1016/0006-8993(77)90726-0) reports `is_oa` = **false**, `oa_status` = **closed**. Discussion, acknowledgments, and in-PDF references beyond Crossref-deposited metadata still require **licensed access** or a **user-supplied PDF** in the workspace.
 
 - This paper, and its follow-ons in the Oscar 1980-era Walter Reed Letterman/AFRRI documents, demonstrate that **WU 057's open output continued vigorously into the late 1970s — but along the BBB / dosimetry / behavioral-escape axes, not the auditory/speech axis.**
 
