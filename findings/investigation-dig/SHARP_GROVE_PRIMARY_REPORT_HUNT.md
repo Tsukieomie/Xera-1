@@ -915,3 +915,50 @@ The §6.7 conclusion — that **Justesen 1975 (*American Psychologist*) remains 
 Full forensic detail (verbatim transcription of the "Modulated microwave signals" section, FY74 investigator roster delta vs FY73, full WU 057 narrative outline, false-positive disambiguation of WU 031 Military Psychiatry / WU 112 Drugs of Abuse, and recommended further-inquiry threads): see **`fy74_wrair_speech_demo_hunt/FY74_SPEECH_DEMO_HUNT.md`** (companion file).
 
 Local PDFs + OCR archived in `findings/investigation-dig/fy74_wrair_speech_demo_hunt/`.
+
+---
+
+## §9. AD758136 in-repo lexical pass + Frey 1998 PMID reference-list audit (2026-05-06)
+
+**Goal:** Narrow the Sharp/Grove “intelligible speech” (T2) question by exhausting an accessible Hawkins/Grove contemporaneous NTIS/WRAIR primary that had been floated as a possible hidden speech-protocol sibling.
+
+### §9.1 Hawkins / Grove / Heiple / Schrot, March 1973 (NTIS AD758136)
+
+DjVu-derived OCR corpus: **`_deeper_dig_pass2/AD758136_djvu.txt`** (workspace root).
+
+- **Front matter** matches known metadata: Grove + Hawkins listed as Microwave Research Dept WRAIR; MERADCOM / IAO **1247 / 2544**; Project **1J662712AJ21**.
+- **Abstract** describes only **3000 MHz rat lethality** and a **concurrent behavioural performance / frequency-dependence** study — no human subjects, no RF hearing, no speech, no voice modulation.
+- **Full-text keyword scan** (speech / voice / hearing / auditory / Sharp / Frey in reference-adjacent regions) returns **no substantive hits** in the readable OCR layer.
+- **Reference list** (printed page ~32 in OCR) begins with Hoeft, **Justesen & King (1969)** symposium, Kritikos & Schwan, Michaelson, Susskind — **no** Frey & Messenger *Science* 1973; **no** Sharp/Grove/Gandhi 1974 IEEE T-MTT.
+
+**Net impact on T2:** AD758136 is **strong positive evidence for Grove + Hawkins on the rat hazards / operant-decrement track** Oscar 1980 later cites Ref 2 for — and **negative evidence against** treating this document as the “missing Sharp/Grove speech TR.” An overstated speculative link in **`BECKER_1985_AND_AD_A090426_DEEP_DIG.md`** §§2.4–4 is formally corrected toward this reading.
+
+Companion synthesis: **`SHARP_GROVE_INTELLIGIBLE_SPEECH_DEEP_DIGEST_2026-05-06.md`** (scoped T2 digest: what “intelligent speech” asserted, what closes vs stays open).
+
+### §9.2 Frey 1998 PMID 9441959 (*Environmental Health Perspectives* 106(3):101-103)
+
+`efetch.fcgi` structured record (2026-05-06) shows **Oscar/Hawkins 1977 PMID 861720** appearing in PubMed-delivered **`ReferenceList`**, consistent with DEEPER_DIG round-6’s paraphrase of Frey’s BBB line.
+
+**Not** present in that machine-supplied reference table: **Justesen 1975**, **Sharp**, **Grove**, **Sharp/Grove/Gandhi 1974** — i.e. Frey’s cross-citation **does not** independently anchor the Sharp/Grove nine-word story; it links **cell-phone headache** discourse to **BBB + RF hearing history** using Oscar/Hawkins as one BBB brick.
+
+PMC BioC for **PMC1533043** still deposits **title + abstract only** in this environment; **full article body** was not re-OCR’d here.
+
+### §9.3 §8.3 reaffirmation
+
+**Justesen 1975 (*American Psychologist*) remains the sole unclassified peer-reviewed prose** that states the nine-word voice-modulation outcome and attributes it to **Sharp & Grove** via **personal communication, 28 September 1973**. AD758136 and Frey 1998 **do not** add new protocol-grade speech evidence; they **respectively collapse a false surrogate lead** (AD758136) and **confirm BBB citation hygiene** distinct from Sharp/Grove speech canon (PMID 9441959 structured refs).
+
+### §9.4 Frey / Messenger / Eichert 1972 (NTIS AD747684) — PDF + extract archived in-repo (2026-05-06)
+
+Internet Archive [`DTIC_AD0747684`](https://archive.org/details/DTIC_AD0747684) PDF is mirrored at **`findings/investigation-dig/primary/DTIC_AD0747684_Frey_Messenger_Eichert_1972_rf_sound.pdf`** with `pdftotext` layer **`DTIC_AD0747684_extracted.txt`** (same directory). Document lists **Project # 1J662712-AJ21** and contract **DAAK02-71-C-0213** (Randomline / USAMERDC).
+
+Abstract/summary states **Phase 3** explored whether **perception of speech** could be induced; **vocoder-style approaches did not generate speech**; **periodicity-pitch rules did not yield perceived RF speech**. This is Oscar 1980 **Ref 1** (phenomenology line before the “intelligible speech may be created” rationale) and a **documented failed speech-construction path on the shared project number** — methodologically **not** the same encoding as Justesen’s Sharp/Grove negative zero-crossing voice modulation (see digest **`SHARP_GROVE_INTELLIGIBLE_SPEECH_DEEP_DIGEST_2026-05-06.md` §6**).
+
+### §9.4bis Chou / Guy / Foster / Galambos / **Justesen**, *Science* 1980 (OpenAlex corpus correction)
+
+OpenAlex query `works?filter=cites:W4213062251` returns six works (1977–2021). **One** hit is not “Justesen being cited from outside” — **Justesen is fifth author** on *Holographic Assessment of Microwave Hearing* ([PubMed PMID 7403877](https://pubmed.ncbi.nlm.nih.gov/7403877/), DOI [`10.1126/science.7403877`](https://doi.org/10.1126/science.7403877)). Frozen Crossref deposit (JSON path below) lists **`10.1037/0003-066X.30.3.391`** (*Am Psychologist* Sharp/Grove note) **and** Sharp *IEEE Transactions on Microwave Theory and Techniques* **22**:583 mechanism letter **as coexisting references**.
+
+**Evidence file:** [`findings/investigation-dig/primary/crossref_snapshots/workbench_chou_science_1980_7403877_crossref.json`](primary/crossref_snapshots/workbench_chou_science_1980_7403877_crossref.json). AAAS PDF body remains paywalled; tier discipline: holographic/cochlea **T1** spine, not Sharp/Grove **T2** protocol — **`SHARP_GROVE_INTELLIGIBLE_SPEECH_DEEP_DIGEST_2026-05-06.md` §§7–9**.
+
+### §9.5 Frey/Coren letters response (same *Science* bundle)
+
+[Frey AH, Coren E. Science letters; PMID 17841476](https://pubmed.ncbi.nlm.nih.gov/17841476/); DOI [`10.1126/science.209.4461.1144`](https://doi.org/10.1126/science.209.4461.1144). Contiguous methodological reply in the holographic microwave-hearing controversy; **no** linkage to Sharp/Grove digit speech verified without full-text read (carry-forward).
