@@ -62,14 +62,40 @@ Abstract text explicitly ties **three** threads (headache, microwave hearing his
 
 ---
 
-## 5. Bottom line on “digging deeper” this pass
+## 6. Frey / Messenger / Eichert 1972 (NTIS AD747684) — in-repo PDF + `pdftotext` (2026-05-06)
+
+Oscar 1980 cites this report as **Ref 1**, immediately before the “intelligible speech may be created” program-rationale sentence — so the document is load-bearing for **what the Army treated as established RF-sound phenomenology** a year before Sharp/Grove became a personal communication to Justesen.
+
+**Mirrors:** Internet Archive item [`DTIC_AD0747684`](https://archive.org/details/DTIC_AD0747684) (identifier uses leading zero). **This repo:** [`findings/investigation-dig/primary/DTIC_AD0747684_Frey_Messenger_Eichert_1972_rf_sound.pdf`](primary/DTIC_AD0747684_Frey_Messenger_Eichert_1972_rf_sound.pdf) (32 pp., unencrypted) and machine extract [`DTIC_AD0747684_extracted.txt`](primary/DTIC_AD0747684_extracted.txt).
+
+**Document control (extracted cover block):** Randomline, Inc.; “A psychophysical study of the rf sound phenomenon”; final report **Feb. 1971 – April 1972**, report date **June 1972**; contract **`DAAK02-71-C-0213`** (OCR also shows a `DMK02` typo on some lines); **Project # `1J662712-AJ21`** (same project line as AD758136 and the Justesen-dated Sharp/Grove demo per `DEEPER_DIG_9_ADDENDUM.md`).
+
+**Phase 3 abstract / summary language (verbatim core, `pdftotext` layer):**
+
+> *In phase three, we explored the possibility of determining if the perception of speech could be induced. It was found that aspects of vocoder technology could not be used to generate speech. It was also found that perceived rf sound can not be generated using the rules of the periodicity pitch phenomenon.*
+
+**Methodological contrast with Justesen’s Sharp/Grove account:** AD747684 tests **vocoder-style** and **periodicity-pitch** constructions of speech-like percepts and reports **failure** under those formalisms. It does **not** describe or test **negative zero-crossing modulation of a microwave carrier from a live voice recording** (Justesen’s encoding story). So this report is a **partial negative control** on *one* RF-speech construction family, **not** a disproof of Sharp/Grove — but it clarifies that **the same project number** hosted an **explicit, documented failed speech-induction path** in 1971–1972, fifteen months before September 1973.
+
+---
+
+## 7. OpenAlex “cites Justesen 1975” fan-out (six works)
+
+Query: `works?filter=cites:W4213062251` ([OpenAlex](https://openalex.org/W4213062251)) on 2026-05-06 returned **count = 6** — a **thin** citing layer vs the cultural weight of the APA article.
+
+Rough paraphrase of titles/years: three **1977** book chapters / reviews (diathermy, drug hyperthermia dosimetry, lymphocyte morphology); **1980** “Holographic Assessment of Microwave Hearing” + a **Response** item; **1986** behavioural thermoregulation; **2021** handbook-style “Applied Aspects and Applications.” **None** indexed as an independent replication of Sharp/Grove digit words; machine metadata alone does not show critiques of Justesen’s personal-communication paragraph (full text of each item not opened in this pass).
+
+---
+
+## 8. Bottom line (updated)
 
 | Source | Advances T2 speech protocol? |
 |------|-------------------------------|
 | Justesen 1975 (personal communication citation) | **Yes** — still the **only peer-reviewed prose** detailing method + “nine words” outcome. |
 | Hawkins/Grove AD758136 in-repo OCR | **No** — materially **shrinks** a false lead; confirms parallel **hazard/behaviour** program with Grove adjacent to Hawkins. |
+| **Frey AD747684 in-repo PDF/text** | **Context / negative control** — same **project #**; **explicit failed** vocoder / periodicity-pitch **speech** induction; **different modulation class** than Justesen’s Sharp/Grove pulse scheme. |
 | FY74 WRAIR WU057 “auditory study” prose | Partial — confirms institutional MAE characterization **without speech** wording (`FY74_SPEECH_DEMO_HUNT.md`). |
 | Oscar/Hawkins 1977 abstract | Negative for speech; citation network awaits full-text read. |
 | Frey 1998 PMID reference list | Links **Oscar 1977** into Frey corpus; omits Sharp/Grove primary chain. |
+| OpenAlex → 6 citing works | **Thin bibliometric neighborhood**; no obvious replication paper surfaced from titles alone. |
 
-**Next lawful actions with highest Sharp/Grove speech yield:** Elsevier Oscar/Hawkins 1977 PDF; Elsevier/OpenAccess wherever available for citations *to* Sharp/Grove; KU/archives inquiry for Justesen correspondence; retrieval of Brodeur 1977 page-images for contemporaneous wording (already queued).
+**Next lawful actions with highest Sharp/Grove speech yield:** Elsevier Oscar/Hawkins 1977 PDF; citations *to* Sharp/Grove outside APA; KU/archives inquiry for Justesen correspondence; Brodeur 1977 page-images; full text of **Guy / Chou / FIREM 1980 holographic microwave hearing** exchange as a possible technical discussion of mechanisms (not inspected here).

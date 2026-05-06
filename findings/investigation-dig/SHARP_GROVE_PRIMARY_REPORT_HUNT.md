@@ -946,3 +946,11 @@ PMC BioC for **PMC1533043** still deposits **title + abstract only** in this env
 ### §9.3 §8.3 reaffirmation
 
 **Justesen 1975 (*American Psychologist*) remains the sole unclassified peer-reviewed prose** that states the nine-word voice-modulation outcome and attributes it to **Sharp & Grove** via **personal communication, 28 September 1973**. AD758136 and Frey 1998 **do not** add new protocol-grade speech evidence; they **respectively collapse a false surrogate lead** (AD758136) and **confirm BBB citation hygiene** distinct from Sharp/Grove speech canon (PMID 9441959 structured refs).
+
+### §9.4 Frey / Messenger / Eichert 1972 (NTIS AD747684) — PDF + extract archived in-repo (2026-05-06)
+
+Internet Archive [`DTIC_AD0747684`](https://archive.org/details/DTIC_AD0747684) PDF is mirrored at **`findings/investigation-dig/primary/DTIC_AD0747684_Frey_Messenger_Eichert_1972_rf_sound.pdf`** with `pdftotext` layer **`DTIC_AD0747684_extracted.txt`** (same directory). Document lists **Project # 1J662712-AJ21** and contract **DAAK02-71-C-0213** (Randomline / USAMERDC).
+
+Abstract/summary states **Phase 3** explored whether **perception of speech** could be induced; **vocoder-style approaches did not generate speech**; **periodicity-pitch rules did not yield perceived RF speech**. This is Oscar 1980 **Ref 1** (phenomenology line before the “intelligible speech may be created” rationale) and a **documented failed speech-construction path on the shared project number** — methodologically **not** the same encoding as Justesen’s Sharp/Grove negative zero-crossing voice modulation (see digest **`SHARP_GROVE_INTELLIGIBLE_SPEECH_DEEP_DIGEST_2026-05-06.md` §6**).
+
+**OpenAlex bibliometrics:** `filter=cites:W4213062251` returns **six** citing works (1977–2021), a thin layer vs the article’s cultural footprint; no replication of Sharp/Grove surfaced from titles alone (digest **§7**).

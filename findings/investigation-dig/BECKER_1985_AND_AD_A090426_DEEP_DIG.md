@@ -97,7 +97,7 @@ Of Oscar's 41 numbered references, the citations relevant to the Sharp/Grove/WRA
 
 | # | Citation | Relevance |
 |---|---|---|
-| 1 | Frey, A.H., Messenger, R. and Eichert, E., NTIS Doc. No. **AD747684** (1972) | Likely-relevant Frey/Messenger primary on the phenomenology cited just before the speech sentence. New unverified target. |
+| 1 | Frey, A.H., Messenger, R. and Eichert, E., NTIS Doc. No. **AD747684** (1972) | Frey/Messenger RF-sound psychophysics; Oscar cites before speech sentence. **Mirrored in-repo:** [`primary/DTIC_AD0747684_Frey_Messenger_Eichert_1972_rf_sound.pdf`](primary/DTIC_AD0747684_Frey_Messenger_Eichert_1972_rf_sound.pdf) + [`primary/DTIC_AD0747684_extracted.txt`](primary/DTIC_AD0747684_extracted.txt). Phase 3: vocoder / periodicity-pitch **speech induction failed** (`SHARP_GROVE_INTELLIGIBLE_SPEECH_DEEP_DIGEST_2026-05-06.md` §6). |
 | 2 | **Hawkins, T.D., Grove, H.M., Heiple, T.W., and Schrot, J.**, NTIS Doc. No. **AD758136** (1973) | **WRAIR-era H.M. Grove primary report.** In-repo OCR body ([`AD758136_djvu.txt`](../../_deeper_dig_pass2/AD758136_djvu.txt); see digest `SHARP_GROVE_INTELLIGIBLE_SPEECH_DEEP_DIGEST_2026-05-06.md`) is lethality **3000 MHz** + behavioural frequency-effects in rats — **not** Sharp/Grove speech protocol. Fits Oscar’s citation as background on frequency-dependent lethality / seizures. |
 | 4 | Oscar, K.J. and Hawkins, T.D., *Brain Research* 126, 281–292 (1977) | Oscar's own prior peer-reviewed BBB-permeability work — precedes AD-A090426 by 3 years. |
 | 5 | Justesen, D.R., *IEEE Spectrum* 16, 67–68 (1979) | Justesen 1979 follow-up to his 1975 *American Psychologist* article. New unverified target. |
