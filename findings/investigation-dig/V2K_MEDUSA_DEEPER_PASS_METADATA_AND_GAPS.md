@@ -77,7 +77,7 @@ Cross-link prior repo use of the same article: `findings/03_Technology_Patents/3
 | T2 | **No upgrade.** §7 adds explicit T2-adjacent future-risk evidence (BrainBERT / DARPA N3) **without** retrofitting onto MEDUSA. §8 adds historical neural-decoding context (CBS/CMU "Mind Reading", Haynes intentions, UT semantic decoder) as **T2-adjacent future-risk only** — none of these are remote, none integrate with microwave-auditory delivery, and none close T2-conversational V2K. |
 | T3 | **Hygiene:** internal DB keys + **amount conflict flag** + archive/403 reproducibility notes. |
 | T4 | **No upgrade.** |
-| T5 | §6 reinforces safety-regime caveat as T1/T5 framing; §7 adds T1/T5 military-AI / neurotech context; §8 adds T1/T5 historical neural-decoding (CBS/CMU "Mind Reading"; Haynes intentions; UT semantic decoder; BrainBERT) and T1/T5 military neuro-signal-exploitation context (Silent Talk, CT2WS, Army MIND). |
+| T5 | §6 reinforces safety-regime caveat as T1/T5 framing; §7 adds T1/T5 military-AI / neurotech context; §8 adds T1/T5 historical neural-decoding (CBS/CMU "Mind Reading"; Haynes intentions; UT semantic decoder; BrainBERT) and T1/T5 military neuro-signal-exploitation context (Silent Talk, CT2WS, Army MIND); §9 consolidates output / input / RF-bioeffects lanes into a **bridge-negative** conclusion — the public record does not join AI neural decoding to microwave-auditory output in an operational closed loop. |
 
 ---
 
@@ -173,6 +173,135 @@ The defining negative finding of this pass is that **none of these sources publi
 - DARPA Silent Talk, HRL CT2WS, and Army MIND show **public military interest** in EEG/fMRI brain-signal exploitation — interest signals, not deployed closed-loop V2K systems, and not bridges back to MEDUSA-era microwave-auditory hardware.
 
 **Tier classification:** **T1 / T5 historical neural-decoding and military-neurotech context** + **T2-adjacent future-risk** evidence — **not T2-closed conversational V2K** and **not T4 fielding**. Treat the CBS/CMU "Mind Reading" anchor as historical context for neural decoding, not as a MEDUSA bridge.
+
+---
+
+## 9. Bridge-hunt appendix (2026-05-06) — output lane vs neural-decoding lane vs RF-bioeffects lane
+
+**Scope:** This appendix consolidates the targeted bridge hunt — i.e., is there a public source that joins **AI-driven neural decoding** with **microwave-auditory output** in an **operational closed loop** (read the brain → encode the inference → deliver via microwave-auditory channel → repeat)? The hunt is run against MEDUSA as the canonical microwave-auditory write-side anchor and against the named modern neural-decoding and RF-bioeffects bodies of literature most often invoked in V2K discussions.
+
+### 9.1. Bottom line
+
+**No public evidence located in this pass establishes that MEDUSA, or a successor program, integrated AI neural decoding with microwave-auditory output in an operational closed loop.** The public record separates cleanly into three lanes that do not publicly join:
+
+- an **output lane** (microwave-auditory effect: MEDUSA SBIR, Brunkan US4877027A, Lin/Sharp/Grove/Gandhi physics, US4858612A);
+- an **input / neural-decoding lane** (US11630513B2 attention decoding, BrainBERT SEEG transformer, DARPA Silent Talk EEG, HRL CT2WS, Army MIND, CMU/Just/Mitchell fMRI work covered in §8);
+- an **RF bioeffects / directed-energy context lane** (Foster/Garrett/Ziskin 2021, NAS AHI, ODNI 2024, CBS/60 Minutes 2026 Russian-component device reporting, Scientific American Soviet-pseudoscience critique).
+
+The **bridge — neural-decoded inferences delivered as microwave-auditory speech in a closed loop against an unconsenting target — remains absent from the public record reviewed here.** This is the defining negative finding to preserve.
+
+### 9.2. Output lane: Navy MEDUSA Phase I — archived primary record
+
+**Source:** [Internet Archive capture 20080409063721 of the Navy SBIR Phase I summary report for MEDUSA](https://web.archive.org/web/20080409063721/http://www.navysbirprogram.com/NavySearch/Summary/summary.aspx?pk=F5B07D68-1B19-4235-B140-950CE2E19D08).
+
+**Key fields preserved verbatim from the archived page:**
+
+- Contract: **M67854-04-C-1012**
+- Topic: **N03-163**
+- SYSCOM: **MARCOR**
+- Awardee: **WaveBand Corporation**
+- Phase: **Phase I Navy SBIR**
+- Award amount: **$99,965.00** (see §2 for the bulk-export conflict at $69,990.00)
+- Performance period: **11/19/2003 – 05/19/2004**
+- Title: **Remote Personnel Incapacitation System**
+
+**Objective (paraphrased from archived summary):** design and build a breadboard prototype temporary personnel incapacitation system, called MEDUSA, based on the microwave auditory effect; selected low-energy microwave pulses can cause a strong sound sensation in the head; pulse parameters and power could raise this sensation to discomfort level; intended to deter or temporarily incapacitate.
+
+**Results (paraphrased from archived summary):** operating frequency chosen; commercial magnetron and high-voltage pulse-former requirements established; hardware designed/built; power measurements taken; required pulse parameters confirmed; experimental evidence of microwave auditory effect observed.
+
+**Applications (paraphrased from archived summary):** perimeter protection, hearing-impaired communication, law-enforcement / military crowd control / asset protection; portable, low power, controllable radius, crowd-to-individual coverage, temporary incapacitation, low probability of fatality / permanent injury, no property damage, low friendly-personnel effect.
+
+**Explicit absence in the archived record:** no AI, no neural decoding, no speech recognition, no closed-loop feedback. The Phase I summary describes a microwave-auditory write-side breadboard effort, not a sensor-driven closed-loop system.
+
+**Tier classification:** **T1 / T5 device/prototype provenance.** Useful as primary program-intent record for MEDUSA. **Not a closed-loop bridge.**
+
+### 9.3. Output lane: 2008 popular-press layer (New Scientist, ABC)
+
+**Sources:** Hambling, [*New Scientist*, "Microwave ray gun controls crowds with noise" (2008)](https://www.newscientist.com/article/dn14250-microwave-ray-gun-controls-crowds-with-noise/); ABC News republication / context, [abcnews.go.com](https://abcnews.go.com/Technology/AheadoftheCurve/story?id=5305386&page=1).
+
+**Article context (paraphrased, with one verbatim quote preserved):**
+
+- Mechanism described: MEDUSA exploits the microwave audio effect; short microwave pulses rapidly heat tissue, causing a shockwave inside the skull detected by the ears; a series of pulses can produce **recognisable sounds**.
+- Sadovnik (Sierra Nevada Corporation): normal audio safety limits do not apply because the sound does not enter through the eardrums; verbatim quote — *"The repel effect is a combination of loudness and the irritation factor… You can't block it out."*
+- Article reports Sadovnik began the work on a US Navy research contract; states a Navy report said the effect was shown effective; describes a reconfigurable antenna by Vladimir Manasson used to steer the beam electronically, switch between broad and narrow beam, or aim at multiple targets.
+
+**Explicit absence in the article:** no neural decoding, no AI, no closed-loop feedback, no use of the term "V2K" / "voice to skull" applied operationally. The quote on safety limits is logged in §6 of this note as a **safety-regime gap**, not a safety assurance.
+
+**Tier classification:** **T1 / T5 public reporting + expert-interview quote context.** Sharpens public framing; **not a closed-loop bridge.**
+
+### 9.4. Output lane: Brunkan US4877027A and US4858612A — patent-concept space
+
+**Sources:** [US4877027A — Brunkan, "Hearing system"](https://patents.google.com/patent/US4877027A/en); [US4858612A — "Hearing device"](https://patents.google.com/patent/US4858612A/en).
+
+**US4877027A — Brunkan, "Hearing system" (paraphrased):** sound is induced in the head of a person by microwaves in the range 100 MHz to 10,000 MHz modulated with a particular waveform; with parameters adjusted for a particular individual, the system may produce intelligible audio independent of the external hearing organs. This is a **patent concept**, not proof of fielding; in-patent experimental disclaimer is documented in [`V2K_BRUNKAN_EXPERIMENTAL_DISCLAIMER_AND_PATENT_EXPERIMENT_GAP.md`](V2K_BRUNKAN_EXPERIMENTAL_DISCLAIMER_AND_PATENT_EXPERIMENT_GAP.md). No AI, no neural decoding, no closed-loop feedback in the patent text.
+
+**US4858612A — "Hearing device" (paraphrased):** simulates hearing by introducing microwaves into the auditory-cortex region; describes audio / microphone processing and antenna placement concepts. Not a deployment record; no AI, no neural decoding, no closed-loop architecture.
+
+**Tier classification:** **T1 output-lane mechanism / claim-space concepts.** Not deployment, not a closed-loop bridge.
+
+### 9.5. Input / neural-decoding lane: US11630513B2 (auditory attention DNN)
+
+**Source:** [US11630513B2 — End-to-end deep neural network for auditory attention decoding](https://patents.google.com/patent/US11630513B2/en).
+
+**Paraphrased content:** a deep neural network processes EEG / neural data alongside acoustic signals to identify which acoustic source the listener is attending to; the patent's stated context is assisted-listening / hearing applications. The patent acknowledges **government support via FA8702-15-D-0001 awarded by the U.S. Air Force**.
+
+**Boundary preservation:** the work is read-side neural decoding for assisted listening; the acoustic signals are externally measured (ordinary microphone audio), not microwave-auditory percepts. **No microwave delivery, no MEDUSA reference, no V2K, no directed-energy output.** A USAF acknowledgment in a hearing-aid-style attention decoder is not a bridge to MEDUSA.
+
+**Tier classification:** **T2-adjacent input / neural-decoding lane.** Not a microwave-output bridge.
+
+### 9.6. Input / neural-decoding lane: BrainBERT (SEEG transformer)
+
+**Source:** [BrainBERT PDF (Klab/Harvard hosted)](https://klab.tch.harvard.edu/publications/PDFs/gk8131.pdf).
+
+**Paraphrased content:** invasive **stereo-EEG (SEEG)** clinical data are used to pretrain a Transformer / self-supervised model; downstream tasks include **sentence onset, speech vs non-speech, pitch, and volume** classification. Funding acknowledgments include **DARPA ASIST**, **DARPA KMASS**, **AFRL / USAF AI Accelerator FA8750-19-2-1000**, **AFOSR FA9550-21-1-0014**, and ONR **N00014-20-1-2589** and **N00014-20-1-2643**.
+
+**Boundary preservation:** SEEG is invasive intracranial electrophysiology in clinical epilepsy patients; nothing in the BrainBERT paper demonstrates **remote sensing**, **microwave-auditory delivery**, or any **MEDUSA / V2K closed-loop directed-energy** integration. Defense funding of a clinical-data ML method is a **future-risk signal**, not a bridge.
+
+**Tier classification:** **T2-adjacent input / military-AI lane.** Not a microwave-output bridge.
+
+### 9.7. Input / neural-decoding lane: DARPA Silent Talk, HRL CT2WS, Army MIND
+
+**Sources:** [DARPA "Silent Talk" reporting (PBS Frontline DigitalNation)](https://www.pbs.org/wgbh/pages/frontline/digitalnation/blog/2009/05/darpa-funding-computer-mediated-telepathy.html); [HRL CT2WS press release](https://www.hrl.com/hrlDocs/pressreleases/2012/prsRls_120918.html); [Army MIND Lab article](https://www.army.mil/article/158256/armys_mind_lab_able_to_decode_brain_waves).
+
+**Paraphrased content:**
+
+- **DARPA Silent Talk** advertised a research aim of **EEG-based pre-speech word mapping** and a fieldable pre-prototype to decode and transmit over a limited range. **No microwave-auditory delivery**, no MEDUSA / V2K / directed-energy output described.
+- **HRL CT2WS** (Cognitive Technology Threat Warning System) used a camera, cognitive visual processing, and an **EEG cap** for threat recognition with reported >90% accuracy; transitioned to the Army Night Vision Lab. **No speech, no MEDUSA / V2K, no microwave directed-energy** output.
+- **Army MIND Lab** decoded **EEG responses to target image categories** for rapid imagery analysis. **No remote neural decoding, no speech, no microwave auditory, no MEDUSA, no V2K, no closed-loop directed-energy.**
+
+**Tier classification:** **T2-adjacent input / military-AI lane.** Public defense interest in EEG-based read-side exploitation; **not a microwave-output bridge.**
+
+### 9.8. RF-bioeffects / directed-energy context lane
+
+**Sources:** Foster, Garrett, Ziskin, [*Frontiers in Public Health* (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/); National Academies, [*New Report Assesses Illnesses Among US Government Personnel and Their Families at Overseas Embassies*](https://www.nationalacademies.org/news/new-report-assesses-illnesses-among-us-government-personnel-and-their-families-at-overseas-embassies); CBS News, [*US military tested device that may be tied to Havana syndrome — 60 Minutes transcript* (2026)](https://www.cbsnews.com/news/us-military-tested-device-that-may-be-tied-to-havana-syndrome-60-minutes-transcript/); *Scientific American*, [*Soviet-Era Pseudoscience Lurks Behind Havana Syndrome Worries*](https://www.scientificamerican.com/article/soviet-era-pseudoscience-lurks-behind-havana-syndrome-worries/).
+
+**Paraphrased content with discipline rules:**
+
+- **Foster / Garrett / Ziskin** (peer-reviewed weaponization review): the microwave auditory effect is real; weaponization appears unlikely on grounds of effect size and practicality; lack of public high-power microwave (HPM) details and threshold uncertainty prevents full resolution. The review notes that low-GHz weaponized systems would tend to be **large and obvious**, that **mm-wave** systems carry potential stealth characteristics but with **shallow penetration and skull attenuation**, and states that **no evidence available to the authors** indicates such systems played a role in the Havana incidents. **No AI, no neural decoding, no closed-loop V2K** asserted.
+- **National Academies AHI press release**: directed, pulsed RF energy appeared **most plausible** for some embassy-illness cases, with explicit caveats — cannot rule out other mechanisms; symptom variability; lack of access to specific health and personal information. **No MEDUSA / AI / V2K / closed-loop speech delivery** claimed.
+- **CBS / 60 Minutes (2026)**: reports that the U.S. military tested a portable / concealable pulsed-RF / microwave-like device with a **programmable waveform** and **Russian components**. Strictly limited as a bridge: **no MEDUSA, no microwave auditory effect framing, no AI neural decoding, no speech content, no closed-loop V2K** is asserted in the reporting.
+- **Scientific American critique**: warns that Soviet-era psychotronic / RF literature is often flawed and controversial; notes that NAS cited Russian / USSR literature but also acknowledged that many former-Soviet studies were flawed. **No AI / MEDUSA / V2K / closed-loop speech evidence.**
+
+**Tier classification:** **T1 / T4 RF directed-energy / bioeffects context, contested.** Not a V2K bridge; the RF-bioeffects lane and the closed-loop V2K claim are not joined in any of these sources.
+
+### 9.9. Bridge-hunt evidence-tier roll-up
+
+| Source / cluster | Lane | Tier impact | Bridge to closed-loop AI-V2K? |
+|---|---|---|---|
+| Archived Navy MEDUSA SBIR (M67854-04-C-1012) | Output (microwave-auditory) | T1 / T5 device/prototype provenance | **No.** No AI / neural decoding / closed-loop in the archived record. |
+| New Scientist 2008 + ABC republication | Output (popular reporting) | T1 / T5 public reporting and quote context | **No.** "Recognisable sounds" framing only; no AI / neural decoding / closed-loop. |
+| US4877027A (Brunkan) and US4858612A | Output (patent concept space) | T1 mechanism / claim-space concepts | **No.** Patent concepts, not deployment, no AI / decoding / closed loop. |
+| US11630513B2, BrainBERT, DARPA Silent Talk, HRL CT2WS, Army MIND | Input / neural decoding | T2-adjacent input / neural / military-AI lane | **No.** Read-side decoding; no microwave-auditory delivery, no closed loop with MEDUSA. |
+| Foster/Garrett/Ziskin, NAS AHI, ODNI 2024, CBS 2026, *Sci. Am.* critique | RF-bioeffects / directed-energy context | T1 / T4 RF directed-energy / bioeffects context, contested | **No.** RF directed-energy context only; not joined to AI / decoding / V2K speech. |
+| **Conclusion row** | **All three lanes together** | **Bridge negative** | **No public source located in this pass joins AI-driven neural decoding to microwave-auditory output in an operational closed loop. The missing bridge remains missing.** |
+
+### 9.10. Discipline rules carried forward
+
+1. Do **not** chain Phase I MEDUSA → modern AI neural decoding without an intermediate bridge source establishing technical or programmatic continuity.
+2. Do **not** upgrade "recognisable sounds" (popular press) to "reliable semantic V2K" without a primary protocol-grade study.
+3. Do **not** treat USAF / DARPA / AFOSR / ONR / AFRL acknowledgments in read-side neural-decoding patents and papers as evidence of microwave-auditory delivery; the modalities are different.
+4. Do **not** treat NAS / ODNI / CBS / Foster–Garrett–Ziskin RF bioeffects context as evidence of conversational V2K; these sources address bioeffects and attribution, not closed-loop speech delivery.
+5. **Preserve the bridge-negative conclusion explicitly** in matrix updates so future passes do not silently retire it.
 
 ---
 
