@@ -78,11 +78,15 @@ Oscar 1980 cites this report as **Ref 1**, immediately before the “intelligibl
 
 ---
 
-## 7. OpenAlex “cites Justesen 1975” fan-out (six works)
+## 7. OpenAlex “cites Justesen 1975” fan-out (six works) — corrected framing
 
-Query: `works?filter=cites:W4213062251` ([OpenAlex](https://openalex.org/W4213062251)) on 2026-05-06 returned **count = 6** — a **thin** citing layer vs the cultural weight of the APA article.
+Query: `works?filter=cites:W4213062251` ([OpenAlex](https://openalex.org/W4213062251)) on 2026-05-06 returned **count = 6** — a **thin bibliometric neighborhood** when read only as “later papers citing the DOI.”
 
-Rough paraphrase of titles/years: three **1977** book chapters / reviews (diathermy, drug hyperthermia dosimetry, lymphocyte morphology); **1980** “Holographic Assessment of Microwave Hearing” + a **Response** item; **1986** behavioural thermoregulation; **2021** handbook-style “Applied Aspects and Applications.” **None** indexed as an independent replication of Sharp/Grove digit words; machine metadata alone does not show critiques of Justesen’s personal-communication paragraph (full text of each item not opened in this pass).
+**Critical correction:** among those six, **Chou *et al.*, *Science*** “Holographic Assessment of Microwave Hearing” (1980) lists **D.R. Justesen as fifth co-author** ([PubMed PMID 7403877](https://pubmed.ncbi.nlm.nih.gov/7403877/), DOI [10.1126/science.7403877](https://doi.org/10.1126/science.7403877)) — not merely a “later citer.” Semantic Scholar’s author list confirms the same block (Chou, Guy, Foster, Galambos, **Justesen**).
+
+The remaining five (1977–2021) remain **peripheral** titles on first scan: diathermy, drug hyperthermia / dosimetry, lymphocyte morphology, behavioural thermoregulation, handbook chapter. **None** is an obvious Sharp/Grove digit-word replication from metadata alone.
+
+Companion deep-dive on the *Science* pair: **§9** below; frozen Crossref deposit: [`primary/crossref_snapshots/workbench_chou_science_1980_7403877_crossref.json`](primary/crossref_snapshots/workbench_chou_science_1980_7403877_crossref.json).
 
 ---
 
@@ -96,6 +100,32 @@ Rough paraphrase of titles/years: three **1977** book chapters / reviews (diathe
 | FY74 WRAIR WU057 “auditory study” prose | Partial — confirms institutional MAE characterization **without speech** wording (`FY74_SPEECH_DEMO_HUNT.md`). |
 | Oscar/Hawkins 1977 abstract | Negative for speech; citation network awaits full-text read. |
 | Frey 1998 PMID reference list | Links **Oscar 1977** into Frey corpus; omits Sharp/Grove primary chain. |
-| OpenAlex → 6 citing works | **Thin bibliometric neighborhood**; no obvious replication paper surfaced from titles alone. |
+| OpenAlex → 6 citing works | Thin layer when misread only as “citing works”; **one** hit is misleading — see **§7 / §9** (Justesen **co-authored** Chou *et al.* *Science* 1980). |
+| Chou *et al.* *Science* 1980 (+ Crossref bibliography) | **T1 lattice + Justesen bibliography hygiene:** co-authorship ties Justesen into UW/Galambos/Foster holographic MAE physics; deposited refs carry **APA 1975** + Sharp **IEEE T-MTT** **same list**. |
 
-**Next lawful actions with highest Sharp/Grove speech yield:** Elsevier Oscar/Hawkins 1977 PDF; citations *to* Sharp/Grove outside APA; KU/archives inquiry for Justesen correspondence; Brodeur 1977 page-images; full text of **Guy / Chou / FIREM 1980 holographic microwave hearing** exchange as a possible technical discussion of mechanisms (not inspected here).
+**Next lawful actions with highest Sharp/Grove speech yield:** Elsevier Oscar/Hawkins 1977 PDF; retrieve paywalled body of Chou *et al.* *Science* 1980 (DOI above) and Frey/Coren response (DOI [10.1126/science.209.4461.1144](https://doi.org/10.1126/science.209.4461.1144), PMID [17841476](https://pubmed.ncbi.nlm.nih.gov/17841476/)) for in-text treatment of speech vs cochlear holography; KU/archives inquiry for Justesen correspondence; Brodeur 1977 page-images.
+
+---
+
+## 9. Chou, Guy, Foster, Galambos, **Justesen**, *Science* 1980 — Sharp + Justesen 1975 on the **same** deposited reference list
+
+**Bibliographic core:** *Holographic Assessment of Microwave Hearing,* *Science* **209**(4461):1143–1145, 5 Sept 1980. **Authors:** C.-K. Chou; A.W. Guy; K.R. Foster; R. Galambos; **D.R. Justesen** (affiliation printed in Crossref deposit: Neuropsychology and Behavioral Radiology Laboratories, USVA Medical Center, Kansas City, MO).
+
+Crossref deposited references (canonical for bibliography mining; full JSON in-repo per §7) **simultaneously** include:
+
+| Deposited key | Target | Notes |
+|---|---|---|
+| `e_1_2_1_9_1` | **Justesen, D.R., *American Psychologist* 30:391 (1975)** | Explicit DOI **`10.1037/0003-066X.30.3.391`** — the APA article carrying the Sharp/Grove personal communication. |
+| `e_1_2_1_13_1` | **Sharp, J.C., … *IEEE Transactions on Microwave Theory and Techniques* 22:583 (1974)** | The **Sharp/Grove/Gandhi mechanism letter** indexed without Grove/Gandhi in the abbreviated OCR line — same item as Lin’s canonical Sharp primary. |
+
+Also adjacent in the same list: **Frey** *Science* **206**:232 holographic-hypothesis predecessor (DOI **`10.1126/science.482939`**), **Guy** *Ann. N.Y. Acad. Sci.* 1975 acoustic effects review, **Lin** *Proc. IEEE* 1980 microwave auditory phenomenon, Lebovitz cat single-unit thresholds, Tyazhelov USSR sensations, thermoelastic **White** *J Appl Phys* cites, etc.
+
+### 9.1 Tier hygiene
+
+This is **primarily** a **cochlear / holographic–interferometry mechanism** dispute in microwave hearing (**T1** spine + instrumentation narrative), contemporaneous with the Frey/Coren controversy in *Science.*
+
+It **does not** supply Sharp/Grove **speech-protocol** parameters (nine words, zero-cross modulation, exposures). What it **does** establish at machine-verifiable grade: five years after the APA piece, Justesen professionally co-authored flagship-journal microwave-hearing physics while Crossref captures his team citing **both** his APA survey **and** Sharp’s **1974 IEEE T-MTT** acoustic-generation paper — i.e. the APA anecdote sits in the **same canonical bibliography lattice** as the mechanism letter, **not** in isolation.
+
+### 9.2 Frey/Coren Response, same issue
+
+Crossref [**10.1126/science.209.4461.1144**](https://doi.org/10.1126/science.209.4461.1144): Frey & Coren, letters pages **1144–1145**, same publication date bundle. PMID **17841476**. References read as optical/holographic method citations plus Frey’s own prior microwave-bioeffects IEEE and *Science* 206 holographic-hypothesis pieces — Crossref retrieval on 2026-05-06 did **not** surface Chou ’80 or Justesen ’75 strings in that response’s abbreviated reference blobs (speech-specific analysis waits on full PDF).

@@ -953,4 +953,12 @@ Internet Archive [`DTIC_AD0747684`](https://archive.org/details/DTIC_AD0747684) 
 
 Abstract/summary states **Phase 3** explored whether **perception of speech** could be induced; **vocoder-style approaches did not generate speech**; **periodicity-pitch rules did not yield perceived RF speech**. This is Oscar 1980 **Ref 1** (phenomenology line before the “intelligible speech may be created” rationale) and a **documented failed speech-construction path on the shared project number** — methodologically **not** the same encoding as Justesen’s Sharp/Grove negative zero-crossing voice modulation (see digest **`SHARP_GROVE_INTELLIGIBLE_SPEECH_DEEP_DIGEST_2026-05-06.md` §6**).
 
-**OpenAlex bibliometrics:** `filter=cites:W4213062251` returns **six** citing works (1977–2021), a thin layer vs the article’s cultural footprint; no replication of Sharp/Grove surfaced from titles alone (digest **§7**).
+### §9.4bis Chou / Guy / Foster / Galambos / **Justesen**, *Science* 1980 (OpenAlex corpus correction)
+
+OpenAlex query `works?filter=cites:W4213062251` returns six works (1977–2021). **One** hit is not “Justesen being cited from outside” — **Justesen is fifth author** on *Holographic Assessment of Microwave Hearing* ([PubMed PMID 7403877](https://pubmed.ncbi.nlm.nih.gov/7403877/), DOI [`10.1126/science.7403877`](https://doi.org/10.1126/science.7403877)). Frozen Crossref deposit (JSON path below) lists **`10.1037/0003-066X.30.3.391`** (*Am Psychologist* Sharp/Grove note) **and** Sharp *IEEE Transactions on Microwave Theory and Techniques* **22**:583 mechanism letter **as coexisting references**.
+
+**Evidence file:** [`findings/investigation-dig/primary/crossref_snapshots/workbench_chou_science_1980_7403877_crossref.json`](primary/crossref_snapshots/workbench_chou_science_1980_7403877_crossref.json). AAAS PDF body remains paywalled; tier discipline: holographic/cochlea **T1** spine, not Sharp/Grove **T2** protocol — **`SHARP_GROVE_INTELLIGIBLE_SPEECH_DEEP_DIGEST_2026-05-06.md` §§7–9**.
+
+### §9.5 Frey/Coren letters response (same *Science* bundle)
+
+[Frey AH, Coren E. Science letters; PMID 17841476](https://pubmed.ncbi.nlm.nih.gov/17841476/); DOI [`10.1126/science.209.4461.1144`](https://doi.org/10.1126/science.209.4461.1144). Contiguous methodological reply in the holographic microwave-hearing controversy; **no** linkage to Sharp/Grove digit speech verified without full-text read (carry-forward).
