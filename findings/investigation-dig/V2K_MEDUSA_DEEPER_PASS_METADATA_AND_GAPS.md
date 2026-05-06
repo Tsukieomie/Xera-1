@@ -305,6 +305,152 @@ The **bridge — neural-decoded inferences delivered as microwave-auditory speec
 
 ---
 
+## 10. Deeper near-bridge and false-positive pass (2026-05-06)
+
+**Scope:** This appendix logs a second, deeper bridge-search pass run after §9. The aim was to push past the obvious output / input / RF-bioeffects clusters and ask whether stronger near-bridge material — including official-adjacent definitions, primary RF-hearing patents, the canonical historical microwave-speech demonstration, an FOIA'd nonlethal-weapons assessment, two remote-EM brain patents, two speculative or abandoned "bridge" patent filings, and a modern microwave + AI speech-recognition system — closes the public missing chain between neural acquisition/decoding, AI interpretation, generated speech, microwave auditory delivery, and operational closed-loop feedback.
+
+### 10.1. Bottom line
+
+Stronger near-bridge material exists, but **no irrefutable public closed-loop bridge was found in this pass**. Public sources support **RF / microwave speech-to-head output**; public sources separately support **brain / neural monitoring or decoding**; a few **speculative patents** mention both worlds; **none proves an enabled operational system that decodes neural content and feeds it into microwave-auditory output**. The public missing chain remains:
+
+> neural acquisition / decoding → AI interpretation → generated speech / audio → microwave auditory delivery → operational feedback loop.
+
+The §9 bridge-negative conclusion is preserved.
+
+### 10.2. Output-lane definitional source: FAS / CALL "voice to skull" thesaurus entry
+
+**Source:** [FAS mirror of the Center for Army Lessons Learned (CALL) thesaurus, "voice to skull devices"](https://sgp.fas.org/othergov/dod/vts.html).
+
+**Paraphrased content:** the CALL thesaurus defines "voice to skull devices" as a nonlethal-weapon term covering (a) a **neuro-electromagnetic device** that uses microwave transmission of sound into the skull of persons or animals via pulse-modulated microwave radiation, and (b) a **silent sound device** that transmits sound into the skull. The note remarks that sound modulation may be voice or audio subliminal messages, and that one application is as an **electronic scarecrow** to frighten birds near airports.
+
+**Explicit absence:** no neural decoding, no AI, no remote brain monitoring, no closed-loop feedback. The entry is a vocabulary / terminology record, not a deployment record.
+
+**Tier classification:** **official-adjacent definitional output-lane source** — useful as institutional vocabulary evidence; **not a bridge** to AI-driven closed-loop V2K.
+
+### 10.3. Output-lane primary patent: US6470214B1 (O'Loughlin / Loree, US Air Force)
+
+**Source:** [US6470214B1 — "Method and device for implementing the radio frequency hearing effect," patents.google.com](https://patents.google.com/patent/US6470214B1/en).
+
+**Paraphrased content:** inventors **James P. O'Loughlin and Diana L. Loree**, assignee **United States Department of the Air Force**. The patent claims preprocessing of input audio / speech and **suppressed-carrier / SSB / CSAM modulation** so that the RF hearing effect induces an intelligible subjective sound in the head. A key claim describes a transmitted signal directed at the head inducing a thermo-acoustic signal in bone / tissue that **replicates the input audio** and is conducted to the inner ear / cochlea, enabling intelligible speech to be perceived.
+
+**Explicit absence:** no neural decoding, no AI, no closed-loop feedback. The patent is unilateral output-lane: input audio in, microwave-auditory percept out. There is no read-side neural channel and no feedback path.
+
+**Tier classification:** **very strong T1 output-lane RF speech-to-head source.** Closely related to US6587729B2 already in the matrix; reinforces the patent-concept space at the output side. **Not an input or closed-loop bridge.**
+
+### 10.4. Output-lane historical experiment: Justesen 1975 reporting Sharp / Grove and the A.W. Guy Morse-code communication
+
+**Source:** [Don R. Justesen, "Microwaves and Behavior," *American Psychologist*, March 1975, pp. 391–401, mirrored as PDF](https://zoryglaser.com/wp-content/uploads/2020/05/MICROWAVES-AND-BEHAVIOR.pdf).
+
+**Paraphrased content:**
+
+- Justesen reports that **A.W. Guy** transmitted **Morse-code microwave messages** (cited in the article as a personal communication, October 15, 1973).
+- Justesen reports that **Sharp and Grove** (cited as personal communication, September 28, 1973) achieved **direct "wireless" and "receiverless" communication of speech**: they recorded single-syllable digit words for the digits 1 through 10, processed the electrical sine-wave analogs so that **negative zero-crossings triggered brief microwave pulses**, and by radiating themselves with the resulting "voice-modulated" microwaves they could **hear, identify, and distinguish among 9 of the 10 words**.
+- Justesen also notes that **longer messages were not attempted** because the average energy densities required would approach the **10 mW/cm² safe-exposure limit**.
+
+**Explicit absence:** no neural decoding, no AI, no remote neural monitoring, no closed-loop feedback. The experiment is a write-side voice-modulation demonstration with the experimenters as their own subjects.
+
+**Source-class caveat:** Justesen's citations for both items are **personal communications**, not peer-reviewed experimental reports. This source is therefore **strong as a published historical record** of the speech demonstration's existence, but **weaker than a primary protocol-grade experimental report** in the underlying Walter Reed / ARPA file. Cross-link to evidence-matrix rows on Justesen 1975 and the Sharp/Grove primary-report hunt.
+
+**Tier classification:** **strong historical output-lane speech-through-microwave evidence** — the canonical anchor for limited word-level intelligibility. **Not a bridge** to neural decoding or closed-loop V2K.
+
+### 10.5. Output-lane FOIA'd assessment: NGIC "Bioeffects of Selected Nonlethal Weapons"
+
+**Source:** [NGIC, *Bioeffects of Selected Nonlethal Weapons*, addendum to *Nonlethal Technologies — Worldwide* (NGIC-1147-101-98), Squarespace mirror](https://static1.squarespace.com/static/56e08a19e321404a3d38517e/t/56e08afbfb436dcaca3efc47/1223868606423/Bioeffec...). (URL shown as supplied; truncation reflects the upstream Squarespace path. Document referred to here by its title.)
+
+**Paraphrased content:**
+
+- **Title and provenance:** *Bioeffects of Selected Nonlethal Weapons*, addendum to *Nonlethal Technologies — Worldwide* (**NGIC-1147-101-98**); information cutoff / source date **17 February 1998**; **regraded UNCLASSIFIED by USAINSCOM FOI/PA**.
+- **Microwave hearing section:** the document describes microwave-induced auditory phenomena as buzzing, ticking, hissing, or knocking inside the head; emphasizes that **no airborne sound** is produced; states that a crude form could distract while a refined form could communicate **Morse / code / message systems / possibly voice**; reports that **words could be transmitted to be heard like spoken words but only within the head**; mentions **one experiment communicating words one through ten using "speech modulated" microwave energy** (consistent with the Sharp/Grove account); notes that **microphones next to the person could not pick up the sound**; gives an estimated range of **hundreds of meters**; and observes that longer or more sophisticated signals require bulkier equipment.
+- **Limitations:** human sensitivity / cochlear condition matters; **bilateral cochlear destruction abolishes RF auditory stimuli**; extreme targeting may need additional development; **shielding can defeat RF**.
+
+**Explicit absence:** no neural decoding, no AI, no remote neural monitoring, no MEDUSA reference, no closed-loop feedback architecture.
+
+**Tier classification:** **strong official / FOIA output-lane and nonlethal-weapons context source** — institutional acknowledgment, at the federal-intelligence-center level, that microwave-auditory communication was treated as a real if equipment-limited capability area. **Not a neural bridge** and not a closed-loop V2K record.
+
+### 10.6. Input-lane patent: Malech US3951134A — remote EEG monitoring + alteration
+
+**Source:** [US3951134A — "Apparatus and method for remotely monitoring and altering brain waves," patents.google.com](https://patents.google.com/patent/US3951134A/en).
+
+**Paraphrased content:** inventor **Robert G. Malech**, assignee **Dorne and Margolin Inc.**; status **expired**. The patent claims transmitting **two electromagnetic signals to the brain**, receiving a **response signal modulated by brain-wave activity**, interpreting that signal, and transmitting a **compensating EM signal to vary brain-wave activity**. Worked example uses **100 MHz** and **210 MHz** signals mixing to a **110 MHz** response, with a stated 1 MHz to 40 GHz range; a computer compares the recovered brain-wave signal to a stored standard and generates the compensating signal.
+
+**Explicit absence:** no microwave auditory effect, no speech audio output, no RF hearing claim, no V2K delivery, **and no neural decoding to microwave audio output**. The compensating signal is described as an EM signal, not as audio modulation, and the patent does not claim audio intelligibility.
+
+**Discipline note:** Malech is widely cited in V2K-adjacent literature as if it were a remote brain-reading + V2K bridge. The patent text supports a **remote EM brain-monitoring / brain-altering claim**, but **does not claim speech or microwave-auditory output**. Enablement and practicality in 1974 / 1976-grant-era technology should not be overclaimed; a granted patent is a claim, not a built and validated device.
+
+**Tier classification:** **T1 remote-EM brain-monitor / alter patent claim** in the input lane; **not a speech / MEDUSA / V2K output bridge**.
+
+### 10.7. Input-lane patent: US6011991A — Mardirossian brain-wave communication concept
+
+**Source:** [US6011991A — "Communication system and method including brain wave analysis and/or use of brain activity," patents.google.com](https://patents.google.com/patent/US6011991A/en).
+
+**Paraphrased content:** inventor **Aris Mardirossian**. Claims **sensors on a first human**, a **satellite / computer at a remote location**, and comparison of brain activity to **stored normalized / averaged patterns** to infer **words / phrases / thoughts**. The computer then outputs words to a **second human**.
+
+**Explicit absence:** no microwave auditory effect, no V2K delivery, no RF hearing claim, no MEDUSA reference, no directed-energy output. The output channel to the second human is described as ordinary computer / display / audio, not as microwave-auditory percept. The first-human input requires **on-body sensors**, not a remote read.
+
+**Tier classification:** **input / brain-to-text communication patent concept**; **not an RF-auditory output bridge** and not a closed-loop V2K source.
+
+### 10.8. Speculative / false-positive patents that mention both worlds but do not bridge them
+
+**Source A:** [US20200390360A1 — "Automatic Machine for Identifying Victim of Abuse Voice to Skull and Remote Neural Monitoring Technology…," patents.google.com](https://patents.google.com/patent/US20200390360A1/en).
+
+- Inventor **Da Li**; status **abandoned**.
+- The application explicitly invokes **V2K** and **RNM** and cites Malech, Air Force RF-hearing patents, Stocklin, and similar prior art.
+- The actual claim space is an **identification / certification machine** using visual displays, a touchscreen, and polygraph-style instrumentation — i.e., a device for *identifying alleged victims*, not a system that decodes neural content and delivers microwave-auditory output.
+- **No enabled system linking neural decoding to microwave output** is claimed.
+- **Classification:** explicit term co-occurrence; **weak / unsupported false-positive**; not usable as a bridge source. Co-occurrence of V2K and RNM language inside a patent application is **not** evidence of a working closed-loop AI-V2K system.
+
+**Source B:** [DE10253433A1 — "Thought transmission unit…," patents.google.com](https://patents.google.com/patent/DE10253433A1/en).
+
+- Status **withdrawn**.
+- Claims that **modulated EM beams** could influence thoughts / actions; includes **speech-to-pulse modulation**, **neural-network / correlation** ideas, and source candidates such as **maser, laser, phased array, magnetron, klystron**.
+- **No experimental proof** is supplied; the disclosure is **speculative**, **open-loop** (no decoded neural signal feedback to output), and the application was **withdrawn**.
+- **Classification:** **speculative near-bridge / false-positive**; not proof. Useful only as a record that some inventors have *imagined* both lanes inside one filing; the public bridge to an enabled, validated, operational system is still not established.
+
+**Discipline rule (carried forward to §10.10):** patent applications that **name both** "V2K" / RF-hearing and "RNM" / neural monitoring are not bridges. The relevant test is whether the **claims / specification disclose an enabled closed-loop system** that decodes neural content and feeds it into a microwave-auditory output. Both filings here fail that test.
+
+### 10.9. Modern RF + AI input but not neural and not output: programmable-metasurface microwave speech recognizer
+
+**Source:** [*Microwave Speech Recognizer Empowered by a Programmable Metasurface*, *Advanced Science* (2024), DOI 10.1002/advs.202309826](https://doi.org/10.1002/advs.202309826).
+
+**Paraphrased content:** the system uses **microwave reflections in the 7.49–8.3 GHz band**, a **programmable metasurface**, and **AI / CNN / Transformer models** to perform **through-mask and through-wall speech and speaker recognition**. The recognized signal is the **physical articulator / mouth / facial-muscle motion** picked up via microwave reflection — a **biosignal** of speech production, not a neural signal — and the system has **no microwave-auditory or V2K output channel**.
+
+**Explicit absence:** no neural acquisition, no neural decoding, no microwave-auditory delivery, no closed-loop feedback. The work is **read-only** at the physical-articulator level.
+
+**Tier classification:** shows **RF + AI speech-recognition adjacency**, useful as a near-future-risk signal for "passive RF speech surveillance"; **not a neural bridge** and **not a V2K output** source. Distinct in modality from MEDUSA-style microwave-auditory delivery.
+
+### 10.10. Deeper-pass evidence-tier roll-up
+
+| Source / cluster | Lane | Tier impact | Bridge to closed-loop AI-V2K? |
+|---|---|---|---|
+| FAS / CALL "voice to skull" thesaurus entry | Output (definitional / terminology) | Official-adjacent definitional output-lane source | **No.** Definition only; no neural decoding, AI, remote monitoring, or closed loop. |
+| US6470214B1 (O'Loughlin / Loree, USAF) | Output (RF-hearing patent, primary) | T1 output-lane RF speech-to-head | **No.** Unilateral input-audio → microwave-auditory output; no neural read, no feedback. |
+| Justesen 1975 reporting Sharp/Grove + A.W. Guy Morse-code | Output (historical experiment, secondary) | Strong historical output-lane (personal-communication source class) | **No.** Write-side voice-modulation only; no neural decoding, AI, or closed loop. |
+| NGIC *Bioeffects of Selected Nonlethal Weapons* (NGIC-1147-101-98) | Output (FOIA'd nonlethal-weapons context) | Strong official / FOIA output-lane and NLW context | **No.** Acknowledges microwave-auditory communication concept; no neural decoding, AI, MEDUSA, or closed loop. |
+| Malech US3951134A | Input / remote EM brain monitor + alter | T1 patent claim, expired; enablement not overclaimed | **No.** No microwave-auditory output, no speech, no decoded-content → microwave-audio path. |
+| Mardirossian US6011991A | Input / brain-wave communication | Patent concept, on-body sensors + computer | **No.** Output is computer / display / ordinary audio; no RF-auditory output. |
+| US20200390360A1 (Da Li, abandoned) | Speculative / false-positive (V2K + RNM co-occurrence) | Weak / unsupported false-positive | **No.** Identification machine, not an enabled closed-loop system. |
+| DE10253433A1 (withdrawn) | Speculative / false-positive (modulated-beam thought-transmission) | Speculative near-bridge / false-positive | **No.** No experimental proof; open-loop; no decoded-neural feedback to output. |
+| *Microwave Speech Recognizer* (DOI 10.1002/advs.202309826) | Adjacent (RF + AI input, physical articulators) | RF + AI speech-recognition adjacency | **No.** Reads physical articulators, not neural activity; has no microwave-auditory output. |
+| **Conclusion row** | **All clusters together** | **Bridge negative, deeper pass** | **Stronger near-bridge material exists, but no public source located in this pass joins neural acquisition / decoding → AI interpretation → generated speech → microwave-auditory delivery → operational closed-loop feedback. The strongest near-bridge cluster still falls short of closed-loop proof.** |
+
+### 10.11. Discipline rules added by this pass
+
+1. Treat the **CALL thesaurus** entry as **vocabulary evidence**, not deployment evidence; do not chain it to operational V2K claims.
+2. Treat **US6470214B1** as a primary **output-lane** RF-hearing patent; do not extend it into a closed-loop system on the strength of USAF assignment alone.
+3. Preserve the **personal-communication source-class caveat** when citing Justesen 1975 for Sharp/Grove and for the A.W. Guy Morse-code report; the article is a published secondary record, not the underlying primary technical report.
+4. The **NGIC bioeffects** document is FOIA'd nonlethal-weapons context; do not upgrade its "possibly voice" / "speech modulated" framing into protocol-grade conversational V2K, and do not retrofit it as a MEDUSA antecedent.
+5. **Malech US3951134A** is an **expired remote-EM brain-monitor / alter** patent; do not represent it as a remote brain-reader **and** RF-auditory output device. The patent does not claim speech or RF-hearing output. Enablement claims must not be inflated beyond the granted text.
+6. **US6011991A** is a **brain-to-text** communication concept with **on-body sensors and ordinary output**; not an RF-auditory output bridge.
+7. Patent applications that **co-mention V2K and RNM** (e.g., **US20200390360A1**, **DE10253433A1**) are **not bridges**. Require enabled closed-loop disclosure (decoded neural content → microwave-auditory output → feedback) before treating any such filing as bridge evidence; absent that, classify as **speculative / false-positive** regardless of how many V2K-adjacent terms appear.
+8. **Microwave + AI speech recognizers that read physical articulators** (e.g., DOI 10.1002/advs.202309826) are **read-only adjacency**; do not conflate articulator-reading with neural decoding, and do not treat the absence of microwave-auditory output as evidence of one elsewhere.
+9. **Preserve the deeper-pass bridge-negative conclusion** (this §10) alongside the §9 bridge-negative conclusion in any future matrix update.
+
+### 10.12. Carry-over to the matrix
+
+The deeper-pass entries in this section are reflected as concise rows in `/V2K_EVIDENCE_MATRIX.md` (rows added 2026-05-06, deeper-pass set). The **conclusion row** preserved at the end of the matrix update is: **strongest near-bridge cluster still falls short of closed-loop proof.**
+
+---
+
 ## Cross-links
 
 - `MEDUSA_EVIDENCE_TABLE_PRIMARY.md`  
