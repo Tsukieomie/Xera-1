@@ -98,7 +98,7 @@ Of Oscar's 41 numbered references, the citations relevant to the Sharp/Grove/WRA
 | # | Citation | Relevance |
 |---|---|---|
 | 1 | Frey, A.H., Messenger, R. and Eichert, E., NTIS Doc. No. **AD747684** (1972) | Likely-relevant Frey/Messenger primary on the phenomenology cited just before the speech sentence. New unverified target. |
-| 2 | **Hawkins, T.D., Grove, H.M., Heiple, T.W., and Schrot, J.**, NTIS Doc. No. **AD758136** (1973) | **WRAIR-era H.M. Grove primary report.** Different authorship from Sharp 1974 IEEE TMTT and from Justesen 1975's "Sharp & Grove" pairing. Strong new T2 candidate. |
+| 2 | **Hawkins, T.D., Grove, H.M., Heiple, T.W., and Schrot, J.**, NTIS Doc. No. **AD758136** (1973) | **WRAIR-era H.M. Grove primary report.** In-repo OCR body ([`AD758136_djvu.txt`](../../_deeper_dig_pass2/AD758136_djvu.txt); see digest `SHARP_GROVE_INTELLIGIBLE_SPEECH_DEEP_DIGEST_2026-05-06.md`) is lethality **3000 MHz** + behavioural frequency-effects in rats — **not** Sharp/Grove speech protocol. Fits Oscar’s citation as background on frequency-dependent lethality / seizures. |
 | 4 | Oscar, K.J. and Hawkins, T.D., *Brain Research* 126, 281–292 (1977) | Oscar's own prior peer-reviewed BBB-permeability work — precedes AD-A090426 by 3 years. |
 | 5 | Justesen, D.R., *IEEE Spectrum* 16, 67–68 (1979) | Justesen 1979 follow-up to his 1975 *American Psychologist* article. New unverified target. |
 | 18 | Frey, A.H. & Messenger, R., *Science* 181, 356–358 (1973) | The classic Frey/Messenger pulsed-RF auditory paper. Already in our radar. |
@@ -106,7 +106,7 @@ Of Oscar's 41 numbered references, the citations relevant to the Sharp/Grove/WRA
 | 27 | King, N.W., Justesen, D.R., & Clarke, R.L., *Science* 172, 398–401 (1977) | Justesen co-authored Science paper. |
 | 8 | Merritt, J.H., Mitchell, J.C. & Chambers A.F., 1977 ECAC Conference, Annapolis, MD | Air Force / DOD bioeffects conference paper. |
 
-**The blockbuster line is Ref 2.** **AD758136 (Hawkins / Grove / Heiple / Schrot, 1973)** is plausibly the actual underlying primary report behind the WRAIR voice-modulated-microwave work that Justesen 1975 popularised as "Sharp & Grove." Note: Joseph C. **Sharp** is not in this byline. This is a new lead worth chasing in DTIC/NTIS.
+**Correction 2026-05-06 (Ref 2).** An earlier optimistic read hypothesised AD758136 could be the covert primary behind Justesen's "Sharp & Grove." Full-text-available OCR (**not DTIC mirror PDF**) contradicts that: the report’s declared scope is **rat lethality and operant-behaviour decrement**, with **no RF-hearing/speech modulation content**. Oscar’s use of Ref 2 is therefore consistent with **hazards/lethality** chain-of-citation — not a hidden Sharp/Grove speech TR. Sharp remains absent from AD758136 authorship line.
 
 ### 2.5 What AD-A090426 itself does and does not establish
 
@@ -138,7 +138,7 @@ Add new V2K_EVIDENCE_MATRIX.md row:
 | Tier | Before this dig | After this dig |
 |---|---|---|
 | T1 mechanism | Closed (Frey, Lin 1978, Foster/Finch 1974, Sharp/Grove/Gandhi 1974 IEEE TMTT, Guy/Chou) | Closed; Oscar 1980 adds an additional uniformed-Army primary endorsement of the basic phenomenology. |
-| T2 intelligible speech (protocol grade) | Not closed — only Justesen 1975 + Becker 1985 secondary descriptions of Sharp/Grove. | **Still not closed at protocol grade**, but the gap is now smaller — Oscar 1980 confirms the capability was treated as background fact within US Army research command in 1980, and **AD758136 (Hawkins/Grove/Heiple/Schrot, 1973)** emerges as a new viable primary candidate to chase. |
+| T2 intelligible speech (protocol grade) | Not closed — only Justesen 1975 + Becker 1985 secondary descriptions of Sharp/Grove. | **Still not closed at protocol grade.** Oscar 1980 treats speech generation as rationales for other experiments but adds no Sharp/Grove protocol. AD758136 (Hawkins/Grove, 1973) is **negative** as a Sharp/Grove speech primary — see correction above + `SHARP_GROVE_INTELLIGIBLE_SPEECH_DEEP_DIGEST_2026-05-06.md`. |
 | T3 patents/programs | Brunkan US4877027A, O'Loughlin US6470214/6587729, Lowery, LIDA, MEDUSA Navy SBIR. | **Add Oscar 1980** — federal command-level acknowledgment that intelligible-speech-via-pulsed-microwave was being explored as a "decoy and deception concept" at MERADCOM in 1980. |
 | T4 operational deployment | Not closed. | Not closed; Oscar himself says basic principles still need development. |
 | T5 contextual | Becker 1985 quotes verified. | Becker 1985 page numbers and chapter pinned (Ch. 15 "Maxwell's Silver Hammer", "Invisible Warfare" sub-section, pp. 319–321). |
@@ -147,7 +147,7 @@ Add new V2K_EVIDENCE_MATRIX.md row:
 
 ## 4 · Newly opened threads (next chase)
 
-1. **AD758136** — Hawkins, T.D., Grove, H.M., Heiple, T.W., Schrot, J. (1973). DTIC pull at `https://apps.dtic.mil/sti/pdfs/ADA758136.pdf` (try). **Highest-leverage** new target — most likely the long-sought primary report behind the "Sharp & Grove" voice-modulated-microwave story that Justesen 1975 popularised.
+1. **AD758136** — Hawkins, Grove, et al. (1973). OCR body archived in-repo at [`_deeper_dig_pass2/AD758136_djvu.txt`](../../_deeper_dig_pass2/AD758136_djvu.txt); focus shifts to recovering a cleaner PDF mirror via NTIS/IA if DTIC stays 403. **No longer a T2 speech-target** — confirms Grove on MERADCOM/WRAIR **hazards** line, distinct from Sharp/Grove **speech anecdote**.
 2. **AD747684** — Frey, A.H., Messenger, R., Eichert, E. (1972). DTIC pull at `https://apps.dtic.mil/sti/pdfs/ADA747684.pdf` (try). Phenomenology primary cited inline with Oscar's speech sentence.
 3. **Oscar et al., *Brain Research* 1981, PMID 7248750** — the peer-reviewed external-review version of the AD-A090426 work. Worth pulling to compare wording on the "intelligible speech" framing in a peer-reviewed venue.
 4. **Justesen 1979** *IEEE Spectrum* 16, 67–68 — the lighter follow-up Oscar references.
