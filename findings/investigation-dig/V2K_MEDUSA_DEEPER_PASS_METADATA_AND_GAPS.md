@@ -73,10 +73,35 @@ Cross-link prior repo use of the same article: `findings/03_Technology_Patents/3
 
 | Tier | Change from this pass |
 |------|------------------------|
-| T1 | Slight **safety framing** reinforcement via Lin quote in *New Scientist* (secondary to Lin’s own papers). |
-| T2 | **No upgrade.** |
+| T1 | Slight **safety framing** reinforcement via Lin quote in *New Scientist* (secondary to Lin’s own papers); §6 sharpens this into a **safety-regime gap** rather than a safety assurance. |
+| T2 | **No upgrade.** §7 adds explicit T2-adjacent future-risk evidence (BrainBERT / DARPA N3) **without** retrofitting onto MEDUSA. |
 | T3 | **Hygiene:** internal DB keys + **amount conflict flag** + archive/403 reproducibility notes. |
 | T4 | **No upgrade.** |
+| T5 | §6 reinforces safety-regime caveat as T1/T5 framing; §7 adds T1/T5 military-AI / neurotech context. |
+
+---
+
+## 6. Sadovnik “normal audio safety limits do not apply” — safety-regime gap, not assurance
+
+**Source:** Hambling, *New Scientist* (2008), [Microwave ray gun controls crowds with noise](https://www.newscientist.com/article/dn14250-microwave-ray-gun-controls-crowds-with-noise/).
+
+Sadovnik’s statement that “normal audio safety limits do not apply” to MEDUSA-style microwave-auditory delivery should be read as a **safety-regime gap**, not a safety assurance. The mechanism bypasses ordinary airborne-sound assumptions (no loudspeaker, no air-coupled SPL pathway), but the same fact means that **ordinary audio exposure limits cannot be used to certify safety** of the modality. The boundary condition is supplied by the same article: James Lin (UIC) warns that scaling from quiet microwave-audio perception to discomfort or incapacitation implies **stronger, potentially hazardous shockwaves** and possible **neural damage**.
+
+**Tier classification:** **T1 / T5 safety context.** This row does **not** upgrade T2 (semantic intelligibility) or T4 (fielding); the New Scientist piece remains primary journalism + expert interview, not a peer-reviewed human protocol or fielding record. The discipline is to use Sadovnik’s framing for what it is — a regulatory category mismatch — rather than as a clean bill of health for a microwave-auditory weapon concept.
+
+---
+
+## 7. Modern military AI and neurotechnology — bridge-source discipline (BrainBERT, DARPA NESD/N3, WARDEN)
+
+**Scope:** Modern AI materially changes the neurotechnology risk picture, but it must **not** be retrofitted onto original MEDUSA evidence without a bridge source. This section logs the most-cited candidates and their tier limits.
+
+**BrainBERT** is a Transformer pre-trained on intracranial neural recordings (stereo-EEG / SEEG). It improves decoding of speech-related features **from invasively recorded brain data** in clinical epilepsy patients. It does **not** demonstrate remote brain reading, microwave delivery, or any MEDUSA integration. Its acknowledgements thank **DARPA ASIST**, **DARPA KMASS**, the **AFRL/USAF AI Accelerator**, **AFOSR**, and **ONR**, while the data themselves are clinical SEEG recordings — i.e., defense-funded ML on hospital-grade invasive electrodes ([arXiv:2302.14367](https://arxiv.org/abs/2302.14367), [PDF](https://klab.tch.harvard.edu/publications/PDFs/gk8131.pdf)).
+
+**DARPA NESD** (Neural Engineering System Design) and **DARPA N3** (Next-Generation Nonsurgical Neurotechnology) document defense interest in **read/write neural interfaces**. **N3 is the most relevant** here because its stated target is **nonsurgical bidirectional interfaces for able-bodied service members**, and the awardee descriptions describe decoding/encoding neural signals using **light, acoustic, electromagnetic, focused-ultrasound, and nanotransducer** approaches ([NESD](https://www.darpa.mil/research/programs/neural-engineering-system-design), [N3](https://www.darpa.mil/research/programs/next-generation-nonsurgical-neurotechnology), [N3 awardees](https://www.darpa.mil/news/2019/nonsurgical-brain-machine-interfaces)). This is a programmatic interest signal in the same modality space as MEDUSA-adjacent claims — but it is a **future-risk signal**, not closure of T2 or T4 for MEDUSA.
+
+**DARPA WARDEN** (Waveform Agile RF Directed Energy) shows waveform-agile **high-power microwave** work; its public framing is aimed at **electronics**, not humans ([WARDEN](https://www.darpa.mil/research/programs/waveform-agile-radio-frequency-directed-energy)). It is logged here so future readers do not mis-cite it as a human-effects program.
+
+**Tier classification:** **T1 / T5 military-AI / neurotech context** and **T2-adjacent future-risk evidence** — explicitly **not T2-closed conversational V2K** and **not T4 fielding**. Use these sources to describe how the risk surface is evolving; do **not** chain them backward into the 2003-2008 MEDUSA record without an intermediate bridge source establishing technical or programmatic continuity.
 
 ---
 
