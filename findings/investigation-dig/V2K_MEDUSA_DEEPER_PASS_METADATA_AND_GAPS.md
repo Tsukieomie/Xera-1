@@ -48,8 +48,9 @@ The **archived Navy Search HTML** for the same contract shows:
 | Internet Archive Solr | `title:(MEDUSA WaveBand) OR "Remote Personnel Incapacitation"` | **numFound: 0** (2026-05-06). Does **not** prove absence of a final report worldwide; proves the **summarized PDF is not trivially indexed** under those fields in IA. |
 | SBIR.gov (scripted `curl`) | Award detail endpoints | **HTTP 403** in this VM (consistent with bot protection). Human-browser or authenticated data products may behave differently — reproducibility caveat for automated agents. |
 | NTRL “advanced search” GET | Contract number pasted into query | Returned **primefaces Error** page shell (likely session/form requirement), not usable hit list from curl |
+| USAspending API `spending_by_award` | exact keyword `M67854-04-C-1012` | API enforces earliest search date `2007-10-01`; contract period (2003-2004) is outside normal query window. Within allowed window (2007+), result set is empty. |
 
-Residual manual targets: DTIC Discovery **full-search** for `M67854-04-C-1012`, `N032-0412`, or “Mob Excess Deterrent”; DTIC STO for contractor Phase I technical report if it entered the archive under an unexpected title.
+Residual manual targets: DTIC Discovery **full-search** for `M67854-04-C-1012`, `N032-0412`, or “Mob Excess Deterrent”; DTIC STO for contractor Phase I technical report if it entered the archive under an unexpected title; USAspending **Custom Award Download / bulk_download endpoints** (not date-limited the same way as standard search) for contract-level dollar reconciliation.
 
 ---
 
