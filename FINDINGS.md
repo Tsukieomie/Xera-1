@@ -485,7 +485,7 @@ All relevant facilities within 25 miles of Akwei's address (819 Malta Lane, Whea
 - Specialization: "intelligence, electronic warfare, sensor technology and applications"
 - Personnel: CIA officer (Bird), NSC advisor (Possony), NSA cryptologist (Schleicher), NSA EW expert (LaTondre), NSWC EM weapons director (Byrd), STARGATE remote viewer (Swann)
 - CAGE code 59737: Government contractor status
-- Projects: PANDORA (DARPA), SLEEPING BEAUTY (DIA), mind control, synthetic telepathy
+- Projects: PANDORA (ARPA, 1965–1969; agency renamed DARPA in 1972), SLEEPING BEAUTY (DIA), mind control, synthetic telepathy
 
 **Byrd's Marine Corps EM Weapons Program - NSWC White Oak:**
 - Director: Eldon Byrd
