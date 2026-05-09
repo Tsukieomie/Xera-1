@@ -12,7 +12,14 @@ npm install          # only first time
 npm run dev          # http://localhost:5000
 ```
 
-The dev server runs Express + Vite on the same port. SQLite (`data.db`) is created and seeded on first run with one sample case ("The Harborlight Disappearance").
+The dev server runs Express + Vite on the same port. SQLite (`data.db`) is created and seeded on first run with two cases:
+
+- **Sharp/Grove RF-Hearing Evidence Update (Memorandum v6)** — real investigative working memorandum (May 8 2026) loaded as the active sample case. The full PDF is bundled at `/documents/sharp-grove-rf-hearing-v6.pdf` and surfaced on the Overview page under "Primary source documents". Investigative work product, not legal advice; source provenance and admissibility must be independently verified by counsel before evidentiary use.
+- **The Harborlight Disappearance** — fictional sample retained for UI demonstration.
+
+Cases are listed newest-first; the Sharp/Grove case is therefore active by default. The Overview page detects evidence with `sourceUrl` starting with `/documents/` and renders open/download buttons for any in-repo primary-source documents.
+
+To re-seed (e.g. after schema or seed changes), delete `tracecraft/data.db` and restart `npm run dev`.
 
 ## Build
 

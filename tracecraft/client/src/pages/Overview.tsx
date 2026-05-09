@@ -3,7 +3,7 @@ import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { useToast } from "@/hooks/use-toast";
-import { Copy, FileDown, ShieldCheck, AlertTriangle, HelpCircle, BookOpen } from "lucide-react";
+import { Copy, FileDown, ShieldCheck, AlertTriangle, HelpCircle, BookOpen, FileText } from "lucide-react";
 import { safeParseTags } from "@/lib/types";
 
 export default function Overview() {
@@ -80,6 +80,9 @@ export default function Overview() {
   const tagSet = new Set<string>();
   evidence.forEach(e => safeParseTags(e.tags).forEach(t => tagSet.add(t)));
 
+  // Primary-source documents loaded into the app (PDF or other in-repo assets under /documents/).
+  const primaryDocs = evidence.filter(e => (e.sourceUrl || "").startsWith("/documents/"));
+
   return (
     <div className="space-y-10">
       <header className="flex flex-col md:flex-row md:items-end md:justify-between gap-4">
@@ -136,6 +139,34 @@ export default function Overview() {
           ) : <div className="ink-muted text-sm">None yet.</div>}
         </Card>
       </section>
+
+      {primaryDocs.length > 0 && (
+        <section>
+          <h2 className="stamp ink-faint mb-3">Primary source documents</h2>
+          <div className="grid md:grid-cols-2 gap-3" data-testid="list-primary-docs">
+            {primaryDocs.map(d => (
+              <Card key={d.id} className="p-4 flex items-start gap-3" data-testid={`primary-doc-${d.id}`}>
+                <FileText className="h-5 w-5 text-primary shrink-0 mt-0.5" />
+                <div className="flex-1 min-w-0">
+                  <div className="font-serif text-base leading-snug">{d.title}</div>
+                  <div className="ink-muted text-xs font-mono mt-0.5 truncate">{d.sourceUrl}</div>
+                  {d.notes && <div className="ink-muted text-sm mt-1.5 leading-snug">{d.notes}</div>}
+                </div>
+                <div className="flex flex-col gap-1.5 shrink-0">
+                  <a href={d.sourceUrl ?? "#"} target="_blank" rel="noopener noreferrer">
+                    <Button variant="outline" size="sm" data-testid={`button-open-doc-${d.id}`}>Open</Button>
+                  </a>
+                  <a href={d.sourceUrl ?? "#"} download>
+                    <Button variant="outline" size="sm" data-testid={`button-download-doc-${d.id}`}>
+                      <FileDown className="h-3.5 w-3.5 mr-1" /> Download
+                    </Button>
+                  </a>
+                </div>
+              </Card>
+            ))}
+          </div>
+        </section>
+      )}
 
       <section>
         <h2 className="stamp ink-faint mb-3">Working tags</h2>
