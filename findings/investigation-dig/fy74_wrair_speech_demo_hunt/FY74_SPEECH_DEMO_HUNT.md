@@ -7,6 +7,8 @@
 
 **Reporting period covered:** 1 July 1973 – 30 June 1974 (FY74) — i.e. the period containing Justesen's "28 September 1973" personal-communication date for the Sharp/Grove "speech-into-the-head" demonstration described in *American Psychologist* 30(3):391-401, March 1975 (PMID 1137231; DOI 10.1037/0003-066X.30.3.391).
 
+**Name discipline:** the WRAIR engineer is **H. Mark Grove** (not “Groves”). OCR in Vol 2 can misread the name as `Mt. Grove, H.M.`; unrelated `Groves` table lines appear elsewhere in the same file. See `GROVE_VS_GROVES_NAME_NOTE.md` in this directory.
+
 ---
 
 ## 1. Why this volume matters
