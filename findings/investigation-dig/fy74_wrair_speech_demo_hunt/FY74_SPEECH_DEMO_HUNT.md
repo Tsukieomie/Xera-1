@@ -1,5 +1,7 @@
 # FY74 WRAIR Composite — Sharp/Grove Speech Demo Hunt
 
+> **Canonical replication-status synthesis (2026-05-11):** see [`../REPLICATION_STATUS_SHARP_GROVE_RF_SPEECH.md`](../REPLICATION_STATUS_SHARP_GROVE_RF_SPEECH.md). Standing caution: *The basic microwave auditory effect is well-established; intelligible speech transmission via the same mechanism has not been independently confirmed in public peer-reviewed literature.* The round-3 "single-attestation event, never independently replicated" framing in §14 below is now consolidated repo-wide.
+
 **Investigation date:** 29 April 2026
 **Source documents:**
 - AD-A009337 — *WRAIR Annual Progress Report, 1 July 1973 – 30 June 1974, Volume 1* (Internet Archive: https://archive.org/details/DTIC_ADA009337)
