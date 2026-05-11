@@ -8,6 +8,8 @@ Scope note: this file does not decide the final truth claim by itself; it ranks 
 
 **Tier A/Tier B rationale, extrapolation risks, Sharp/Grove harmonization:** `V2K_DEEP_LAYER.md`.
 
+**Bounded constraints layer (physics, channel, source-class, alternative mechanisms):** `V2K_CONSTRAINTS_AND_NEGATIVE_BOUNDS.md` — consolidates the rise-time, head-resonance, thermal-floor, masking, channel-count, and external-recordability bounds; pins each T1–T5 row to its bounding source; includes caution blocks for Sharp/Grove, patents, declassified Army/PANDORA/JASON documents, and parametric-array/LRAD alternative mechanisms.
+
 ---
 
 ## Working judgment (T1–T5, consistent with this matrix)
