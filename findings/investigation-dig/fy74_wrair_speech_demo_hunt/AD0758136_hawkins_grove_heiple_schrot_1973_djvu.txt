@@ -1,0 +1,1083 @@
+AD-758  136 
+
+
+- 
+
+
+Some  Biological  Effects  of 
+Microwave  Irradiation  in  the  Rat 
+
+Walter  Reed  Army  Institute  of  Research 
+
+
+MARCH  1973 
+
+
+Distributed  By: 
+
+NTIS 
+
+National  Technical  Information  Service 
+U.  S.  DEPARTMENT  OP  COMMERCE 
+
+
+THIS  DOCUMENT  IS  BEST 
+QUALITY  AVAILABLE.  THE  COPY 
+FURNISHED  TO  DTIC  CONTAINED 
+A  SIGNIFICANT  NUMBER  OF 
+PAGES  WHICH  DO  NOT 
+REPRODUCE  LEGIBLY. 
+
+
+SOME  BIOLOGICAL  EFFECTS  OF  MICROWAVE 
+IRRADIATION  IN  THE  RAT 
+
+
+T.  Daryl  Hawkins 
+H.  Mark  Grove 
+Thomas  W.  Heiple 
+John  Schrol 
+
+
+March  1973 
+
+
+Department  of  Microwave  Research 
+Walter. Reed  Army  Institute  of  Research 
+Washington,  D.  C.  20012 
+
+
+U.  S.  Army  Mobility  Equipment  Research 
+and  Development  Center 
+Fort  Belvoir ,  Va.  22060 
+Inter  Army  Order  1247  and  2544 
+
+
+Approved  for  public  release;  distribution  unlimited 
+
+
+((•produced  by 
+
+NATIONAL  TECHNICAL 
+INFORMATION  SERVICE 
+
+
+U  S  Deportment  of  Commerce 
+Springfield  VA  22151 
+
+
+mr*-? 
+
+
+Unclarsificd 
+
+
+?«•**»:»  •  v  l 
+
+
+ooc;.y*'-iJT  cowmigl  d/.ta  -  ■:  *  d 
+
+,  jrru'itr  t  jj*  *f»«  k.'T^n  of  fr.V.  »  -rr  .  i  #•?  •  ?*«.«  f  .•*.-*  mViir,;  u  »n».*-*ri*  ..  r  u*l  .  *  *■.;»«  *♦-*#  r  * .  -»  :;.r  i- 
+
+«.  1,'J'C/K  I  SI.  CO 
+
+
+cl 
+
+
+Ca!ti>!MA  tl».i  A«.'  l'.V!  •>  ,  ftttnnm  t 
+
+Department  of  M'crowavc  Research 
+Walter  Reed  Amiy  lnslilulc  of  Rehear*. h 
+
+
+r  i  a vii i  «c* i lo’j 
+Unclassified 
+
+
+’"b.  •*  *«  j  v  "  ^ 
+
+
+W/«  rhin» Inn _ IX 
+
+
+fill  C‘JT  TITLl 
+
+
+20012 
+
+
+KA 
+
+
+J 
+
+
+Some  Biological  Effects  of  Microwave  Irradiation  in  The  Rat 
+
+
+[  4-  OC5C*i.P1IVIi  MOTf  S  f7 VpJ  oi  rrpott  Ct'd  inr/||.*»|  Vt*  t:*lc») 
+
+i  Julv  1971  -  January  1  “73 
+
+
+f  S-  A<  ThOKiH  jfi/t!  r..ic.c.  ir.itm*,  /«>*-.  I 
+
+t 
+
+
+/  T.  Daryl  Ha\vk*ns,  II.  Mark  Grove,  Thornas  W,  Iiniple.  John  Schroi 
+
+
+t?  HI  POI;  1  DM  L 
+
+March  1“73 
+
+7*.  TO  1  A»  ?:o.  OP  P/.6CS 
+
+34 
+
+'/<».  NO-  a  t.bi  ^  J 
+
+5  \ 
+
+«■ M .  CONTRACT  OHCKiUI  NO. 
+
+b\0  1247  and  LAO  2544 
+
+b.  PWOJLC  T  WO. 
+
+1J662712AJ21 
+
+c. 
+
+f. 
+
+•i«.  OBIOi'J*  ff-i.'S  HE.-i-Fi  1  f-  w.xutr-.lij 
+
+NA 
+
+* 
+
+vi.  oTHih'.  hc.pomT  ncu)  i"-.,  otnor  nrnt •■+ 1/.  thf.i  r ••  y  /•*  *r  r>*,y  *u  ». 
+
+thi-Jf  c<  p-'Tt)  * 
+
+j 
+
+.  ..  .  i 
+
+!  0.  L’.ST  -'l,?liT  ION  -f*T  fWFh  “  , 
+
+Approved  for  public  release;  distribution  unlimited.  i 
+
+I 
+
+t 
+
+t,.  ?.nP«M  iprtiT Nt*TLS 
+
+2.  srOlirORlMC  MILITARY  ACTIVITY 
+
+and  Devclop?r»ont  Center 
+For.  Belvoir,  Vo.  22  0 (< 0 
+
+
+r  •  3  /.DSTKACT 
+
+
+This  report  describes  two  major  experimental  efforts  performed  by  the 
+Microwave  Research  Department,  Walter  Reed  Army  Institute  of  Research, 
+
+Walter  Reed  Army  Medical  Center.  The  first  study  examines  the  lethal  effects 
+of  3000  MHz  exposures  in  rat.  The  second  study,  which  was  performed  con¬ 
+currently  with  the  first,  examined  behavioral  performance  decrements  in  rat  as 
+a  function  of  b  »th  wavelength  and  power  density.  The  lethality  study  indicated 
+that  more  total  energy  is  required  to  produce  lethal  effects  with  low  power 
+densities  than  .vilh  higher  ones,  The  behavioral  experiment  indicated  a  substantial 
+frequency  dependent  effect  of  microwave  irradiation.  The  results  raise  the 
+possibility  of  similar  frequency  dependent  effects  in  other  species. 
+
+
+U  7W»  a  .tr  "•’t-.’T'ViT’TV  ?!T.  '  • 
+
+•  •  NOV  «b  i>  *-/ 
+
+
+*  •  »*-.•*»  •  -nwi  nafftwnn  utrjnvnNK  iww— mo  mm 
+
+v‘  ..*.££•)  u'>  KO  I*?  »•  *.;.  1  jit!  U,  WHICH  IP 
+E»*uUr.T|.  POf*  AP.MY  US  1C. 
+
+
+PCjr  -rarsm+w  *  jooni 
+
+
+Lvcurity  Classification 
+
+
+ITnc'la  ssifiod 
+
+Strunltf  t'!a if i ratio*? 
+
+
+klv  rtonos 
+
+
+Microwaves 
+Radiofrcqucncy  waves 
+Electromagnetic  waves 
+Operant  Conditioning 
+Behavior 
+Performance 
+Lethality 
+
+
+I.  LL'llIAL  EFFECTS  OF  3000  121  x  IRRADIATION  Li  THE  RAT 
+
+
+Intiw  ’action 
+
+A  dearth  of  careful  puraiititric  investigations  of  the  lethal 
+effects  of  microwave  irradiation  exists  in  the  world  literature. 
+
+A  notable  exception  in  this  relative  void  is  the  work  of  Susskind 
+(1961).  With  mice  exposed  at  9270  KHz,  he  found  that  the  average 
+
+time  to  death  was  directly  related  to  the  power  density,  through 
+
+.  2 
+a  fairly  wide  range  of  power  levels  (68-380  irw/cm  ).  The  highest 
+
+power  .level  resulted  in  the  shortest  time  to  death.  Progressively 
+
+lower  power  levels  yielded  increasing  times  to  death.  A  threshold 
+
+2 
+
+for  lethal  effects  appeared  to  be  between  58  and  68  nw/ cm'. 
+
+The  present  experiment  is  similar  to  Susskind1 s  in  that  we 
+examined  the  lethal  effects  of  microwave  irradiation  in  rats 
+across  a  wide  range  of  microwave  parameters.  The  emphasis  was 
+in  determining  the  relation  between  the  duration  of  ndcrowave 
+exposure  aid  the  lethal  energy  density  (LD50),  defined  as  the 
+estimated  energy  density  at  which  50  percent  of  the  subjects 
+survived  for  five  minutes  following  exposure. 
+
+Method 
+
+One  hundred  aid  seventy-four  mule  Wistur  rats  from  the  Walter 
+Reed  colony  served  as  subjects.  For  several  weeks  prior  to  experi¬ 
+mentation,  each  rat  was  raised  in  an  individual  cage  at  an  ambient 
+temperature  of  76  i  2°F  anc  under  continuous  lighting.  The  rats  were 
+
+
+V 
+
+
+\ 
+
+
+J 
+
+
+weighed  doily,  five  days  per  week,  at  approximately  0730  hours.  When 
+on  individual  rat  had  grown  to  within  the  selected  body-weight  range 
+of  180  to  210  grams,  it  was  scheduled  for  a  single  microwave  exposure, 
+between  0900  and  1200  hours. 
+
+Each  rat  was  assigned  to  one  of  four  durations  of  exposure 
+(0.5,  1,  2,  and  4  minutes),  providing  four  major  groups  of  animals. 
+
+Each  group  was  further  divided  into  subgroups  of  7  to  14  rats  assigned 
+to  different  energy  density  levels. 
+
+A  chamber,  anechoic  for  microwave  signals  and  maintained  at 
+70  ±  1°F,  was  used  for  the  exposures.  Power  at  3000  KHz  was  trans¬ 
+mitted  by  an  ellipsoidal  antenna  six  feet  in  diameter.  The  focal 
+points  of  the  reflector  were  at  32.848  and  74.848  inches  from  the 
+vertex  of  the  antenna.  The  antenna  feed  consisted  of  an  oversized 
+circular  choke  groove  in  a  circular  flange  mounted  flush  to  this  end 
+of  the  exciting  waveguide.  At  the  frequency  employed,  WR284  guide 
+was  used.  Ihe  phase  center  of  this  choked  feed  was  positioned  at 
+the  32.848  inch  focus.  Polarization  was  vertical.  The  relative  phase 
+and  amplitude  distributions  at  the  second  focus  are  shown  in  Figures  1 
+and  2  for  the  E  and  H  planes,  respectively.  Since  the  phase  was  uniform, 
+the  characteristics  of  the  microwave  energy  at  the  focal  plane  mimiced 
+those  experienced  in  i  Fraunhofer  or  far-field  situation.  As  one 
+departs  from  the  focus,  there  is  a  deviation  from  the  plane-wave 
+characterization,  that  is  for  d  <  ^fQCUS  the  wavefront  is  converging 
+and  for  d  >  dfocus  it  is  diverging.  Ihe  on-axis  behavior  is  shewn  in 
+Figure  3  as  a  function  of  z  =  d  -  d^ocus»  where  d  is  the  axial  distance 
+from  the  reflector  vertex. 
+
+
+2 
+
+
+E-PLRNE  PURSE 
+
+
+!  • 
+
+
+Y-DISTf)NCE,  INCHES 
+
+
+4.00 
+
+
+E-PLRNE  RMPLITUDE 
+
+
+•2.00  0.00  2.00  4.09 
+
+Y-DISTfiNCE.  INCHES 
+
+FIGURE  1  y 
+
+
+POWER  DENSITY.  DB  PURSE,  DEGREES 
+
+co.oc  -to.  00  -?0.03  0-00  ,-10.00  O-C'J  10.00  so  *00 
+
+
+B’TGURC  2 
+
+
+V 
+
+
+For'  the  3000  MHz  case,  the  axial  power  ^naity  at  the  focus  was 
+2 
+
+5.1  rrw/ciT  per  watt  into  the  antenna  system.  The  source  transmitter 
+
+(.vide  infra)  had  a  maximum  CW  generation  capability  of  2.0  kw  so  that 
+
+2 
+
+a  maximum  power  density  of  10.2  watts /cm  could  be  achieved.  The 
+antenna  was  calibrated  cn  the  Scientific-Atlanta  XYZ  positioner  and 
+phase-amplitude  recorder  at  the  Georgia  Institute  of  Technology.  Point 
+verifications  were  undertaken  using  a  calibrated  sleeve  dipole  on-site 
+at  the  Walter  Reed  Army  Institute  of  Research.  The  power  density  levels 
+quoted  are  felt  to  be  accurate  within  1  db  absolute,  and  consistent 
+across  the  experiment  to  considerably  better  than  that  on  a  relative 
+basis . 
+
+The  transmitter  consisted  of  a  sweep-frequency  generator  (in  this 
+case  operated  in  the  CW  mode)  and  2  kw  klystron  amplifier.  The  klystron 
+output  was  monitored  by  a  calibrated  directional  coupler  and  a  leveling 
+loop  was  established  to  maintain  a  constant  transmitted  power.  The 
+coupler  was  calibrated  cn  a  Hewlett-Packard  8542A  Automatic  Network 
+Analyzer  to  an  accuracy  of  0.67  db,  mean,  indirectly  traceable  to  NBS. 
+
+A  block  diagram  of  the  transmitter  is  given  in  Figure  4. 
+
+The  rats  were  exposed  one  at  a  time  in  one  of  several  identical 
+styrofoam  boxes,  which  ware  designed  to  minimize  head  and  body  move¬ 
+ments.  The  interior  surfaces  of  these  boxes  formed  a  rectangular 
+compartment  (1-5/8  x  1-5/8  x  6  inches)  when  a  square  rear  plug  was  in 
+position.  The  inner'  edges  of  the  front  plug  formed  a  hood  which 
+enclosed  the  rat's  head.  The  top  of  the  hood  was  canted  45°  forcing 
+the  head  into  an  inclined  position.  The  sides  of  the  hood  were  1/4 
+inch  thick,  restricting  lateral  movement.  Holes  with  a  diameter  of 
+
+
+6 
+
+
+one 
+
+
+1/4  inch  wore  drilled  through  the  box  to  facilitate  breathing, 
+through  the  center  of  the  front  plug  and  twelve  through  each  sice  and 
+top  surface. 
+
+Individual  exposures  were  conducted  in  the  following  manner:  • 
+
+The  rat  was  permitted  to  crawl  into  the  styrofoam  restraining  box. 
+
+The  front  and  rear  plugs  were  inserted  ar.d  held  in  place  with  rubber 
+bands.  The  box  was  then  placed  on  a  styrofoam  platform  with  the  rat’s 
+head  directly  facing  the  center  of  the  dish  artenna  and  aligned  with 
+the  longitudinal  axis  of  the  antenna.  In  this  exposure  position,  the 
+focal  point  of  the  field  fell  approximately  cne-inch  posterior  to  the 
+interaural  line.  Each  rat  was  exposed  for  Hie  preselected  duration 
+and  then  immediately  removed  from  the  box.  A  lethal  effect  was  defined 
+as  the  absence  of  respiration  five-minutes  post  exposure. 
+
+Results 
+
+With  each  exposure  duration  the  percent  mortality  increased  with 
+increasing  energy  density  levels.  There  were  also  systematic  differ¬ 
+ences  from  the  shortest  duration  of  exposure  to  the  longest  duration. 
+These  relationships  are  depicted  in  Figure  5.  The  plotted  points  on 
+the  respective  curves  represent  the  percent  mortality  within  the  sub¬ 
+groups  assigned  to  different  energy  densities.  Numerical  data  corre¬ 
+sponding  to  the  plotted  points  and  the  number  of  subjects  for  each  sub¬ 
+group  are  also  presented  in  Table  1. 
+
+It  is  evident  from  the  family  of  curves  depicted  in  Figure  5  that 
+the  lethal  energy  density  (LD50)  increases  with  increasing  exposure 
+durations,  since  the  respective  curves  cross  the  50-percent  mortality 
+level  at  progressively  increasing  points  on  the  abscissa.  In  fact, 
+
+
+LM0TJ3 
+
+
+tiie  increase  in  LD5C  values  was  dene  to  a  3  inear  function  of  the  expo¬ 
+sure  duration.  Figure  6  illustrates  Idas  relaticr-ship  tore  clearly 
+than  Figure  5.  The  plotted  points  in  Figure  6  rcjirccent  the  LD50 
+estimates  determined  by  linear  exrrapolaticr  using,  the  data  from  the 
+two  aijivxDS  at  each  duration  which  fell  the  clce.est  to  the  50-percent 
+mortality  level. 
+rfscussicn 
+
+The  increase  in  energy  required  to  produce  a  lethal  effect  at 
+4.0  minutes  as  compared  to  0.5  minutes  was  substantial,  amounting  to 
+approximately  40  percent.  Until  determined  otherwise,  these  differences 
+should  probably  be  attributed  to  heat  loss  from  the  subjects  by  acti  ve 
+heat  transport,  by  simple  conduction ,  or  both.  It.  seems  reasonable  to 
+expect  that  the  longer  the  duration  of  exposure,  the  more  heat  will  be 
+eliminated,  serving  to  protect  the  subject  to  some  degree. 
+
+The  present  data  with  rats  are  similar  to  the  mouse  data  reported 
+by  Susskind  (1961).  A  comparison  of  the  two  studies  is  facilitated  by 
+converting  the  present  lethal  energy  estimates  to  lethal  power  estimates. 
+This  is  dene  by  dividing  the  respective  lethal  energy  values  by  the 
+duration  of  exposure  employed.  The  letlial  power  densities  were  a 
+decreasing  monotonic  function  of  the  exposure  duration.  This  relation 
+is  depicted  in  Figure  7.  The  general  shape  of  this  curve  resembles  the 
+curve  reported  by  Susskind,  although  the  power  levels  employed  in  the 
+two  studies  differed  markedly. 
+
+Although  there  are  some  similarities  between  the  present  study 
+
+and  Susskind* s  study,  the  data  from  the  two  studies  are  far  from  identical 
+
+2 
+
+Our  lowest  lethal  power  (417  nw/an  ),  Which  was  found  with  a  four-minute 
+
+
+ENERGY  DENSITY  (W-11  IN/SO  CM) 
+
+
+LETHAL  ENERGY  DENSITY 
+
+
+40.00  BO. 00  120.00  150.00  200.00 
+
+•  EXPOSURE  DURATION  (SEC) 
+
+
+240.00 
+
+
+Estimated  lethal  energy  density  as  a  function  of  exposure  duration 
+at  30C0  MHz. 
+
+
+itw»m 
+
+
+iff 
+
+
+200.00 
+
+
+2«.oq 
+
+
+igure  7 
+
+
+EXPOSURE 
+
+
+120.00  160.00 
+
+DURATION  ( SEC ) 
+
+
+Estimated  power  densities  required  to  produce  a  lethal  effect 
+(LD50)  with  four  different  exposure  durations  at  3000  MHz. 
+
+
+13 
+
+
+exposure  durations,  is  within  10  percent  of  the  highest  power  level 
+
+2  2 
+
+which  Susskind  used  (380  mw/cm  ).  With  380  mw/cm  Sussktnd  found  an 
+approximate  lethal  duration  of  only  2.2  minutes,  considerably  less 
+than  the  4.0  minutes  necessary  in  our  study.  At  this  time,  there  is 
+no  firm  explanation  for  this  difference,  other  than  citing  sane  of  the 
+obvious  procudure  differences,  e.g.,  species,  body  size  of  the  subjects, 
+microwave  variables,  exposure  apparatus,  etc.  A  considerable  para¬ 
+metric  effort  will  be  required  to  examine  the  general  relevance  of 
+each  of  the  above  differences. 
+
+
+14 
+
+
+II.  BEHAVIORAL  EFFECTS 
+
+
+IntxvJ.net.  .lea 
+
+The  absence  of  system -tie  evaluation  of  the  lethal  effects  of 
+microwave  irradiation  stands  as  no  exception  in  the  biological  effects 
+literature.  There  have  also  been  few  studies  which  have  carefully 
+examinee  behavioral  parf  omnia?  measures  arid  an  even  fewer  number  in 
+which  standard  live-operant  techniques  have  been  enployed.  Justesen  and 
+King  (1969)  have,  however,  rv:pv  led  that  performance  reinforced  with 
+sucrose  solutions  shows  piugivsnive  decrements  as  power  levels  are 
+increased  in  a  cloned-:  pace ,  mult  i-mn!',  exposure  apparatus. 
+
+The  present:  study  n#p.lvyi.  mujv  n nv iitional  procedures.  This 
+portion  of  the  study  •-x.imia  •<!  ■:!.  rf  t«vtn  of  microwave  exposure  on 
+
+
+perfoniunec  r.itlirtkiiwd  by  Jo.!  j * •  1 !  Both  power  density  level 
+and  wave  length  wujo  nyntriiut  iml  ly  evaluated  to  determine  the 
+.relative  effects  of  cadi  variable  during  exposures  in  a  "five- space" 
+
+
+situation. 
+
+
+Method 
+
+The  subjects  were  three  nule  and  three  female  Wistar  rats  obtained 
+from  the  Walter  Reed  colony.  All  animals  were  approximately  one-year 
+old  at  the  outset  of  this  study.  Prior  to  training,  tie  rat's  weights 
+were  reduced  by  food  restriction  to  an  experimental  weight  approximately 
+seventy  percent  of  free-feeding  weight.  Experimental  weight  for  males 
+was  300  grams,  for  females,  200  grams.  The  rats  were  individually 
+housed  in  a  temperature  controlled  chamber,  maintained  at  76  ±  2° , 
+under  constant  illumination.  Prior  to  the  formal  experiment,  the  rales 
+had  experienced  40-training  sessions,  but  had  never  been  exposed  to 
+
+
+microwaves .  The  three  females  had  been  trained  for  120  sessions  ana 
+had  received  numerous  exposures. 
+
+The  training  box  was  made  of  1/4"  clear  plexiglass  and  measured 
+12"  long,  12"  high,  and  10"  wide.  A  plexiglass  feeder  cup  was  mounted 
+in  the  center  of  the  .12"  x  10"  front  wall,  3/8"  from  the  floor.  A 
+plastic  tube  (Tygon,  5/8"  diameter)  connected  the  feeder  to  the  pellet 
+dispenser.  The  response  bar  was  positioned  to  the  right  of  the  feeder 
+cup  and  was  made  of  1/2"  plexiglass.  This  bar  was  mounted  to  a  re¬ 
+tracting  device  by  two  small  metal  pins  which  extended  into  the  box. 
+
+A  1-1/8"  thick  piece  of  absorber  (L’ccosorb,  Type  AN,  IT:  mere  on  and 
+Curming)  separated  the  bar  retractor  from  the  wall  through  which  the 
+bar  moved. 
+
+At  approximately  the  same  time  each  day,  seven  days  per  week,  each 
+rat  received  a  15-minute  training  session  on  an  FR  10  schedule.  With 
+this  schedule  every  ten  presses  on  the  response  bar  automatically  pro¬ 
+duced  one  food  pellet.  Solid  state  circuitry  controlled  the  contingen¬ 
+cies  and  recorded  response  output. 
+
+When  an  exposure  session  was  scheduled,  irradic  :ion  began  with  the 
+onset  of  the  third  one-minute  interval  of  the  session  and  was  automatical¬ 
+ly  terminated  with  the  offset  of  the  first  one-minute  interval  during 
+which  fewer  than  ten  responses  had  occurred.  If  the  rat  responded 
+throughout  the  cession,  irradiation  ceased  at  the  end  of  the  15-minute 
+session,  resulting  in  a  maximum  exposure  duration  of  13-minutes.  The 
+response  bar  was  retracted  at  the  end  of  the  session  or  when  the  irradia¬ 
+tion  ceased.  The  primary  measure  or  performance  was  the  tine  to  work 
+stoppage  which  was  defined  as  the  time  elapsed  from  the  onset  of  irradia¬ 
+tion  to  the  point  where  the  ret  received  the  last  food  pellet . 
+
+
+16 
+
+
+During  an  exposure  series  tne  training  box  was  placed  cn  a  styro¬ 
+foam  pedestal ,  front  of  the  antenna,  in  an  anccroic  chamber  iraintained 
+at  70  ±  1° V.  Relative  to  the  antenna,  the  bar  and  feeder  cup  were  on 
+the  right  wall  of  the  box.  The  bar  retractor  and  pel. let  dispenser  were 
+located  to  tire  right  of  this  wall  and  were  shielded,  witlr  ceramic  absorber 
+(Eccosorb,  lype  H— T ,  Emmerson  and  Curm.iing) . 
+
+The  irau'.ini.ttiiig  antenna:;  employed  were  Seiont* if  iw-Aflanta  Series  12 
+standard  g^iin  homs.  'fire  antennas  were  calibrated  using  tire  identical 
+horn  technique.  A  sleeve  dipole  transfer  standard  was  then  calibrated 
+against  the  measured  gain  of  the  Scientific -Atlanta  horn  ard  this  third 
+antenna  was  used  to  establish  the  axial  power  density  in  the  experimen¬ 
+tal  situation.  At  2450  If  Is  a  NAEDA  Model  8100  cosine  ter  was  used  as  a 
+further  dreck  an  tire  exposure  level.  This  device  vets  also  standardized 
+against  the  Scicntific-Atlanta  horns  as  mentioned  above .  The  trans¬ 
+mitter  employed  was  as  described  earlier.  A  family  of  klystron  ampli¬ 
+fiers  was  employed  appropriate  to  the  frequency  of  interest. 
+
+The  axial  distance  from  the  center  of  the  antenna  horizontally 
+to  the  point  at  which  calibrations  were  made  was  approximately  four  feet. 
+The  training  box  was  positioned  so  that  this  calibration  point  was  located 
+three  inches  above  the  floor  of  the  box  and  two  inches  into  the  box  from 
+the  side  nearest  the  antenna.  As  a  rat  pressed  the  response  bar,  it  was 
+typically  oriented  lateral  to  the  antenna  with  the  calibration  point 
+falling  in  the  center  of  the  rat  at  shoulder  level.  Polarization  was 
+vertical. 
+
+Tne  microwave  exposure  parameters  were  as  follows:  Both  frequency 
+and  power  were  varied  systematically.  At  a  particular1  frequency, 
+
+
+17 
+
+
+each  rat  received  a  set  of  six  succesi  ive  microwave  sessions ,  one  per 
+
+o 
+
+day,  at  each  of  five  power  levels  (25,  50,  75,  100,  150  nw/cm  ).  Each 
+
+2 
+
+rat  received  100  nw/cm  on  the  first  and  last  sessions  within  the  set. 
+
+Hie  sequence  for  the  remaining  four  paver  levels  was  mixed  and  differed 
+for  each  rat. 
+
+Sets  of  observations  at  each  power  level  were  made  at  four  differ¬ 
+ent  frequencies.  Ln  sequence,  the  frequencies  used  were  1700,  3000, 
+
+2450,  750,  and  1700  KHz.  The  1700  KHz  observations  were  repeated  at  all 
+power  levels  to  assess  the  possibility  that  the  extreme  effects  observed 
+were  due  to  that  frequency  being  tested  first.  Typically,  at  least  seven 
+daily  training  sessions  elapsed  between  sets  of  power  observations. 
+
+This  was  required  to  allow  sufficient  time  for  transmitter  tube  and 
+antenna  changes  and  recalibrations. 
+
+Results 
+
+Frequency  and  power  density  level  both  proved  to  be  of  major  impor¬ 
+tance  in  determing  performance  alterations  obtained  during  exposure.  At 
+each  frequency,  higher  power  levels  resulted  in  shorter  times  to  stoppage. 
+Tne  effect  of  frequency  was  more  complex  in  that  a  non-monotonic  func¬ 
+tion  resulted.  At  all  paver  levels  which  resulted  in  a  complete  cessa¬ 
+tion  of  performance,  1700  KHz  produced  the  shortest  stoppage  tines.  Both 
+higher  and  lower  frequencies  had  progressively  less  influence.  These 
+frequency  and  power  effects  are  illustrated  in  Figure  8.  The  plotted 
+points  represent  the  mean  scores  for  the  data  of  all  six  subjects  com¬ 
+bined.  Scores  for  the  males  and  females  were  combined  since  no  major 
+differences  were  found  between  them. 
+
+
+18 
+
+
+PPRGE 
+
+
+The  U-shaped  curves  in  Figure  8  which  represent  the  mean  scores 
+for  the  subjects  as  a  group  are  quite  representative  of  what  appears 
+to  be  a  general  frequency  phenomenon,  since  the  respective  scores  for 
+each  of  the  individual  rats  exhibited  very  similar  trends.  Data  for 
+each  of  the  individual  subjects  are  presented  .in  Figures  9a  through  9f. 
+
+The  effects  of  paver  density  appeared  quite  typical,  with  lower 
+pavers  resulting  in  longer  times  to  response  termination.  However, 
+this  relationship  was  by  no  means  linear.  Figure  .10  shows  these  power 
+effects  somewhat  more  clearly  than  Figure  8.  Substantial,  curvature  is 
+re  aled  in  two  of  the  plots,  particularly  for  the  1700  MHz  function. 
+Since  only  two  points  were  obtained  for  the  other  frequencies ,  the  shape 
+of  the  curve  is  indeterminate.  More  than  likely  curvilinear  trends 
+would  have  been  revealed  at  the  other  frequencies  as  well  had  a  longer 
+session  length  been  employed. 
+
+Energy  density'  levels  which  were  required  to  produce  a  termination 
+of  responding  (effective  energy  density)  were  a  decreasing  function  of 
+the  power  density  levels.  This  relation  appeared  to  hold  for  each  fre¬ 
+quency  although  fewer  representative  daia  ;x>ints  were  obtained  for  the 
+least  effective  frequencies  because  of  the  fixed  time  limit  for  the 
+exposures.  Figure  11  illustrates  the  effective  energy  densities  for 
+different  power  levels  and  different  signal  frequencies .  The  most 
+
+extreme  differences  between  two  power  levels  is  that  between  50  and  150 
+2 
+
+rw/cm  at  1700  MHz.  As  canpared  to  the  effective  energy  density  at 
+2 
+
+150  nw/cm  an  increase  in  energy  of  approximately  80  percent  war  re- 
+
+O 
+
+quired  to  produce  response  termination  with  50  nw/cm'". 
+
+
+20 
+
+
+MICROWAVE  FREQUENCY  (GHZ) 
+
+
+Figure  9a.  Performance  scores  for  RAT  470  (female). 
+
+
+X-il 
+
+
+ijg 
+
+
+;JS  2-SZ  Z-SE 
+
+RICRSkSVE  FRE2JEXCY  i 
+
+Sc.  SVrSarczaae  scats  far  SC  %TI  if esaLeJ. 
+
+
+GHZ  I 
+
+
+1 
+
+
+3.09 
+
+
+3.30 
+
+
+Hgae  5d- 
+
+
+T 
+
+
+- 1 - i - 1 
+
+1 43  {.CO  Z. SO 
+
+MICROKP.YE  FREQUENCY  (GHZ) 
+
+
+itofoegace  scares  fee*  *.91  (sale). 
+
+
+-?y 
+
+
+R A T  493 
+
+
+i 
+
+■ 
+
+i 
+
+i 
+
+
+o  J 
+°  { 
+
+—i 
+
+M  ■ 
+
+! 
+
+i 
+
+i 
+
+If 
+
+o  i 
+
+o  s 
+
+£»  S 
+
+
+O  | 
+
+
+o 
+
+o 
+
+D 
+
+
+0.53 
+
+
+1.00 
+
+
+— 1 — 
+1.50 
+
+
+MICROWAVE 
+
+
+i  i - 1 — 
+
+2 -CO  2.50  3.00 
+
+FREQUENCY  (GHZ) 
+
+
+Figure  9e.  Performance  scores  for  RAT  493  (male). 
+
+
+JS 
+
+
+ou 
+
+
+OPPRGE  (MIN) 
+
+!l  9.00 
+
+
+Figure  9f.  Performance  scores  for  RAT  484  (male). 
+
+
+§  FREQUENCY  X  POWER  SERIES 
+*1 
+
+
+o 
+
+o 
+
+CO 
+
+\ 
+
+
+o 
+
+o 
+
+o 
+
+w 
+
+
+o 
+
+o 
+
+
+V.  O  I 
+
+
+CO 
+
+
+UJ 
+
+Qg 
+
+C£  ° 
+
+LU 
+
+ISC 
+
+o 
+
+Q. 
+
+
+75C  MHz 
+3000  KHz 
+2450  MHz 
+
+1700  MHz 
+
+
+O 
+
+o 
+
+
+5*°0  7.00  9. CO 
+
+EXPOSURE  TIME  (MIN) 
+
+
+11.00 
+
+
+13.00 
+
+
+Figure  10. 
+
+
+The  relationship  between  power  density  and  exposure  tire 
+work  cessation  at  four  microwave  frequencies.  Note,  the 
+levels  were  fixed  and  exposure  time  was  determined  by  the  1 
+
+been 'excluded?  n°  St0ppage  00 
+
+
+power 
+
+
+J  1 
+
+
+EFFECTIVE  ENERGY  DENSITY 
+
+
+1700  MHz 
+
+
+) 
+
+
+) 
+
+) 
+
+> 
+
+
+2S.00 
+
+
+- 1 - 1 - 1 - T - 1 
+
+.  50.00  75.00  100.00  125.00  150.00 
+
+POWER  DENSITY  ( MW/SQ  CM) 
+
+
+Figure  11.  Effective  energy  density  levels  as  a  function  of  power 
+density  at  four  ndcrowave  frequencies.  Effective  energy 
+.  density  was  defined  as  the  energy  density  (power,  x  tire) 
+required  to  produce  a  termination  of  performance . 
+
+
+Discussion 
+
+The  present  behavioral  study  provides  substantial  evidence  that 
+rats  are  selectively  sensitive  to  intermediate  microwave  frequencies 
+within  the  range  of  750  to  3000  MHz.  This  resiilt  was  quite  unexpected, 
+with  the  exception  of  our  own  pilot  work  which  suggested  such  an  effect. 
+While  the  present  study  was  in  progress  an  interesting  report  was  pub¬ 
+lished  which  may  be  valuable  in  interpreting  the  present  results 
+(Kritikos  and  Schwan ,  1972). 
+
+Using  mathematical  irodelling  techniques,  Kritikos  and  Schwan  pre¬ 
+dicted  the  distribution  of  the  heating  potential  generated  by  an  inci¬ 
+dent  electromagnetic  plane  wave  on  different  size  spheres  having  electri 
+cal  characteristics  similar  to  those  of  biologic  tissues.  Their  model 
+suggests  that  intense  hot  spots  occur  inside  spheres  with  a  radius  of 
+5  cm.  Maximal  heating  potentials  are  predicted  for  a  frequency  of  300 
+KHz,  with  lesser  effects  predicted  for1  both  higher  and  lower  frequencies 
+
+If  one  assumes  that  the  frequency  effects  observed  in  the  present 
+study  wore  due  to  differential  generation  of  "hot  spots"  which  in  turn 
+inhibited  the  performance,  a  general  predictive  value  can  be  attributed 
+to  the  model  presented  by  Kritikos  and  Schwan.  The  extent  to  which  such 
+assumptions  are  warranted,  however,  needs  careful  examination .  Where 
+are  the  predicted  hot  spots  located?  Do  they  occur  in  the  rat  trunk,  in 
+the  brain,  or  in  both?  If  such  hot  spots  occur  at  all  in  rats,  how  do 
+they  combine  with  surface  heating  to  produce  biological  effects,  in 
+particular,  behavioral  effects?  What  would  be  the  distribution  of 
+these  hot  spots  in  moving  animals?  The  answers  to  these  questions  must 
+
+
+29 
+
+
+bo  obtained  in  order  to  evaluate  whether  or  not  the  correspondence 
+between  the  present  behavioral  data  and  a  irode^  of  heating  potential 
+is  anything  other  than  a  mere  coincidence. 
+
+The  close  similarity  in  performance  effects  which  obtained  from 
+one  rat  to  the  next  is  interesting,  especially  since  the  tales  and 
+fatales  were  quite  different  in  body  weight.  This  suggests  that  body 
+nass,  within  ranges  employed  here,  nay  not  be  a  particularly  influen¬ 
+tial  variable  when  dealing  with  microwave  effects.  Michaelson  (1961) 
+has  reported  similar  observations  with  dogs.  However,  it  should  be 
+noted  in  passing,  that  such  a  conclusion  runs  counter  to  theoretical 
+work  by  Hoeft  (1965). 
+
+An  additional  interesting  feature  of  the  data  concerns  the  rela¬ 
+tively  severe  effects  of  fairly  low  powers.  At  the  1700  MHz  frequency, 
+
+2 
+
+a  power  of  only  50  nw/ern  produced  a  complete  cessation  of  bar-press 
+
+2 
+
+responding  within  a  ten-minute  exposure  period.  A  level  of  50  mw/em  , 
+
+.  .  2 
+of  course,  is  relatively  close  to  the  safety  level  of  10  rrw/cm  estab¬ 
+lished  for  humans  exposed  to  microwave  fields.  The  fact  that  microwave 
+effects  are  found  at  power  levels  not  far  above  the  established  safety 
+level  points  to  the  necessity  for  additional,  careful,  and  comprehensive 
+examinations  of  the  biological  effects  of  microwaves,  with  a  variety  of 
+species. 
+
+It  is  possible  that  not  only  the  rat,  but  other  species  as  well, 
+nay  exhibit  enhanced  sensitivity  to  certain  microwave  frequencies.  It 
+is  equally  possible  that  a  frequency  dependency  is  not  idiosyncratic 
+of  behavioral  performance  but  obtains  with  a  variety  biological  measures 
+
+
+30 
+
+
+such  as  lethality  and  thermal  allonges  in  the  gut,  brain,  eyes  and' 
+testicles.  All  of  these  possibilities  will  of  course  not  be  realized, 
+but  to  the  extent  that  at  least  sene  are ,  we  will  have  come  closer  to¬ 
+ward  the  goal  of  gaining  an  understanding  of  the  biological  effects  of 
+
+
+microwaves. 
+
+
+REFERENCES 
+
+
+boeft,  L.O.  Microwave  Heating:  A  Study  of  the  Critical  Variables  for 
+Man  and  Experimental  Animals.  Aerospace  Medicine,  IS 65,  38,  621-622. 
+
+Justesen,  D.R.  and  King,  N.W.  Behavioral  Effects  of  Low-Level  Microwave 
+Irradiation  in  the  Closed- Space  Situation.  Symposium  Proceedings ,  j.969. 
+Bureau  of  Radiological  Health,  (BRH-IDBE  73-2),  154-179. 
+
+Kritikos,  II.  N.  and  Schwan,  H.P.  Hot  Spots  Generated  in  Conducting  Spheres 
+by  Electromagnetic  Waves  and  Biological  Implications.  IEEE  Transactions 
+on  Biomedical  Engineering,  1972,  BME-19,  53-53. 
+
+Mdchaelson,  S.M.  Biological  Effects  of  Microwave  Exposure .  Symposium 
+Proceedings,  1969,  Bureau  of  Radiological  Health,  (BRH/'DBE  70-2),  35-58. 
+
+Susskind,  C.  Longevity  Study  of  the  Effects  of  3-CM  Microwave  Radiation 
+on  Mice.  Institute  of  Engineering  Research,  1951,  Series  60,  Issue  382, 
+(AD  269  385). 
+
+
+32 
+
+

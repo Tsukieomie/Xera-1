@@ -1,0 +1,1481 @@
+00 
+
+CD 
+
+4> 
+
+Q 
+
+^5} 
+
+
+I  f 
+
+V  A 
+
+
+A  PSYCHOPHYSICAL  STUDY  OF  THE  RF  SOUND  PHENOMENON 
+A.  Frey,  R. Messenger ,  E.  Eichert 
+
+
+Final  report,  June,  1972 
+
+U.  S.  Army  Mobility  Equipment  Research 
+and  Development  Center 
+Fort  Belvoir,  Va.  22060 
+Contract  #  DA4K02-71-C-0213 
+
+
+D  D  C 
+
+
+Randomline,  Inc. 
+
+
+York  and  Moreland  Roads 
+
+
+Willow  Grove,  Penna. 
+
+
+Approved  for  public  release;  distribution  unlimited 
+
+
+Reproduced  by 
+
+NATIONAL  TECHNICAL 
+INFORMATION  SERVICE 
+
+U  S  Department  of  Commerce 
+Springfield  VA  22131 
+
+
+UNCLASSIFIED 
+
+
+,'?*.  -«  p**-  -^v 
+
+
+Unclassi fled 
+
+_ Security  Classification _ 
+
+DOCUMENT  CONTROL  DATA  -  R&D 
+
+(Stcvnty  ctoootflcotton  ot  tttto.  body  o l  obotroct  ont*  indoxkt  g  onnototton  «wi(  b*  wJttn  tfi«  ovormit  report  l • 
+
+1  ORIGINATING  ACTIVITY  {Coiponr*  Mthof>  2*  NC*o*T  IECunity  C  UlCPiCATtON 
+
+Randomline,  Inc.  Unclassified _ 
+
+York  &  Moreland  Roads  zt  «*ou»  ~ 
+
+Willov  Grove,  Pa.  19090 _ _ _ _ 
+
+J  REPORT  TITLE 
+
+A  psychophysical  study  of  the  rf  sound  phenomenon. 
+
+4  DESCRIPTIVE  NOTES  (Typo  ol  to  pert  mod  incktoiro  dotoo) 
+
+_ Final  report  Feb,  1971  -  Apr1'!  1972. _ 
+
+J  AUTHORfS;  (Loot  no mm.  tint  nano,  initio! ) 
+
+Frey,  A.,  Messenger,  R.,  Eichert,  E. 
+
+
+«  REPORT  0*TE 
+
+June,  1972 
+
+•  «.  contract  on  GRANT  NC. 
+
+DAAK02-71-C-0213 
+
+&  project  no. 
+
+1J662712AJ21 
+
+
+7a.  TOTAL  NO.  op  PACE*  7ft.  NO.  OP  RCPI 
+
+32  NA 
+
+9a.  ORICINATOR'I  RERORT  NUMRtRfS) 
+
+
+9ft.  O’KED  REPORT  NOf?J  (A nr  otfxr  r<RNl>ai»  ftatatr 
+B.'«  report) 
+
+
+ft*  aaaijnarf 
+
+
+10  A  V  A  IL  ABILITY /LIMITATION  NOTICES 
+
+
+Approved  for  public  release;  distribution  unlimited. 
+
+
+11-  SUPPLEMENTARY  NOTES 
+
+
+IS.  ABSTRACT 
+
+
+IS.  SPONSORING  MILITARY  ACTIVITY 
+
+U.S.  Army  Mobility  Equipment  Research 
+and  Development  Center 
+Fort  Belvoir,  Va.  22060 
+
+
+The  objective  of  the  experimentation  reported  herein  was  to  obtain 
+additional  data  on  the  rf  sound  phenomenon.  This  phenomenon  is  the  perception 
+of  what  is  reported  to  be  a  sound  when  the  head  is  illuminated  with  rf  energy 
+of  particular  characteristics.  In  the  first  phase  of  the  experimentation,  we 
+assembled  a  portable  rf  sound  demonstration  unit.  This  was  successfully  used 
+to  demonstrate  the  phenomenon  and  its  characteristics.  In  phase  two,  we  de¬ 
+termined  what  rf  parameters  are  relevant  to  gen  irating  the  perception  of  rf 
+sounds  of  significance.  We  learned  enough  in  this  phase  to  successfully  create 
+a  perceived  sound  that  we  desired  tc  create.  In  phase  three,  we  explored  the 
+possibility  of  determining  if  the  perception  of  speech  could  be  induced.  It 
+was  found  that  aspects  cf  vocoder  technology  could  not  be  used  to  generate 
+speech.  It  was  also  found  that  perceived  rf  sound  can  not  be  generated  using 
+the  rules  of  the  periodicity  pitch  phenomenon. 
+
+Key  words  -  rf  sound,  microwaves,  hearing,  sound,  nervous  system,  sensor, 
+periodicity  pitch,  psychophysics. 
+
+
+DD  MX.  1473 
+
+
+Unclassified  v 
+
+Security  Classification 
+
+
+4 
+
+
+5\  */ 
+
+
+A 
+
+
+A  PSYCHOPHYSICAL  STUDY  OF  THE  RF  SOUND  PHEROMEIiOK 
+A.  Frey,  R. Messenger,  E.  Sichert 
+
+Final  report,  June,  1972 
+
+U.  S.  Array  Mobility  Equipment  Research 
+and  Development  Center 
+Fort  Belvoir,  Va.  22060 
+Contract  #  DAAK02-71-C-0213 
+Project  #  1J662712AJ21 
+
+
+Randomline,  Inc. 
+
+York  ana  Horeland  Roads 
+Willow  Grove,  Penna. 
+
+Approved  for  public  release;  distribution  unlimited 
+
+
+r*  i 
+
+; 
+
+
+K 
+
+
+/ 
+
+
+6 
+
+
+i 
+
+i 
+
+5 
+
+i 
+
+c 
+
+
+*«*a*ft£*WS4SSfS!S?5S5855^§? 
+
+
+suig-asY 
+
+The  objective  of  the  experimentation  reported  herein  was  to  obtain 
+additional  data  on  the  rf  sound  phenomenon .  This  phenomenon  is  the  r>erc  t-roion 
+of  what  is  reported  to  be  a  sound  when  the  head  is  illuminated  with  rC  er c 
+of  particular  characteristics.  In  the  first  phase  of  the  experimentation,  ve 
+assembled  a  portable  rf  sound  demonstration  unit.  This  was  successfully  used 
+to  demonstrate  the  phenomenon  and  its  characteristics.  In  nbase  twoj  we  de¬ 
+termined  what  rf  parameters  are  relevant  to  generating  the  perception  of  rf 
+sounds  of  significance.  He  learned  enough  in  this  phase  to  successfully  create 
+u  perceived  sound  that  we  desired  to  create.  In  phase  three,  we  explored  the 
+possibility  of  determining  if  the  perception  of  speech  could  be  induced.  It 
+was  found  that  aspects  of  vocoder  technology  could  not  be  used  to  generate 
+speech.  It  was  also  found  that  perceived  rf  speech  can  not  be  generated  using 
+the  rules  of  the  periodicity  pitch  phenomenon. 
+
+
+i 
+
+
+I 
+
+
+a 
+
+
+i 
+
+
+| 
+
+
+I 
+
+% 
+
+\ 
+
+
+INTRODUCTION 
+
+
+The  perception  of  what  is  reported  to  he  a  sound  when  the  bead  is  illumi¬ 
+nated  with  rf  energy  of  particular  characteristics  is  defined  as  rf  sound. 
+
+p 
+
+These  characteristics  include  very  loir  (microvatt/cn  level)  average  power  den¬ 
+sities,  carrier  frequencies  in  a  band  from  O.U  GHz  to  3  GHz  and  specific  modu¬ 
+lations.  The  nature  of  the  sound  is  related  to  properties  of  the  pulse  modu¬ 
+lation  of  the  rf  energy.  Pulse  widths  between  2.5  us  and  2000  us  and  pulse 
+rates  between  1  and  1*00  pulses  per  second  have  been  used  to  induce  the  sound¬ 
+like  sensation  in  humans.  The  sensation  is  reported  by  people  to  be  a  buzzing, 
+clicking,  or  hissing  which  seems  to  originate  (regardless  of  the  person's 
+position  in  the  field)  within  or  just  behind  the  head.  The  crude  thresholds 
+that  were  found  in  past  studies  are  shown  in  Fin.  1.  The  experimental  arrange¬ 
+ment  ruled  out  explanations  of  the  phenomena  such  as  rectification  by  fillings 
+in  the  teeth.  The  most  sensitive  area  was  the  region  over  the  temporal  lobe 
+
+
+10,000 
+
+
+a> 
+
+f x. 
+
+
+cu 
+
+E 
+
+o 
+
+
+iooo  L 
+
+
+i 
+
+
+T 
+
+1 
+
+
+3 
+
+
+GHz  0.2  1  2 
+
+Fig.  1  Preliminary  thresholds  for  rf  sound  as  a  function  of  rf  energy. 
+
+
+’tea 
+
+
+?&&***&  ffF/rf&iSSSKp 
+
+
+of  the  brain. 
+
+Initially  this  writer  felt  that  the  rf  sound  effect  and  the  electrophonic 
+effect  night  be  comparable,  and  that  a  technique  had  been  found  that  could  be 
+used  to  explain  the  electrophonic  effect  (stimulation  of  sensation  in  the 
+auditory  system  with  electric  current).  The  writer  pursued  experimented  stud¬ 
+ies  which  indicated  that  the  rf  sound  effect  and  electrophonic  effect  are  not 
+the  same  phenomenon.  Mathematical  analyses  were  also  carried  out  to  consider 
+the  possibility  that  vibration  of  the  skin  due  to  rf  radiation  pressure  might 
+account  for  the  effect.  The  results  indicated  that  radiation  pressure  could 
+not  account  for  tne  effect. 
+
+In  an  attempt  to  locate  the  sensor,  a  search  was  undertaken  for  cochlear 
+microphonics  in  guinea  pigs  and  in  cats  exposed  to  rf  energy.  Eo  cochlear 
+microphonics  were  found  in  either  species.  Control  tests  with  acoustic 
+energy  of  comparable  waveform  and  loudness,  including  the  alternation  of 
+acoustic  and  rf  energy,  indicated  that  a  microphonic  does  not  occur  with  rf 
+energy,  Lae  power  densities  used  were  far  above  that  needed  to  induce  the 
+auditory  effect  in  cats.  This  would  suggest  that  the  sensor  may  not  he  prior 
+to  the  inner  ear. 
+
+Based  upon  th*>  foregoing,  an  experimental  program  was  undertaken  to 
+elicit  additional  information  on  the  phenomenon.  The  program  was  developed 
+in  three  phases  and  the  results  are  reported  here. 
+
+OBJECTIVES 
+
+In  phase  one,  the  objective  was  to  assemble  the  equipment  needed  for  a 
+portable  short  range  rf  sound  demonstration  unit.  Such  a  demonstration  of  the 
+rf  sound  was  to  he  carried  out  'and "the  unit  then  used" for  the  experimental  work 
+
+
+In  phase  two,  the  objective  was  to  combine  our  experience  with  the  rf 
+
+
+sound  and  the  data  from  vocoder  technology  in  order  to  experimentally  deter¬ 
+mine  if  there  are  rf  parameters  which  viil  yield  the  perception  of  rf  sounds 
+o?  significance. 
+
+In  phase  three,  an  attempt  vas  to  be  undertaken  to  determine  if  the  per¬ 
+ception  of  speech  sounds  could  be  induced.  The  intention  vas  to  make  suen  an 
+attempt  through  the  use  of  buzzes  and  hisses  as  is  done  in  vocoder  technology. 
+PHASE  1 
+
+A  number  of  equipment  assemblies  were  considered  and  evaluated  within  the 
+context  of  our  objectives.  The  assembly  finally  selected  and  obtained  consi'.ced 
+of  an  Applied  Microwave  Laboratory  pulse  signal  source  that  was  capable  of 
+emitting  energy  at  a  carrier  frequency  of  1.2  GHz.  The  energy  was  conveyed 
+via  a  model  87 *  General  Radio  Co.  air' line  and  RG-fl  coaxial  cable  to  a 
+Scientific  Atlanta  coax  to  waveguide  adaptor  and  standard  gain  horn  antenna. 
+Uithin  our  experimental  environment,  the  horn  antenna  emitted  the  energy  into 
+an  rf  anechcie  chamber.  The  antenna  was  oriented  for  the  demonstration  and 
+most  of  the  experimentation  such  Lhat  the  energy  was  horizontally  polarized. 
+
+It  was  found  at  the  start  of  the  project  that  vertically  polarized  energy 
+yields  similar  effects. 
+
+A  demonstration  of  the  hearing  effect  and  the  effect  of  varying  pulse 
+width,  pulse  repetition  rate,  and  pulse  amplitude  was  given  at  USAJJEPDC . 
+
+PHASE  2 
+
+In  the  second  phase,  three  dimensional  field  plots  were  made  of  the  rf 
+anechoic  chamber  that  was  to  be  used  for  the  experimentation.  The  plots  were 
+made  using  the  carrier  frequency  to  be  used  in  most  of  the  experimentation, 
+i.e.,  1.2  GHz.  The  measurements  were  oadr-  using  a  half  wave  dipole  mounted 
+on  a  wooden  pole  as  the  in-chamber  pickup.  The  dipole  antenna  was  supported 
+by  a  wooden  pole  in  order  to  minimize  field  disturbance  during  the  measurement . 
+
+
+In  addition  to  field  plots,  in  each  specific  experimental  session  measurements 
+were  taken  using  the  half  v.ve  dipole  antenna  located  in  a  position  which  va? 
+approximately  the  same  as  •  t  location  of  the  center  of  the  subject’s  (S's)  - 
+head  during  data  collection.  The  dipole  was  connected  via  RG-58  coaxial  cable 
+to  a  microlab  model  AF  20  attr~mator  that  was  located  evtside  of  the  climber. 
+
+The  attenuator  was  connected  to  a  Hewlet  '•-Packard  model  h7TB  thernister  mount 
+and  the  -  -vt,  to  a  W  wlett-Pac.  ard  model  h30C  power  meter.  The  cable  within 
+the  chair.  ms  orient  i  f-r  minimal  field  disturbance.  This  measurement  equip¬ 
+ment  yield1  an  avero.  -  o  r  measur  ement  from  which  peak  power  is  derived  by 
+the  standard  duty  ey_.  formula.  The  signal  attenuation  due  to  the  cable  and 
+the  attenuator  are  accounted  for  in  the  reported  measurements.  The  reader 
+should  keep  in  mind  the  inherent  and  tinspecifiable  error  in  all  rf  measurements 
+due  to  the  effect  of  the  measuring  instrument  in  the  field  and  the  effect  of 
+biological  objects  in  the  field. 
+
+After  exploratory  experimentation,  a  series  of  experiments  designed  to 
+obtain  data  on  perceived  loudness  and  "sound”  quality  as  a  function  of  various 
+rf  parameters  was  initiated.  This  vas  necessary  in  order  to  gain  an  under¬ 
+standing  of  the  effect  of  the  rf  parameters  on  perception.  It  was  expec  1 
+that  from  such  a  data  base  ve  could  move  to  generating  meaningful  sound. 
+
+In  the  first  data  collection  series,  a  judgement  task  was  set  for  the 
+subjects.  The  task  was  to  determine  which  rf  sound  of  a  pair  was  louder.  The 
+test  consisted  of  one  standard  pulse  amplitude  and  5  differing  pulse  amplitudes 
+which  had  the  characteristics  shown  in  Table  I.  As  can  be  seen  in  the  table, 
+the  pulse  widths  were  varied  with  the  standard  pulse  having  a  pulse  width 
+that  fell  between  the  two  extremes.  The  duty  cycle  also  varied  as  did  the 
+aY*rru£e  vcver,  Th®  peak  poorer  wo  keyt  constant.  For  the  first  tc-st  series. 
+
+
+k 
+
+
+aaasa  gwiv  i  lywtfijMU^gtaa  inreaaMHPaa»a«og«  »^iiuAio»*.aeJgggE^agg?&gasqz»^  ^^.1...^.,,^ 
+
+
+Table  I 
+
+
+Rf  Parameters  Used  at  Each  Test  Condition  Number  Shown  in  the  Figures 
+
+
+Test  Condition  i? 
+
+Pulse  width 
+
+Duty  cyx.?e 
+
+Average  Power 
+
+fk*Xfo«*r 
+
+us 
+
+arlC“3 
+
+p 
+
+ntw/cm 
+
+Standard  Pulse 
+
+1*0 
+
+*  -  -  - 
+
+.28 
+
+fyo 
+
+1 
+
+60 
+
+3.0 
+
+.i*2 
+
+140 
+
+O 
+
+c. 
+
+50 
+
+2.5 
+
+.35 
+
+lhO 
+
+3 
+
+30 
+
+1.5 
+
+.21 
+
+'h0 
+
+*4 
+
+20 
+
+1.0 
+
+.11* 
+
+lhO 
+
+5 
+
+10 
+
+0.5 
+
+.07 
+
+lhO 
+
+we  h'  d  h  subjects  compare  the  "sound"  induced  by  the  standard  pulse  to  the 
+"sound"  induced  by  the  5  variable  pulses  through  10  repetitions.  This  was 
+done  over  several  sessions  for  each  subject. 
+
+Each  subject  wa3  placed  in  the  rf  chamber  and  he  was  told  the  following: 
+"Your  Job  is  to  determine  the  loudness  of  certain  sounds.  A  light  will  flash 
+on  to  signal  that  a  sound  is  coming.  After  the  first  sound,  there  will  be 
+an  6  second  pause  after  which  you  will  hear  a  second  sound.  You  are  to  in^ 
+dicate  which  of  the  two  sounds  is  louder.  This  is  done  by  pressing  button 
+#1  on  a  hand  switch  if  the  first  sound  is  louder  or  pressing  button  #2  if 
+the  second  sound  is  louder.  The  first  sound  you  hear  is  a  standard  sound  and 
+will  always  remain  at  the  same  loudness.  The  second  sound  will  vary  and  be 
+either  louder  or  softer.  The  direction  and  the  amount  that  it  varies  has 
+been  predetermined  by  a  table  of  random  numbers.  Consequently  there  is  no 
+
+
+organized  pattern  to  the  second  sound  clonges.  The  test  has  been  set  up  so 
+that  the  second  sound  may  not  be  heard  in  all  cases.  In  the  eyent  that  you 
+can't  hear  the  second  sound  Vithin  10  seconds  or  so  after  the  first,  th-u*  you 
+should  signal  that  the  first  sound  is  louder  by  pressing  button  #1.  Ir;  this 
+type  of  test,  sounds  can  not  be  repeated.  So  vhen  the  light  flashes  on  be 
+prepared  to  listen.  You  can  not  say  that  the  sounds  are  of  equal  loudness. 
+You  must  choose  vhich  of  the  two  sounds  seems  the  loudest.” 
+
+After  the  series  was  completed,  histograms  were  constructed  from  the 
+average  results  for  each  of  the  subjects  and  one  total  average  histogram  was 
+computed.  From  the  individual  histograms  it  was  determined  that  all  the  sub¬ 
+jects  had  problems  distinguishing  loudness  levels  between  pulses  1,  2,  and 
+3.  In  all  cases  the  subjects  seemed  to  have  no  trouble  distinguishing  between 
+pulses  U  and  5,  and  the  standard  pulse.  The  results  ere  shown  in  Fig.  2. 
+
+
+Fig.  2  Histogram  of  means  of  subjects  exposed  to  rf  energy  of  characteristics 
+shown  in  Table  I.  Peak  power  was  held  constant. 
+
+
+Wa tgatramcgxa 3gaa ctm^TCT;«.'i ^Tx^jymgrwyrji.  sr?j*T2ar&< tw^traujtw** /rewwjp  ,i.m  -.■»-».  — -— ■- o-mmua waa^a » 
+
+
+TABLE  II 
+
+Rf  Parameters  Used  at  Each  Test  Condition  Number  Shown  in  the  Figures 
+
+
+Test  Condition  ft 
+
+Pulse  width 
+
+Duty  cycle 
+
+Average  Power  p-'eb  Power 
+
+US 
+
+xl0~3 
+
+mw/cm^ 
+
+/  2 
+aw/ cm 
+
+Standard  Pulse 
+
+1*0 
+
+2.0 
+
+0.735 
+
+368 
+
+1 
+
+Go 
+
+3.0 
+
+1.225 
+
+368 
+
+2 
+
+50 
+
+2.5 
+
+0.920 
+
+368 
+
+3 
+
+30 
+
+1.5 
+
+0.555 
+
+368 
+
+U 
+
+20 
+
+1.0 
+
+0.368 
+
+363 
+
+5 
+
+10 
+
+0.5 
+
+0.10L 
+
+368 
+
+TABLE  III 
+
+Rf  Parameters  Used  at  Each  Test 
+
+Condition  Number  Shown  in  the 
+
+Figures 
+
+Test  Condition  ft 
+
+Pulse  width 
+
+Duty  cycle 
+
+Average  Power 
+
+Peak  Power 
+
+us 
+
+xlO-3 
+
+p 
+
+mw/cm 
+
+O 
+
+mw/cic 
+
+Standard  Pulse 
+
+1*0 
+
+2.0 
+
+.22 
+
+110 
+
+1 
+
+10 
+
+0.5 
+
+.22 
+
+1*1*0 
+
+2 
+
+20 
+
+1.0 
+
+.22 
+
+220  ’  ‘ 
+
+3 
+
+30 
+
+1.5 
+
+.22 
+
+11*6 
+
+1* 
+
+50 
+
+2.5 
+
+.22 
+
+"88 
+
+5 
+
+6o 
+
+3.0 
+
+.22 
+
+73 
+
+T 
+
+
+Fig.  4  Histogram  of  means  of  subjects  exposed  to  rf  energy  at  characteristics 
+shown  in  Table  III.  Average  power  was  held  constaht. 
+
+
+Based  upon  this  set  of  data,  two  further  series  of  tests  were  designed. 
+
+In  these  series,  ten  subjects  were  used.  Two  subjects  were  used  in  a  test', 
+series  that  once  again  held  peak  power  constant  and  varied  average  power. 
+
+The  parameters  are  shown  in  Table  II.  In  another  series,  the  other  8  subjects 
+were  used  to  explore  the  effect  of  holding  average  power  constant  and  varying 
+peak  power.  The  rf  parameters  used  are  listed  in  Table  £El.  After  these  series 
+were  completed,  histograms  were  constructed  for  the  two  test  series.  The  histo¬ 
+grams  of  the  averages  are  shown  in  Fig.  3  and  4.  The  results  shown  in  Fig.  3 
+
+
+8 
+
+
+535 
+
+
+M  ^!l'-UWMtlCTHf.J»'  n<=>.-=- 
+
+
+. . . . >*qa — gBMw; - i — ; - 1  i  i 
+
+
+are  comparable  to  those  in  F ip.  2  as  expected.  The  data  that  resulted  in  the 
+averages  shown  in  Fig.  h  indicated  that  the  subjects  had  little  or  no  trouble 
+distinguishing  which  of  the  pulses  were  louder  or  softer  than  the  reference 
+pulse.  It  can  be  seen  in  Fig.!*  that  pulse  number  1  was  sometimes  considered 
+softer  than  the  standard  pulse.  One  reason  for  this  might  have  been  that  prise 
+number  1  was  a  very  narrow  pulse  i.e.,  10  ps.  As  one  subject  described  it,  he 
+felt  that  he  was  listening  through  the  sound.  l:The  sound  seems  very  weak,  lack¬ 
+ing  in  depth.'1'  This  suggested  that  another  parameter  had  to  be  considered  in 
+our  attempt  to  generate  meaningful  sound.  At  this  point  in  time,  we  discovered 
+a  problem  unique  to  the  rf  sound  phenomena.  Paradoxical  effects  can  occur  when 
+a  subject  is  overtrained  for  the  Job  i.e.,  has  greater  musical  background  than 
+is  required.  When  such  a  subject  listens  to  a  narrow  pulse  induced  sound  he 
+has  the  impression  that  these  pulses  are  softer  than  the  standard  rf  sound. 
+
+But  instead  of  reporting  the  expected,  he  decides  that  there  is  a  pulse  width 
+difference  and  that  such  rf  sounds  are  not  truly  softer.  As  a  result,  he  re¬ 
+ports  them  as  louder.  Very  careful  instructions  are  needed  to  handle  such 
+problems  as  well  as  thorough  debriefings  after  each  session. 
+
+In  the  next  test  series,  we  explored  pulse  repetition  rate  effects  with 
+two  subjects.  The  pulse  width  was  fixed  at  30  us  and  the  repetition  rate  was 
+varied  from  a  low  of  50  pulses  per  sec  (pps)  to  a  high  of  200  pps.  The  stand¬ 
+ard  pulse  was  set  at  125  pps.  It  was  found  that  the  subjects  tended  to  cue  on 
+repetition  rate  rather  than  peak  power.  It  was  also  found  that  the  quality  of 
+the  sound  changed  as  a  function  of  repetition  rate  and  that  repetition  rate 
+was  the  dominant  parameter. 
+
+We  also  explored  the  effect  of  different  patterns  of  rf  pulses  on  per¬ 
+ception  with  the  use  of  our  special  purpose  minicomputer.  We  programmed  the 
+
+
+9 
+
+
+computer  to  so  control  the  rf  source  that  we  obtained  moment  to  moment  changes 
+in  pulse  repetition  rate.  In  this  way  we  were  able  to  explore  the  effect  of 
+PRF  on  the  perception  of  what  might  be  called  pitch.  It  was  not  true  Ditch  in 
+that  we  found  that  there  were  very  real  timbre  characteristics  in  the  rf  sounds 
+generated  in  this  way.  We  also  explored  putting  these  complex  modulation  pat- 
+terms  on  magnetic  tape  and  controlling  the  rf  source  in  this  fashion.  In  this 
+we  met  with  a  qualified  success.  Spurious  signal's  did  present  problems. 
+
+At  this  point,  it  was  decided  that  we  had  enough  information  to  design  a 
+test  series  to  obtain__precise  data  on  critical  parameters  and  to  gather  data  on 
+thresholds.  New' subjects  (so  that  they  would  be  unbiased)  with  extensive  musical 
+training  were  recruited.  Upon  applying  for  a  position  on  the  panel  the  potential 
+subject  was  first  screened  with  the  Gordon  test  of  personality  to  assure  that 
+panel  members  would  be  reliable.  The  potential  panel  member,  after  taking  this 
+test,  was  further  screened  by  taking  the  Seashore  Test  of  Musical  Ability.  This 
+test  provided  data  on  sensory  capability  in  the  areas  of  loudness,  rhythm,  tonal 
+memory,  timbre  and  sense  of  time.  All  panel  members  accepted  had  clinically 
+normal  hearing.  With  these  subjects  a  test  series  was  undertaken  to  answer  the 
+following  questions  in  a  precise  manner: 
+
+Is  perceived  loudness  a  function  of  peak  power  density,  average  power 
+density,  or  both? 
+
+what  is  the  required  energy  density  for  perceptual  threshold? 
+
+Is  there  a  minimal  or  optimal  pulse  width? 
+
+The  psychophysical  technique  of  magnitude  estimation,  a  well  used 
+technique  in  the  auditory  area,  was  selected  for  use  in  these  experiments. 
+
+Four  well  trained  subjects  provided  the  data  reported  herein.  Each  subject  was 
+tested  individually  within  the  rf  chamber.  Th«  R  sat  or.  a  vuodan  stool 
+
+
+10 
+
+
+^*^^WCk*<  -W.^**«v.  - 
+
+
+with  his  bad',  to  th?  hern  antema.  The  subject's  head  was  fixed  in  space  by 
+having  him  place  his  chin  on  an  acrylic  rest  mounted  on  a  vertical  wooden  pole. 
+The  subject  held  in  his  band  a  multi-key  hand  switch  to  signal  to  the  e^eri- 
+menter  a  number  as  a  report  of  the  loudness  that  he  perceived.  The  s\:'-'c-ei  was 
+told  that  the  first  sound  he  would  hear  would  be  a  reference  sound  tl./ :  v..s 
+assigned.*  the  number  100,  He  was  further  told  that  the  second  sound  he  heavct 
+would  be  variable  in  loudness.  It  was  the  S’s  task  to  assign  a  number  to  the 
+loudness  cf  the  second  sound  with  reference  to  the  first  sound.  The  reference 
+sound  was  relected  as  being  approximately  mid-range  in  loudness. 
+
+In  the  experimental  sessions,  the  experimenter  signaled  the  subject  that  a 
+trial  was  about  to  begin  by  use  of  a  brief  dim  light  signal.  After  a  variable 
+period  of  up  to  five  seconds  the  reference  rf  sound  was  presented  for  two  sec¬ 
+onds.  After  a  silent  period  of  approximately  five  seconds,  the  variable  loud¬ 
+ness  rf  sound  was  presented  for  two  seconds.  The  S  would  then  use  the  hand 
+switch  to  indicate  the  number  he  assigned  to  the  loudness.  On  some  occasions, 
+in  order  to  account  for  the  possibility  of  false  positives ,  no  rf  sound  was 
+presented  at  the  time  that  the  variable  rf  sound  should  have  been  presented. 
+Before  starting  a  session,  the  subject  was  given  two  warm-up  trials.  The  vari¬ 
+able  rf  parameters  thao  were  used  are  presented  in  Table  IV.  Each  test  condi¬ 
+tion  number  is  defined  by  a  specific  peak  power,  average  power,  pulse  width, 
+and  pulse  repetition  rate.  The  order  of  presentation  of  these  sets  of  rf  para¬ 
+meters  was  randomized  by  use  of  a  table  of  random  numbers .  Th-  re  were  tin  se 
+randomized  repetitions  of  the  series. 
+
+The  primary  results  are  presented  in  Fig.  5.  The  point  plotted  at  each 
+
+
+test  condition  number  represents  the  median  of  ell  subjects  and  all  repetitions. 
+The  plot  shown  in  Fig.  5A  was  derived  from  a  test  series  in  w/.ich  ve  studied 
+
+
+Table  IV 
+
+Rf  Parameters  Used  at  Each  Test  Condition  Humber  Shown  in  the  Figures 
+
+
+Peak  power  varied  condition 
+
+
+Test  con<iition  number 
+
+1 
+
+2 
+
+3 
+
+1» 
+
+5 
+
+6 
+
+Sa 
+
+Peak  power  (mw/cm^ ) 
+
+90 
+
+105 
+
+125 
+
+210 
+
+315 
+
+630 
+
+630 
+
+Average  power* 
+
+(v/cm2) 
+
+0.32 
+
+0.32 
+
+0.32 
+
+0.32 
+
+0.32 
+
+0.32 
+
+1.26 
+
+Pulse  width  (ys) 
+
+70 
+
+60 
+
+50 
+
+30 
+
+20 
+
+10; 
+
+h0 
+
+Pulses  per  sec 
+
+50 
+
+50 
+
+50 
+
+50 
+
+50 
+
+59- 
+
+50 
+
+Average  power  varied  condition 
+
+Test  condition  number 
+
+1 
+
+2 
+
+3 
+
+k 
+
+5 
+
+6 
+
+O 
+
+Peak  power  {aw/cm  )* 
+
+370 
+
+370 
+
+370 
+
+370 
+
+370 
+
+370 
+
+Average  power 
+(mv/cm2 ) 
+
+0.19 
+
+0.37 
+
+0.55 
+
+0.93 
+
+1.11 
+
+1.29 
+
+Pulse  widths (ps) 
+
+10 
+
+20 
+
+30 
+
+50 
+
+60 
+
+70 
+
+Pulses  per  second 
+
+50 
+
+50 
+
+50 
+
+50 
+
+50 
+
+50 
+
+*  Constant  values  shown  were  rounded  for  clarity. 
+
+
+12 
+
+
+iaaaaas^affisii 
+
+
+function  of  power  density 
+
+
+the  effect  of  varying  peak  power  while  holding  average  power  constant.  The 
+average  power  was  held  constant  by  varying  pulse  width.  The  plot  shown  in 
+Fig.  5B  was  derived  from  the  results  obtained  in  a  series  of  tests  in  which  the 
+average  power  was  varied  while  the  peak  nower  was  held  constant.  The  data  ob¬ 
+tained  were  stable  as  is  typical  from  trained  subjects  in  psychophysical  expi ci- 
+ments .  A  consideration  of  the  two  plots  indicte  that  once  a  minimum  pulse 
+width  is  used,  perceived  loudness  is  a  function  of  peak  power  density.  The 
+curves  fitted  to  the  data  ore  estimated  and  are  intended  only  as  a  guide  to  the 
+reader's  eye.  The  ordinate  is  not  labeled  since  the  units  are  arbitrary  and 
+could  be  misleading. 
+
+Note  should  be  taken  in  Fig.  5A  of  the  point  plotted  for  test  condition 
+
+number  £’.  Its  location  is  inconsistent  with  what  would  be  expected. 
+
+The  average  data  represented  by  this  point  were  obtained  when  a  lOps 
+pulse  width  was  used.  Since  a  consideration  of  all  the  data  shown  in  the  fig¬ 
+ures  indicates  +hat  this  pulse  width  is  outside  the  optimal  pulse  width  band 
+for  loudness,  we  tested  the  possibility  that  the  apparent  inconsistency  is  due 
+to  the  use  of  a  non-optimal  pulse  width.  We  tested  by  obtaining  data  using 
+the  same  peak  power  but  with  a  pulse  width  within  the  optimal  band,  i.e.,  ^Ops . 
+The  average  of  the  data  so  obtained  is  represented  by  the  square  .labeled  A  in 
+figure  5B.  It  indicates  that  the  apparent  fall  off  in  perceived  loudness  as 
+peak  power  is  increased  at  test  condition  6  is  due  more  to  the  pulse  width 
+
+being  less  than  optimal  for  full  perceptual  effect  than  to  an  actual  drop  off 
+
+in  perceived  loudness  at  the  higher  peak  power  levels.  -Tote  should  also  be  taker, 
+that  the  data  plotted  in  ?ig.5B  suggests  that  beside  ai.  apparent  minimum  pulse 
+width  for  perceived  loudness  there  nay  also  be  a  maximum  p’.ilse  width  definin'* 
+a  band  of  optim.il  pulse  widths  for  perceived  loudness.  It  also  appears  that 
+
+lh 
+
+
+average  power  does  not  determine  loudness  except  insofar  as  it  is  incidentally 
+involved  due  to  the  need  for  a  minimum  pulse  width  for  optimal  effect. 
+
+The  required  energy  density  for  perceptual  threshold  was  derived  by  simply 
+extending  the  curve  in  Pig.  5A  to  the  abscissa.  In  this  manner,  a  threshold 
+peak  power  density  of  80  mw/cm^  was  derived.  This  threshold  was  not  derived 
+with  the  use  of  optimal  rf  parameters  and  is  clearly  not  the  lowest  value  that 
+can  be  obtained  for  threshold.  The  average  power  density,  though  convention** 
+ally  given,  is  not  particularly  meaningful  with  this  phenomena.  In  this  case 
+it  was  approximately  0.3  mv/cm^  but  could  have  Just  as  easily  been  3  yv/cra^. 
+
+We  need  only  have  reduced  pulse  width  and  pulse  repetition  rate. 
+
+With  this  full  set  of  data  on  perception  as  effected  by  the  various  rf 
+parameters,  we  were  able  to  begin  constructing  rf  sounds  that  might  be  meaning¬ 
+ful  to  the  subjects.  In  our  quest  to  generate  meaningful  sounds,  it  was  found 
+that  by  externally  modulating  the  microwave  source  with  one  or  two  pulse  genera¬ 
+tors  it  was  possible  to  generate  rf  "sounds"  that  people  could  recognize  as 
+having  meaning.  These  sounds  included  bongo  drums,  lawnmower  engines, small 
+model  airplane  engines,  electric  saws,  crickets,  knocking  on  doors,  and  tapp¬ 
+ing  of  a  pencil. 
+
+To  create  these  rf  sound  perceptions,  it  was  first  necessary  to  determirv. 
+what  characteristics  the  acoustic  sound  in  question  had,  e.g.,  sharp,  piercing, 
+dull,  flat,  fast,  slow,  repetitive,  etc.  This  was  done  using  pulse  generators , 
+a  speaker  and  several  musically  trained  subjects.  The  subjects  thin*  o listed 
+the  experimenter  in  the  creation  of  a  perceptually  similar  rf  sound.  The  gen¬ 
+eral  rule  of  thumb  was  found  to  be  that  any  sound  that  could  he  created  using 
+the  pulse  generators  and  the  speaker  could  be  created  as  an  rf  sound  with  know¬ 
+ledge  of  its  acoustical  characteristics  and  the  knowledge  we  had  obtained  on 
+
+
+15 
+
+
+rf  sound  characteristics.  After  the  rf  sound  had  been  created  to  the  best  of 
+the  experimenter's  ability  and  within  the  limitations  of  the  rf  equipment,  it 
+was  listened  to  individually  by  several  subjects.  Each  subject  would  evaluate 
+the  sound  and  give  his  impressions  of  it.  The  parameters  of  various  sounds 
+are  listed  in  Table  V. 
+
+With  this  rather  substantial  base  of  information,  we  felt  prepared  to 
+create  a  meaningful  sound  without  the  time  consuming  use  of  subjects.  We  chose 
+to  create  the  sound  of  an  incoming  bullet  as  a  sound  to  test  our  knowledge.  We 
+obtained  a  tape  recording  of  such  sounds  and  analyzed  this  tape  thru  the  use  of 
+our  oscilloscopes.  We  then  set  out  to  create  an  rf  sound  which  might  yield  a 
+comparable  perception  to  our  subjects. 
+
+To  achieve  an  incoming  sound  it  was  necessary  to  use  an  AEL  pulse  gener¬ 
+ator  to  trigger  an  SCR  circuit  which  controlled  an  rf  pulse  generator.  This 
+was  done  as  follows:  The  secondary  of  a  12  volt  step  down  transformer  was 
+placed  in  series  with  the  output  of  the  AEL  pulse  generator.  This  in  turn  was 
+connected  to  the  gate  of  the  SCR,.  With  the  AEL  generator  off,  the  circuit  was 
+so  adjusted  so  that  the  SCR  would  fire  at  full  potential.  When  the  AEL  was  on, 
+the  output  opposed  the  voltage  flowing  into  the  gate.  In  this  way  when  the 
+AEL  was  firing  the  voltage  to  the  gate  was  reduced  which  in  turn  reduced  the 
+output  at  the  SCR  circuit. 
+
+The  output  of  the  SCR  circuit  was  fed  into  the  microwave  source's  power 
+supply.  The  power  supply  stepped  up  the  voltage  then  rectified  and  smoothed 
+the  voltage  to  a  DC  level  which  was  selectable  between  0  -  5000  volts.  This 
+0  -  5000  volt  DC  level  controlled  the  output  power  at  the  microwave  source. 
+
+The  circuit  is  shown  in  Fig.  6. 
+
+
+•'*>  «z! 
+
+
+SCR  Circuit  ^ici’ovave  Power  Supply 
+
+
+the  microwave  power  supply. 
+
+To  generate  an  incoming  sound  it  was  necessary  to  use  this  circuit  to 
+
+♦ 
+
+change  the  rf  amplitude.  The  pulse  width  and  renetition  rate  were  fixed  at  12  , 
+
+Vis  and  8U7  pps  respectively.  The  amplitude  of  the  rf  signal  had  to  have  a  rather  * 
+
+low  level  of  sound  for  about  b  seconds.  Ther  an  abrupt  rise  in  sound  for  0.5  sec. 
+
+To  do  this  the  AEL  pulse  generator  was  set  to  generate  a  train  of  pulses  b  sec¬ 
+onds  long  with  a  0.5  second  silent  period  before  another  train  started.  Within 
+this  train  were  positive  going  pulses  at  a  frequency  cf  50  pps.  This  would 
+create  a  low  level  output  from  the  SCR  circuit  for  b  seconds  with  a  0.5  second 
+high  period. 
+
+When  the  low  output  of  the  SCR  circuit  was  fed  into  the  power  supply  the 
+internal  circuitry  of  the  supply  would  change  the  low  level  to  about  1500  VDC. 
+
+When  the  0.5  second  high  output  of  the  SCR  circuit  was  fed  into  the  power  supply  •  j 
+
+circuit  the  internal  circuitry  would  change  the  high  level  to  about  5  KV  DC. 
+
+« 
+
+j 
+
+N  ] 
+
+18  I 
+
+i 
+
+li 
+
+
+^gaaP9gj»X3g^ggrin.ycn^ WgjgagBSag^TO^^^?^^  I  mm  u  a wamatm 
+
+
+cfasr 
+
+
+t’hen  the  0.5  second  high  level  ■:•  ”n  letea  the  5  KV  voltage  would  decay  ex¬ 
+ponentially  due  to  a  smoothing  capacitor  in  the  circuit.  This  made  the  rf  incom¬ 
+ing  ?'sourid"  appear  to  have  passed  the  listener*  A  typical  waveform  at  the  rf  source 
+is  shown  in  Fig.  7. 
+
+
+Fig*  J  Typical  rf  waveform 
+
+The  subjects  reported  that  the  rf  sound,  though  low  in  intensity,  sounded 
+like  the  tape  recorded  incoming  bullet . sound,  This  effort  established  that 
+meaningful  rf  sounds  could  be  constructed.  It  also  showed  that  an  rf  source 
+with  unique  control  circuitry  would  have  to  be  designed  and  built  for  the  crea¬ 
+tion  of  specific  meaningful  sounds.  Although  we  were  able  to  design  and  build 
+control  circuitry  to  accomplish  what  we  wished  with  a  standard  rf  source,  it 
+was  a  marginal  situation  in  getting  it  to  operate  and  maintaining  operation. 
+PHASE  3 
+
+Having  established  that  a  specific  sound  could  be  created,  ve  entered  into 
+phase  three  of  the  project.  From  the  data  obtained  to  this  point  it  was  clear 
+that  because  of  the  nature  -of-rf  -sound  transduction,  the  acoustic  procedure  used 
+
+
+I 
+
+
+ii’  vocoders  could  not  be  applied.  The  quality  differences  and  timbre  character-  ' j 
+
+istiv'jj  of  rf  sound  diccovered  to  be  a  function  of  repetition  rate  would  not  allow  *  j 
+
+%  * 
+
+the  construction  of  speech  from  simple  buzzes  and  hisses.  A  buzz,  for  example,  ; 
+
+would  not  retain  its  character  as  frequency  was  changed  for  tonsil  components  ] 
+
+! 
+
+would  enter  into  the  perceived  "sound11  with  the  rf  sound  phenomena.  j 
+
+‘  1 
+
+Thus,  we  explored  the  possibility  of  using  the  periodicity  pitch  phenomena 
+from  acoustics  as  a  means  of  generating  the  perception  of  speech  sound.  In 
+acoustics,  presentation  of  a  train  of  acoustic  pulse  pairs  to  a  subject  results 
+
+i 
+
+in  the  subject  reporting  the  perception  of  a  tone  whose  frequency  is  primarily  a  j 
+
+\ 
+
+function  of  the  time  within  pulse  pairs.  This  is  the  periodicity  pitch  phenomena.  j 
+
+We  tested  to  determine  if  there  is  an  analogous  situation  with  the  rf  sound.  The  j 
+
+test  series  was  run  double  blind  with  our  musically  trained  subjects. 
+
+Binploying  the  data  supplied  by  Bilson  and  Ritsma  on  periodicity  pitch  and 
+the  specifications  of  Ritsma  dealing  with  residue  pitch  (a  related  phenomena), 
+we  chose  the  ten  signal  conditions  and  ten  expected  tonal  matches  which  are  pre¬ 
+sented  in  Table  VI.  Repetitive  rf  pulse  pairs  were  used.  We  define  t  as  the 
+period  of  each  pulse,  x  as  the  interval  between  the  onset  of  pulses  in  a  pulse 
+pair,  and  T  as  the  interval  between  the  onset  of  pulse  pairs.  To  clarify  these 
+value- s ,  we  note  that  t  is  less  than  t  is  less  than  T.  The  objective  was  to  pre¬ 
+sent  the  Ss  with  trains  of  pulse  pairs  with  defined  t,  x  and  T  and  predict  the 
+acoustic  sound  that  they  would  report.  The  experimenter  asked  the  subjects  to 
+match  the  rf  sounds  with  a  pulsed  acoustic  signal  to  determine  the  Ss  perception 
+of  the  rf  sound.  The  pulse  width  of  the  acoustic  signal  was  1.5  milliseconds. 
+
+Once  the  best  repetition  rate  audio  match  to  the  rf  sound  had  been  obtained,  v 
+
+the  experiment t-  .isked  the  S  to  match  the  same  rf  sound  to  a  pulse  modulated 
+audio  signal  having  the  repetition  rate  specified  as  above  by  the  S  but  wit.. 
+
+
+20 
+
+
+Rf  Parameters  for  the  Pitch  Study  Along  with  Expected  Results 
+
+
+Condition 
+
+t{ys) 
+
+T(ms) 
+
+T(ms) 
+
+Expected  Tonal  Match 
+
+1 
+
+25 
+
+5 
+
+ho 
+
+200  Hz 
+
+2 
+
+25 
+
+3 
+
+20 
+
+333  Hz 
+
+3 
+
+50 
+
+5 
+
+h0 
+
+200  Hz 
+
+h 
+
+50 
+
+10 
+
+ho 
+
+Unmatchable  buzzing  sound  or  100  Hz 
+
+5 
+
+25 
+
+5 
+
+200 
+
+Unmatchable  or  200  Hz 
+
+6 
+
+12.5 
+
+5 
+
+hO 
+
+200  Hz 
+
+7 
+
+17-5 
+
+2 
+
+20 
+
+500  Hz 
+
+8 
+
+12.5 
+
+1 
+
+20 
+
+1000  Hz 
+
+9 
+
+12.5 
+
+7 
+
+hO 
+
+lh3  Hz 
+
+10 
+
+37.5 
+
+7 
+
+hO 
+
+lh3  Hz 
+
+a  varying  pulse  width.  E  recorded  the  S's  natch  for  both  repetition  rate  in 
+pulses  per  second  and  audio  pulse  width  in  milliseconds.  The  audio  match  was 
+obtained  by  utilizing  audio  signals  of  approximately  the  loudness  of  the  rf 
+sound.  The  order  of  the  rf  conditions  under  investigation  for  periodicity  pitch 
+were  varied  throughout  the  study  by  use  of  a  table  of  random  numbers. 
+
+The  general  procedure  was  as  follows.  An  S  would  take  a  seat  in  the  rf  an- 
+echoic  chamber  with  his  back  to  the  horn  antenna.  The  S  would  be  presented 
+with  an  rf  sound  for  2  seconds  and  then  would  listen  tc  an  audio  sound  and  in¬ 
+struct  the  investigator  as  to  how  the  audio  sound  had  to  be  changed  to  compare 
+with  the  rf  sound.  The  E  had  control  over  the  modulation  characteristics  of 
+the  audio  sounds  and  could  vary  these  characteristics  according  to  the  verbal 
+
+
+21 
+
+
+instructions  g?.ven  by  the  S.  After  switching  back  and  forth  between  the  — f 
+and  the  a::dio  several  times  tne  subject  would  verbally  give  his  impressions  of 
+the  rf  sound  and,  if  possible,  assign  a  note  to  it.  1b  facilitate  the  finding 
+of  a  note  the  subject  was  given  a  pitch  pipe.  To  help  with  the  assigning  of  °n 
+octave  the  3  could  listen  to  a  note  played  on  a  piano  at  10  octaves. 
+
+The  subjects  were  told  ti  e  following:  You  are  going  no  help  us  to  determine 
+the  pitch  of  a  sound  by  trying  to  match  up  an  rf  sound  to  an  acoustic  one.  This 
+will  he  done  by  first  listening  to  an  rf  sound  then  listening  to  an  audio  sound 
+speaker  over  your  head  (out  of  the  rf  field).  At  this  point  you  will  instruct  me 
+whether  or  not  to  charge  the  pitch  of  the  ^.udio  sound.  VJe  are  only  concerned 
+with  pitch,  all  other  qualities  such  as  loudness  and  sharpness  of  the  two  sounds 
+should  be  ignored.  After  a  match  has  been  established,  if  possible  try  and  tell 
+me  the  frequency  of  the  pitch  that  you  hear.  You  nay  either*  rebate  the  pitch 
+to  a  note  whose  pitch  is  known  to  you,  or  you  may  Just  tell  n«,  i.he  exact  fre¬ 
+quency  of  the  pitch." 
+
+The  audio  match  supplied  by  each  of  the  three  subjects  to  each  of  the  10  con¬ 
+ditions  is  illustrated  and  compered  with  the  expected  values  in  Tables  VII  end 
+VIII. 
+
+
+As  may  he  seer,  the  audio  pulse  width  tine  (ta)  does  not  relate  to  any  of 
+the  variables  «hich  describe  the  rf  signal.  In  particular,  ta  is  not  related 
+to  the  pulse  width  time  (t)  of  the  rf  signal,  nor  to  the  pulse  repetition  tine 
+within  groups  ?t).  00“  to  the  pulse  pair  repetition  time  (!).  Apparently  the 
+repetition  pitch  phenomenon  is  not  a  characteristic  of  rf  sound. 
+
+As  a  further  test  of  the  repetition  pitch  phenomenon,  subjects  had  been  ask¬ 
+ed  to  provide  a  note  and  octave  match  to  the  rf  sounds  that  they  perceived.  In 
+many  cases ..  the  subjects  stated  that  they  could  not  provide  such  a  match.  When 
+
+
+itiono  along  with  expected  and  actual  time  between  pulse  pairs  (T) 
+
+
+subjects  did  provide  a  natch,  they  were  not  consistent.  Two  subjects  do  not 
+associate  the  seme  tone  with  the  same  rf  condition,  and  they  were  never  satisfi¬ 
+ed  with  a  match.  Finally,  in  cases  where  we  would  expect  the  matched  tones 
+to  be  higher  than  other  cases,  based  on  the  repetition  pitch  phenomenon ,  ve  fourd 
+that  whether  the  tone  match  was  higher  or  lower  was  a  matter  of  chance. 
+
+Thus,  the  periodicity  pitch  phenomena  is  not  the  path  to  pursue  in  order  to 
+generate  speech  sounds.  We  could  conclude  from  this  phase  three  data  that  it 
+would  he  necessary  to  have  a  better  understanding  of  the  rf  sound  transducer 
+and  its  mechanism  before  it  will  be  possible  to  generate  speech  sounds. 
+C0NCLUSI0K5 
+
+In  the  first  phase  of  the  experimentation,  we  assembled  a  portable  rf 
+sound  demonstration  unit.  This  was  successfully  used  to  demonstrate  the  phenom¬ 
+enon  and  its  characteristics.  In  phase  two,  we  determined  what  rf  parameters 
+are  relevant  to  generating  the  perception  of  r?  sounds  of  significance.  We 
+learned  enough  in  this  phase  to  successfully  create  a  perceived  sound  that  ve 
+desired  to  create.  In  phase  three,  we  explored  the  possibility  of  determining 
+if  the  perception  of  speech  could  be  induced.  It  was  found  that  aspects  of 
+vocoder  technology  could  not  be  used  to  generate  speech.  It  was  also .found  that 
+perceived  rf  speech  can  not  be  generated  using  the  rules  of  the  periodicity 
+pitch  phenomenon.  It  would  appear  that  meaningful  sounds  can  be  created  if  de¬ 
+sired.  The  possibility  of  creating  speech,  however,  is  uncertain.  The  creation 
+of  speech,  if  it  is  possible,  will  require  additional  knowledge  of  the  mechan¬ 
+ism  of  the  effect. 
+
+
+!  5 
+
+
+25 
+
+
+SELECTED  BIBLIOGRAPHY 
+
+
+Frey,  Allan  H. ,  Behavioral  Biophysics.  Psychological  Bulletin,  Vol.  63, 
+
+He.  5,  May  1965,  ;§32^337. 
+
+Frey,  Allan  H. ,  Biological  function  as  influenced  by  lov-Pover  modulated  Rf 
+energy.  IEEE  Transactions  on  Microwave  Theory  and  Techniques,  Vol.  HTT-19 
+Ho.  2,  Feb.  1971,  153-16U. 
+
+Frey,  Allan  H. ,  Human  auditory  system  response  to  modulated  electromagnetic 
+energy.  Journal  of  Applied  Physiology,  Vo.  17,  No.  If,  July  1962^.  689^692, 
+Ritsma,  R. J. ,  Existence  region  of  the  tonal  residue.  Journal  of  the  Acoustical 
+Society  of  America.  Vol  3*f,  No.  9,  Sept.  1962 
+Schouten,  J.F. ,  Ritsma,  R.  J.  ,and  Cardozo,  B.  L-.  Pitch  of  the  reside.  Journal 
+of  the  Acoustical  Society  of  America.  Vol  3^»  No.  8,  Sept.  1962. 
+
+

@@ -51,7 +51,9 @@ If hypothesis (1) holds, this is itself a structural finding worth flagging in t
 
 ## Status
 
-**OPEN — partial.** Citation triangulation complete; full-text retrieval blocked. Hunt continues.
+**CLOSED — full text in workspace (2026-05-02).** Citation triangulation was already complete. Machine-readable OCR/plain text for the Hawkins et al. March 1973 report is now retained under the FY74 hunt directory as **`findings/investigation-dig/fy74_wrair_speech_demo_hunt/AD0758136_hawkins_grove_heiple_schrot_1973_djvu.txt`** (Internet Archive item [DTIC_AD0758136](https://archive.org/details/DTIC_AD0758136); same content as the earlier `_deeper_dig_pass2/AD758136_djvu.txt` sidecar). Canonical index: `../fy74_wrair_speech_demo_hunt/NTIS_PROJECT_1J662712AJ21_PRIMARY_TEXTS.md`. **DTIC `apps.dtic.mil` direct PDF remains 403** for this agent; retrieval path is IA mirror, not DTIC public PDF.
+
+**OPEN — narrow.** Only if a **higher-fidelity** scan is needed (legibility disclaimer on the NTIS cover) would a fresh pull from NTIS on paper or a different digitization be worth reopening.
 
 ## Update 2026-04-29 — disambiguation closed via AD-A090426 body-content review
 
