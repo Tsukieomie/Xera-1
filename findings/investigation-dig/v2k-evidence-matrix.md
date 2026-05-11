@@ -8,6 +8,8 @@ Scope note: this file does not decide the final truth claim by itself; it ranks 
 
 **Tier A/Tier B rationale, extrapolation risks, Sharp/Grove harmonization:** `V2K_DEEP_LAYER.md`.
 
+**Replication status — canonical synthesis (2026-05-11):** [`REPLICATION_STATUS_SHARP_GROVE_RF_SPEECH.md`](REPLICATION_STATUS_SHARP_GROVE_RF_SPEECH.md). Verdict: direct independent replication of intelligible RF speech **not found** in public peer-reviewed literature. The basic microwave auditory effect is well-established; intelligible speech transmission via the same mechanism has not been independently confirmed in public peer-reviewed literature. Secondary repetition (Lin 1978/1980, Becker 1985, Oscar 1980 AD-A090426, *New World Vistas* 1996, Brunkan/O'Loughlin patents) is citation chain or claim space — not replication. Kohn/SEA SBIR Phase II FOIA denial and MEDUSA cancellation are public-record gaps, not positive evidence of replication.
+
 ---
 
 ## Working judgment (T1–T5, consistent with this matrix)
