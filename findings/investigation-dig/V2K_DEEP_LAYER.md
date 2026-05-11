@@ -93,6 +93,7 @@ Until then, Tier B stays **explicitly unresolved** regardless of claimant testim
 - **`investigation-dig/V2K_REPO_POSSIBILITY_REVIEW.md`** — folder map & tier labels.
 - **`06_Analysis_Patterns/33_RF_BIOEFFECTS_INSTITUTIONAL_SUPPRESSION_CONVERGENCE.md`** — oncologic/long-term pathways; orthogonal to perceptual Tier A/Tier B framing.
 - **`investigation-dig/giordano-claim-verification.md`** — Havana-injury science vs covert speech.
+- **`investigation-dig/V2K_CONSTRAINTS_AND_NEGATIVE_BOUNDS.md`** — bounded constraints layer (rise-time, head-resonance lock-in, thermal floor, quiet-environment masking, channel-count floor, external recordability) plus source-class table and caution blocks; consolidates the physics-honest T1 / strict T2/T4 posture in one citable place.
 
 ---
 
