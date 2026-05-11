@@ -13,7 +13,7 @@
 | FY73 | 1 Jul 72 – 30 Jun 73 | AD-776967 | `DTIC_AD0776967` | Active under Sharp | Original Sharp-era WU 057 text — speech demo would post-date this volume by ~3 months |
 | FY74 | 1 Jul 73 – 30 Jun 74 | ADA009337 (Vol I) / ADA009338 (Vol II) | `DTIC_ADA009337` / `DTIC_ADA009338` | Active under Sharp; **auditory line "halted"** pending guidance | Contains the language interpreted in primary report §3 as the FY74 administrative halt |
 | **FY75** | **1 Jul 74 – 30 Jun 75** | **NOT FOUND on archive.org or in DTIC public discover** | — | **Unknown — gap year** | See §A.2 below |
-| FY76 | 1 Jul 75 – 30 Jun 76 | ADA038319 (Vol I) / ADA038320 (Vol II) | `DTIC_ADA038319` / `DTIC_ADA038320` | Active under **new PI Edward L. Hunt** | Project number changes from `3A062110A824` to `3A762758A824`; full narrative extracted §A.3 |
+| FY76 | 1 Jul 75 – 30 Jun 76 | ADA038319 (Vol I) / ADA038320 (Vol II) | `DTIC_ADA038319` / `DTIC_ADA038320` | Active under **new PI Edward L. Hunt** | Vol I: TOC + cross-unit note (WU 204: Hunt/Hawkins, microwave on seizure-prone rats). Vol II: full WU 057 narrative §A.3. Project number `3A062110A824` → `3A762758A824`. |
 | FY79 | 1 Jul 78 – 30 Jun 79 | ADA084365 | `DTIC_ADA084365` | (Clinical Investigation Service only — different volume class) | Not the matching general-research volume |
 | FY80 | 1 Oct 79 – 30 Sep 80 | ADA108791 | `DTIC_ADA108791` | Already extracted to workspace; "Grove/Groves" hits = M.G. Groves VC (different person) | |
 | FY81 | 1 Oct 80 – 30 Sep 81 | ADA117411 | `DTIC_ADA117411` | Already extracted to workspace; same disambiguation as FY80 | |
@@ -45,6 +45,16 @@ The September 1973 demonstration occurred in **FY74** (1 Jul 73 – 30 Jun 74). 
 
 ---
 
+## §A.2.5 FY76 Volume I (ADA038319) — TOC vs body split; Hunt/Hawkins microwave on WU 204
+
+The FY76 pair mirrors the FY74 pattern: **Volume I carries the composite table of contents** (including Microwave Radiation / WU 057 at printed p. 979 in the OCR TOC block near lines 618–629 of `ADA038319_FY76_Vol1_djvu.txt`), while **the WU 057 narrative itself is in Volume II** (`ADA038320_FY76_Vol2_djvu.txt`).
+
+**Cross-unit microwave mention (not WU 057, not speech):** In **Work Unit 204** (*Selective breeding of rats for response to drugs and other agents*), Principal **Edward L. Hunt** and Associate **T. Daryl Hawkins** report that audiogenic-seizure-prone animals from the selective-breeding colony were *"used in several experiments to evaluate the CNS effects of microwave radiation"* during 75 07 – 76 06, with a pointer to the FY76 Annual Progress Report for the full technical write-up (`ADA038319_FY76_Vol1_djvu.txt`, OCR lines ~17854–17866). This documents **shared personnel and animals** between the pharmacogenetics/seizure-breeding line and the microwave facility — consistent with the Hunt-era microwave program using audiogenic-seizure rats as a behavioral endpoint (see §A.4) — but it is **not** a Tier-B "microwave speech" protocol and it is **not** under the WU 057 heading in Vol I.
+
+**OCR caveat (unresolved):** A stray sentence in a **veterinary diseases** progress block in Vol II states that *"New work initiated with mission and title change 76 03, will be separated under work unit 057 in TY 77"* (`ADA038320_FY76_Vol2_djvu.txt` ~58201–58202). The surrounding form fields are garbled in OCR (DD Form 1498 noise). **Do not treat this line as a second microwave WU 057 program** without a clean printed-page check; the authoritative WU 057 microwave narrative remains the contiguous Hunt block beginning ~13891 in the same volume.
+
+---
+
 ## §A.3 WU 057 Continuity in FY76 (ADA038320, Vol II)
 
 ### A.3.1 Bibliographic header
@@ -57,7 +67,7 @@ The September 1973 demonstration occurred in **FY74** (1 Jul 73 – 30 Jun 74). 
 > Principal: Edward L. Hunt, B.A.
 > Associate: MAJ Lawrence E. Larsen, M.D., MC; John H. Jacobi, M.Sc.; T. Daryl Hawkins, M.A.; Peter V.K. Brown, B.S.; John F. Schrot, Ph.D.; Sandra H. Githens, B.S.
 
-(Source: `ADA038320_FY76_Vol2_djvu.txt`, line range ≈ 16858–17200.)
+(Source: `ADA038320_FY76_Vol2_djvu.txt`, WU 057 header and investigator block ≈ **13891–13909**; Progress narrative begins **13941**; duplicate WU 057 header + Literature Cited block ≈ **14489–14558**.)
 
 **Critical PI change.** Sharp is **gone from the WU 057 roster**. The principal investigator is now **Edward L. Hunt** (FY74 associate investigator, calorimetric-dosimetry specialist). The associate roster has also turned over: Larsen and Hawkins continue from FY74, but Jacobi, Brown, Schrot, and Githens are new or newly-listed; Grove (H.M.) is **not** in the roster. The **project number has changed** from `3A062110A824` (FY74 task structure) to `3A762758A824` (FY76 task structure) — consistent with a routine DA Form 1498 reorganization, not a program termination.
 
@@ -73,7 +83,7 @@ The September 1973 demonstration occurred in **FY74** (1 Jul 73 – 30 Jun 74). 
 
 This is consistent with — and stronger than — the FY74 "halted" finding: by FY76, the program has been re-described in a way that no longer leaves a lexical hook for the auditory/speech line.
 
-### A.3.3 Six work segments (summary; full verbatim narrative captured in workspace file at lines 16858–17550)
+### A.3.3 Six work segments (summary; full verbatim narrative in workspace file `ADA038320_FY76_Vol2_djvu.txt` from Progress §1 at line **13941** through the end of the WU 057 narrative before the next project header at line **14489**)
 
 | § | Topic | Personnel | Speech-relevant? |
 |---|---|---|---|
@@ -176,4 +186,4 @@ This was already extracted in the prior session and is consistent with the FY76 
 
 ---
 
-*Sources for §A: archive.org DTIC mirror — `DTIC_AD0776967`, `DTIC_ADA009337`, `DTIC_ADA009338`, `DTIC_ADA038319`, `DTIC_ADA038320`, `DTIC_ADA108791`, `DTIC_ADA117411`. Full djvu.txt extracts in `/home/user/workspace/xera1/_fy75_fy76_hunt/`. The verbatim WU 057 FY76 narrative in §A.3.3 is at lines 16858–17550 of `ADA038320_FY76_Vol2_djvu.txt`.*
+*Sources for §A: archive.org DTIC mirror — `DTIC_AD0776967`, `DTIC_ADA009337`, `DTIC_ADA009338`, `DTIC_ADA038319`, `DTIC_ADA038320`, `DTIC_ADA108791`, `DTIC_ADA117411`. Local OCR under `findings/investigation-dig/fy74_wrair_speech_demo_hunt/`: `ADA038319_FY76_Vol1_djvu.txt`, `ADA038320_FY76_Vol2_djvu.txt`. The verbatim WU 057 FY76 narrative in §A.3.3 runs approximately **13941–14488** of `ADA038320_FY76_Vol2_djvu.txt` (duplicate reference list ~14492–14558).*
