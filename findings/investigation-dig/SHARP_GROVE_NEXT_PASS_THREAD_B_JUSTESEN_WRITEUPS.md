@@ -268,6 +268,94 @@ A small but non-zero probability remains that:
 
 ---
 
+## Supplement (2026‑05‑03): Was Justesen “questioned” (post‑publication) specifically about Sharp/Grove / Note 2?
+
+This supplement answers whether **any searchable record shows Justesen formally challenged—in print exchanges, APA correspondence, citations-as-rebuttal, or hearings—specifically over the Sharp/Grove personal-communication passage** (“Note 2,” 28 Sep 1973).
+
+### A. Peer review / manuscript critique (pre-publication)—documented only as acknowledgments
+
+The Glaser-hosted full-text PDF of Justesen 1975 (*Microwaves and behavior*) confirms **only generic manuscript criticism** in the acknowledgement block—not a named debate over Sharp/Grove:
+
+- **E. L. Wike** and **C. L. Sheridan**, “For a critical reading.”
+- **John Osepchuk** (Raytheon), “…for his **searching criticism** of the manuscript; **our opinions differ**, **his advice is appreciated**.”
+
+Source PDF (same mirror already cited §5): [`https://zoryglaser.com/wp-content/uploads/2020/05/MICROWAVES-AND-BEHAVIOR.pdf`](https://zoryglaser.com/wp-content/uploads/2020/05/MICROWAVES-AND-BEHAVIOR.pdf). Plain `pdftotext` on that PDF confirms the verbatim lines above.
+
+**Interpretation hygiene:** acknowledgement text does **not** state which passages Osepchuk disputed (dosimetry, thermoregulation rhetoric, citations, Sharp/Grove, etc.). It is therefore **weak evidence** that “Justesen was questioned about Sharp/Grove explicitly”; it **is** evidence that Raytheon-side technical pushback existed **on some part** of the manuscript before print.
+
+### B. APA *American Psychologist* letters / errata (post‑publication)
+
+Per §4.2 item 5, **no located** follow‑up letter, erratum, or correction in *American Psychologist* (or companion commentary adding protocol detail). This pass **does not revise** that negative finding.
+
+### C. Indexed “who cites Justesen 1975?” sweep—no Sharp/Grove debunk surfaced in abstracts
+
+Bibliographic duplication check:
+
+| Index | Snapshot | Indexed citing count / note |
+| --- | --- | --- |
+| Crossref (`10.1037/0003-066X.30.3.391`) | `2026‑05‑03` | **`is-referenced-by-count: 6`** |
+| OpenAlex **`W4213062251`** | same | **`cited_by_count: 6`** |
+
+OpenAlex enumerated citing works (**same six**):
+
+1. [10.1029/rs012i06sp00173](https://doi.org/10.1029/rs012i06sp00173)—lymphocyte microwave morphology (Radio Science)—Crossref **`reference`** includes Justesen APA DOI.
+2. [10.1007/978-3-030-64544-1_10](https://doi.org/10.1007/978-3-030-64544-1_10)—Springer handbook chapter (bundles Sharp + Justesen in refs per prior hunt).
+3. [10.1029/rs012i06sp00073](https://doi.org/10.1029/rs012i06sp00073)—ectothermia / microwave dosimetry rodent study—Crossref refs include Justesen APA DOI; OpenAlex rebuilt abstract contains **no** Sharp/speech lexical hits.
+4. [10.2466/pms.1986.62.3.831](https://doi.org/10.2466/pms.1986.62.3.831)—behavioral thermoregulation rats.
+5. [10.1126/science.7403877](https://doi.org/10.1126/science.7403877)—Chou *et al.* *Science* “Holographic assessment…” (physical MAE assessment; cites Justesen 1975 alongside Sharp mechanism paper—see §1.35 in `SHARP_GROVE_PRIMARY_REPORT_HUNT.md`).
+6. [10.1029/RS012i003p00355](https://doi.org/10.1029/RS012i003p00355)—**Justesen 1977** *Radio Science* “Diathermy versus…”—**same author** cites his own 1975 APA piece (Crossref `reference` includes `10.1037/0003-066X.30.3.391`). This is continuity / terminology argumentation, **not** an outsider’s interrogation of Note 2.
+
+**Europe PMC oddity:** query `REFERENCES:1137231` returned exactly **one** hit whose topic was unrelated leukaemia/cell-biology (**false positive / bad reference edge**)—not relied on here.
+
+### D. USAFSAM Heynick TR **ADA183672** — IA mirror executes what DTIC blocked (2026‑05‑03)
+
+[`https://apps.dtic.mil/sti/tr/pdf/ADA183672.pdf`](https://apps.dtic.mil/sti/tr/pdf/ADA183672.pdf) still returns plaintext **`Request Blocked`** bot-guard in-session. **`pdftotext`** on **`https://archive.org/download/DTIC_ADA183672/DTIC_ADA183672.pdf`** (**~46 MB**, item [`DTIC_ADA183672`](https://archive.org/details/DTIC_ADA183672)) succeeds.
+
+**Lexical corpus check (whole extracted text ~43k lines):**
+
+- **`American Psychologist`**, **`Microwaves and behavior`**, **`receiverless`**, **`personal communication`** (excluding unrelated “nine … groups” demographics hits): **no substantive passage** recounting Justesen **1975** *Am Psych* or the Sharp/Grove **nine‑word speech** anecdote / Note 2.
+- **`Justesen`**: many hits for **animal behavior**, **BBB**, warmth thresholds, Levinson/King/coauthors — consistent with encyclopedic bibliography + summary of **later** VA work—not engagement with speech claim.
+- **`Sharp`** in MAE context: a **numbered narrative subsection** summarizes **Sharp *et al.* (1974)** **shield‑region / RF‑absorber** localization experiments and confirms **measurable acoustic propagation** consistent with thermoelastic / air‑path interpretation—i.e. the **IEEE T‑MTT mechanism paper**, **not** the Justesen‑only speech paragraph.
+
+Representative synopsis (conceptual quote; page **~114** in PDF flow per “`114`” print marker before “Sharp et al.” in extract): Heynick summarizes head vs absorber localization, horn distance, pulse parameters (**14 µs**, **~3 pps** random), absorbed‑power‑density band, and repetition‑rate‑tracking auditory quality from **pulser + absorber**—the same **hardware / external acoustic coupling** lineage as Sharp/Grove/Gandhi **1974**, orthogonal to proving or disproving Note 2.
+
+**Bibliography layer:** cites **Sharp, J.C., H.M. Grove, and O.P. Gandhi**, *IEEE Trans. Microwave Theory Tech.* **22**(5):583–584 **(1974)** — again **mechanism letter**, **not** Justesen **1975**.
+
+**Reading:** Heynick‑class **government synthesis** is exactly where one would bury a methodological takedown of an infamous behavioral sound bite; **this TR’s extracted text behaves as if the speech demo were outside scope or unknown** relative to hundreds of denser citations—strengthening the **thin‑graph / non‑integrated** finding without proving the anecdote false.
+
+### D.2 Steneck *The Microwave Debate* (commercial scan PDF)
+
+An accessible full-text mirror was probed (**`pdftotext`** on **`The-Microwave-Debate.pdf`**, **`gbppr.net`** host, ~655k chars). **`rg -ni`** for paired tokens **`American Psychologist`**, **`receiverless speech`**, **`Sharp.*Grove.*speech`** did **not** surface the Justesen **nine‑word**/demo thread in obvious indexed form; corpus is dominated by Pandora “Jo Sharp” (primate‑program Sharp, **distinct person**) and unrelated “Sharp … sharply.” **Residual:** OCR noise / index-only hits could still hide a fleeting mention—the negative is **rapid full-text lexical**, not hand pagination of MIT Press edition.
+
+### D.3 Osepchuk bibliography slice (OpenAlex **`author.id:A5028303271`**, publication years **1973–1979`)
+
+Enumerated **`meta.count`** = **9** works—**microwave oven safety**, IMS symposia, physical aspects chapters, tube engineering—**no** titled item suggesting a **printed** response / letter to editor aimed at **`Microwaves and behavior`** (1975 **APA**) in metadata alone. Matches web-search negative on “Osepchuk published rebuttal naming Justesen” unless buried inside an untitled symposium volume not indexed here.
+
+### E. Bottom line on “was he questioned?”
+
+| Mechanism | Found? |
+| --- | --- |
+| **Formal post‑publication APA retraction / Letters to Editor on Sharp&Grove** | **No** in repo + Crossref/OpenAlex corpus above |
+| **Named criticism of *manuscript*** (could include Sharp section) | **Yes—Osepchuk + Wike/Sheridan** (acknowledgments only; **topic unspecified**) |
+| **Citing literature as implicit debunk** of Note 2 | **Not evident** among the **six** indexed citing works via abstract/title skim + Crossref bibliography checks (Chou cites both but does not replicate speech experiment) |
+| **Major USARF / USAFSAM RF‑bioeffects critique (Heynick TR)** addressing Justesen **1975** speech paragraph | **Not in extracted ADA183672 corpus** (`2026‑05‑03`); TR **does** treat Sharp **1974** as standard MAE mechanism literature |
+
+**Net:** There is **no located print record** stating “Justesen exaggerated Sharp/Grove” or documenting a **focused** exchange solely on Note 2. What **does** exist is **standard acknowledgment of industrial peer pushback** (Osepchuk / Raytheon) with **dissent signaled in general terms**, plus a **thin** formal citation aftermath that **never forces** Sharp/Grove speech into a disputed-results column. A **heavyweight contemporaneous‑era Air Force bibliography review** reachable from IA **similarly skips** Justesen **1975 APA** speech content while absorbing Sharp **1974**.
+
+### F. Addendum — OpenCitations COCI, PMS “generic cite,” PMC/S2 hygiene (2026‑05‑03)
+
+**COCI requires redirect follow.** `curl -L` to `https://opencitations.net/index/api/v2/citations/doi:10.1037/0003-066x.30.3.391` returns **`[]` if redirects are not followed**; with **`-L`** the edge list **matches** Crossref/OpenAlex **six** citing DOIs (creation dates **1977-11**, **1980-09-05**, **1986-06**, **2021**, etc.)—**no hidden seventh** citer in COCI for this DOI string in-session.
+
+**`10.2466/pms.1986.62.3.831` (Perceptual and Motor Skills rat thermoregulation)**—Crossref **`reference`** blob includes **`DOI: 10.1037/0003-066X.30.3.391`** as **`bibr5`**, while OpenAlex’s deposited **abstract text** (!) contains **zero** “Justesen,” “Sharp,” or “American”—i.e. likely a **bibliography / background** hook to the general **microwave + behavior** discourse, **not** substantive engagement with Note 2. Useful only as a **negative illustration** of how the six-paper graph can **inflate** “cited by” without deepening T2.
+
+**PubMed Central `esearch` probes:** `Justesen AND Sharp AND microwave AND hearing` → **`count: 0`**. Quoted title + author query returns many **unrelated** PMCIDs (term explosion on “Microwaves … behavior” substring); **manual disambiguation required** for any follow-on—no automated smoking-gun abstract in that hit list was evaluated by hand in this pass.
+
+**Semantic Scholar** public API returned **HTTP 429** on a free-text search attempt in-session; no S2 secondary-citation layer added here.
+
+**Glaser 1975 NMRI bibliography / `ADA025354`:** direct `apps.dtic.mil/sti/pdfs/ADA025354.pdf` → **`Request Blocked`** (same bot-wall as other STI PDFs). **Archive.org** Solr `ADA025354` → **no** mirror in-session; **IA full-text** archive search `Justesen AND Sharp AND title:microwave` → **0** hits (expected: most DTIC PDFs are **not** OCR-indexed as `text:` fields).
+
+---
+
 ## Appendix: Key Factual Corrections from This Investigation
 
 1. **Death date:** Justesen died November 9, 2014 (not 2004 as stated in task brief). He was 84, born 1930.

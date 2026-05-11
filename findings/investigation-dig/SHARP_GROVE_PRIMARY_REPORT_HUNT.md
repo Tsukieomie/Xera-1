@@ -133,6 +133,180 @@ No third Sharp+Grove primary publication on speech transmission has surfaced
 in the open record indexed by Lin 1978, Foster/Garrett/Ziskin 2021, the NMRI
 Glaser bibliography, or DTIC.
 
+### 1.35 Bibliometric closure check — who cites Justesen (1975) and what **they** cite (2026-05-02)
+
+APA’s Crossref deposit for [`10.1037/0003-066X.30.3.391`](https://doi.org/10.1037/0003-066X.30.3.391) lists **`reference-count: 0`** (metadata only; the article obviously has footnotes in print). **OpenAlex** ([`W4213062251`](https://openalex.org/W4213062251)) reports **`cited_by_count: 6`** as of this pass — a **small** citing set, which is useful: it can be **enumerated** without leaving the open graph.
+
+**Works OpenAlex lists as citing Justesen 1975** (year, title, DOI where present):
+
+| Year | Title (short) | DOI |
+| --- | --- | --- |
+| 1977 | The effect of microwave radiation (2450 MHz) on the morphology and chromosomes of lymphocytes in vitro | [`10.1029/rs012i06sp00173`](https://doi.org/10.1029/rs012i06sp00173) |
+| 1977 | Drug-induced ectothermia in small mammals: The quest for a biological microwave dosimeter | [`10.1029/rs012i06sp00073`](https://doi.org/10.1029/rs012i06sp00073) |
+| 1977 | Diathermy versus the microwaves and other radio-frequency radiations: A rose by any other name is a rose by any other name | [`10.1029/rs012i003p00355`](https://doi.org/10.1029/rs012i003p00355) |
+| 1980 | Holographic Assessment of Microwave Hearing | [`10.1126/science.7403877`](https://doi.org/10.1126/science.7403877) |
+| 1986 | Behavioral Thermoregulation with Microwave Radiation of Albino Rats | [`10.2466/pms.1986.62.3.831`](https://doi.org/10.2466/pms.1986.62.3.831) |
+| 2021 | Applied Aspects and Applications (book chapter — *Electromagnetic Fields in Biology and Medicine*) | [`10.1007/978-3-030-64544-1_10`](https://doi.org/10.1007/978-3-030-64544-1_10) |
+
+**Deep read — Chou et al., *Science* 209:1143–1145 (1980)** ([Crossref-derived reference list](https://api.crossref.org/works/10.1126/science.7403877)):
+
+- **Document type (PubMed):** indexed as a **Letter** (`PublicationTypeList` → Letter), PMID [7403877](https://pubmed.ncbi.nlm.nih.gov/7403877/); **no abstract** in the MEDLINE record (typical for short *Science* correspondence). Indexing terms are hearing / holography / microwaves — **not** speech intelligibility.
+- **Authorship overlap:** fifth author **`Don R. Justesen`** appears on what is primarily a UW / microwave-dosimetry / holographic-mechanism paper (**Chou, Guy, Foster, Galambos, Justesen** per OpenAlex).
+- **Citational practice (Crossref deposit):** the publisher reference table includes **18** rows, among them **both** `JUSTESEN, D.R., MICROWAVES AND BEHAVIOR, AMERICAN PSYCHOLOGIST 30:391 (1975)` **and** `SHARP, J.C., GENERATION OF ACOUSTIC-SIGNALS BY PULSED MICROWAVE-ENERGY` (*IEEE Trans. Microwave Theory Tech.* — **mechanism** line, first author only in the Crossref string), alongside canonical MAE bibliography (Guy *Ann. N.Y. Acad. Sci.*, Lin, Tyazhelov, Frey 1979 *Science* companion piece, Lebovitz cat single-unit *Radio Science*, …).
+- **Metadata hygiene — OpenAlex vs Crossref on the *same* DOI:** OpenAlex’s `referenced_works` graph for this letter lists **14** outgoing edges and **does not** currently include a resolved work for **Sharp’s 1974 IEEE T-MTT** paper (it *does* include Justesen 1975, Frey & Messenger 1973 *Science*, Guy 1975 *Ann. N.Y. Acad. Sci.*, Tyazhelov 1979, etc.). **Conclusion for investigators:** the **Crossref** reference table is the authoritative open check for “did this letter cite Sharp *and* Justesen together?”; **OpenAlex-only** scans can **under-link** Sharp for this item. Neither database adds a Sharp/Grove **speech-protocol** primary.
+
+**T2 implication:** contemporaneous microwave-hearing investigators **were aware** of the *American Psychologist* article and the **Sharp et al. 1974** mechanism paper in the **same** reference block, yet the **1980 *Science* paper is not a replication or protocol extension of the nine-word Sharp/Grove claim** — it advances **physical assessment** of hypothesized microwave hearing (**holographic** tissue-displacement framing per title). Enumerating citations therefore **widens corroborating context** (Justesen-as-cited-literature hub) **without** producing a missing **Sharp/Grove speech-protocol** technical report.
+
+**Negative control:** none of these six cite-by edges, inspected at title + (for *Science*) full Crossref references, substitutes for **Lin 1978**-style bibliography closure of **T2** (intelligible speech under controlled replication).
+
+### 1.36 Complement — who cites **Sharp/Grove/Gandhi (1974 IEEE T-MTT)** and whether they bridge to **Justesen** (2026-05-02)
+
+Symmetric to §1.35: if a later paper cited the **mechanism letter** and **independently documented** the Sharp/Grove **speech** demonstration, that would narrow T2. OpenAlex work ID [`W2089706740`](https://openalex.org/W2089706740) (*Generation of Acoustic Signals by Pulsed Microwave Energy*, DOI [`10.1109/TMTT.1974.1128293`](https://doi.org/10.1109/TMTT.1974.1128293)) lists **`cited_by_count: 23`**. Enumerated `filter=cites:W2089706740` (OpenAlex query, `per_page=50`):
+
+| Year | Citing work (short) | DOI |
+| --- | --- | --- |
+| 1975 | Microwave-induced acoustic effects in mammalian auditory systems and physical materials* (Guy *Ann. N.Y. Acad. Sci.* proceedings line) | [`10.1111/j.1749-6632.1975.tb35996.x`](https://doi.org/10.1111/j.1749-6632.1975.tb35996.x) |
+| 1975 | Sensation and Perception of Microwave Energy (Guy book chapter) | [`10.1007/978-1-4684-0760-0_9`](https://doi.org/10.1007/978-1-4684-0760-0_9) |
+| 1977 | Further studies on the microwave auditory effect | [`10.1109/tmtt.1977.1129245`](https://doi.org/10.1109/tmtt.1977.1129245) |
+| 1977 | On microwave-induced hearing sensation | [`10.1109/tmtt.1977.1129167`](https://doi.org/10.1109/tmtt.1977.1129167) |
+| 1977 | Single auditory unit responses … pulsed microwave radiation | [`10.1016/0006-8993(77)90735-1`](https://doi.org/10.1016/0006-8993(77)90735-1) |
+| 1977 | Theoretical analysis of acoustic signal generation… | [`10.1109/tmtt.1977.1129246`](https://doi.org/10.1109/tmtt.1977.1129246) |
+| 1977 | Theoretical calculation of frequencies and thresholds … *Radio Science* | [`10.1029/rs012i06sp00237`](https://doi.org/10.1029/rs012i06sp00237) |
+| 1978 | Mammalian auditory responses to 3.0 GHz microwave pulses | [`10.1109/tbme.1978.326343`](https://doi.org/10.1109/tbme.1978.326343) |
+| 1979 | Holographic assessment of a hypothesized microwave hearing mechanism (Frey *Science*) | [`10.1126/science.482939`](https://doi.org/10.1126/science.482939) |
+| 1980 | *Response*: Holographic assessment of microwave hearing (Frey/Coren *Science* letter) | [`10.1126/science.209.4461.1144`](https://doi.org/10.1126/science.209.4461.1144) |
+| 1980 | Alterations in activity at auditory nuclei… | [`10.1016/0006-8993(80)90204-8`](https://doi.org/10.1016/0006-8993(80)90204-8) |
+| 1980 | The microwave auditory phenomenon (Lin *Proc. IEEE*) | [`10.1109/proc.1980.11583`](https://doi.org/10.1109/proc.1980.11583) |
+| 1981 | Field-induced forces at dielectric interfaces … *Bull. Math. Biol.* | [`10.1007/bf02459430`](https://doi.org/10.1007/bf02459430) |
+| 1981 | Field-induced forces … *Math. Biosci.* | [`10.1016/s0092-8240(81)90003-3`](https://doi.org/10.1016/s0092-8240(81)90003-3) |
+| 1982 | Biological effects and medical applications… *IEEE T-MTT* tutorial | [`10.1109/tmtt.1982.1131332`](https://doi.org/10.1109/tmtt.1982.1131332) |
+| 1988 | Microwave-induced auditory effect in a dielectric sphere | [`10.1109/22.6090`](https://doi.org/10.1109/22.6090) |
+| 1988 | The bioelectromagnetics research laboratory, University of Washington… | [`10.1002/bem.2250090203`](https://doi.org/10.1002/bem.2250090203) |
+| 1995 | Effects of microwave radiation exposure on behavioral performance in nonhuman primates | [`10.1007/978-1-4899-0945-9_26`](https://doi.org/10.1007/978-1-4899-0945-9_26) |
+| 2007 | Radio frequency electromagnetic fields (*Prog. Brain Res.* chapter) | [`10.1016/s0079-6123(06)62007-4`](https://doi.org/10.1016/s0079-6123(06)62007-4) |
+| 2016 | Photoacoustics: a historical review | [`10.1364/aop.8.000586`](https://doi.org/10.1364/aop.8.000586) |
+| 2018 | Sensing magnetic fields with magnetosensitive ion channels | [`10.3390/s18030728`](https://doi.org/10.3390/s18030728) |
+| 2021 | Mechanisms for microwave to acoustic energy conversion | [`10.1007/978-3-030-64544-1_7`](https://doi.org/10.1007/978-3-030-64544-1_7) |
+| 2021 | Applied Aspects and Applications | [`10.1007/978-3-030-64544-1_10`](https://doi.org/10.1007/978-3-030-64544-1_10) |
+
+**Overlap with §1.35 (Justesen → cited-by):** **Chou et al. 1980 *Science*** and the **2021 book chapter** [`10.1007/978-3-030-64544-1_10`](https://doi.org/10.1007/978-3-030-64544-1_10) appear in **both** directions — expected, because Chou 1980 cites **both** anchors in Crossref (§1.35). The rest of the Sharp-1974 citing set is **mechanism / dosimetry / neurophysiology / reviews**, not secondary speech-protocol deposits.
+
+**Spot check — Guy, *Sensation and Perception of Microwave Energy* (1975 chapter):** Crossref reference list ([`10.1007/978-1-4684-0760-0_9`](https://doi.org/10.1007/978-1-4684-0760-0_9)) contains an explicit bibliographic line for **Sharp, Grove, Gandhi** *IEEE Trans. Microwave Theory Tech.* **MTT-22 (1974) 583** (keyword scan of **49** reference rows: **no** `Justesen` / *American Psychologist* / `speech` lemma match in reference strings). So a **first-hand Guy-line** citation of the mechanism letter **did not**, in the deposited metadata, require bundling the psychology-article speech channel in the same reference table.
+
+**Spot check — Frey & Coren, *Science* “Response: Holographic assessment…” (1980):** DOI [`10.1126/science.209.4461.1144`](https://doi.org/10.1126/science.209.4461.1144) cites Frey’s own *Science* holography line; Crossref **`reference` list (11 rows)** shows **no Justesen** and **no Sharp** string in the deposit — it is an **exchange within the holographic-mechanism thread**, not an extension into speech psychophysics.
+
+**T2 net:** the **1974 letter** is cited widely for **acoustic / thermoelastic / neural** MAE work; **none** of the 23 OpenAlex-indexed citing edges, on title inspection, presents as a **protocol publication** for the nine-word demonstration. The **Guy 1975 chapter** reference deposit is a concrete example of **Sharp without Justesen** at the bibliography layer.
+
+### 1.37 Independent citation index — **OpenCitations COCI** vs OpenAlex (2026-05-02)
+
+The OpenCitations Index API requires **HTTPS + redirect follow** (`curl -L`); bare `http://` returns **301** with an empty body.
+
+**Justesen 1975** — `GET https://opencitations.net/index/api/v2/citations/doi:10.1037/0003-066x.30.3.391` (saved payload in this pass: `/tmp/oc_justesen.json`):
+
+- **`citations` edges:** **6** (`unique citing DOIs: 6`) — **matches** OpenAlex `cited_by_count: 6` ([`W4213062251`](https://openalex.org/W4213062251)).
+- Citing DOIs (lowercased): `10.1029/rs012i06sp00073`, `10.1029/rs012i06sp00173`, `10.1029/rs012i003p00355`, `10.1126/science.7403877`, `10.2466/pms.1986.62.3.831`, `10.1007/978-3-030-64544-1_10`.
+
+**Sharp 1974 IEEE T-MTT** — `GET https://opencitations.net/index/api/v2/citations/doi:10.1109/tmtt.1974.1128293` (`/tmp/oc_sharp.json`):
+
+- **`citations` edges:** **19** (`unique citing DOIs: 19`) vs OpenAlex **`cited_by_count: 23`** ([`W2089706740`](https://openalex.org/W2089706740)).
+- **Set difference (in OpenAlex, not in OpenCitations on this date):**  
+  `10.1016/0006-8993(77)90735-1` (Lebovitz *Brain Res.* single-unit MAE), `10.1016/s0092-8240(81)90003-3` (Lin *Math. Biosci.* RF-hearing forces), `10.1126/science.482939` (Frey *Science* holography 1979), `10.1126/science.209.4461.1144` (Frey/Coren *Science* response 1980), `10.3390/s18030728` (MDPI *Sensors* 2018). Interpretation: **COCI lags or omits some publisher deposits**; use **OpenAlex for enumeration**, OpenCitations for **third-party corroboration** of the smaller core.
+- **Set difference (in OpenCitations, not in OpenAlex):** `10.20944/preprints201801.0248.v1` — likely **preprint** shard of a later Sensors paper; treat as **bibliography noise** unless deduplicated to a final DOI.
+
+**Intersection of citing sets (COCI-derived):** `|citing(Justesen) ∩ citing(Sharp)| = 1` → **`10.1007/978-3-030-64544-1_10`** (2021 handbook chapter) only. **Chou *Science* 1980** cites **both** anchors in **Crossref** (§1.35) but OpenCitations **does not** index `10.1126/science.7403877` as citing the Sharp 1974 DOI in this snapshot — another **indexCompleteness** warning, not a factual claim about the letter’s reference list.
+
+**Lin, “The microwave auditory phenomenon,” *Proc. IEEE* 68(1):67–76 (1980)** — Crossref deposit [`10.1109/proc.1980.11583`](https://doi.org/10.1109/proc.1980.11583), **41** `reference` rows:
+
+- **Positive:** row **15** article-title string is **“Generation of acoustic signals by pulsed microwave energy”** (Sharp mechanism letter) — present in the **canonical review’s** reference table.
+- **Negative (Crossref text layer):** **no** `Justesen` / *American Psychologist* / `30:391` / `speech` lemma match across **all** reference rows when searching the full JSON `reference` objects (not only `article-title`; many rows are empty strings in Crossref but carry no hidden Justesen key in this deposit).
+- **T2 read:** Lin’s **1980 IEEE review bibliography** (as deposited) **anchors mechanism** via Sharp **without** listing the psychology-article speech channel — parallel to **Guy 1975** (§1.36) and consistent with Lin 1978’s in-text “(see Justesen, 1975)” pattern living in **prose/bibliography elsewhere**, not necessarily in every Crossref-parsed reference row for every Lin article in the COCI pipeline.
+
+### 1.38 Outgoing-reference APIs and Lin 1980 **OpenAlex graph** — **Justesen absent** machine-check (2026-05-02)
+
+**Justesen → references (OpenCitations):** `GET https://opencitations.net/index/api/v2/references/doi:10.1037/0003-066x.30.3.391` returned **`[]`** in this workspace. COCI openly prioritizes citation *edges* reconstructed from PubMed/OpenCitations ingestion; APA / psychology journals are **thin** on outgoing-reference coverage compared with biomedicine. **Do not** treat an empty OC `references/` payload as proof that Justesen 1975 has no footnotes in print.
+
+**Lin 1980 → OpenAlex `referenced_works`:** work [`https://doi.org/10.1109/proc.1980.11583`](https://doi.org/10.1109/proc.1980.11583) ([`W2026834927`](https://openalex.org/W2026834927)) lists **34** referenced-work IDs. Dereferencing each ID (with two **404** ids at list tail — OpenAlex orphan stubs) shows **Sharp 1974** present as *Generation of Acoustic Signals by Pulsed Microwave Energy (Letters)*, DOI [`10.1109/TMTT.1974.1128293`](https://doi.org/10.1109/TMTT.1974.1128293). **Justesen 1975** OpenAlex id [`W4213062251`](https://openalex.org/W4213062251) (**Microwaves and behavior.**) is **not** an element of `referenced_works` for Lin 1980.
+
+**Cross-check:** the only `10.1037/...` edge resolved in those 34 is **Justesen *et al.* 1975 *J Comp Physiol Psychol*** on rat avoidance ([`10.1037/h0076662`](https://doi.org/10.1037/h0076662)) — behavioral microwave work, **not** the *American Psychologist* speech-demo article.
+
+**Europe PMC citation tools on PMID 1137231:** REST paths such as `/article/MED/1137231/citations` and `/linkages/MED/1137231` returned **404** here; searchable core metadata for Justesen is reachable via **`EXT_ID:1137231 AND SRC:MED`**, but **automated citation fan-out from Europe PMC remains blocked** in this session for PMID 1137231.
+
+**Synthesis:** across **Crossref reference strings** (§1.37), **OpenAlex dereferenced reference graph**, and **COCI incoming-only strength** for APA DOIs, the **IEEE-side canonical review** (Lin *Proc.* 1980) **does not** attach the psychology-journal Sharp/Grove speech anchor in machine-readable bibliography layers — sharpening the interpretation that **speech-channel lore stayed psychology-corpus-local** unless a paper explicitly bridged it (cf. **Chou** Crossref bundle in §1.35).
+
+### 1.39 Lin **2022** J-ERM review — **neither** Justesen *Am Psych* **nor** Sharp 1974 in machine-resolved reference layers (2026-05-02)
+
+The matrix already treats Lin 2022 as **mechanism/phenomenology**, not speech closure. This pass **machine-checks** that the modern review’s **deposited bibliography** does not quietly reattach the speech-demo anchor as a structured reference.
+
+**Work:** *The Microwave Auditory Effect*, **IEEE J. Electromagn. RF Microwaves Med. Biol.** (J-ERM), resolved in Crossref as DOI [`10.1109/jerm.2021.3062826`](https://doi.org/10.1109/jerm.2021.3062826) (publisher year **2021** in Crossref metadata; bibliographically cited as **Lin 2022** in this corpus). OpenAlex: [`W3135162477`](https://openalex.org/W3135162477).
+
+**Crossref `reference` list:** **75** rows. Case-insensitive scan of `article-title` + `unstructured` JSON text for `justesen`, `sharp`, `grove`, `american psycholo`, `speech`, `voice` → **no hits** (the sole `psychol` substring is **unrelated** — *Fundamentals of Experimental Psychology*, Sheridan 1971, `volume-title` field).
+
+**OpenAlex `referenced_works`:** **72** IDs. Membership check: **neither** [`W4213062251`](https://openalex.org/W4213062251) (Justesen *Microwaves and behavior.*) **nor** [`W2089706740`](https://openalex.org/W2089706740) (Sharp **1974** IEEE T-MTT mechanism letter) appears. Full-title dereference pass (keyword filter) still surfaces **Frey & Messenger 1973** *Science* paper, **Frey 1971** *IEEE T-MTT*, **Justesen et al.** 1975 *J Comp Physiol Psychol* ([`10.1037/h0076662`](https://doi.org/10.1037/h0076662)) — same **non–*Am Psych*** Justesen edge seen for Lin 1980 (§1.38) — plus generic psych/biophysics refs (e.g. **Frey 1965**, *Psychol Bull* review).
+
+**Contrast with Lin 1980 (§§1.37–1.38):** *Proc. IEEE* 1980 **does** include Sharp 1974 in Crossref + OpenAlex graphs; **Lin 2022 J-ERM includes neither Sharp 1974 nor Justesen *Am Psych* 1975** in those same machine layers. That is consistent with **progressive narrowing** of the IEEE-review reference graph toward **mechanism + health-physics** threads, leaving the **nine-word** narrative **outside** the structured bibliography even when Lin 1978 monograph **prose** still carried the Justesen speech description (human-verified in prior passes, not re-OCR’d here).
+
+### 1.40 Springer handbook deposit restores bibliographic coupling J-ERM standalone drops (2026-05-02)
+
+Lin’s MAE prose appears both as standalone **IEEE J-ERM article** [`10.1109/jerm.2021.3062826`](https://doi.org/10.1109/jerm.2021.3062826) (§1.39 omits **`W4213062251` / `W2089706740`**) **and** as **Springer volume chapters** ISBN **978-3-030-64544-1**. The **`citing(Justesen) ∩ citing(Sharp-1974)`** singleton in §1.37 (**`10.1007/978-3-030-64544-1_10`**) is the linkage target.
+
+Crossref handbook chapter **`10.1007/978-3-030-64544-1_10`** (*Applied Aspects and Applications*) — **`reference`** list **88** rows:
+
+| Crossref-ref index | Verbatim-shape summary |
+| --- | --- |
+| **19** | `Justesen DR (1975) Microwaves and behavior. Am Psychol 30:391–401` |
+| **67** | `Sharp JC, Grove HM, Gandhi OP (1974) Generation of acoustic signals by pulsed microwave energy. IEEE Trans Microw Theory Tech 22:583–584` |
+
+**OpenAlex:** [`W3211355265`](https://openalex.org/W3211355265) — **`referenced_works` 76** — **includes** [`W4213062251`](https://openalex.org/W4213062251) **and** [`W2089706740`](https://openalex.org/W2089706740) (membership aligns with Crossref lines above).
+
+Sibling chapter **10.1007/978-3-030-64544-1_7** (*Mechanisms for Microwave to Acoustic Energy Conversion*): **42** reference rows — **Sharp/Grove/Gandhi 1974** (Crossref-ref **~34**) **without** a Justesen *Am Psych* line in scanned reference fields (**Sharp-without-Justesen** at chapter granularity).
+
+Duplicate-title chapter **10.1007/978-3-030-64544-1_6** (“*The Microwave Auditory Effect*”): **61** references; **serialized `message` JSON** scan yields **zero** hits on `justesen`, `sharp`, `grove`, or doi-ish substrings **`1128293` / `0003-066x`** — chapter `_6`’s cite table **does not** mirror handbook `_10`’s bundled anchors in this Crossref snapshot despite shared wording with standalone J‑ERM.
+
+**Lin 2022 cites (OpenCitations):** `https://opencitations.net/index/api/v2/citations/doi:10.1109/jerm.2021.3062826` returned **20** edges in-session vs OpenAlex **`cited_by_count: 27`** — reinforces **multi-index** cite checks.
+
+**T2 takeaway:** **publisher/book packaging** (`_10`) re-establishes **dual coupling** stripped from standalone **J-ERM** graphs; **still no** Sharp/Grove **speech-protocol** primary beyond Justesen.
+
+### 1.41 Duplicate DOI packaging — handbook `_6` vs IEEE J‑ERM, citing edge, Foster 2022 negative (2026-05-02)
+
+**Lin J‑ERM as two distinct OpenAlex works:** Springer chapter DOI **`10.1007/978-3-030-64544-1_6`** maps to **[`W4240494194`](https://openalex.org/W4240494194)** (*The Microwave Auditory Effect*, **`referenced_works` 49**) — confirming §1.40’s observation that **`W4213062251` / `W2089706740` are absent** from that graph. Standalone IEEE J‑ERM **[`10.1109/jerm.2021.3062826`](https://doi.org/10.1109/jerm.2021.3062826)** remains **[`W3135162477`](https://openalex.org/W3135162477)** (**72** references; §1.39). **Same human-facing title ≠ same bibliography object** across publisher channels.
+
+**Who cites handbook `_10`?** OpenAlex `filter=cites:W3211355265` returns **`meta.count = 1`**: **`10.1007/978-3-030-64544-1`** (“*Auditory Effects of Microwave Radiation*”), i.e. the **parent handbook DOI/book record**, not downstream reviews — partly explaining why **COCI’s Justesen∩Sharp cite intersection** collapses toward **publisher-cluster** edges.
+
+**Third-party spine — Foster / Garrett / Ziskin (2022 *Frontiers in Public Health*):** PMC mirror [PMC8733248](https://pmc.ncbi.nlm.nih.gov/articles/PMC8733248/). Crossref DOI [`10.3389/fpubh.2021.788613`](https://doi.org/10.3389/fpubh.2021.788613), OpenAlex [`W4200290987`](https://openalex.org/W4200290987). Deposited **`reference` list:** **only 12 rows** — **zero** lexical hits on `justesen`, `sharp`, `grove`, *American Psychologist*, or “generation of acoustic” in **`article-title`** / **`unstructured`** blobs. **`referenced_works` membership:** **does not** include **`W4213062251`**, **`W2089706740`**, or **`W3135162477`** (Lin J‑ERM 2022). This **re-grounds** the matrix row that Foster *et al.* is **mechanism / practicality / weapon-framing**, **not** a bibliographic funnel that restores the Sharp/Grove speech chain for T2.
+
+### 1.42 Chou *Health Physics* 2007 • IEEE C95.1‑2006 bibliography deposit — spine without Sharp/Justesen speech anchors (2026‑05‑03)
+
+**Purpose:** extend the **`2026‑05‑02`** closure checks (§§1.35–1.41) upstream into the **heavyweight synthesis** Lin’s J‑ERM explicitly cites (**Chou *et al.* 2007**) and into **occupational IEEE RF-exposure bibliography mass** (**IEEE C95.1‑2006**).
+
+#### A. Chou *et al.* *Health Physics* — OpenAlex vs Crossref hygiene
+
+**Work:** *HEARING OF MICROWAVE PULSES BY HUMANS AND ANIMALS: EFFECTS, MECHANISM, AND THRESHOLDS* — OpenAlex **[`W2095532249`](https://openalex.org/W2095532249)**; DOI [10.1097/01.HP.0000250644.84530.e2](https://doi.org/10.1097/01.HP.0000250644.84530.e2).
+
+**OpenAlex `referenced_works`** (`2026‑05‑03` fetch): neither **`W4213062251`** (Justesen *Am Psych* 1975) **nor** **`W2089706740`** (Sharp/Grove/Gandhi IEEE T‑MTT 1974 mechanism letter) appears as a linked **`referenced_works`** member. So the MAE-review object Lin packages as foundational **does not** machine-resolve either **speech-demo anchor**, paralleling **Lin Proc. IEEE 1980** (§1.38) and **Lin J‑ERM standalone** (§1.39).
+
+**Crossref `reference`** table (**37 rows** deposited for this DOI in-session): scripted scan for lexical pairs **`american psychologist`** / **`0003-066x`** / **`sharp` ∩ `1974` ∩ `IEEE`** returned **zero** qualifying rows (**`justesen`** rows that *do* appear are **later book/chapter/other Justesen refs**, not Am Psych **1975**).
+
+**Interpretation:** this node is authoritative for **pulse hearing thresholds / thermoelastic mechanism framing** (T1) but reinforces that **Sharp/Grove speech** does not sit inside the **same resolved reference envelope** as the rest of Lin’s deposited spine unless reintroduced by **publisher packaging** (§1.40) or sparse citing articles.
+
+#### B. IEEE C95.1‑2006 — Crossref `reference-count: 1287` scan hygiene
+
+**Work:** IEEE **Standard for Safety Levels with Respect to Human Exposure to Radio Frequency Electromagnetic Fields, 3 kHz to 300 GHz**, Crossref type `standard`, DOI [10.1109/IEEESTD.2006.99501](https://doi.org/10.1109/IEEESTD.2006.99501).
+
+**Method:** downloaded Crossref **`message.reference`** JSON; iterated all **1287** blobs; flagged rows whose serialized text matched (**i**) `sharp` ∩ (`1974` | `t-mtt` | `microwave theor`) or (**ii**) `american psychologist` / (`justesen` ∩ `1975` ∩ psych).
+
+**Outcome:** **`sharp74-like hits: 0`**, **`justesen-ampsych hits: 0`** in deposited titles/unstructured blobs. (Full standard PDF annexes might still carry citations **not surfaced** as structured Crossref refs — this pass is deliberately **deposit-limited**.)
+
+#### C. T2 bookkeeping + popular-misinformation control (2014 brain-to‑brain pairs)
+
+Separate from MAE bibliography: **`2026‑05‑03`** fact-check reinforces **two different** *PLOS ONE* papers from **2014** — **do not collapse with “UW + hola + ciao”**:
+
+| Paper | DOI | Institutional anchor | Relation to Sharp/Grove / MAE |
+| --- | --- | --- | --- |
+| **Grau *et al.***, “Conscious brain-to‑brain…” | [`10.1371/journal.pone.0105225`](https://doi.org/10.1371/journal.pone.0105225) | Emitter **India**, receiver **Strasbourg**; EU / Starlab / Axilum-related author network | EEG motor-imagery **bits** → email → TMS **phosphenes**; encodes greetings **by Bacon cipher**, **not audible voice** inside skull; **orthogonal stack** |
+| **Rao *et al.***, “A direct brain‑to‑brain interface…” | [`10.1371/journal.pone.0111332`](https://doi.org/10.1371/journal.pone.0111332) | **UW** | EEG→TMS cooperative **game/visuomotor** prototype; abstracts **omit** hola/ciao scheme **per open metadata** |
+
+**Relevance:** blocks the common argument path “**accepted 2014 telepathy ⇒ MAE/V2K is ordinary**”: the accepted physics path for MAE stays **thermal-acoustic/cochlea** literature; brain-to‑brain EEG/TMS is **another branch entirely**.
+
 ### 1.4 ARPA / Pandora institutional record
 
 The institutional record on Project Pandora and Project Bizarre (the ARPA
