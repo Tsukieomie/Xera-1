@@ -24,7 +24,7 @@ Each row pins the antecedent to its authoritative live record (NTRL/PubMed/DOI),
 
 ### 1.1 Ref 1 — Frey, Messenger, Eichert (1972), AD747684
 
-- **Live record:** [NTRL titleDetail / AD747684](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD747684.xhtml). Official DTIC citation page also accessible: [DTIC citations / AD0747684](https://apps.dtic.mil/sti/citations/AD0747684) (accession `AD0747684`, descriptive note "Final rept. Feb 1971-Apr 1972", report date 1972-06-01, media count 32.0, corporate author "RANDOMLINE INC HUNTINGDON VALLEY PA").
+- **Live record:** [NTRL titleDetail / AD747684](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD747684.xhtml). Official DTIC citation page also accessible: [DTIC citations / AD0747684](https://apps.dtic.mil/sti/citations/AD0747684) (accession `AD0747684`, descriptive note "Final rept. Feb 1971-Apr 1972", report date 1972-06-01, media count 32.0, corporate author "RANDOMLINE INC HUNTINGDON VALLEY PA"). Public full-PDF mirror (Zory Glaser, EMF/RFR research archive): [`zoryglaser.com/.../A-PSYCHOPHYSICAL-STUDY-OF-THE-RF-SOUND-PHENOMENON-1.pdf`](https://zoryglaser.com/wp-content/uploads/2020/05/A-PSYCHOPHYSICAL-STUDY-OF-THE-RF-SOUND-PHENOMENON-1.pdf) — independently reproduces the Randomline title page, DD 1473 document-control-data block, Project 1J662712AJ21, contract DAAK02-71-C-0213, and the same verbatim abstract and Conclusions text recorded in NTRL/DTIC, including the negative-method language on vocoder technology and the periodicity-pitch phenomenon. This public mirror reinforces — without altering — the existing "actually-recovered primary" framing of AD747684 in the chain.
 - **Title:** *A Psychophysical Study of the RF Sound Phenomenon.*
 - **Authors:** Frey, A. H.; Messenger, R.; Eichert, E.
 - **Year / pages / type:** 1972; 38 pages; Technical Report.
@@ -132,6 +132,7 @@ A targeted source cross-check pass on three records (AD747684 DTIC official cita
 | AD-A090426 (Oscar 1980, MERADCOM) | https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/ADA090426.xhtml ; https://apps.dtic.mil/sti/pdfs/ADA090426.pdf |
 | AD747684 (Frey/Messenger/Eichert 1972) | https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD747684.xhtml |
 | AD0747684 (DTIC official citation page) | https://apps.dtic.mil/sti/citations/AD0747684 |
+| AD747684 (Frey/Messenger/Eichert 1972) — public full-PDF mirror (Zory Glaser) | https://zoryglaser.com/wp-content/uploads/2020/05/A-PSYCHOPHYSICAL-STUDY-OF-THE-RF-SOUND-PHENOMENON-1.pdf |
 | AD774823 (Polson et al. 1974, SRI) — NTRL catalog | https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD774823.xhtml |
 | AD774823 (Polson et al. 1974, SRI) — full-PDF mirror | https://www.magdahavas.com/wp-content/uploads/2010/09/Mortarity_in_Rats_Exposed_to_CW_Microwave_Radiation.pdf |
 | Oscar/Hawkins 1977 (BBB, Brain Research) | https://pubmed.ncbi.nlm.nih.gov/861720/ ; https://doi.org/10.1016/0006-8993(77)90726-0 |
