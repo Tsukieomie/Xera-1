@@ -26,7 +26,7 @@ The 1973 WRAIR Microwave Research roster as documentarily resolvable from rounds
 
 ## 2. NTIS AD-747684 (Frey / Messenger / Eichert, June 1972) — full text retrieved; **same Project 1J662712AJ21 as Sharp/Grove**
 
-The round-8 §6 newly identified Frey-group NTIS report is now **fully verbatim-retrieved** via the [Internet Archive DTIC mirror](https://archive.org/details/DTIC_AD0747684) (PDF 1.79 MB locally cached at `/tmp/DTIC_AD0747684.pdf`; hOCR machine-readable text at `/tmp/DTIC_AD0747684_hocr.txt`, 507 lines).
+The round-8 §6 newly identified Frey-group NTIS report is now **fully verbatim-retrieved** via the [Internet Archive DTIC mirror](https://archive.org/details/DTIC_AD0747684) (PDF 1.79 MB locally cached at `/tmp/DTIC_AD0747684.pdf`; hOCR machine-readable text at `/tmp/DTIC_AD0747684_hocr.txt`, 507 lines). An additional **public full-PDF mirror** is hosted on the Zory Glaser EMF/RFR research archive at [`zoryglaser.com/.../A-PSYCHOPHYSICAL-STUDY-OF-THE-RF-SOUND-PHENOMENON-1.pdf`](https://zoryglaser.com/wp-content/uploads/2020/05/A-PSYCHOPHYSICAL-STUDY-OF-THE-RF-SOUND-PHENOMENON-1.pdf) (31-page PDF, version 1.6, ~1.81 MB; reproduces the same Randomline title page, DD 1473 document-control-data block, Project 1J662712AJ21, contract DAAK02-71-C-0213, abstract, Phase 3 body, Conclusions, and selected bibliography that the Internet Archive DTIC mirror records). The Glaser mirror provides a second independent public copy of AD-747684 with the same verbatim Phase 3 negative-speech-induction language quoted below, and is the basis of the curated full-text artifact [`AD0747684_PSYCHOPHYSICAL_STUDY_RF_SOUND.txt`](../AD0747684_PSYCHOPHYSICAL_STUDY_RF_SOUND.txt) committed alongside this round.
 
 Title-page verbatim (hOCR lines 8-14):
 

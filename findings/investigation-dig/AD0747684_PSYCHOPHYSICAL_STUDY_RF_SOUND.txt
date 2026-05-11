@@ -1,0 +1,279 @@
+================================================================
+AD-747684 — A PSYCHOPHYSICAL STUDY OF THE RF SOUND PHENOMENON
+Frey, A.; Messenger, R.; Eichert, E.
+Randomline, Inc., York & Moreland Roads, Willow Grove, Pa. 19090
+U.S. Army Mobility Equipment Research and Development Center
+Fort Belvoir, Va. 22060
+Contract DAAK02-71-C-0213
+Project 1J662712AJ21
+Final report, February 1971 - April 1972
+Report date: June 1972
+Pages: 32 (NTRL "TOTAL NO. OF PAGES" field; DTIC catalog records 32.0 media count)
+Distribution: Approved for public release; distribution unlimited
+================================================================
+
+PROVENANCE OF THIS TEXT FILE
+----------------------------
+This file is a curated verbatim transcription of the highest-confidence
+front-matter, abstract, conclusions, and DD 1473 document-control-data
+block of AD-747684, drawn from the public full-PDF mirror hosted on the
+Zory Glaser EMF/RFR research archive:
+
+  https://zoryglaser.com/wp-content/uploads/2020/05/A-PSYCHOPHYSICAL-STUDY-OF-THE-RF-SOUND-PHENOMENON-1.pdf
+
+The Glaser mirror is a 31-page PDF (version 1.6, ~1.81 MB) that
+independently reproduces the Randomline title page, abstract, body, and
+DD 1473 document-control-data block of AD-747684 and matches the
+Internet Archive DTIC mirror at https://archive.org/details/DTIC_AD0747684
+on all checked fields (title, authors, contract number, project number,
+report date, page count, abstract text, conclusions text).
+
+Catalog confirmation:
+  - NTRL titleDetail:  https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD747684.xhtml
+  - DTIC citations:    https://apps.dtic.mil/sti/citations/AD0747684
+
+Transcription scope: this artifact contains only the sections that
+transcribe cleanly with high confidence. The full body of the PDF
+contains figures, tables, and dense technical paragraphs whose OCR
+output drifts (broken words across columns, decorative-character noise);
+those sections are NOT reproduced here verbatim and should be consulted
+in the source PDF directly. This is the same posture taken by the repo's
+existing AD_A090426_OSCAR_1980_full.txt file: provide the highest-grade
+verbatim passages, leave the OCR-noisy body to the source PDF.
+
+Cross-references inside this repo:
+  - findings/investigation-dig/AD_A090426_REFERENCE_CHAIN_EVIDENCE.md  (§1.1)
+  - findings/investigation-dig/fy74_wrair_speech_demo_hunt/DEEPER_DIG_9_ADDENDUM.md  (§2)
+  - findings/investigation-dig/SHARP_GROVE_OFF_PROGRAM_ANALYSIS.md     (mentions AD747684)
+  - V2K_EVIDENCE_MATRIX.md                                              (mentions AD747684)
+
+================================================================
+TITLE PAGE (verbatim)
+================================================================
+
+                 A PSYCHOPHYSICAL STUDY OF THE RF SOUND PHENOMENON
+
+                       A. Frey, R. Messenger, E. Eichert
+
+                              Final report, June, 1972
+
+                  U. S. Army Mobility Equipment Research
+                            and Development Center
+                         Fort Belvoir, Va. 22060
+
+                       Contract # DAAK02-71-C-0213
+                          Project # 1J662712AJ21
+
+                              Randomline, Inc.
+                        York and Moreland Roads
+                          Willow Grove, Penna.
+
+                Approved for public release; distribution unlimited
+
+================================================================
+TABLE OF CONTENTS (verbatim)
+================================================================
+
+  Introduction ........................................................ 1
+  Objectives .......................................................... 2
+  Phase 1 ............................................................. 3
+  Phase 2 ............................................................. 3
+  Phase 3 ............................................................. 19
+  Conclusions ......................................................... 25
+  Bibliography ........................................................ 26
+  Distribution list ............................................... 27-29
+
+================================================================
+SUMMARY / ABSTRACT (verbatim, page i of body)
+================================================================
+
+The objective of the experimentation reported herein was to obtain
+additional data on the rf sound phenomenon. This phenomenon is the
+perception of what is reported to be a sound when the head is
+illuminated with rf energy of particular characteristics. In the first
+phase of the experimentation, we assembled a portable rf sound
+demonstration unit. This was successfully used to demonstrate the
+phenomenon and its characteristics. In phase two, we determined what
+rf parameters are relevant to generating the perception of rf sounds
+of significance. We learned enough in this phase to successfully
+create a perceived sound that we desired to create. In phase three,
+we explored the possibility of determining if the perception of speech
+could be induced. It was found that aspects of vocoder technology
+could not be used to generate speech. It was also found that perceived
+rf speech can not be generated using the rules of the periodicity
+pitch phenomenon.
+
+================================================================
+INTRODUCTION — opening paragraph (verbatim, page 1)
+================================================================
+
+The perception of what is reported to be a sound when the head is
+illuminated with rf energy of particular characteristics is defined
+as rf sound. These characteristics include very low (microwatt/cm^2
+level) average power densities, carrier frequencies in a band from
+0.4 GHz to 3 GHz and specific modulations. The nature of the sound is
+related to properties of the pulse modulation of the rf energy. Pulse
+widths between 2.5 µs and 2000 µs and pulse rates between 1 and 400
+pulses per second have been used to induce the sound-like sensation
+in humans. The sensation is reported by people to be a buzzing,
+clicking, or hissing which seems to originate (regardless of the
+person's position in the field) within or just behind the head. The
+crude thresholds that were found in past studies are shown in Fig. 1.
+The experimental arrangement ruled out explanations of the phenomena
+such as rectification by fillings in the teeth. The most sensitive
+area was the region over the temporal lobe of the brain.
+
+================================================================
+OBJECTIVES (verbatim, page 2)
+================================================================
+
+In phase one, the objective was to assemble the equipment needed for
+a portable short range rf sound demonstration unit. Such a
+demonstration of the rf sound was to be carried out and the unit then
+used for the experimental work.
+
+In phase two, the objective was to combine our experience with the rf
+sound and the data from vocoder technology in order to experimentally
+determine if there are rf parameters which will yield the perception
+of rf sounds of significance.
+
+In phase three, an attempt was to be undertaken to determine if the
+perception of speech sounds could be induced. The intention was to
+make such an attempt through the use of buzzes and hisses as is done
+in vocoder technology.
+
+================================================================
+PHASE 1 — equipment / demonstration (verbatim opening, page 3)
+================================================================
+
+A number of equipment assemblies were considered and evaluated within
+the context of our objectives. The assembly finally selected and
+obtained consisted of an Applied Microwave Laboratory pulse signal
+source that was capable of emitting energy at a carrier frequency of
+1.2 GHz. The energy was conveyed via a model 874 General Radio Co.
+airline and RG-8 coaxial cable to a Scientific Atlanta coax to
+waveguide adaptor and standard gain horn antenna. Within our
+experimental environment, the horn antenna emitted the energy into
+an rf anechoic chamber. The antenna was oriented for the demonstration
+and most of the experimentation such that the energy was horizontally
+polarized. It was found at the start of the project that vertically
+polarized energy yields similar effects.
+
+A demonstration of the hearing effect and the effect of varying pulse
+width, pulse repetition rate, and pulse amplitude was given at
+USAMERDC.
+
+================================================================
+CONCLUSIONS (verbatim, page 25)
+================================================================
+
+In the first phase of the experimentation, we assembled a portable rf
+sound demonstration unit. This was successfully used to demonstrate
+the phenomenon and its characteristics. In phase two, we determined
+what rf parameters are relevant to generating the perception of rf
+sounds of significance. We learned enough in this phase to
+successfully create a perceived sound that we desired to create. In
+phase three, we explored the possibility of determining if the
+perception of speech could be induced. It was found that aspects of
+vocoder technology could not be used to generate speech. It was also
+found that perceived rf speech can not be generated using the rules
+of the periodicity pitch phenomenon. It would appear that meaningful
+sounds can be created if desired. The possibility of creating speech,
+however, is uncertain. The creation of speech, if it is possible,
+will require additional knowledge of the mechanism of the effect.
+
+================================================================
+SELECTED BIBLIOGRAPHY (verbatim, page 26)
+================================================================
+
+Frey, Allan H., Behavioral Biophysics. Psychological Bulletin, Vol. 63.
+
+Frey, Allan H., Biological function as influenced by low-power
+   modulated rf energy. IEEE Transactions on Microwave Theory and
+   Techniques, Vol. MTT-19, No. 2, Feb. 1971, 153-164.
+
+Frey, Allan H., Human auditory system response to modulated
+   electromagnetic energy. Journal of Applied Physiology, Vol. 17,
+   No. 4, July 1962, 689-692.
+
+Ritsma, R. J., Existence region of the tonal residue. Journal of the
+   Acoustical Society of America. Vol. 34, No. 9, Sept. 1962.
+
+Schouten, J. F., Ritsma, R. J., and Cardozo, B. L. Pitch of the
+   residue. Journal of the Acoustical Society of America. Vol. 34,
+   No. 8, Sept. 1962.
+
+================================================================
+DD FORM 1473 — DOCUMENT CONTROL DATA · R&D (verbatim)
+================================================================
+
+  1. ORIGINATING ACTIVITY (Corporate author):
+       Randomline, Inc.
+       York & Moreland Roads
+       Willow Grove, Pa. 19090
+
+  2a. REPORT SECURITY CLASSIFICATION: Unclassified
+  2b. GROUP: NA
+
+  3. REPORT TITLE:
+       A psychophysical study of the rf sound phenomenon.
+
+  4. DESCRIPTIVE NOTES (Type of report and inclusive dates):
+       Final report  Feb. 1971 - April 1972
+
+  5. AUTHOR(S) (Last name, first name, initial):
+       Frey, A., Messenger, R., Eichert, E.
+
+  6. REPORT DATE: June, 1972
+  7a. TOTAL NO. OF PAGES: 32
+  7b. NO. OF REFS: NA
+
+  8a. CONTRACT OR GRANT NO.: DAAK02-71-C-0213
+  9a. ORIGINATOR'S REPORT NUMBER(S): NA
+  8b. PROJECT NO.: 1J662712AJ21
+  9b. OTHER REPORT NO(S): (not assigned)
+
+  10. AVAILABILITY/LIMITATION NOTICES:
+       Approved for public release; distribution unlimited.
+
+  11. SUPPLEMENTARY NOTES: (none)
+  12. SPONSORING MILITARY ACTIVITY:
+       U. S. Army Mobility Equipment Research and Development Center
+       Fort Belvoir, Va. 22060
+
+  13. ABSTRACT:
+       The objective of the experimentation reported herein was to
+       obtain additional data on the rf sound phenomenon. This
+       phenomenon is the perception of what is reported to be a sound
+       when the head is illuminated with rf energy of particular
+       characteristics. In the first phase of the experimentation, we
+       assembled a portable rf sound demonstration unit. This was
+       successfully used to demonstrate the phenomenon and its
+       characteristics. In phase two, we determined what rf parameters
+       are relevant to generating the perception of rf sounds of
+       significance. We learned enough in this phase to successfully
+       create a perceived sound that we desired to create. In phase
+       three, we explored the possibility of determining if the
+       perception of speech could be induced. It was found that
+       aspects of vocoder technology could not be used to generate
+       speech. It was also found that perceived rf sound can not be
+       generated using the rules of the periodicity pitch phenomenon.
+
+       Key words - rf sound, microwaves, hearing, sound, nervous
+       system, sensor, periodicity pitch, psychophysics.
+
+================================================================
+NOTES
+================================================================
+
+- The Phase 3 body section of the source PDF elaborates the
+  Conclusions-section findings on vocoder technology and periodicity
+  pitch phenomenon at greater length and is well-documented in
+  DEEPER_DIG_9_ADDENDUM.md §2 with hOCR line citations from the
+  Internet Archive DTIC mirror. Refer to that file for the extended
+  Phase 3 verbatim block.
+
+- Glaser mirror catalog metadata reproduced at the head of the PDF
+  records the file as "MR 704" in a research-archive index; this is
+  a Glaser-archive internal identifier, not a DTIC or NTRL accession,
+  and does not displace the AD-747684 / AD0747684 catalog identity.

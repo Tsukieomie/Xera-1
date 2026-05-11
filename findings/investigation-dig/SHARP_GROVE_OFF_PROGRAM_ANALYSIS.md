@@ -161,7 +161,7 @@ Across all nine categories, the observed pattern matches Hypothesis B's predicti
 - ADA009338 (FY74 WRAIR APR) — [archive.org DTIC_ADA009338](https://archive.org/details/DTIC_ADA009338)
 - ADA038320 (FY76 WRAIR APR) — [archive.org DTIC_ADA038320](https://archive.org/details/DTIC_ADA038320)
 - AD-A090426 (Oscar 1980, MERADCOM) — [DTIC PDF](https://apps.dtic.mil/sti/pdfs/ADA090426.pdf)
-- AD747684 (Frey/Messenger/Eichert 1972, negative speech result) — [NTRL titleDetail](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD747684.xhtml)
+- AD747684 (Frey/Messenger/Eichert 1972, negative speech result) — [NTRL titleDetail](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD747684.xhtml); public full-PDF mirror (Zory Glaser archive): [`A-PSYCHOPHYSICAL-STUDY-OF-THE-RF-SOUND-PHENOMENON-1.pdf`](https://zoryglaser.com/wp-content/uploads/2020/05/A-PSYCHOPHYSICAL-STUDY-OF-THE-RF-SOUND-PHENOMENON-1.pdf); curated verbatim transcription in repo: [`AD0747684_PSYCHOPHYSICAL_STUDY_RF_SOUND.txt`](AD0747684_PSYCHOPHYSICAL_STUDY_RF_SOUND.txt)
 - ETHW IEEE EMBS History (Grove COMAR Chair) — [ethw.org](https://ethw.org/IEEE_Engineering_Medicine_and_Biology_Society_History)
 - CIA-RDP88B01125R000300120113-6 (Sharp/Pandora) — [cia.gov reading room](https://www.cia.gov/readingroom/docs/CIA-RDP88B01125R000300120113-6.pdf)
 - NSArchive ARPA Bizarre Cesaro memo Doc 8 — [nsarchive.gwu.edu](https://nsarchive.gwu.edu/document/28792-document-8-arpa-richard-s-cesaro-memorandum-project-bizarre-top-secret)
