@@ -66,6 +66,9 @@ Cross-reference: this matches the contract / topic / phase / contractor fields i
 
 ### 2.3 EPIC patent
 
+- In-repo capture (full USPTO image PDF + OCR for corpus keyword audit):  
+  `findings/investigation-dig/primary/US7841989_EPIC_patent_uspto.pdf` — `findings/investigation-dig/primary/US7841989_EPIC_patent_uspto_ocr.txt` (see also `MEDUSA_DEEP_AUDIT.md` §13.3 retrieval / scan notes).
+
 - URLs:
   - https://patents.justia.com/patent/7841989
   - https://patents.google.com/patent/US7841989B2/en

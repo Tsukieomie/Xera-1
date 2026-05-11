@@ -4,6 +4,8 @@
 **Source documents:**
 - AD-A009337 — *WRAIR Annual Progress Report, 1 July 1973 – 30 June 1974, Volume 1* (Internet Archive: https://archive.org/details/DTIC_ADA009337)
 - AD-A009338 — *WRAIR Annual Progress Report, 1 July 1973 – 30 June 1974, Volume 2* (Internet Archive: https://archive.org/details/DTIC_ADA009338)
+- ADA038319 — *WRAIR Annual Progress Report, 1 July 1975 – 30 June 1976, Volume 1* (Internet Archive: https://archive.org/details/DTIC_ADA038319) — local OCR: `ADA038319_FY76_Vol1_djvu.txt`
+- ADA038320 — *same reporting period, Volume 2* (Internet Archive: https://archive.org/details/DTIC_ADA038320) — local OCR: `ADA038320_FY76_Vol2_djvu.txt` (full **WU 057** narrative under Hunt)
 
 **Reporting period covered:** 1 July 1973 – 30 June 1974 (FY74) — i.e. the period containing Justesen's "28 September 1973" personal-communication date for the Sharp/Grove "speech-into-the-head" demonstration described in *American Psychologist* 30(3):391-401, March 1975 (PMID 1137231; DOI 10.1037/0003-066X.30.3.391).
 
@@ -23,6 +25,10 @@ This is the first time the FY74 Sharp/Grove Work Unit 057 narrative has been pul
 |---|---|---|
 | AD-A009337 (Vol 1) | 67,547 lines | TOC at line ~480 lists WU 057 under Project 3A762758A824 RADIATION INJURY AND PROTECTION; **narrative lives in Vol 2**, not Vol 1. No other Sharp/Grove/Hawkins material in Vol 1. |
 | AD-A009338 (Vol 2) | 55,853 lines | Contains the **full WU 057 narrative at lines 9303–9602** (printed pp. 983–987) and a separate **WU 112 "Neurochemistry of drugs of abuse" at lines 53,633–55,000+** also led by Sharp (different team). |
+| ADA038319 (FY76 Vol 1) | 70,148 lines | TOC lists WU 057 at printed p. 979; **WU 057 body text is not in this volume** (same split as FY74). **WU 204** (selective breeding / Hunt principal, Hawkins associate) reports seizure-prone rats **used in several experiments to evaluate the CNS effects of microwave radiation** (`ADA038319_FY76_Vol1_djvu.txt` ~17854–17866) — institutional cross-link between microwave facility and audiogenic-seizure colony, **not** Tier-B speech. |
+| ADA038320 (FY76 Vol 2) | 61,150 lines | Full **WU 057** block under Hunt begins ~**13891** (investigators ~13900–13909); Progress §1 "Energy Absorption…" ~**13941**; duplicate WU 057 header + Literature Cited ~**14489–14558** (printed ~990–991). **No** Sharp or H. Mark Grove on the WU 057 roster; **Grove, H.M.** appears only on Lenox/Gandhi enzyme-inactivation citations in that reference list. |
+
+**Whole-volume FY76 Vol II OCR scan (2026-05-02):** `rg` over the entire `ADA038320_FY76_Vol2_djvu.txt` finds **no** `Justesen` (or obvious OCR corruptions), **no** `Joseph C. Sharp` string on the microwave line (other unrelated "Joseph" / pharma "Sharp" hits exist elsewhere in the volume), and **no** Tier-B speech lexicon in WU 057 beyond unrelated psychiatry "speech" hits. See `SHARP_GROVE_NEXT_PASS_THREAD_A_FY75_FY76.md` §A.3.5.
 
 ---
 
@@ -288,7 +294,7 @@ A sixth deeper-dive iteration extending this file and `DEEPER_DIG_5_ADDENDUM.md`
 
 The Sharp/Grove 1973 demonstration is now embedded in a **fully primary-source-verified author network** spanning Frey 1962 → Sharp/Grove 1973 → Frey/Feld 1975 → Justesen 1975 → DIA 1976 → Oscar/Hawkins 1977 → Brodeur 1977 → Lin 1978 → Justesen 1979 NYAM → Oscar 1980 USAMERDC → Frey 1998 commentary. Every cited paper or document has a verified citation, abstract or section verbatim, and chain-of-authorship to either Sharp's WRAIR group, Hawkins's USAMERDC group, or Frey's auditory-effect lineage. The 1973 demonstration itself remains documented by a single primary attestation (Justesen 1975 Note 2, *American Psychologist*) with no independent open-literature replication; the surrounding documentary context is now maximally specified.
 
-Remaining open leads for round 7+: Oscar & Hawkins 1977 *Brain Research* full text (highest-value next item — would resolve internal citations to Sharp/Grove or Justesen, plus funding and acknowledgments); Oscar 1980 AD-A090426 full PDF from DTIC; Brodeur page-image OCR (pp. 85, 105, 299); KU Med Center direct email inquiry; VA KC FOIA; NASA Ames Archives direct inquiry; SUU Library inquiry; plus the round 1-3 institutional carries (WRAIR FY75-79 Forest Glen, Gorgas 1981 Program Review, Senate Serial 95-49) and the DIA report distribution list.
+Remaining open leads for round 7+: Oscar & Hawkins 1977 *Brain Research* **licensed PDF or workspace drop** (Europe PMC `hasPDF=N`, OpenAlex closed, ScienceDirect `curl` → Cloudflare 403 — **2026-05-02**); Oscar 1980 AD-A090426 **primary body text** already under `findings/investigation-dig/AD_A090426_OSCAR_1980_full.txt` (PDF mirror via DTIC/IA if a redistributable scan is needed); Brodeur page-image OCR (pp. 85, 105, 299); KU Med Center direct email inquiry; VA KC FOIA; NASA Ames Archives direct inquiry; SUU Library inquiry; plus the round 1-3 institutional carries (WRAIR FY75-79 Forest Glen, Gorgas 1981 Program Review, Senate Serial 95-49) and the DIA report distribution list. **FY75 WRAIR APR:** extra IA Solr patterns **2026-05-02** still **zero** hits — gap unchanged; DTIC discover / FOIA wording in `SHARP_GROVE_NEXT_PASS_THREAD_A_FY75_FY76.md` §A.2.
 
 ---
 

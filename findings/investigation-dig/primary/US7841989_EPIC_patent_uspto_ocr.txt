@@ -1,0 +1,1663 @@
+--- PAGE 01 ---US007841989B2
+--- PAGE 01 ---a2) United States Patent (10) Patent No.: US 7,841,989 B2
+--- PAGE 01 ---Kiefer et al. (45) Date of Patent: Nov. 30, 2010
+--- PAGE 01 ---(54) ELECTROMAGNETIC PERSONNEL (58) Field of Classification Search. ................. 600/300,
+--- PAGE 01 ---INTERDICTION CONTROL METHOD AND 600/372, 382, 383, 407, 437, 439, 544, 546,
+--- PAGE 01 ---SYSTEM 600/547, 552, 554, 558, 559, 587, 595; 606/1,
+--- PAGE 01 ---
+--- PAGE 01 ---606/32, 33, 34, 41, 42; 607/1, 2, 3, 45, 48,
+--- PAGE 01 ---
+--- PAGE 01 ---75 ; . 607/53, 54, 55, 56, 154; 342/22; 367/137,
+--- PAGE 01 ---(75) Inventors: Karl F. Kiefer, Conroe, TX (US); Kevin 367/139, 199: 361/230, 232: 89/111: 42/1.08:
+--- PAGE 01 ---
+--- PAGE 01 ---Champaigne, Conroe, TX (US); 102/501. 502
+--- PAGE 01 ---
+--- PAGE 01 ---Gulnara Ajupova, Conroe, TX (US) See application file for complete search history.
+--- PAGE 01 ---
+--- PAGE 01 ---(73) Assignee: Invocon, Inc., Conroe, TX (US) (56) References Cited
+--- PAGE 01 ---(*) Notice: Subject to any disclaimer, the term of this U.S. FALENT DOCUMENTS
+--- PAGE 01 ---patent is extended or adjusted under 35 4,611,599 A * 9/1986 Bentall et al. ccc. 607/27
+--- PAGE 01 ---U.S.C. 154(b) by 1323 days. (Continued)
+--- PAGE 01 ---(21) Appl. No.: 11/243,687 OTHER PUBLICATIONS
+--- PAGE 01 ---Miller, Diane F., “Basics of Radio Astronomy” Mar. 1997, California
+--- PAGE 01 ---22) Filed: Oct. 4, 2005 Institute of Technology, JPL D-13835.*
+--- PAGE 01 ---(22) ;
+--- PAGE 01 ---(Continued)
+--- PAGE 01 ---
+--- PAGE 01 ---(65) Prior Publication Data
+--- PAGE 01 ---Primary Examiner—Max Hindenburg
+--- PAGE 01 ---
+--- PAGE 01 ---US 2007/0249959 Al Oct. 25, 2007 Assistant Examiner—Jeftrey G Hoekstra
+--- PAGE 01 ---
+--- PAGE 01 ---(74) Attorney, Agent, or Firm—Kenneth A. Roddy
+--- PAGE 01 ---Related U.S. Application Data
+--- PAGE 01 ---
+--- PAGE 01 ---(60) Provisional application No. 60/615,703, filed on Oct. (07) ABSTRACT
+--- PAGE 01 ---4, 2004. A non-lethal and non-destructive electromagnetic personnel
+--- PAGE 01 ---interdiction control stun type weapon system and method
+--- PAGE 01 ---(51) Int. Cl. utilizes beamed radio frequency energy in a frequency range
+--- PAGE 01 ---AG6IB 5/00 (2006.01 and modulated to impose a ponents force on the vest ular
+--- PAGE 01 ---system or sensory cells ol a remote human subject suliicient
+--- PAGE 01 ---A61B 5/103 (2006.01 ie disrupt the mechanical transduction process and/or the
+--- PAGE 01 ---A61B 5/117 (2006.01 chemical engine by which sound, position and other sensory
+--- PAGE 01 ---F42B 8/00 (2006.01 input are converted to messages by nerve cells and processed
+--- PAGE 01 ---F42B 10/00 (2006.01 by the brain to produce complete disorientation, confusion,
+--- PAGE 01 ---F42B 12/00 (2006.01 and incapacitation sufficient to temporarily render the subject
+--- PAGE 01 ---F42B 14/06 (2006.01 poweriess to resist ares or subjugation. Rom of the
+--- PAGE 01 ---electromagnetic energy leaves the nerve cells and surround-
+--- PAGE 01 ---F428 30/00 (2006.01 ing tissues with no damage and second order effects of severe
+--- PAGE 01 ---F4IC 9/00 (2006.01 motion sickness and psychological effects of helplessness
+--- PAGE 01 ---HO4B 1/02 (2006.01 remains until the subject’s body chemistry returns to normal.
+--- PAGE 01 ---(52) US. Ch wee 600/559; 600/552; 600/587;
+--- PAGE 01 ---102/502; 42/1.08; 367/139 6 Claims, 6 Drawing Sheets
+--- PAGE 01 ---
+--- PAGE 01 ---1.3 kW 105 Wim"?
+--- PAGE 01 ---
+--- PAGE 01 ---Parabolic Dish
+--- PAGE 01 ---(gain = 20 dB)
+--- PAGE 01 ---
+--- PAGE 01 ---10m —————___-____»
+--- PAGE 01 ---
+--- PAGE 01 ---toi
+--- PAGE 02 ---US 7,841,989 B2
+--- PAGE 02 ---
+--- PAGE 02 ---Page 2
+--- PAGE 02 ---U.S. PATENT DOCUMENTS 2002/0072781 Al* 6/2002 Lattner et al. ........00.0000.. 607/42
+--- PAGE 02 ---5,787,340 A 7/1998 Sepponen OTHER PUBLICATIONS
+--- PAGE 02 ---ok
+--- PAGE 02 ---5,935,054 A 8/1999 Loos ..iccccccccescscscceesceesees 600/9 Bozovic D, Hudspeth, A. J., “Hair-bundle movements elicited by
+--- PAGE 02 ---6,077,237 A “ 6/2000 Campbell etal. ........... 600/587 transepithelial electrical stimulation ofhair cells inthe sacculus ofthe
+--- PAGE 02 ---6,238,333 Bl 5/2001 Loos P
+--- PAGE 02 ---
+--- PAGE 02 ---6,314,324 Bl 11/2001
+--- PAGE 02 ---7,277,749 B2* 10/2007
+--- PAGE 02 ---
+--- PAGE 02 ---Lattner et al.
+--- PAGE 02 ---Gordon et al.
+--- PAGE 02 ---
+--- PAGE 02 ---beceeeeeeceeeencs 607/2
+--- PAGE 02 ---
+--- PAGE 02 ---bullfrog”, Proc Natl Acad Sci1U SA.
+--- PAGE 02 ---
+--- PAGE 02 ---* cited by examiner
+--- PAGE 03 ---C Oly
+--- PAGE 03 ---
+--- PAGE 03 ---ejnoeyy
+--- PAGE 03 ---
+--- PAGE 03 ---US 7,841,989 B2
+--- PAGE 03 ---
+--- PAGE 03 ---BNBN Je]NIeS JO JejNOVIN
+--- PAGE 03 ---SJUBWEI!4 JOD we
+--- PAGE 03 ---HW 9D 4 Hy Let eindns
+--- PAGE 03 ---
+--- PAGE 03 ---gf fz. ¥ ; ‘ *
+--- PAGE 03 ---ar? BETA te DS ee
+--- PAGE 03 ---
+--- PAGE 03 ---\
+--- PAGE 03 ---
+--- PAGE 03 ---Ca ay,
+--- PAGE 03 ---
+--- PAGE 03 ---°
+--- PAGE 03 ---
+--- PAGE 03 ---=
+--- PAGE 03 ---
+--- PAGE 03 ---—_
+--- PAGE 03 ---
+--- PAGE 03 ---=P)
+--- PAGE 03 ---
+--- PAGE 03 ---<P)
+--- PAGE 03 ---
+--- PAGE 03 ---=
+--- PAGE 03 ---
+--- PAGE 03 ---DN JEINGISSA
+--- PAGE 03 ---3jna9eS
+--- PAGE 03 ---
+--- PAGE 03 ---=
+--- PAGE 03 ---
+--- PAGE 03 --->
+--- PAGE 03 ---
+--- PAGE 03 ---a“ feued jeyuozuoy
+--- PAGE 03 ---
+--- PAGE 03 ---S _
+--- PAGE 03 ---
+--- PAGE 03 ---a Ba}UD07)
+--- PAGE 03 ---
+--- PAGE 03 --->
+--- PAGE 03 ---
+--- PAGE 03 ---on)
+--- PAGE 03 ---
+--- PAGE 03 ---7,
+--- PAGE 03 ---
+--- PAGE 03 ---aimoes
+--- PAGE 03 ---
+--- PAGE 03 ---AUN) NaN
+--- PAGE 03 ---
+--- PAGE 03 ---U.S. Patent
+--- PAGE 03 ---
+--- PAGE 03 ---(PuBD JOUa\Ue
+--- PAGE 03 ---
+--- PAGE 03 ---eqn, ueimerjisng
+--- PAGE 03 ---
+--- PAGE 03 ---\\ winipsey
+--- PAGE 03 ---
+--- PAGE 03 ---A
+--- PAGE 03 ---
+--- PAGE 03 ---eure)
+--- PAGE 03 ---
+--- PAGE 03 ---e ° al
+--- PAGE 03 ---a, a) ‘> meng gti? =
+--- PAGE 03 ---
+--- PAGE 03 ---ZF | ZR \
+--- PAGE 03 ---
+--- PAGE 03 ---Wo
+--- PAGE 03 ---49
+--- PAGE 03 ---gonn | o
+--- PAGE 03 ---
+--- PAGE 03 ---SJEULZ IEINIIIDIWIAS
+--- PAGE 04 ---U.S. Patent Nov. 30, 2010 Sheet 2 of 6 US 7,841,989 B2
+--- PAGE 04 ---
+--- PAGE 04 ---scala vestibuli
+--- PAGE 04 ---
+--- PAGE 04 ---scala media
+--- PAGE 04 ---
+--- PAGE 04 ---organ of
+--- PAGE 04 ---
+--- PAGE 04 ---tunnel tunnel outer hair
+--- PAGE 04 ---fibers cellnerves membrane
+--- PAGE 04 ---cochlear
+--- PAGE 04 ---nerve fibres scala timpani
+--- PAGE 04 ---
+--- PAGE 04 ---Fig. 3
+--- PAGE 04 ---
+--- PAGE 04 ---Halr cell directional polarization
+--- PAGE 04 ---aaa
+--- PAGE 04 ---
+--- PAGE 04 ---eae Kinocilium Membrane
+--- PAGE 04 ---Channel
+--- PAGE 04 ---
+--- PAGE 04 ---Stereocilia
+--- PAGE 04 ---
+--- PAGE 05 ---U.S. Patent Nov. 30, 2010 Sheet 3 of 6 US 7,841,989 B2
+--- PAGE 05 ---
+--- PAGE 05 ---Cae+ channel K+ channel
+--- PAGE 05 ---closed closed
+--- PAGE 05 ---
+--- PAGE 05 ---Cupula or
+--- PAGE 05 ---otoconia kK inocitium
+--- PAGE 05 ---movement
+--- PAGE 05 ---
+--- PAGE 05 ---nN
+--- PAGE 05 ---
+--- PAGE 05 ---Recording
+--- PAGE 05 ---electrode
+--- PAGE 05 ---
+--- PAGE 05 ---Receptor cell
+--- PAGE 05 ---membrane
+--- PAGE 05 ---voltage
+--- PAGE 05 ---
+--- PAGE 05 ---100-, --20
+--- PAGE 05 ---\
+--- PAGE 05 ---
+--- PAGE 05 ---millivolts
+--- PAGE 05 ---
+--- PAGE 05 ---millivolts millivolts
+--- PAGE 05 ---
+--- PAGE 05 ---Depolarize Restin Hyperpolarize
+--- PAGE 05 ---Vestibular P 9 yperpo
+--- PAGE 05 ---
+--- PAGE 05 ---afferent
+--- PAGE 05 ---discharge
+--- PAGE 05 ---rate
+--- PAGE 05 ---
+--- PAGE 05 ---180 spikes/sec 90 spikes/sec 10 spikes/sec
+--- PAGE 05 ---° Excitation Resting Inhibition
+--- PAGE 05 ---Fig. 6
+--- PAGE 05 ---
+--- PAGE 05 ---ENDO LYMPH K’., Ca’, Na
+--- PAGE 05 ---
+--- PAGE 06 ---U.S. Patent Nov. 30, 2010 Sheet 4 of 6 US 7,841,989 B2
+--- PAGE 06 ---
+--- PAGE 06 ---£,
+--- PAGE 06 ---+.
+--- PAGE 06 ---
+--- PAGE 06 ---‘e,
+--- PAGE 06 ---a
+--- PAGE 06 ---
+--- PAGE 06 ---eheeecece:
+--- PAGE 06 ---ssiole'es
+--- PAGE 06 ---
+--- PAGE 06 ---Se"
+--- PAGE 06 ---4
+--- PAGE 06 ---
+--- PAGE 06 ---viata!
+--- PAGE 06 ---Satta te
+--- PAGE 06 ---
+--- PAGE 06 ---mieennevee
+--- PAGE 06 ---nna
+--- PAGE 06 ---
+--- PAGE 06 ---Fe ee oa ow
+--- PAGE 06 ---
+--- PAGE 06 ---See
+--- PAGE 06 ---
+--- PAGE 06 ---, MMT Tate Ne
+--- PAGE 06 ---sseceee
+--- PAGE 06 ---
+--- PAGE 06 ---sis:
+--- PAGE 06 ---
+--- PAGE 06 ---‘ate 'e'
+--- PAGE 06 ---
+--- PAGE 06 ---CoS
+--- PAGE 06 ---
+--- PAGE 07 ---U.S. Patent Nov. 30, 2010 Sheet 5 of 6 US 7,841,989 B2
+--- PAGE 07 ---
+--- PAGE 07 ---Field strength
+--- PAGE 07 ---
+--- PAGE 07 ---1,00E-05
+--- PAGE 07 ---1 11 21 31 #44 51 61 71 81 91 101
+--- PAGE 07 ---
+--- PAGE 07 ---4 Ow 2 a ae
+--- PAGE 07 ---1.00E-07 pets
+--- PAGE 07 ---1.00E-08
+--- PAGE 07 ---
+--- PAGE 07 ---1.00E-09
+--- PAGE 07 ---
+--- PAGE 07 ---1.00E-10
+--- PAGE 07 ---
+--- PAGE 07 ---ry 5
+--- PAGE 07 ---“yf
+--- PAGE 07 ---1.00E-11
+--- PAGE 07 ---
+--- PAGE 07 ---1.00E-12
+--- PAGE 07 ---
+--- PAGE 07 ---Magnetic field, Testa (Wb/m*2)
+--- PAGE 07 ---
+--- PAGE 07 ----_*_ 1.70E-05
+--- PAGE 07 ---—< 1.70E-06
+--- PAGE 07 ---
+--- PAGE 07 ---Frequency, Hz
+--- PAGE 07 ---
+--- PAGE 07 ---F 12. 9 Magnetic field strength required to create 15 nm displacement. Field is plotted
+--- PAGE 07 ---as a function of driving frequency at various values of resting Current.
+--- PAGE 08 ---U.S. Patent Nov. 30, 2010 Sheet 6 of 6 US 7,841,989 B2
+--- PAGE 08 ---
+--- PAGE 08 ---Antenna
+--- PAGE 08 ---Vector Signal Generator ™,
+--- PAGE 08 ---
+--- PAGE 08 ---Signal
+--- PAGE 08 ---Conditioning
+--- PAGE 08 ---
+--- PAGE 08 ---Sub-carrier
+--- PAGE 08 ---1-500 Hz
+--- PAGE 08 ---
+--- PAGE 08 ---meenwrewewewenw en eee ee eee ee ee eee ewe es oe = & 6
+--- PAGE 08 ---
+--- PAGE 08 ---1.3 kW 105 Wim?
+--- PAGE 08 ---
+--- PAGE 08 ---Parabolic Dish
+--- PAGE 08 ---(gain = 20 dB)
+--- PAGE 08 ---
+--- PAGE 08 ---5
+--- PAGE 08 ---
+--- PAGE 08 ---Fig. If
+--- PAGE 08 ---
+--- PAGE 09 ---US 7,841,989 B2
+--- PAGE 09 ---
+--- PAGE 09 ---1
+--- PAGE 09 ---
+--- PAGE 09 ---ELECTROMAGNETIC PERSONNEL
+--- PAGE 09 ---INTERDICTION CONTROL METHOD AND
+--- PAGE 09 ---SYSTEM
+--- PAGE 09 ---
+--- PAGE 09 ---CROSS REFERENCE TO RELATED
+--- PAGE 09 ---APPLICATION
+--- PAGE 09 ---
+--- PAGE 09 ---This application claims priority of U.S. Provisional Appli-
+--- PAGE 09 ---cation Ser. No. 60/615,703, filed Oct. 4, 2004.
+--- PAGE 09 ---
+--- PAGE 09 ---STATEMENT REGARDING FEDERALLY
+--- PAGE 09 ---SPONSORED RESEARCH
+--- PAGE 09 ---
+--- PAGE 09 ---This invention was made with Government support under
+--- PAGE 09 ---DOD Small Business Innovation Research (SBIR) Contract
+--- PAGE 09 ---No. M67854-04-C-1013 awarded by the U.S. Marine Corps
+--- PAGE 09 ---
+--- PAGE 09 ---Systems Command.
+--- PAGE 09 ---
+--- PAGE 09 ---BACKGROUND OF THE INVENTION
+--- PAGE 09 ---
+--- PAGE 09 ---1. Field Of The Invention
+--- PAGE 09 ---
+--- PAGE 09 ---This invention relates generally to non-destructive stun
+--- PAGE 09 ---weapons, and, more particularly to a non-destructive stun
+--- PAGE 09 ---type weapon that utilizes beamed electromagnetic RF energy
+--- PAGE 09 ---(Lorentz Force) that disrupts the normal mechanical trans-
+--- PAGE 09 ---duction process and/or the chemical engine by which sound,
+--- PAGE 09 ---position and other sensory input are converted to messages by
+--- PAGE 09 ---nerve cells and processed by the brain to produce complete
+--- PAGE 09 ---disorientation and confusion to temporarily and remotely
+--- PAGE 09 ---render a human powerless to resist arrest or subjugation.
+--- PAGE 09 ---
+--- PAGE 09 ---2. Background Art
+--- PAGE 09 ---
+--- PAGE 09 ---There is a long-felt need in the military and in law enforce-
+--- PAGE 09 ---ment for a non-destructive stun type weapon that would
+--- PAGE 09 ---remotely incapacitate a hostile war fighter, terrorist, or crimi-
+--- PAGE 09 ---nal suspect ineffective fora period of time without permanent
+--- PAGE 09 ---damage.
+--- PAGE 09 ---
+--- PAGE 09 ---The US military has achieved improved accuracy and the
+--- PAGE 09 ---ability to target small objectives with precision that precludes
+--- PAGE 09 ---widespread collateral damage. These improvements are in
+--- PAGE 09 ---air-to-ground munitions as well as ground-to-ground weap-
+--- PAGE 09 ---ons. This precise destruction of “hostile military targets”
+--- PAGE 09 ---while allowing adjacent personnel and structures to survive
+--- PAGE 09 ---with no damage has broadened the ability of political decision
+--- PAGE 09 ---makers to respond with “measured response” force to threats
+--- PAGE 09 ---of terror and hostile military actions. These responses are
+--- PAGE 09 ---more politically acceptable since innocent civil casualties are
+--- PAGE 09 ---kept at a minimum. The desirability of waging bloodless war
+--- PAGE 09 ---to counter threats to national security is virtually limitless
+--- PAGE 09 ---since both military and civil authority could determine a
+--- PAGE 09 ---priori when and if loss of human life is necessary.
+--- PAGE 09 ---
+--- PAGE 09 ---Clinical evidence demonstrates that hearing and equilib-
+--- PAGE 09 ---rium disruption may result from disease and side effects from
+--- PAGE 09 ---medication. Considerable efforts are being made to better
+--- PAGE 09 ---understand the mechanics of the inner ear so that effective
+--- PAGE 09 ---treatments may be made available to counter the debilitating
+--- PAGE 09 ---effects of mechanical and chemical disruption of normal
+--- PAGE 09 ---human functions. However, the existence of these debilitating
+--- PAGE 09 ---effects prove that chemical interruption of inner ear processes
+--- PAGE 09 ---can produce effects that are desirable for a stun type weapon
+--- PAGE 09 ---if they are not permanent.
+--- PAGE 09 ---
+--- PAGE 09 ---The human vestibular system is remarkably sturdy under a
+--- PAGE 09 ---variety of conditions. Yet, it has been proven vulnerable. Most
+--- PAGE 09 ---of the time, the vestibular loss is transient. However, in some
+--- PAGE 09 ---cases the loss is recurring, escalating and, ultimately, perma-
+--- PAGE 09 ---nent. There are several levels at which the vestibular function
+--- PAGE 09 ---can be affected: interference with the function of the central
+--- PAGE 09 ---nervous system components of balance and the interruption
+--- PAGE 09 ---
+--- PAGE 09 ---10
+--- PAGE 09 ---
+--- PAGE 09 ---15
+--- PAGE 09 ---
+--- PAGE 09 ---20
+--- PAGE 09 ---
+--- PAGE 09 ---25
+--- PAGE 09 ---
+--- PAGE 09 ---30
+--- PAGE 09 ---
+--- PAGE 09 ---35
+--- PAGE 09 ---
+--- PAGE 09 ---40
+--- PAGE 09 ---
+--- PAGE 09 ---45
+--- PAGE 09 ---
+--- PAGE 09 ---50
+--- PAGE 09 ---
+--- PAGE 09 ---55
+--- PAGE 09 ---
+--- PAGE 09 ---60
+--- PAGE 09 ---
+--- PAGE 09 ---65
+--- PAGE 09 ---
+--- PAGE 09 ---2
+--- PAGE 09 ---
+--- PAGE 09 ---of the hair cell’s transduction process. The means to interfere
+--- PAGE 09 ---with the nervous system would be to emulate, for example,
+--- PAGE 09 ---the stimuli of the motion sickness, which can be quite debil1-
+--- PAGE 09 ---tating. Visual stimulations such as virtual reality or virtual
+--- PAGE 09 ---simulator sickness are also classed as disruption at the level of
+--- PAGE 09 ---the central nervous system.
+--- PAGE 09 ---
+--- PAGE 09 ---Various chemicals and drugs are known that disrupt the
+--- PAGE 09 ---function of vestibular hair cells themselves. Calcium channel
+--- PAGE 09 ---blockers interfere with normal function at the hair bundle
+--- PAGE 09 ---level. Other drugs disrupt the synaptic and post-synaptic pro-
+--- PAGE 09 ---cess. Yet other drugs cause death of the hair cell itself. The
+--- PAGE 09 ---vestibulotoxic medications are also used to suppress vestibu-
+--- PAGE 09 ---lar function to treat vestibular disorders, such as vertigo and
+--- PAGE 09 ---vestibular migraine. However, inducing chemical changes in
+--- PAGE 09 ---the body without contact is not an easy path.
+--- PAGE 09 ---
+--- PAGE 09 ---The normal operation of the cells of the ear, vestibular
+--- PAGE 09 ---system, and the eye can also be disrupted by increasing or
+--- PAGE 09 ---decreasing the magnitude of the static charge on the particular
+--- PAGE 09 ---cell membranes to adversely affect its attraction to calcium
+--- PAGE 09 ---(Ca) and/or potassium (K) ions and thereby impact the rate of
+--- PAGE 09 ---ion flow and the ultimate pulse rate of the cells. Uncorrelated
+--- PAGE 09 ---data would then be fed to the brain and the brain would have
+--- PAGE 09 ---no basis for decoding, thereby creating disorientation.
+--- PAGE 09 ---
+--- PAGE 09 ---Altering the normal electromagnetic field and subsequent
+--- PAGE 09 ---surfaces charges on the tissues of the ear, vestibular system
+--- PAGE 09 ---and the eye can change the impedance of their conduction
+--- PAGE 09 ---capabilities, disturb the ion flow, and subsequently impact the
+--- PAGE 09 ---pulse output of the cells to the brain. This interruption of
+--- PAGE 09 ---normal ion flow would cause pulse patterns to the brain that it
+--- PAGE 09 ---cannot decode, thereby creating disorientation.
+--- PAGE 09 ---
+--- PAGE 09 ---The normal electrochemical balance of substantially all of
+--- PAGE 09 ---the cells of the human body relative to the rest of the body
+--- PAGE 09 ---fluids can be disrupted by altering the relative charge level to
+--- PAGE 09 ---cause the cells to activate the protein doors or cation channels
+--- PAGE 09 ---in the cell wall that allow unidirectional passage of negative
+--- PAGE 09 ---charge sodium (Na) ions and the opposite passage of posi-
+--- PAGE 09 ---tively charged calcium (Ca) ions, thereby causing hyperactive
+--- PAGE 09 ---chemical exchanges that can negatively impact the system
+--- PAGE 09 ---and disrupt normal smooth and striated muscular functions.
+--- PAGE 09 ---
+--- PAGE 09 ---The application of pulses of voltage directly to nerve paths
+--- PAGE 09 ---can also feed uncorrelated sensory input data to the brain that
+--- PAGE 09 ---would ultimately produce some level of disorientation.
+--- PAGE 09 ---
+--- PAGE 09 ---It is well known in the field of physics that electromagnetic
+--- PAGE 09 ---radio frequency energy can actually excite physical move-
+--- PAGE 09 ---ment in devices that are tuned to sympathetic resonance, and
+--- PAGE 09 ---certain resonant structures can respond to and demodulate
+--- PAGE 09 ---high frequency radio carrier energy.
+--- PAGE 09 ---
+--- PAGE 09 ---The present invention is distinguished over the prior art in
+--- PAGE 09 ---general by an electromagnetic personnel interdiction control
+--- PAGE 09 ---(EPIC) non-destructive stun type weapon and method that
+--- PAGE 09 ---utilizes beamed electromagnetic RF energy (Lorentz Force)
+--- PAGE 09 ---to excite and interrupt the normal process of human hearing,
+--- PAGE 09 ---equilibrium and other senses to produce complete disorien-
+--- PAGE 09 ---tation and confusion. This is accomplished by: (1) interrup-
+--- PAGE 09 ---tion of the mechanical transduction process by which sound,
+--- PAGE 09 ---position (relative to gravity) and other sensory input is con-
+--- PAGE 09 ---verted to messages that are processed by the brain; and (2)
+--- PAGE 09 ---interruption of the chemical engine which sustains the proper
+--- PAGE 09 ---operation of nerve cells that respond to the mechanical trans-
+--- PAGE 09 ---duction mechanisms. Interruption of either or both of these
+--- PAGE 09 ---processes produces complete disorientation and confusion
+--- PAGE 09 ---sufficient to temporarily and remotely render a human pow-
+--- PAGE 09 ---erless to resist arrest or subjugation.
+--- PAGE 09 ---
+--- PAGE 09 ---The present invention provides a minimum destruction
+--- PAGE 09 ---weapon that can temporarily incapacitate a human threat as a
+--- PAGE 09 ---point or area target and will operate through walls and other
+--- PAGE 09 ---protective mediums that now provide cover for combatants in
+--- PAGE 09 ---
+--- PAGE 10 ---US 7,841,989 B2
+--- PAGE 10 ---
+--- PAGE 10 ---3
+--- PAGE 10 ---
+--- PAGE 10 ---urban warfare situations. It provides an individual soldier or
+--- PAGE 10 ---law enforcement officer with the ability to reduce an oppo-
+--- PAGE 10 ---nent to helplessness from a remote location while doing no
+--- PAGE 10 ---permanent damage. Such a weapon has significant utility for
+--- PAGE 10 ---use by military units 1n an assault situation, allowing them to
+--- PAGE 10 ---remotely subdue and capture hostile war fighters, terrorists,
+--- PAGE 10 ---and large numbers of prisoners that would result from the
+--- PAGE 10 ---“stun and restrain” tactic. The damage of friendly fire mis-
+--- PAGE 10 ---takes would be minimized since no permanent damage would
+--- PAGE 10 ---be done by the stun weapon. Used 1n “special operations” raid
+--- PAGE 10 ---scenarios, the prisoner issues would not be critical since the
+--- PAGE 10 ---raid would be in and out before the complete recovery of
+--- PAGE 10 ---stunned combatants. It also has significant utility for use by
+--- PAGE 10 ---law enforcement personnel, allowing them to remotely inca-
+--- PAGE 10 ---pacitate criminal suspects or rioters from a remote location
+--- PAGE 10 ---
+--- PAGE 10 ---and render them ineffective for a period of time without
+--- PAGE 10 ---permanent damage.
+--- PAGE 10 ---
+--- PAGE 10 ---SUMMARY OF THE INVENTION
+--- PAGE 10 ---
+--- PAGE 10 ---It is therefore an object of the present invention to provide
+--- PAGE 10 ---an electromagnetic personnel interdiction control (EPIC)
+--- PAGE 10 ---non-destructive stun type weapon apparatus and method that
+--- PAGE 10 ---utilizes beamed RF energy (Lorentz Force) to remotely excite
+--- PAGE 10 ---the human vestibular inner ear system and interrupt the nor-
+--- PAGE 10 ---mal process of human hearing and equilibrium and thereby
+--- PAGE 10 ---produce complete disorientation, confusion, and temporary
+--- PAGE 10 ---incapacitation sufficient to render a human powerless to resist
+--- PAGE 10 ---arrest or subjugation.
+--- PAGE 10 ---
+--- PAGE 10 ---It is another object of this invention to provide an electro-
+--- PAGE 10 ---magnetic personnel interdiction control (EPIC) non-destruc-
+--- PAGE 10 ---tive stun type weapon apparatus and method that utilizes
+--- PAGE 10 ---electromagnetic waves to interfere with vestibular function
+--- PAGE 10 ---by applying Lorentz Force on the ionic currents in the cilia of
+--- PAGE 10 ---the human inner ear to cause extraneous motion of the entire
+--- PAGE 10 ---ciliary bundle thereby creating disorienting input to the brain
+--- PAGE 10 ---resulting in a reaction that produces complete disorientation
+--- PAGE 10 ---and confusion and will render a person inoperable for the
+--- PAGE 10 ---duration of the stimulus and for a short time thereafter.
+--- PAGE 10 ---
+--- PAGE 10 ---Another object of this invention is to provide an electro-
+--- PAGE 10 ---magnetic personnel interdiction control (EPIC) non-destruc-
+--- PAGE 10 ---tive stun type weapon apparatus and method that produces
+--- PAGE 10 ---complete disorientation and confusion utilizing electromag-
+--- PAGE 10 ---netic waves to interfere with vestibular function by transmit-
+--- PAGE 10 ---ting radio frequency transmissions having a frequency and
+--- PAGE 10 ---modulation correlated to the physical and chemical structure
+--- PAGE 10 ---of the human inner ear transduction process to: (1) interrupt
+--- PAGE 10 ---the mechanical transduction process by which sound and
+--- PAGE 10 ---position (relative to gravity) are converted to messages that
+--- PAGE 10 ---are processed by the brain; and (2) interrupt the chemical
+--- PAGE 10 ---engine which sustains the proper operation of the nerve cells
+--- PAGE 10 ---that respond to the mechanical transduction mechanisms.
+--- PAGE 10 ---
+--- PAGE 10 ---Another object of this invention is to provide a non-de-
+--- PAGE 10 ---structive stun type weapon for use by military and law
+--- PAGE 10 ---enforcement personnel that will remotely incapacitate a hos-
+--- PAGE 10 ---tile war fighter, terrorist, or criminal suspect from a remote
+--- PAGE 10 ---location and render them ineffective for a period of time
+--- PAGE 10 ---without permanent damage.
+--- PAGE 10 ---
+--- PAGE 10 ---Another object of this invention is to provide a non-de-
+--- PAGE 10 ---structive stun type weapon for use by military and law
+--- PAGE 10 ---enforcement personnel that provides a weapon that can tem-
+--- PAGE 10 ---porarily incapacitate a human threat as a point or area target.
+--- PAGE 10 ---
+--- PAGE 10 ---Another object of this invention is to provide a non-de-
+--- PAGE 10 ---structive stun type weapon for military personnel for use in an
+--- PAGE 10 ---assault situation, allowing military units to remotely subdue,
+--- PAGE 10 ---
+--- PAGE 10 ---5
+--- PAGE 10 ---
+--- PAGE 10 ---10
+--- PAGE 10 ---
+--- PAGE 10 ---15
+--- PAGE 10 ---
+--- PAGE 10 ---20
+--- PAGE 10 ---
+--- PAGE 10 ---25
+--- PAGE 10 ---
+--- PAGE 10 ---30
+--- PAGE 10 ---
+--- PAGE 10 ---35
+--- PAGE 10 ---
+--- PAGE 10 ---40
+--- PAGE 10 ---
+--- PAGE 10 ---45
+--- PAGE 10 ---
+--- PAGE 10 ---50
+--- PAGE 10 ---
+--- PAGE 10 ---55
+--- PAGE 10 ---
+--- PAGE 10 ---60
+--- PAGE 10 ---
+--- PAGE 10 ---65
+--- PAGE 10 ---
+--- PAGE 10 ---4
+--- PAGE 10 ---
+--- PAGE 10 ---and capture, large numbers of prisoners that would result
+--- PAGE 10 ---from the “stun and restrain” tactic, without shooting or gun-
+--- PAGE 10 ---fire.
+--- PAGE 10 ---
+--- PAGE 10 ---Another object of this invention is to provide a non-de-
+--- PAGE 10 ---structive stun type weapon for use by military and law
+--- PAGE 10 ---enforcement personnel that can operate through walls and
+--- PAGE 10 ---other protective mediums that now provide cover for combat-
+--- PAGE 10 ---ants to temporarily incapacitate the combatant threat.
+--- PAGE 10 ---
+--- PAGE 10 ---Another object of this invention is to provide a non-de-
+--- PAGE 10 ---structive stun type weapon for use by military and law
+--- PAGE 10 ---enforcement personnel that will disrupt the normal operation
+--- PAGE 10 ---of the cells of the ear, vestibular system, and the eye by
+--- PAGE 10 ---increasing or decreasing the magnitude of the static charge on
+--- PAGE 10 ---the particular cell membranes to adversely affect its attraction
+--- PAGE 10 ---to calctum (Ca) and/or potassium (K) ions and thereby impact
+--- PAGE 10 ---the rate of ion flow and the ultimate pulse rate of the cells,
+--- PAGE 10 ---such that uncorrelated data would then be fed to the brain and
+--- PAGE 10 ---the brain would have no basis for decoding, thereby creating
+--- PAGE 10 ---disorientation.
+--- PAGE 10 ---
+--- PAGE 10 ---Another object of this invention is to provide a non-de-
+--- PAGE 10 ---structive stun type weapon for use by military and law
+--- PAGE 10 ---enforcement personnel that will alter the normal electromag-
+--- PAGE 10 ---netic field and subsequent surfaces charges on the tissues of
+--- PAGE 10 ---the ear, vestibular system and the eye and change the imped-
+--- PAGE 10 ---ance of their conduction capabilities, disturb the 1on flow, and
+--- PAGE 10 ---subsequently impact the pulse output of the cells to the brain
+--- PAGE 10 ---to produce pulse patterns that it cannot decode, thereby cre-
+--- PAGE 10 ---ating disorientation.
+--- PAGE 10 ---
+--- PAGE 10 ---Another object of this invention is to provide a non-de-
+--- PAGE 10 ---structive stun type weapon for use by military and law
+--- PAGE 10 ---enforcement personnel that is capable of disrupting the nor-
+--- PAGE 10 ---mal electrochemical balance of various cells of the human
+--- PAGE 10 ---body relative to the rest of the body fluids by altering the
+--- PAGE 10 ---relative charge level to cause the cells to activate the protein
+--- PAGE 10 ---doors or cation channels 1n the cell wall that allow unidirec-
+--- PAGE 10 ---tional passage of negative charge sodium (Na) ions and the
+--- PAGE 10 ---opposite passage of positively charged calcium (Ca) ions,
+--- PAGE 10 ---thereby causing hyperactive chemical exchanges that can
+--- PAGE 10 ---negatively impact the system and disrupt normal smooth and
+--- PAGE 10 ---striated muscular functions.
+--- PAGE 10 ---
+--- PAGE 10 ---Another object of this invention is to provide a non-de-
+--- PAGE 10 ---structive stun type weapon for use by military and law
+--- PAGE 10 ---enforcement personnel that is capable of remotely applying
+--- PAGE 10 ---pulses of voltage directly to nerve paths to feed uncorrelated
+--- PAGE 10 ---sensory input data to the brain that would produce disorien-
+--- PAGE 10 ---tation.
+--- PAGE 10 ---
+--- PAGE 10 ---A further object of this invention is to provide an electro-
+--- PAGE 10 ---magnetic personnel interdiction control (EPIC) apparatus and
+--- PAGE 10 ---method for use in medical applications to correct or alleviate
+--- PAGE 10 ---symptoms of dizziness, Benign Paroxysmal Positional Ver-
+--- PAGE 10 ---tigo (BPPV), disorientation, lightheadedness, imbalance,
+--- PAGE 10 ---nausea, and confusion, utilizing electromagnetic waves to
+--- PAGE 10 ---enhance vestibular function by transmitting radio frequency
+--- PAGE 10 ---transmissions having a frequency and modulation correlated
+--- PAGE 10 ---to the physical and chemical structure of the human inner ear
+--- PAGE 10 ---transduction process to: (1) normalize the mechanical trans-
+--- PAGE 10 ---duction process by which sound and position (relative to
+--- PAGE 10 ---gravity) are converted to messages that are processed by the
+--- PAGE 10 ---brain; and/or (2) normalize the chemical engine which sus-
+--- PAGE 10 ---tains the proper operation of the nerve cells that respond to the
+--- PAGE 10 ---mechanical transduction mechanisms.
+--- PAGE 10 ---
+--- PAGE 10 ---A still further object of this invention is to provide a non-
+--- PAGE 10 ---destructive stun type weapon for use by military and law
+--- PAGE 10 ---enforcement personnel that will remotely incapacitate a hos-
+--- PAGE 10 ---tile human combatant that is inexpensive to manufacture,
+--- PAGE 10 ---quick and easy to implement, and safe and reliable in opera-
+--- PAGE 10 ---tion.
+--- PAGE 10 ---
+--- PAGE 11 ---US 7,841,989 B2
+--- PAGE 11 ---
+--- PAGE 11 ---5
+--- PAGE 11 ---
+--- PAGE 11 ---Other objects of the invention will become apparent from
+--- PAGE 11 ---
+--- PAGE 11 ---time to time throughout the specification and claims as here-
+--- PAGE 11 ---inafter related.
+--- PAGE 11 ---The above noted objects and other objects of the invention
+--- PAGE 11 ---are accomplished by an electromagnetic personnel interdic-
+--- PAGE 11 ---tion control (EPIC) non-destructive stun type weapon appa-
+--- PAGE 11 ---ratus and method that utilizes beamed RF energy (Lorentz
+--- PAGE 11 ---Force) to excite and interrupt the normal process of human
+--- PAGE 11 ---hearing, equilibrium and other senses to produce complete
+--- PAGE 11 ---disorientation and confusion. This is accomplished by: (1)
+--- PAGE 11 ---interruption of the mechanical transduction process by which
+--- PAGE 11 ---sound, position (relative to gravity) and other sensory input is
+--- PAGE 11 ---converted to messages that are processed by the brain; and (2)
+--- PAGE 11 ---interruption of the chemical engine which sustains the proper
+--- PAGE 11 ---operation of nerve cells that respond to the mechanical trans-
+--- PAGE 11 ---duction mechanisms. Interruption of either or both of these
+--- PAGE 11 ---processes produces complete disorientation and confusion
+--- PAGE 11 ---sufficient to temporarily and remotely render a human pow-
+--- PAGE 11 ---erless to resist arrest or subjugation. Removal of the RF
+--- PAGE 11 ---excitation of the targeted structure will leave the organs and
+--- PAGE 11 ---surrounding tissues with no damage. The second order effects
+--- PAGE 11 ---of severe motion sickness and the psychological effects of
+--- PAGE 11 ---“helplessness” remains until the body chemistry returns to
+--- PAGE 11 ---normal.
+--- PAGE 11 ---
+--- PAGE 11 ---BRIEF DESCRIPTION OF THE DRAWINGS
+--- PAGE 11 ---
+--- PAGE 11 ---FIG. 1 is an illustration of the human membranous laby-
+--- PAGE 11 ---rinth with cochlea and vestibular system.
+--- PAGE 11 ---
+--- PAGE 11 ---FIG. 2 is a schematic illustration of the otolith organs
+--- PAGE 11 ---showing the details of the utricle, ococonia, endolymph,
+--- PAGE 11 ---cupula, macula, hair cell filaments, and saccular nerve.
+--- PAGE 11 ---
+--- PAGE 11 ---FIG. 3 is a schematic cross section through the cochlea.
+--- PAGE 11 ---
+--- PAGE 11 ---FIGS. 4, 5 and 6 are schematic illustrations of the ciliary
+--- PAGE 11 ---hair bundle showing the hair cell directional polarization,
+--- PAGE 11 ---ciliary transduction mechanism, and the deflection of the
+--- PAGE 11 ---ciliary hair bundle toward and away from the kinociltum and
+--- PAGE 11 ---the resultant change in conductivity.
+--- PAGE 11 ---
+--- PAGE 11 ---FIG. 7 is a schematic illustration of the electromagnetic
+--- PAGE 11 ---wave.
+--- PAGE 11 ---
+--- PAGE 11 ---FIG. 8 is a graph illustrating an example of a signal modu-
+--- PAGE 11 ---lation scheme.
+--- PAGE 11 ---
+--- PAGE 11 ---FIG. 9 is a graph showing the magnetic field strength
+--- PAGE 11 ---required to create a 15 nm displacement of a ciliary hair
+--- PAGE 11 ---bundle.
+--- PAGE 11 ---
+--- PAGE 11 ---FIG. 10 is a block diagram illustrating a typical electro-
+--- PAGE 11 ---magnetic personnel interdiction control (EPIC) system.
+--- PAGE 11 ---
+--- PAGE 11 ---FIG. 11 is aschematic illustration showing a person aiming
+--- PAGE 11 ---the antenna of the electromagnetic personnel interdiction
+--- PAGE 11 ---control (EPIC) system at an attacker.
+--- PAGE 11 ---
+--- PAGE 11 ---DESCRIPTION OF THE PREFERRED
+--- PAGE 11 ---EMBODIMENTS
+--- PAGE 11 ---
+--- PAGE 11 ---Human perception depends on the classical five senses of
+--- PAGE 11 ---hearing, sight, smell, taste and touch. Along with these there
+--- PAGE 11 ---are at least four other senses: equilibrioception (balance),
+--- PAGE 11 ---proprioception (body awareness), thermoception (heat) and
+--- PAGE 11 ---nociception (pain).
+--- PAGE 11 ---
+--- PAGE 11 ---Vestibluar System
+--- PAGE 11 ---
+--- PAGE 11 ---As commonly known to those skilled in the art, and as used
+--- PAGE 11 ---herein, the term “vestibular” means: of, relating to, or affect-
+--- PAGE 11 ---ing the perception of body position and movement and
+--- PAGE 11 ---includes the sense of balance and perception stemming from
+--- PAGE 11 ---communication between the inner ear, the eyes, and the cen-
+--- PAGE 11 ---tral nervous system.
+--- PAGE 11 ---
+--- PAGE 11 ---10
+--- PAGE 11 ---
+--- PAGE 11 ---15
+--- PAGE 11 ---
+--- PAGE 11 ---20
+--- PAGE 11 ---
+--- PAGE 11 ---25
+--- PAGE 11 ---
+--- PAGE 11 ---30
+--- PAGE 11 ---
+--- PAGE 11 ---35
+--- PAGE 11 ---
+--- PAGE 11 ---40
+--- PAGE 11 ---
+--- PAGE 11 ---45
+--- PAGE 11 ---
+--- PAGE 11 ---50
+--- PAGE 11 ---
+--- PAGE 11 ---55
+--- PAGE 11 ---
+--- PAGE 11 ---60
+--- PAGE 11 ---
+--- PAGE 11 ---65
+--- PAGE 11 ---
+--- PAGE 11 ---6
+--- PAGE 11 ---
+--- PAGE 11 ---Referring to FIGS. 1 and 2, the auditory system is the
+--- PAGE 11 ---sensory system for the sense of hearing. On its path from the
+--- PAGE 11 ---outside world to the forebrain, sound information 1s preserved
+--- PAGE 11 ---and modified in many ways. It changes media twice, first from
+--- PAGE 11 ---air to fluid, then from fluid to “action potentials”. Together
+--- PAGE 11 ---with the cochlea and numerous liquid containing vesicles, the
+--- PAGE 11 ---vestibular labyrinth forms the membranous labyrinth of the
+--- PAGE 11 ---inner ear. It contains five separate specialized sensory recep-
+--- PAGE 11 ---tors: three semicircular canals, and two otolith organs that
+--- PAGE 11 ---complement each other in function. The semicircular canals
+--- PAGE 11 ---(horizontal, anterior, and posterior) transduce rotational head
+--- PAGE 11 ---movements (angular accelerations). The otolith organs
+--- PAGE 11 ---(utricle and saccule) respond to translational head move-
+--- PAGE 11 ---ments (linear accelerations) or to the orientation of the head
+--- PAGE 11 ---relative to gravity. Each semicircular canal and otolith organ
+--- PAGE 11 ---is spatially aligned to be most sensitive to movements in
+--- PAGE 11 ---specific planes in three-dimensional space.
+--- PAGE 11 ---
+--- PAGE 11 ---The vestibular system sends signals primarily to the neural
+--- PAGE 11 ---structures that control our eye movements, and to the muscles
+--- PAGE 11 ---that keep us upright. The projections to the former provide the
+--- PAGE 11 ---anatomical basis of the vestibulo-ocular reflex, which is
+--- PAGE 11 ---required for clear vision; and the projections to the muscles
+--- PAGE 11 ---that control our posture are necessary to keep us upright.
+--- PAGE 11 ---
+--- PAGE 11 ---As shown schematically in FIGS. 3, 4, 5 and 6, “hair cells”
+--- PAGE 11 ---are the sensory receptor cells of the auditory system 1n all
+--- PAGE 11 ---vertebrates. In mammals, the hair cells are located within the
+--- PAGE 11 ---cochlea’s organ of Corti (FIG. 3). They derive their name
+--- PAGE 11 ---from the tufts of stereocilia that protrude from the apical
+--- PAGE 11 ---surface of the cell, a structure known as the hair bundle. Each
+--- PAGE 11 ---hair cell contains 60 to 100 hexagonally arranged stereocilia
+--- PAGE 11 ---and a single longer kinociltum (FIG. 4). Mammalian hair
+--- PAGE 11 ---cells come in two anatomically and functionally distinct
+--- PAGE 11 ---types: the outer and inner hair cells (FIG. 3). Damage to these
+--- PAGE 11 ---hair cells results in decreased hearing sensitivity, 1.e. senso-
+--- PAGE 11 ---rineural hearing loss. Research of the past decades has shown
+--- PAGE 11 ---that outer hair cells are motile and mechanically amplify
+--- PAGE 11 ---low-level sound that enters the cochlea. The inner hair cells
+--- PAGE 11 ---transform the sound vibrations in the fluids of the cochlea into
+--- PAGE 11 ---electrical signals that are then relayed via the auditory nerve
+--- PAGE 11 ---to the auditory brainstem and to the auditory cortex.
+--- PAGE 11 ---
+--- PAGE 11 ---In the utricle and saccule hair cells, the otolithic membrane
+--- PAGE 11 ---covers the stereocilia and its displacement excites the hair
+--- PAGE 11 ---cells in unison. In the semicircular canals, the stereocilia are
+--- PAGE 11 ---embedded in the gelatinous cupula that helps translate the
+--- PAGE 11 ---motion of the endolymph that fills the canals into the unified
+--- PAGE 11 ---motion of the hair cells residing in the cupula. In normal
+--- PAGE 11 ---circumstances, the motion of the membranes will lag the head
+--- PAGE 11 ---movements, creating a shearing distortion upon the underly-
+--- PAGE 11 ---ing gel with cilia embedded in it.
+--- PAGE 11 ---
+--- PAGE 11 ---As described above, the stereocilia are coupled to nerves.
+--- PAGE 11 ---Excitation of these hairs activates nerve impulses that the
+--- PAGE 11 ---brain interprets as sound or position relative to gravity. The
+--- PAGE 11 ---nerves that connect the hairs and produce electrical impulses
+--- PAGE 11 ---to the brain operate on the exchange of ionized calctum (Ca)
+--- PAGE 11 ---and potassium (K) through semi-permeable cell membranes.
+--- PAGE 11 ---Random and/or simultaneous excitation of all the hair/nerve
+--- PAGE 11 ---combinations and the upset of the normal ionic chemistry
+--- PAGE 11 ---produce sensations of intense wideband sound and complete
+--- PAGE 11 ---disorientation which the brain has little or no hope of decod-
+--- PAGE 11 ---ing.
+--- PAGE 11 ---
+--- PAGE 11 ---The hair cell transduction mechanism is depicted sche-
+--- PAGE 11 ---matically in FIGS. 5 and 6. The deflection of the ciliary (hair)
+--- PAGE 11 ---bundle towards or away from the kinocilium causes change in
+--- PAGE 11 ---conductivity of the cilia. Variation of ciliary current in turn
+--- PAGE 11 ---causes change in the membrane potential of the hair cell,
+--- PAGE 11 ---which leads to variation in the firing rate of the neuron,
+--- PAGE 12 ---US 7,841,989 B2
+--- PAGE 12 ---
+--- PAGE 12 ---7
+--- PAGE 12 ---
+--- PAGE 12 ---associated with this hair cell. The axis along which the motion
+--- PAGE 12 ---has the most effect is a polarization line.
+--- PAGE 12 ---
+--- PAGE 12 ---To disrupt the vestibular function, the present electromag-
+--- PAGE 12 ---netic wave (described in greater detail hereinafter) impinges
+--- PAGE 12 ---on the vestibular organs. Interaction of the alternating mag-
+--- PAGE 12 ---netic field with the current in hair bundles perpendicular to
+--- PAGE 12 ---wave propagation will create an alternating sideways force on
+--- PAGE 12 ---the cilia containing the current, and therefore on the entire
+--- PAGE 12 ---ciliary bundle. Swaying of the bundle will produce periodic
+--- PAGE 12 ---hyperpolarization-depolarization pattern at the cellular mem-
+--- PAGE 12 ---brane leading to the increased decreased-increased firing rate
+--- PAGE 12 ---of the cells.
+--- PAGE 12 ---
+--- PAGE 12 ---The generic action and the representation of the electro-
+--- PAGE 12 ---magnetic wave (EMW) are illustrated schematically in FIGS.
+--- PAGE 12 ---6 and 7. The EMW has the electric field (heavier dark sinu-
+--- PAGE 12 ---soid) and the magnetic field (lighter sinusoid) alternating in
+--- PAGE 12 ---phase in mutually perpendicular directions that are also per-
+--- PAGE 12 ---pendicular to the direction of the wave propagation. To begin,
+--- PAGE 12 ---let us assume for an instant that magnetic field B is constant,
+--- PAGE 12 ---and directed away from the reader, into the page. Positive
+--- PAGE 12 ---potassium K* and calcium Ca** ions flow down from outer
+--- PAGE 12 ---end of the cilia towards cell body, and ciliary current J 1s also
+--- PAGE 12 ---directed downwards according to the convention that current
+--- PAGE 12 ---is directed along the motion of the positive charges. With the
+--- PAGE 12 ---current directed down, and the magnetic field B directed into
+--- PAGE 12 ---the page, the Lorentz force on the cilium F points to the right.
+--- PAGE 12 ---Now, if the field changes the direction, the force will change
+--- PAGE 12 ---the sign, too, pushing the cilium to the left. This will happen
+--- PAGE 12 ---if the wave approaches the ciliary bundle from the right. The
+--- PAGE 12 ---electric field now alternates in the vertical direction, whereas
+--- PAGE 12 ---magnetic component sinusoidally oscillates 1n the direction
+--- PAGE 12 ---perpendicular to the page, exerting horizontal (sideways)
+--- PAGE 12 ---Lorentz force on the bundle.
+--- PAGE 12 ---
+--- PAGE 12 ---Depending on the polarization and direction of the electro-
+--- PAGE 12 ---magnetic wave (EMW), different vestibular organs will be
+--- PAGE 12 ---affected. The three cupulae, stretched across the ampullated
+--- PAGE 12 ---end of each of the semicircular canals that act as transducers
+--- PAGE 12 ---of angular accelerations, will be affected in their entirely. The
+--- PAGE 12 ---sensory membranes in the saccule and utricle that transduce
+--- PAGE 12 ---linear accelerations and static displacements have complex
+--- PAGE 12 ---topology with several distinct excitation regions that are
+--- PAGE 12 ---thought to be instrumental in distinguishing acceleration
+--- PAGE 12 ---from head tilt by distinguishing the excitation patterns. What-
+--- PAGE 12 ---ever is the excitation area, the stimulation will produce coher-
+--- PAGE 12 ---ent input from the affected region, similar to what happens in
+--- PAGE 12 ---normal circumstances. The effect of partial stimulation of
+--- PAGE 12 ---either vestibular organ would be twofold: (1) as a result from
+--- PAGE 12 ---the mismatch between the visual and vestibular sensory clues
+--- PAGE 12 ---presented to the brain (vestibular system reports extraneous
+--- PAGE 12 ---acceleration or motion that the eyes do not perceive); and (2)
+--- PAGE 12 ---as a result of the unusual nature of the stimulus experienced
+--- PAGE 12 ---by the vestibular system. The first action mechanism plays an
+--- PAGE 12 ---up tight interconnection between visual and vestibular func-
+--- PAGE 12 ---tions. Vestibular system inputs are used to steady the gaze
+--- PAGE 12 ---during walking—a problem in early camcorders that lacked
+--- PAGE 12 ---image stabilization filtration, when jumpy movies caused
+--- PAGE 12 ---nausea in the viewers. This relation is amply demonstrated by
+--- PAGE 12 ---the nausea associated with motion sickness when the brain
+--- PAGE 12 ---cannot cope with mismatch between the visual clues of rest
+--- PAGE 12 ---(no motion) and the vestibular clues of acceleration as happen
+--- PAGE 12 ---on a ship or an airplane.
+--- PAGE 12 ---
+--- PAGE 12 ---The second action mechanism borrows from the clinical
+--- PAGE 12 ---observation of patients with Benign (Paroxysmal) Positional
+--- PAGE 12 ---Vertigo (BPPV or BPV). Vertigo and syncope are the most
+--- PAGE 12 ---common symptoms of BPPV, which are brought on by the
+--- PAGE 12 ---contamination of the endolymph (liguid that fills semicircular
+--- PAGE 12 ---canals responsible for detection of the angular accelerations)
+--- PAGE 12 ---
+--- PAGE 12 ---10
+--- PAGE 12 ---
+--- PAGE 12 ---15
+--- PAGE 12 ---
+--- PAGE 12 ---20
+--- PAGE 12 ---
+--- PAGE 12 ---25
+--- PAGE 12 ---
+--- PAGE 12 ---30
+--- PAGE 12 ---
+--- PAGE 12 ---35
+--- PAGE 12 ---
+--- PAGE 12 ---40
+--- PAGE 12 ---
+--- PAGE 12 ---45
+--- PAGE 12 ---
+--- PAGE 12 ---50
+--- PAGE 12 ---
+--- PAGE 12 ---55
+--- PAGE 12 ---
+--- PAGE 12 ---60
+--- PAGE 12 ---
+--- PAGE 12 ---65
+--- PAGE 12 ---
+--- PAGE 12 ---8
+--- PAGE 12 ---
+--- PAGE 12 ---with otoconia crystals that have separated from otolith. Pres-
+--- PAGE 12 ---ence of the otoconia in the affected semicircular canal makes
+--- PAGE 12 ---it gravity-sensitive, which results in the inappropriate input
+--- PAGE 12 ---from the aforesaid semicircular canals. It 1s believed that it 1s
+--- PAGE 12 ---the novelty of the stimulus that causes debilitating loss of
+--- PAGE 12 ---balance that lasts from 30 to 60 seconds. Relaxation time is
+--- PAGE 12 ---most probably a result of the viscous deceleration of the
+--- PAGE 12 ---otoconia by surrounding endolymph liquid, rather than an
+--- PAGE 12 ---indication of brain’s capability for adaptation. Therefore, the
+--- PAGE 12 ---system mimicking symptoms associated with BPPV would
+--- PAGE 12 ---be a very satisfactory means of temporary incapacitation.
+--- PAGE 12 ---
+--- PAGE 12 ---The present electromagnetic personnel interdiction control
+--- PAGE 12 ---(EPIC) system and method seeks affect changes at the cellular
+--- PAGE 12 ---level by applying a Lorentz force to the bundles with the aim
+--- PAGE 12 ---to overdrive the hair bundle oscillating under a normal stimu-
+--- PAGE 12 ---lus or to excite an oscillation of the hair bundle producing in
+--- PAGE 12 ---both cases an extraneous, unanticipated signal that is not
+--- PAGE 12 ---matched by any other senses. The external motion of the hair
+--- PAGE 12 ---bundles causes a hair cell to generate corresponding ciliary
+--- PAGE 12 ---current that results in the change of membrane potential. In
+--- PAGE 12 ---their animal studies of the cilia motion under transepithelial
+--- PAGE 12 ---(through the membrane) electrical stimulation, Hudspeth et
+--- PAGE 12 ---al. found that at the frequencies above the hair bundle’s natu-
+--- PAGE 12 ---ral frequency (35 and 8 Hz for two saccular hair cell bundles
+--- PAGE 12 ---of the bullfrog studied), the bundles’ oscillations were a
+--- PAGE 12 ---superposition of the driving and natural frequencies. Bozovic
+--- PAGE 12 ---D, Hudspeth, A. J., “Hair-bundle movements elicited by tran-
+--- PAGE 12 ---
+--- PAGE 12 ---sepithelial electrical stimulation of hair cells in the sacculus
+--- PAGE 12 ---of the bullfrog’, Proc Natl Acad Sci USA. 2003 Feb. 4;
+--- PAGE 12 ---
+--- PAGE 12 ---100(3):958-63.
+--- PAGE 12 ---
+--- PAGE 12 ---These findings show the reciprocal nature of the mechano-
+--- PAGE 12 ---chemical properties of the hair cells: the stimulation of the
+--- PAGE 12 ---bundle causes changes on the membrane and vice versa. In the
+--- PAGE 12 ---present system, we reciprocate these findings to conclude that
+--- PAGE 12 ---if the ciliary bundle is driven at some frequency, there will be
+--- PAGE 12 ---a response at the membrane, creating the desired neuronal
+--- PAGE 12 ---activity that will be presented to the vestibular center in the
+--- PAGE 12 ---brain.
+--- PAGE 12 ---
+--- PAGE 12 ---Current knowledge of BPPV supports long-term effective-
+--- PAGE 12 ---ness of the system. The fact that patients suffering from BPPV
+--- PAGE 12 ---are usually instructed to relieve the symptoms by a series of
+--- PAGE 12 ---controlled movements and absence of reports about the famil-
+--- PAGE 12 ---larization with the stimulus corroborate the argument that
+--- PAGE 12 ---brain cannot learn and adapt to the stimulus within the time-
+--- PAGE 12 ---frame of weapon usage and frequency of exposure. Moreover,
+--- PAGE 12 ---from the chronic nature of the affliction, we deduce the poten-
+--- PAGE 12 ---tial to use the system repeatedly without losing its effective-
+--- PAGE 12 ---ness.
+--- PAGE 12 ---
+--- PAGE 12 ---The present system can also be modified to act at a more
+--- PAGE 12 ---complex level. The vestibular system does not have the
+--- PAGE 12 ---dynamic feedback of the cochlea, which lends so much com-
+--- PAGE 12 ---plexity to the latter. There is no active processing and no
+--- PAGE 12 ---continuous adaptation that makes our hearing so versatile. On
+--- PAGE 12 ---the contrary, for secure functioning of the balance system, the
+--- PAGE 12 ---vestibular inputs must always be the same, predictable and
+--- PAGE 12 ---repeatable. The only “vestibular adaptation” is observed
+--- PAGE 12 ---under continuous or frequent exposure to a stimulus.
+--- PAGE 12 ---Researchers have described it as a “semi-premanent change
+--- PAGE 12 ---of perception or perceptual-motor coordination that serves to
+--- PAGE 12 ---reduce or eliminate a registered discrepancy between or
+--- PAGE 12 ---within sensory modalities or the errors in behavior induced by
+--- PAGE 12 ---this discrepancy”. Return to original environment causes a
+--- PAGE 12 ---renewed error, or aftereffect. Thus, repeated exposures to
+--- PAGE 12 ---altered environment generally result in faster “adaptation”.
+--- PAGE 12 ---However, the learning applies only to that particular kind of
+--- PAGE 13 ---US 7,841,989 B2
+--- PAGE 13 ---
+--- PAGE 13 ---9
+--- PAGE 13 ---
+--- PAGE 13 ---stimulus. Therefore, the present system can act either by
+--- PAGE 13 ---creating unusual sensations or by using more typical excita-
+--- PAGE 13 ---tion in an on-off scheme.
+--- PAGE 13 ---
+--- PAGE 13 ---The responses from all the hair cells in acupula or a macula
+--- PAGE 13 ---are coherent, and the brain has learned to recognize excitation
+--- PAGE 13 ---patterns for various parts of the membrane, thus, varying the
+--- PAGE 13 ---excitation patterns by only few hair cells may sufficient by
+--- PAGE 13 ---itself to create a “panic” reaction in the brain, incapacitating
+--- PAGE 13 ---the normal function.
+--- PAGE 13 ---
+--- PAGE 13 ---The hair cell design 1s an amazing sensing mechanism with
+--- PAGE 13 ---incredible dynamic range and equally incredible resolution
+--- PAGE 13 ---throughout most of the dynamic range. The fundamental
+--- PAGE 13 ---design of a hair cell has proven to be evolutionary stable. The
+--- PAGE 13 ---hair cells of frogs, turtles and mammals are all very similar.
+--- PAGE 13 ---Most easily observable differences between the hair cells of
+--- PAGE 13 ---different species are the geometric factors (size, overall
+--- PAGE 13 ---bundle height, step height, number of cilia, and packing of
+--- PAGE 13 ---cilia) of the bundle. There are also differences in the adapta-
+--- PAGE 13 ---tion process timescales as well as the magnitude of the adap-
+--- PAGE 13 ---tation observed 1n various species. This divergence 1s a result
+--- PAGE 13 ---of evolutionary adjustment to the stimuli experienced by a
+--- PAGE 13 ---given species.
+--- PAGE 13 ---
+--- PAGE 13 ---Radio Frequency (RF) signal
+--- PAGE 13 ---
+--- PAGE 13 ---FIG. 8 is a graph illustrating an example of a signal modu-
+--- PAGE 13 ---lation scheme that was tested which fully utilizes the
+--- PAGE 13 ---mechanical properties of the ciliary bundle. For the baseline
+--- PAGE 13 ---power level estimate, we chose the average parameters for the
+--- PAGE 13 ---hair cells measured and reported in published studies of vari-
+--- PAGE 13 ---ous animal species. It is assumed that parameters of the
+--- PAGE 13 ---mouse and human vestibular hair cells will not vary so much
+--- PAGE 13 ---as to affect the power estimates by more than one order of
+--- PAGE 13 ---magnitude. A higher radio frequency carrier is non-symmetri-
+--- PAGE 13 ---cally modulated by a slower driving frequency for the hair
+--- PAGE 13 ---bundles. This modulation scheme provides necessary perme-
+--- PAGE 13 ---ability through most obstacles while maintaining good signal
+--- PAGE 13 ---range. Displacement step and force step measurements show
+--- PAGE 13 ---that the hair bundle acts as a low-pass filter integrating over
+--- PAGE 13 ---high frequencies present in the input. Therefore, the hair
+--- PAGE 13 ---bundle will act as an integrator for the higher frequency
+--- PAGE 13 ---carrier, while fully responding to the modulation signal. Test-
+--- PAGE 13 ---ing has shown that a carrier frequency in the 900 MHz Indus-
+--- PAGE 13 ---trial, Scientific and Medical (ISM) band as defined by Federal
+--- PAGE 13 ---Communications Commission, which is safely used by cel-
+--- PAGE 13 ---lular phone operators, can reduce expected (non-existent)
+--- PAGE 13 ---health concerns, and a driving frequency selected to be above
+--- PAGE 13 ---most of the known natural frequencies of individual hair
+--- PAGE 13 ---bundles (few to tens of Hz), and below the frequency of the
+--- PAGE 13 ---utricular or saccular sensory system as a whole (few hundreds
+--- PAGE 13 ---Hz), would avoid damage to the hair bundles by avoiding
+--- PAGE 13 ---resonance where the bundle may be driven into too great an
+--- PAGE 13 ---oscillation, and thereby maintain the non-lethal nature of the
+--- PAGE 13 ---present system. Every other half-wave portion may be
+--- PAGE 13 ---inverted to maximize the force on, and thus the displacement
+--- PAGE 13 ---of, the hair bundle. This also lessens the signal power needed
+--- PAGE 13 ---to achieve the same effect on the bundle.
+--- PAGE 13 ---
+--- PAGE 13 ---Bundle Modeling and RF Power Level Current research indi-
+--- PAGE 13 ---cates that the mechanical properties of the ciliary bundles
+--- PAGE 13 ---yield similar order of magnitude figures for the dynamic
+--- PAGE 13 ---properties of the hair bundles of outer hair cells of various
+--- PAGE 13 ---species. The major source of differences can be ascribed to
+--- PAGE 13 ---the evolutionary differences (1.e. frequency selectivity) in the
+--- PAGE 13 ---hair cell morphology between the species. Moreover, most of
+--- PAGE 13 ---the current research concentrates on the outer hair cells of the
+--- PAGE 13 ---cochlea, as spontaneous activity of the latter is thought to give
+--- PAGE 13 ---rise to spontaneous acoustic emissions from human ears. Two
+--- PAGE 13 ---types of adaptation that alter dynamic properties of the hair
+--- PAGE 13 ---
+--- PAGE 13 ---5
+--- PAGE 13 ---
+--- PAGE 13 ---10
+--- PAGE 13 ---
+--- PAGE 13 ---15
+--- PAGE 13 ---
+--- PAGE 13 ---20
+--- PAGE 13 ---
+--- PAGE 13 ---35
+--- PAGE 13 ---
+--- PAGE 13 ---40
+--- PAGE 13 ---
+--- PAGE 13 ---45
+--- PAGE 13 ---
+--- PAGE 13 ---50
+--- PAGE 13 ---
+--- PAGE 13 ---55
+--- PAGE 13 ---
+--- PAGE 13 ---60
+--- PAGE 13 ---
+--- PAGE 13 ---65
+--- PAGE 13 ---
+--- PAGE 13 ---10
+--- PAGE 13 ---
+--- PAGE 13 ---bundles upon the stimulus have been observed; Fast and Slow.
+--- PAGE 13 ---Slow adaptation happens within the time scales for neuronal
+--- PAGE 13 ---processes, whereas fast adaptation occurs before the cellular
+--- PAGE 13 ---membrane has changed polarization. Fast adaptation is
+--- PAGE 13 ---believed to be meditated by the molecular motors involved in
+--- PAGE 13 ---the mechano-transduction process. Most interestingly, it not
+--- PAGE 13 ---only causes undesirable decrease in transduction current (at
+--- PAGE 13 ---constant deflection), it also causes decrease in dynamic stiff-
+--- PAGE 13 ---ness of the ciliary bundles. Although a decrease 1n the trans-
+--- PAGE 13 ---duction current, occurring in the millisecond time scales (well
+--- PAGE 13 ---below the intended stimulus) may hinder the influence of the
+--- PAGE 13 ---present system; a decrease in dynamic stiffness after initial
+--- PAGE 13 ---stimulation may contribute to the efficacy of present system.
+--- PAGE 13 ---
+--- PAGE 13 ---The following equations are a simplified model of the hair
+--- PAGE 13 ---bundle that has been used for the estimates of the frequency
+--- PAGE 13 ---and the field strength of the electromagnetic wave (EMW)
+--- PAGE 13 ---required to achieve certain displacement of the hair bundle. In
+--- PAGE 13 ---this model, the hair bundle is treated as one point mass at the
+--- PAGE 13 ---center of mass of the bundle, and idealization of the bundle
+--- PAGE 13 ---was manifest in the equal spacing between the bundles, equal
+--- PAGE 13 ---density distribution among the cilia and along the length of
+--- PAGE 13 ---each individual cilium. This model also assumes equal rela-
+--- PAGE 13 ---tive transducer efficiency at each cilium, and equal Lorentz
+--- PAGE 13 ---force density among the cilia.
+--- PAGE 13 ---
+--- PAGE 13 ---The damped oscillator, driven by a periodic force is
+--- PAGE 13 ---described by equation of motion:
+--- PAGE 13 ---
+--- PAGE 13 ---F
+--- PAGE 13 ---X+2nk + (Wax = 77 oxpliyt).
+--- PAGE 13 ---
+--- PAGE 13 ---where M is bundle mass, k-spring constant,
+--- PAGE 13 ---
+--- PAGE 13 ---C k
+--- PAGE 13 ---— - damping factor; we =a natural frequency,
+--- PAGE 13 ---
+--- PAGE 13 ---1= 9M
+--- PAGE 13 ---
+--- PAGE 13 ---¢ is viscous damping factor and F, is the amplitude of
+--- PAGE 13 ---driving force. The dots above the variable denote order of a
+--- PAGE 13 ---time derivative, so that Xis a second derivative of displace-
+--- PAGE 13 ---ment, 1.e. acceleration. Similarly, xis the velocity of the oscil-
+--- PAGE 13 ---lator. After the transient natural damped responses have
+--- PAGE 13 ---decayed, the driven system will oscillate at the driving fre-
+--- PAGE 13 ---quency with the amplitude proportional to the natural fre-
+--- PAGE 13 ---quency of the oscillator, the driving frequency, and the damp-
+--- PAGE 13 ---ing constant:
+--- PAGE 13 ---
+--- PAGE 13 ---Fo
+--- PAGE 13 ---
+--- PAGE 13 ---My (w2 — 2)? — 492
+--- PAGE 13 ---
+--- PAGE 13 ---Xmax ~~
+--- PAGE 13 ---
+--- PAGE 13 ---The Lorentz force acting on a ciltum is
+--- PAGE 13 ---
+--- PAGE 13 ---F=q(E+VxB) The magnetic component of an electro-
+--- PAGE 13 ---
+--- PAGE 13 ---magnetic wave propagating in z-direction can be
+--- PAGE 13 ---described as following:
+--- PAGE 13 ---
+--- PAGE 13 ---B,{z,t)=Bo exp(-{(z-v,t)/T}* +i(koz-Wof+ 8)
+--- PAGE 13 ---
+--- PAGE 13 ---The wave length of the EM W 1s so large with respect to the
+--- PAGE 13 ---actual bundle size, that the field can be treated as same for
+--- PAGE 13 ---entire bundle:
+--- PAGE 13 ---
+--- PAGE 13 ---BO) fixea~ Bo COS(Mof +8’).
+--- PAGE 14 ---US 7,841,989 B2
+--- PAGE 14 ---
+--- PAGE 14 ---11
+--- PAGE 14 ---
+--- PAGE 14 ---The charge flowing through a small segment of a cilium 1s:
+--- PAGE 14 ---
+--- PAGE 14 ---I
+--- PAGE 14 ---dQ = -ol.
+--- PAGE 14 ---Vv
+--- PAGE 14 ---
+--- PAGE 14 ---Then the force on that fragment 1s
+--- PAGE 14 ---
+--- PAGE 14 ---8 F =SOvB(vxB)=I81B (Vx).
+--- PAGE 14 ---
+--- PAGE 14 ---Therefore, the force on the entire cilium
+--- PAGE 14 ---
+--- PAGE 14 ---F <IIB(0xB)=IBo(z) cos (0ot+0')(VxB)
+--- PAGE 14 ---
+--- PAGE 14 ---Generalizing the result to an entire bundle, we obtain mag-
+--- PAGE 14 ---nitude of Lorentz force acting on the bundle:
+--- PAGE 14 ---
+--- PAGE 14 ---|F|=IBL,
+--- PAGE 14 ---
+--- PAGE 14 ---where | is total ciliary current, L is total length of the cilia in
+--- PAGE 14 ---the bundle, B is the magnetic field strength. Substituting the
+--- PAGE 14 ---force magnitude into the expression of the displacement, and
+--- PAGE 14 ---resolving it with respect to the magnetic field amplitude, we
+--- PAGE 14 ---arrive at the field strength needed to create an oscillation of
+--- PAGE 14 ---amplitude x,,...:
+--- PAGE 14 ---
+--- PAGE 14 ---XmaxM V (w — y2)° — 427?
+--- PAGE 14 ---7 IL
+--- PAGE 14 ---
+--- PAGE 14 ---B
+--- PAGE 14 ---
+--- PAGE 14 ---FIG. 9 is a graph showing the magnetic field strength
+--- PAGE 14 ---required to create a 15 nm displacement of a ciliary hair
+--- PAGE 14 ---bundle. Field is plotted as a function of driving frequency at
+--- PAGE 14 ---various values of resting ciliary current. The calculation for
+--- PAGE 14 ---signal strengths was carried out using the mechanical and
+--- PAGE 14 ---electrical characteristics of turtle cochlear hair cells. Most
+--- PAGE 14 ---researchers agree that the mechanoelectrical properties of the
+--- PAGE 14 ---vestibular cells are close in different species subject to similar
+--- PAGE 14 ---vestibular inputs. Therefore, it is realistic to expect not more
+--- PAGE 14 ---than one order of magnitude variation between mammals
+--- PAGE 14 ---(humans, mice) and amphibians (frog and turtles). A resonant
+--- PAGE 14 ---frequency 30 Hz was selected for power estimate calcula-
+--- PAGE 14 ---tions. The desired displacement was selected to be about 15
+--- PAGE 14 ---nm in order to affect a3 mV hyper/de-polarization on the cell
+--- PAGE 14 ---membrane, which 1s 60% of total hyper/de-polarization of +5
+--- PAGE 14 ---mV with respect to -65 mV of normal polarization at the
+--- PAGE 14 ---outer hair cell membrane. Resting transduction current was
+--- PAGE 14 ---extrapolated through the conductivity measurements. With
+--- PAGE 14 ---resulting numbers differing widely, and taking into account
+--- PAGE 14 ---that the hair cells to be affected may already have some
+--- PAGE 14 ---significant deflection, power levels were calculated for sev-
+--- PAGE 14 ---eral possible values of resting ciliary current. It should be
+--- PAGE 14 ---emphasize that this is a very conservative estimate, wherein
+--- PAGE 14 ---worst-case values were used when no exact values were avail-
+--- PAGE 14 ---able. The results are presented in Table 1 below. The power
+--- PAGE 14 ---density values of the driving frequency chosen for initial
+--- PAGE 14 ---testing are set in boldface.
+--- PAGE 14 ---
+--- PAGE 14 ---TABLE 1
+--- PAGE 14 ---
+--- PAGE 14 ---Power of the wave at several frequencies required
+--- PAGE 14 ---to sway idealized bundle by 15 nm.
+--- PAGE 14 ---Power density, W/m?
+--- PAGE 14 ---
+--- PAGE 14 ---Current, A/
+--- PAGE 14 ---Frequency, Hz  1.70E-04 1.70E-05 1.70E-06 6.00 E-07
+--- PAGE 14 ---15 6.04E-07 6.04E-05 6.04E-03 4.85E-02
+--- PAGE 14 ---51 3.83E-06 3.83E-04 3.83E-02 3.08E-O01
+--- PAGE 14 ---
+--- PAGE 14 ---5
+--- PAGE 14 ---
+--- PAGE 14 ---10
+--- PAGE 14 ---
+--- PAGE 14 ---15
+--- PAGE 14 ---
+--- PAGE 14 ---20
+--- PAGE 14 ---
+--- PAGE 14 ---25
+--- PAGE 14 ---
+--- PAGE 14 ---30
+--- PAGE 14 ---
+--- PAGE 14 ---35
+--- PAGE 14 ---
+--- PAGE 14 ---40
+--- PAGE 14 ---
+--- PAGE 14 ---45
+--- PAGE 14 ---
+--- PAGE 14 ---50
+--- PAGE 14 ---
+--- PAGE 14 ---55
+--- PAGE 14 ---
+--- PAGE 14 ---60
+--- PAGE 14 ---
+--- PAGE 14 ---65
+--- PAGE 14 ---
+--- PAGE 14 ---12
+--- PAGE 14 ---
+--- PAGE 14 ---TABLE 1-continued
+--- PAGE 14 ---
+--- PAGE 14 ---Power of the wave at several frequencies required
+--- PAGE 14 ---
+--- PAGE 14 ---to sway idealized bundle by 15 nm.
+--- PAGE 14 ---
+--- PAGE 14 ---Power density, W/m?
+--- PAGE 14 ---
+--- PAGE 14 ---Current, A/
+--- PAGE 14 ---Frequency, Hz 1.70E-04 1.70E-05 1.70E-06 6.00 E-07
+--- PAGE 14 ---101 1.15E-04 1.15E-02 1.15E+00 9,20E+00
+--- PAGE 14 ---200 2.03 E-03 2.03E-01 2.03E+01 1.63E+02
+--- PAGE 14 ---300 1.05EK-02 1.05E+00 1.05E+02 8.44E+02
+--- PAGE 14 ---400 3.35E-02 3.35E+00 3.35E+02 2.69E+03
+--- PAGE 14 ---500 8.22 E-02 8.22E+00 8.22E+02 6.60E+03
+--- PAGE 14 ---
+--- PAGE 14 ---FIG. 10 is a block diagram illustrating a typical electro-
+--- PAGE 14 ---magnetic personnel interdiction control (EPIC) system. The
+--- PAGE 14 ---frequency and the field strength of the electromagnetic wave
+--- PAGE 14 ---(EMW) and RF signal required to achieve a desired displace-
+--- PAGE 14 ---ment or stimulation of the hair bundle or cell is calculated in
+--- PAGE 14 ---accordance with the equations set forth above, along with the
+--- PAGE 14 ---parameters of carrier frequency, modulation frequency, shape
+--- PAGE 14 ---of the modulation waveform, and transmit power. Once the
+--- PAGE 14 ---desired waveforms have been identified, a commercially
+--- PAGE 14 ---available vector signal generator with one or more amplifiers
+--- PAGE 14 ---is used to provide the output power and one or more antennas
+--- PAGE 14 ---is used to direct the generated signal to the desired target.
+--- PAGE 14 ---
+--- PAGE 14 ---FIG. 11 is a schematic illustration showing on the left-hand
+--- PAGE 14 ---side a person aiming the antenna (parabolic dish) of the elec-
+--- PAGE 14 ---tromagnetic personnel interdiction control (EPIC) system at
+--- PAGE 14 ---an attacker on the right-hand side. In this example, fora 15 nm
+--- PAGE 14 ---displacement (4% of full dynamic range), 1.7uA ciliary cur-
+--- PAGE 14 ---rent was required to produce 105 W/m‘ at the bundle using a
+--- PAGE 14 ---carrier of 915 MHz, a driving frequency of 300 Hz, and 1.3
+--- PAGE 14 ---KW transmit power and an antenna with 20 dB gain, pro-
+--- PAGE 14 ---duced 5 nW on the attacker’s hair bundle at a distance of 10 m.
+--- PAGE 14 ---
+--- PAGE 14 ---Relatively long relaxation time of the BPPV symptoms and
+--- PAGE 14 ---measured learning times of “vestibular adaptation” indicate
+--- PAGE 14 ---that there may be no need to emit another RF pulse until the
+--- PAGE 14 ---effects of the initial impulse wear out. Thus, the present
+--- PAGE 14 ---system can be pulsed to promote portability and minimize
+--- PAGE 14 ---individual exposure, and thereby allow longer system opera-
+--- PAGE 14 ---
+--- PAGE 14 ---tion time and reduced device size.
+--- PAGE 14 ---
+--- PAGE 14 ---Cochlea and Retina Tissues
+--- PAGE 14 ---
+--- PAGE 14 ---In the examples above, the electromagnetic (EM) radiation
+--- PAGE 14 ---with unique modulation imposed a Loretz force on the ste-
+--- PAGE 14 ---reocilia in the vestibular system causing them to move and
+--- PAGE 14 ---impact the cell pulse propagation to the brain that the brain
+--- PAGE 14 ---could not decode. It should be understood that these same
+--- PAGE 14 ---forces may be placed on similar tissues in the cochlea and
+--- PAGE 14 ---retina tissues to cause disruption of the ion flow that regulates
+--- PAGE 14 ---the nerve pulse output to the brain in ways that the brain
+--- PAGE 14 ---cannot decode. The electromagnetic field and subsequent
+--- PAGE 14 ---surface charges on those tissues would change the impedance
+--- PAGE 14 ---of the conduction capabilities, disturb the ion flow, and sub-
+--- PAGE 14 ---sequently impact the pulse output of the cells to the brain. The
+--- PAGE 14 ---interruption of normal ion flow would cause pulse patterns to
+--- PAGE 14 ---the brain that it cannot decode.
+--- PAGE 14 ---
+--- PAGE 14 ---Visual perception 1s the ability to detect light and interpret
+--- PAGE 14 ---(see) it as the perception known as sight. Vision has a specific
+--- PAGE 14 ---sensory system, the visual system. The retina contains pho-
+--- PAGE 14 ---toreceptor cells (rods and cones) which receive the light; the
+--- PAGE 14 ---resulting neural signals then undergo complex processing by
+--- PAGE 14 ---other neurons of the retina, and are transformed into “action
+--- PAGE 14 ---potentials” in retinal ganglion cells whose axons form the
+--- PAGE 14 ---optic nerve. The retina not only detects light, it also plays a
+--- PAGE 14 ---significant part in visual perception.
+--- PAGE 15 ---US 7,841,989 B2
+--- PAGE 15 ---
+--- PAGE 15 ---13
+--- PAGE 15 ---
+--- PAGE 15 ---Rods and cones are both photosensitive, but respond dif-
+--- PAGE 15 ---ferently to different frequencies of light. They both contain
+--- PAGE 15 ---different pigmented photoreceptor proteins. Rod cells con-
+--- PAGE 15 ---tain the protein rhodopsin and cone cells contain different
+--- PAGE 15 ---proteins for each color-range. The process through which 5
+--- PAGE 15 ---these proteins go 1s quite similar—upon being subjected to
+--- PAGE 15 ---electromagnetic radiation of a particular wavelength and
+--- PAGE 15 ---intensity (ie. a color visible light) the protein breaks down into
+--- PAGE 15 ---two constituent products. Rhodopsin, of rods, breaks down
+--- PAGE 15 ---into opsin and retinal; 1odopsin of cones breaks down into 10
+--- PAGE 15 ---photopsin and retinal. The opsin in both opens ion channels
+--- PAGE 15 ---on the cell membrane which leads to the generation of an
+--- PAGE 15 ---action potential (an impulse which will eventually get to the
+--- PAGE 15 ---visual cortex in the brain). This is the reason why cones and
+--- PAGE 15 ---rods enable organisms to see in dark and light conditions— 15
+--- PAGE 15 ---each of the photoreceptor proteins requires a different light
+--- PAGE 15 ---intensity to break down into the constituent products. Further-
+--- PAGE 15 ---more, color 1s distinguishable when breaking down the 1odop-
+--- PAGE 15 ---sin of cone cells because there are three forms of this protein.
+--- PAGE 15 ---One form is broken down by the particular EM wavelength 20
+--- PAGE 15 ---that is red light, another green light, and lastly blue light. In
+--- PAGE 15 ---simple terms, this allows human beings to see red, green and
+--- PAGE 15 ---blue light. If all three forms of cones are stimulated equally,
+--- PAGE 15 ---then white is seen. If none are stimulated, black is seen.
+--- PAGE 15 ---
+--- PAGE 15 ---25
+--- PAGE 15 ---Static Charge on Cell Membrane
+--- PAGE 15 ---
+--- PAGE 15 ---The normal operation of the cells of the ear, vestibular
+--- PAGE 15 ---system, and the eye can also be disrupted by positively or
+--- PAGE 15 ---negatively charged pulsed EM (Electromagnetic) energy
+--- PAGE 15 ---imposed upon the cells to increase or decrease the magnitude 3,
+--- PAGE 15 ---of the static charge of the “electron rich” site that surrounds
+--- PAGE 15 ---the ion trapdoor or cation channel in the hair conductor or cell
+--- PAGE 15 ---membrane. This would adversely affect the cells’ attraction to
+--- PAGE 15 ---calcium (Ca) and/or potassium (K) ions and thereby impact
+--- PAGE 15 ---the rate of ion flow and the ultimate pulse rate of the cells. 35
+--- PAGE 15 ---Uncorrelated data would then be fed to the brain and the brain
+--- PAGE 15 ---would have no basis for decoding, thereby creating disorien-
+--- PAGE 15 ---tation.
+--- PAGE 15 ---
+--- PAGE 15 ---Altering the normal electromagnetic field and subsequent
+--- PAGE 15 ---surfaces charges on the tissues of the ear, vestibular system 40
+--- PAGE 15 ---and the eye can change the impedance of their conduction
+--- PAGE 15 ---capabilities, disturb the ion flow, and subsequently impact the
+--- PAGE 15 ---pulse output of the cells to the brain. This interruption of
+--- PAGE 15 ---normal ion flow would cause pulse patterns to the brain that it
+--- PAGE 15 ---cannot decode, thereby creating disorientation. 45
+--- PAGE 15 ---
+--- PAGE 15 ---Other cells, Muscular Function and Nerve Pathways
+--- PAGE 15 ---
+--- PAGE 15 ---The normal electrochemical balance of substantially all of
+--- PAGE 15 ---the cells of the human body relative to the rest of the body
+--- PAGE 15 ---fluids can be disrupted by altering the relative charge level to 50
+--- PAGE 15 ---cause the cells to activate the protein doors or channels in the
+--- PAGE 15 ---cell wall that allow unidirectional passage of negative charge
+--- PAGE 15 ---sodium (Na) ions and the opposite passage of positively
+--- PAGE 15 ---charged calctum (Ca) ions, thereby causing hyperactive
+--- PAGE 15 ---chemical exchanges that can negatively impact the system 55
+--- PAGE 15 ---and disrupt normal smooth and striated muscular functions.
+--- PAGE 15 ---
+--- PAGE 15 ---The application of pulses of voltage directly to nerve paths
+--- PAGE 15 ---can also feed uncorrelated sensory input data to the brain that
+--- PAGE 15 ---
+--- PAGE 15 ---would ultimately produce some level of disorientation.
+--- PAGE 15 ---60
+--- PAGE 15 ---
+--- PAGE 15 ---Other Applications
+--- PAGE 15 ---
+--- PAGE 15 ---Controlled stimulus of the vestibular system in humans
+--- PAGE 15 ---could also produce beneficial results. Although the current
+--- PAGE 15 ---effort is aimed at temporary disruption of vestibular functions
+--- PAGE 15 ---for purposes of controlled incapacitation, it may be possible 65
+--- PAGE 15 ---to create “selective” stimulation that can produce physiologi-
+--- PAGE 15 ---cal sensations that replicate emergency and other high-stress
+--- PAGE 15 ---
+--- PAGE 15 ---14
+--- PAGE 15 ---
+--- PAGE 15 ---situations. Such situations currently require training to iden-
+--- PAGE 15 ---tify, understand, and constructively react to threats of various
+--- PAGE 15 ---types.
+--- PAGE 15 ---
+--- PAGE 15 ---One specific example is pilot training for aircraft operation
+--- PAGE 15 ---under instrument conditions. Pilots are required to be able to
+--- PAGE 15 ---control and maneuver aircraft vehicles without reference to
+--- PAGE 15 ---the horizon. While in IMC (Instrument Meteorological Con-
+--- PAGE 15 ---ditions) the pilot’s vestibular system is a liability. This 1s
+--- PAGE 15 ---because the inherent stability of the aircraft creates a false
+--- PAGE 15 ---gravity to which the vestibular system reacts. This effect
+--- PAGE 15 ---causes the pilot (based on internal vestibular data sent to the
+--- PAGE 15 ---brain) to believe that the aircraft is flying straight and level
+--- PAGE 15 ---when; in fact, the aircraft could be in some unusual attitude.
+--- PAGE 15 ---For example, when a loop is flown correctly, at the time the
+--- PAGE 15 ---pilot is inverted at the top of the loop, his vestibular systems
+--- PAGE 15 ---is telling him that he is nght side up and flying straight and
+--- PAGE 15 ---level. Thus, considerable training is required to condition
+--- PAGE 15 ---pilots to ignore their vestibular sensory inputs and focus on
+--- PAGE 15 ---flight instruments to achieve spatial orientation.
+--- PAGE 15 ---
+--- PAGE 15 ---Instrument training 1s expensive and recurring training is
+--- PAGE 15 ---required to maintain skill levels that will assure the safety of
+--- PAGE 15 ---the aircraft and passengers. The airlines spend hundreds of
+--- PAGE 15 ---millions of dollars per year on initial and recurrent flight
+--- PAGE 15 ---training. The military has an added challenge. Combat pilots
+--- PAGE 15 ---are subjected to extreme G forces as aircraft maneuver to
+--- PAGE 15 ---obtain superior positioning over an opponent. These skills
+--- PAGE 15 ---and the mental concentration and physiological resistance to
+--- PAGE 15 ---G forces must be constantly conditioned by complex flight
+--- PAGE 15 ---and combat simulations as well as actual flight simulation of
+--- PAGE 15 ---combat scenarios.
+--- PAGE 15 ---
+--- PAGE 15 ---Selectively applied, EPIC stimulus may be able to repro-
+--- PAGE 15 ---duce “sensations” in pilots-in-training that accurately simu-
+--- PAGE 15 ---late actual “upset” and map G force conditions encountered in
+--- PAGE 15 ---flight without need of moving platforms under the flight simu-
+--- PAGE 15 ---lators. Such a capability would reduce the costs of flight
+--- PAGE 15 ---training while enhancing the reality of the emergency and/or
+--- PAGE 15 ---combat conditions for which the training is offered.
+--- PAGE 15 ---
+--- PAGE 15 ---The EPIC system could be used for treatment of BPPV
+--- PAGE 15 ---patients who do not respond to conventional treatment by
+--- PAGE 15 ---positional exercises. These patients are usually subjected to a
+--- PAGE 15 ---surgical procedure to block the afflicted semicircular canal,
+--- PAGE 15 ---which somewhat undermines their balance. Since the system
+--- PAGE 15 ---emulates the effects of the BPV, its effect may be tuned to
+--- PAGE 15 ---each particular form of BPPV to counteract the symptoms.
+--- PAGE 15 ---Treatment like this will eliminate the need for surgical cor-
+--- PAGE 15 ---rection.
+--- PAGE 15 ---
+--- PAGE 15 ---While this invention has been described fully and com-
+--- PAGE 15 ---pletely with special emphasis upon preferred embodiments, it
+--- PAGE 15 ---should be understood that within the scope of the appended
+--- PAGE 15 ---claims the invention may be practiced otherwise than as spe-
+--- PAGE 15 ---cifically described herein.
+--- PAGE 15 ---
+--- PAGE 15 ---The invention claimed 1s:
+--- PAGE 15 ---
+--- PAGE 15 ---1. A non-lethal method for immobilizing a human subject
+--- PAGE 15 ---by utilizing electromagnetic energy to disrupt the subject’s
+--- PAGE 15 ---sense of balance and perception of body position and move-
+--- PAGE 15 ---ment, comprising the steps of:
+--- PAGE 15 ---
+--- PAGE 15 ---providing means for generating and transmitting a beam of
+--- PAGE 15 ---
+--- PAGE 15 ---radio frequency electromagnetic energy having a
+--- PAGE 15 ---selected frequency and modulation correlated to a physi-
+--- PAGE 15 ---cal and a chemical structure of a human sensory cell to
+--- PAGE 15 ---disrupt proper operation of either of a mechanical trans-
+--- PAGE 15 ---duction process or a chemical process by which sensory
+--- PAGE 15 ---input is converted by the sensory cell to messages that
+--- PAGE 15 ---are processed by a human brain; and
+--- PAGE 15 ---
+--- PAGE 15 ---directing said beam of radio frequency electromagnetic
+--- PAGE 15 ---
+--- PAGE 15 ---energy from a remote location toward the human subject
+--- PAGE 15 ---to be immobilized to impose a Lorentz force on selected
+--- PAGE 15 ---
+--- PAGE 16 ---US 7,841,989 B2
+--- PAGE 16 ---
+--- PAGE 16 ---15
+--- PAGE 16 ---
+--- PAGE 16 ---sensory cells of the subject sufficient to disrupt proper
+--- PAGE 16 ---operation of the cell’s mechanical transduction process
+--- PAGE 16 ---or chemical process and alter the sensory input con-
+--- PAGE 16 ---verted to messages processed by the subject’s brain to
+--- PAGE 16 ---adversely affect the perception of body position and
+--- PAGE 16 ---movement so as to produce disorientation, confusion,
+--- PAGE 16 ---and incapacitation sufficient to immobilize and render
+--- PAGE 16 ---the subject powerless to resist arrest or subjugation.
+--- PAGE 16 ---
+--- PAGE 16 ---2. The method according to claim 1, wherein
+--- PAGE 16 ---
+--- PAGE 16 ---said step of directing said beam of radio frequency elec-
+--- PAGE 16 ---tromagnetic energy from a remote location toward the
+--- PAGE 16 ---human subject to be immobilized comprises imposing a
+--- PAGE 16 ---Lorentz force on sensory receptor hair cells of vestibular
+--- PAGE 16 ---organs of the subject’s inner ear that are connected by
+--- PAGE 16 ---auditory nerves operating on exchange of ionized cal-
+--- PAGE 16 ---cium and potassium through semi-permeable cell mem-
+--- PAGE 16 ---branes to produce electrical impulses through the audi-
+--- PAGE 16 ---tory brainstem to the auditory cortex of the brain which
+--- PAGE 16 ---interprets the nerve impulses as sound or position rela-
+--- PAGE 16 ---tive to gravity; and
+--- PAGE 16 ---
+--- PAGE 16 ---said Lorentz force causing random excitation or movement
+--- PAGE 16 ---of said hair cells so as to disrupt the exchange of ionized
+--- PAGE 16 ---calcium and potassium and produce sensations of
+--- PAGE 16 ---intense wideband sound and confusion between the sub-
+--- PAGE 16 ---ject’s visual perception and the vestibular sensations
+--- PAGE 16 ---transmitted to the subject’s brain that affect the subject’s
+--- PAGE 16 ---perception of the subject’s body position relative to
+--- PAGE 16 ---gravity resulting in disorientation sufficient to immobi-
+--- PAGE 16 ---lize and render the subject powerless to resist arrest or
+--- PAGE 16 ---subjugation.
+--- PAGE 16 ---
+--- PAGE 16 ---3. The method according to claim 1, wherein
+--- PAGE 16 ---
+--- PAGE 16 ---said step of directing said beam of radio frequency elec-
+--- PAGE 16 ---tromagnetic energy from a remote location toward the
+--- PAGE 16 ---human subject to be immobilized comprises imposing a
+--- PAGE 16 ---Lorentz force on cells of the subject’s cochlea and retina
+--- PAGE 16 ---tissues such that electromagnetic field and subsequent
+--- PAGE 16 ---surface charges on the cochlea and retina tissues changes
+--- PAGE 16 ---the impedance of their conduction capabilities to disrupt
+--- PAGE 16 ---ion flow that regulates nerve pulse output to the subject’s
+--- PAGE 16 ---brain and produce confusion between the subject’s
+--- PAGE 16 ---visual perception and the vestibular sensations transmit-
+--- PAGE 16 ---ted to the subject’s brain that affect the subject’s percep-
+--- PAGE 16 ---tion of the subject’s body position relative to gravity
+--- PAGE 16 ---resulting in disorientation sufficient to immobilize and
+--- PAGE 16 ---render the subject powerless to resist arrest or subjuga-
+--- PAGE 16 ---tion.
+--- PAGE 16 ---
+--- PAGE 16 ---4. The method according to claim 1, wherein
+--- PAGE 16 ---
+--- PAGE 16 ---said step of directing said beam of radio frequency elec-
+--- PAGE 16 ---tromagnetic energy from a remote location toward the
+--- PAGE 16 ---human subject to be immobilized comprises imposing
+--- PAGE 16 ---positively or negatively charged pulsed electromagnetic
+--- PAGE 16 ---energy on sensory receptor stereocilia hair cells of ves-
+--- PAGE 16 ---
+--- PAGE 16 ---10
+--- PAGE 16 ---
+--- PAGE 16 ---15
+--- PAGE 16 ---
+--- PAGE 16 ---20
+--- PAGE 16 ---
+--- PAGE 16 ---25
+--- PAGE 16 ---
+--- PAGE 16 ---30
+--- PAGE 16 ---
+--- PAGE 16 ---35
+--- PAGE 16 ---
+--- PAGE 16 ---40
+--- PAGE 16 ---
+--- PAGE 16 ---45
+--- PAGE 16 ---
+--- PAGE 16 ---50
+--- PAGE 16 ---
+--- PAGE 16 ---16
+--- PAGE 16 ---
+--- PAGE 16 ---tibular organs of the subject’s inner ear to increase or
+--- PAGE 16 ---decrease the magnitude of a static charge of an electron-
+--- PAGE 16 ---rich site surrounding a cation channel in a hair conductor
+--- PAGE 16 ---or cell membrane to alter its attraction to calcium and or
+--- PAGE 16 ---potassium ions thereby altering the rate of ion flow and
+--- PAGE 16 ---producing a resultant uncorrelated pulse rate of the cells
+--- PAGE 16 ---of the subject’s ears, vestibular system, and eyes that is
+--- PAGE 16 ---transmitted to the subject’s brain and adversely affect
+--- PAGE 16 ---the subject’s perception of the subject’s body position
+--- PAGE 16 ---relative to gravity to produce disorientation sufficient to
+--- PAGE 16 ---immobilize and render the subject powerless to resist
+--- PAGE 16 ---arrest or subjugation.
+--- PAGE 16 ---
+--- PAGE 16 ---5. The method according to claim 1, wherein
+--- PAGE 16 ---
+--- PAGE 16 ---said step of directing said beam of radio frequency elec-
+--- PAGE 16 ---tromagnetic energy from a remote location toward the
+--- PAGE 16 ---human subject to be immobilized comprises imposing
+--- PAGE 16 ---pulses of said electromagnetic energy to cells of the
+--- PAGE 16 ---subject’s body so as to disrupt a proper electrochemical
+--- PAGE 16 ---balance within the cells relative to other fluids of the
+--- PAGE 16 ---subject’s body whereby the cells exchange waste and
+--- PAGE 16 ---nutrients and maintain an electrochemical balance with
+--- PAGE 16 ---the rest of the body; and
+--- PAGE 16 ---
+--- PAGE 16 ---said pulses of said electromagnetic energy imposed on the
+--- PAGE 16 ---cells excite cell areas into hyperactive chemical
+--- PAGE 16 ---exchanges between negatively charge sodium ions and
+--- PAGE 16 ---positively charged calcium ions to cause an adverse
+--- PAGE 16 ---effect on the electrochemical balance of the subject’s
+--- PAGE 16 ---body and disruption of smooth and striated muscular
+--- PAGE 16 ---functions sufficient to immobilize and render the subject
+--- PAGE 16 ---powerless to resist arrest or subjugation.
+--- PAGE 16 ---
+--- PAGE 16 ---6. The method according to claim 1, wherein
+--- PAGE 16 ---
+--- PAGE 16 ---said step of providing means for generating and transmit-
+--- PAGE 16 ---ting said beam of radio frequency electromagnetic
+--- PAGE 16 ---energy comprises calculating a frequency and a field
+--- PAGE 16 ---strength of the electromagnetic wave and radio fre-
+--- PAGE 16 ---quency signal required to achieve a displacement or
+--- PAGE 16 ---stimulation of selected sensory cells of the subject effec-
+--- PAGE 16 ---tive to disrupt proper operation of the cells mechanical
+--- PAGE 16 ---transduction process or chemical process;
+--- PAGE 16 ---
+--- PAGE 16 ---calculating a parameter of carrier wave frequency, modu-
+--- PAGE 16 ---lation frequency, shape of a modulation waveform, and
+--- PAGE 16 ---transmission power;
+--- PAGE 16 ---
+--- PAGE 16 ---providing a vector signal generator and at least one ampli-
+--- PAGE 16 ---fier coupled with said vector signal generator to generate
+--- PAGE 16 ---a power output in accordance with the recited calcula-
+--- PAGE 16 ---tions, and at least one antenna coupled with said power
+--- PAGE 16 ---output; and
+--- PAGE 16 ---
+--- PAGE 16 ---said step of directing said beam of radio frequency elec-
+--- PAGE 16 ---tromagnetic energy from a remote location comprises
+--- PAGE 16 ---aiming said antenna toward the human subject to be
+--- PAGE 16 ---immobilized.
