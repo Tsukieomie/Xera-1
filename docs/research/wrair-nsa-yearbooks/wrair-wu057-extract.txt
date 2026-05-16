@@ -1,0 +1,555 @@
+Project 3A762758A824 RADIATION INJURY AND PROTECTION 
+
+Task 01 Radiation Injury and Protection 
+
+Work Unit 057 Biological effects and hazards of microwave radiation 
+Investigators . 
+
+Principal: Joseph C. Sharp, Ph.D. 
+
+Associate: H. Mark Grove, M.Sc.; Sandra H. Githens, B.S.; 
+
+T. Daryl Hawkins, M. A. ; MAJ Stuart E. Hirsch, MC; 
+
+John H. Jacobi, M.Sc.; John F. Schrot, M.A.; 
+
+Peter Brown, B.S. 
+
+Our efforts to systematize the behavioral and biological effects 
+of microwave irradiation produced considerable gains in FY 74. Earlier 
+observations of frequency-dependent behavioral effects were corrobor- 
+ated and expanded. Using indices of lethality and seizure, with 
+several types of animal subjects, we have greatly extended the bio- 
+logical generality and implications of microwave exposure effects. The 
+order of presentation below is roughly chronological. 
+
+Lethal effects of 2.45 GHz as a function of power density level in mice. 
+
+Our earlier work with rats showed that indices of lethality [de- 
+termined by video monitoring, such as time elapsed to convulsion and 
+time elapsed to final movement] could be varied systematically by 
+manipulating power level. This work was extended to mice. Groups of 
+eleven mice were exposed to one of five different power levels, 100, 
+
+150, 200, 300 or 400 mW/cm2. Curves relat ng time to convulsion and 
+time to final movement showed similar decreasing trends as a function 
+of increasing power level, with average times to final movement being 
+slightly longer than average times to convulsion. [Since all of our 
+work indicates that these two measures show similar trends, statements 
+of differential lethality in this report will be based on only the 
+time to convulsion index to avoid unnecessary redundancies.] At all 
+power levels the mice were consistently more vulnerable than the rats 
+examined in FY 73, strongly suggesting that mice are generally more 
+sensitive to 2.45 GHz than rats. 
+
+Differential lethal effects of 1.7 GHz and 2.45 GHz. 
+
+Using a power level of 100 mW/cm2, twelve 150 g rats were exposed 
+to 1.7 GHz and twelve were exposed to 2.45 GHz. The data showed an 
+unequivocal frequency difference. Median time to convulsion at 2.45 
+GHz was 1260 sec, while the median time to convulsion at 1.7 GHz was 
+801 sec. In addition, there was no overlap in the range of scores 
+
+
+i 
+
+l 
+
+
+obtained for each frequency, providing a strong indication that 1.7 
+GHz is more lethal than 2.45 GHz in 150 g rats. These data provided 
+the first indication that the frequency-dependent performance decre- 
+ments observed in prior years with rats were a reflection of a 
+general frequency-dependent biological phenomenon, thus mitigating 
+our concern that the performance effects observed earlier were due 
+to some uncontrolled artifact. 
+
+Lethality as a function of body orientation relative to E and H 
+vectors. 
+
+
+The lethal effects of Ell a and H il a_ (when a represents the major 
+or long axis of the body) were compared at 1.7 GHz with a power level 
+of 150 mW/cm2 using rats (100-120 g) . For one group of rats, the E 
+vector was parallel to a and for another H was parallel to a. A 
+small but significant difference indicated greater lethality with 
+E || a. 
+
+
+Microwave absorption data collected by Dr. Om P. Gandhi during a 
+three-month visit to our laboratory suggested the possibility that 
+larger lethality differences due to E-field orientation might be 
+obtained with rats at frequencies lower than 1.7 GHz. In fact, his 
+data provide the first known opportunity to scale from animals to 
+mein the resonant frequencies for maximum absorption (^ 40 to ^ 55 
+MHz) . There appeared to be larger orientation differences in power 
+which Gandhi had made with mice at lower frequencies. Lethality data 
+obcained with rats at 0.985 GHz confirmed this prediction. As in 
+the 1.7 GHz study, rats (100-120 g) convulsed sooner with E !l a than 
+H || a; the difference in time to convulsion, produced by changing the 
+E-field at 0.985 GHz, was quite large. Average time to convulsion 
+with E || a^ was only 269 sec, or about one-third the average time to 
+convulsion with the H || a (865 sec) . 
+
+Lethality in mice (25-30 g) and rats (100-120 g) was compared 
+at 1.7 GHz using a power level of 150 mW/cm2. Consistently, the 
+mice convulsed earlier than the rats. The median times were 331 sec 
+and 498 sec, respectively. These observations in conjunction with 
+similar differences found at 2.45 GHz suggested that mice are gener- 
+ally more vulnerable than rats to microwave exposure, at least in 
+the range of 1.7 to 2.45 GHz. 
+
+Systematic interrelationships of microwave frequency E-field 
+orientation and size of experimental subject as codeterminants of 
+microwave lethality. 
+
+The cumulative process achieved throughout FY 74 on both the 
+biological and engineering levels led us to conclude that there were 
+a number of important microwave variables which combine in a complex 
+
+
+984 
+
+
+but systematic manner to produce the biological effects observed. 
+
+The primary variables are presently considered to be the microwave 
+frequency, the orientation of E-field, and the dimensions of the 
+experimental subject. The combined and interacting effects of these 
+variables are currently being explored in a major lethality study 
+which is nearing completion. Three microwave frequencies have been 
+examined: 0.985, 1.7, and 2.45 GHz. Work with 3.0 GHz is in progress. 
+
+Work at 0.70 GHz is projected as the last stage. At each completed 
+frequency, three types of animals were used: mice (25-30 g) , small 
+
+rats (100-120 g) , and large rats (380-400 g) . For each type of animal 
+there were two groups: one group exposed with H II a and another group 
+exposed with E II Each subject was exposed to 150 mW/cm2 and the 
+time to convulsion and time to final movement were recorded. Data 
+collected from this study have corroborated our earlier lethality 
+findings and extended their generality. 
+
+Within the range of frequencies we have explored in the current 
+lethality study, coupled with the absorption data collected by 
+Gandhi, a number of tentative generalizations can be made: 
+
+(1) General Effect of Microwave Frequency. 
+
+For a particular animal, there is a frequency (or frequency 
+range) to which the animal is more sensitive than it is to higher 
+or lower frequencies. Given the general bitonic nature of the fre- 
+quency sensitivity curve, the frequency at which maximum sensitivity 
+obtains for a particular animal is dependent on both the dimensions 
+of the animal and the E veo or orientation. Larger animals show 
+peak sensitivity at lower frequencies than smaller animals. This 
+size/frequency relationship holds generally for both H and E 
+parallel to a. However, for a given size animal, the maximally 
+effective frequency with the E li a is lower than the maximally effec- 
+tive frequency with H II £. 
+
+(2) General Difference Between E vector orientations. 
+
+The magnitude of the differential effect produced by 
+exposures with H II a as opposed to exposures with E II £ is a function 
+of the microwave frequency employed. At higher frequencies there 
+is very little differential effect. At progressively lower fre- 
+quencies, the difference increases with E II a being consistently 
+more effective than H „ a. 
+
+(?) General Effect of Size. 
+
+As frequencies increase, e.g., up to 2.45 and 3.0 GHz, the 
+data suggest that the larger the animal, the less is the vulnerability 
+to the adverse effects of the radiation. This may be a simple function 
+of the total mass of the subject. At lower frequencies, the effects 
+are less regular, but current data are consistent with the statement 
+that larger animals (100 and 400 g rats) are more vulnerable than 
+
+
+985 
+
+
+very small ones (mice) . This relation is probably due to frequency 
+dependent power absorption resulting from the interaction of differ- 
+ential penetration and the specific dimensions of the animal, and 
+coupling with both E and H vectors of the electromagnetic energy. 
+
+Modulated microwave signals. 
+
+An initial series of studies designed to better understand the 
+so-called hearing effect produced by extremely low average power levels 
+have been completed. Two observations have led to a temporary cessation 
+of this work. These were (al the observation that non-biologic material 
+could serve as a transducer of the energy to acoustic signals which can 
+be used as a model without exposing biological material and (b) the 
+report that signals similar to those used in the auditory study may 
+cause changes in the blood brain barrier of experimental animals. This 
+latter observation has been investigated during the latter half of the 
+reporting period and, to date, not been replicated. However, the 
+implications of these observations are of such great importance that 
+further work is in progress. 
+
+Determination of dielectric properties of tissue. 
+
+To better understand and confirm earlier work, a series of measure- 
+ments on the dielectric properties of various tissues was completed. 
+
+This work took fat, brain, muscle, liver and lung from different 
+species, including man, and, utilizing unique equipment in the labora- 
+tory, determined the dielectric constants at physiological temperatures. 
+The findings resolved some ambiguities in the literature and, more 
+importantly, showed that tissues from different species were similar. 
+
+On this variable, human tissues are not significantly different from 
+animal tissues which will now allow for detailed determinations in 
+model systems. 
+
+Microwave bioeffects current-awareness digest. 
+
+During FY 74, a multiple-agency sponsored project to produce and 
+publish a quarterly digest of the literature on biological effects of 
+nonionizing radiation was initiated. This effort will be carried out 
+by the Franklin Institute Research Laboratories under ARO Grant No. 
+DAHCO4-74-G-0132 . Funding has been provided by the Army, Air Force, 
+
+Navy and FDA/BRH . The EPA is also cooperating in the activity. The 
+first issue was readied for publication in June 1974. The quarterly 
+publication will be distributed, without charge, to scientists and 
+other workers in this discipline as a means of bringing together 
+citations and abstracts of the diverse literature and is providing 
+a method of informal communication. 
+
+
+986 
+
+
+Ocular effects of microwaves. 
+
+During FY 74 microwave ocular effects surveys continue in coopera- 
+tion with the Army environmental hygiene agency. Populations within 
+Army installations whose missions allow for the potential of exposure 
+to microwave irradiation were examined. A detailed opthalmic examina- 
+tion including visual acuity, fundus examination and detailed slit 
+lamp examination were done with particular emphasis on the lens. 
+Photography was performed where indicated. Non-exposed personnel 
+served as controls. Preliminary results have not shown a higher in- 
+cidence of lenticular changes in the group with potential for micro- 
+wave exposure. 
+
+The exposure of albino rabbits to microwave irradiation continue. 
+Utilizing a focusing dish antenna, rabbits were exposed to varying 
+power densities from low level to sub-lethal higher levels for periods 
+of 15 minutes daily for 30 consecutive days. Both CW and pulsed duty 
+cycles were used. Cataracts were produced only at power levels of 
+400 mW or above. The animals have now been followed for one year and 
+to date have exhibited no lenticular changes or cataracts at power 
+levels below 300 mW/cm?. 
+
+
+Histology and electromicroscopy of rabbit lenses of exposed 
+animals has progressed. A histologic correlated between posterior 
+subcapsular irridescence, a slit lamp sign, and its electron micro- 
+scopic counterpart has been demonstrated. 
+
+
+937 
+
+
+Project 3A762758A824 RADIATION INJURY AND PROTECTION 
+Task 01 Radiation Injury and Protection 
+
+Work Unit 057 Biological effects and hazards of microwave radiation 
+Literature Cited. 
+
+
+Reference : 
+
+
+1. Schrot, J. , and Hawkins, T.D.: Lethal effects of 3000 MHz 
+
+radiation on the rat. Radiation Research. (In press) 
+
+Publications : 
+
+
+1. Sharp, J.C., Grove, H.M., and Gandhi, O.P.: Generation of 
+
+acoustic signals of pulsed microwaves. IEEE Transactions on Microwave 
+Theory and Techniques. May 1974, 583-584. 
+
+2. Gandhi, O.P., Sharp, J.C. , and Grove, H.M.s Strong dependence 
+of whole animal absorption on polarization and frequency of RF energy. 
+Proc. NYAS . Feb 1974. 
+
+3. Gandhi, O.P.: Polarization and frequency effects on whole 
+
+animal absorption of RF energy. Proc. of IEEE. 62^, Aug 1974. 
+
+4. Lenox, R.H., Gandhi, O.P., Meyerhoff, J.L. , and Brown, P.V. : 
+Modifications of in-vivo rapid microwave inactivation of enzymes in 
+the central nervous system. Proc. International Microwave Power Inst. 
+May 1974. 
+
+5. Larsen, L.E. , Moore, R.A., and Acevedo, J.: A microwave 
+
+decoupled brain-temperature transducer. IEEE Transactions on Micro- 
+wave Theory and Techniques. April 1974, 438-444. 
+
+6. Lin, J.C. , Grove, H.M. , and Sharp, J.C. : Comparative measure- 
+
+ment of dielectric properties of fresh mammalian tissues. Proc. CPEM. 
+July 1974. 
+
+
+98K 
+
+
+m 
+
+
+mm 
+
+
+immmm 
+
+
+RESEARCH AMD TECHNOLOGY WORK UNIT SUMMARY 
+
+
+1 AOSMCV ACCESSION* 
+
+DA OB 6533 
+
+I ASBAAOINO* 
+
+NA 
+
+
+I. DAT* Of MHMAIt* 
+
+7l4 06 30 
+
+
+ftipoirr cmiwu intaoi 
+
+DD-DR*E(AR)636 
+
+
+L DATE A* «V SUM*AV 
+
+NIS 
+
+
+A KINO or SUMMAMV 
+
+H. Term. 
+
+
+I IUMMAAV tcrr 
+
+u 
+
+
+I *OAK MCUMTY1 
+
+U 
+
+
+I* Mr* INITA*N 
+
+NL 
+
+
+•fc SPECIFIC OATA- 
+COW TBACTOA ACC cm 
+
+Qtti Duo 
+
+
+• LEVEL Of CUM 
+A. fOMUNT 
+
+
+<0 MO /COOES:* 
+
+
+PAOOAAM IlIMnT 
+
+
+PROJECT NUMMR 
+
+3A762758A824 
+
+
+TASK AACA NUMBEA 
+
+
+•OAK UNIT NUMMIt 
+
+
+62758A 
+
+
+01 
+
+
+058 
+
+
+0. COATKiagriNfi 
+
+
+c. CONTAIBUTlNO 
+
+
+TITLE vial |MaM^ ClMliftuiiai C*Ar 
+
+(U) Biological Evalaation of Anti-irradiation Druga 
+
+tr ICItWTInC AND VECHMOLOOICAL AACAf* 
+
+01^100 Radiobiology 003^00 Chemical, Biological and Radiological Warfare 
+
+1 lit. Cft+MIATIO COM# LET ION OATB |1* “ — ' ' ' " *- L- 
+
+
+tt irurgTfi 
+59 05 
+
+
+It fUMDIMO AOCMCV 
+
+m. 
+
+
+It PC AFOAMAnCB ME t MOO 
+
+C. In-House 
+
+
+IT COMTNACT OAAHT 
+A OATEI/Cf fCCTI VE 
+t MUM BE A * 
+
+C TYPE 
+
+A MIND or AVAAO’ 
+
+
+IB MSOUACES ESTIMATE 
+
+A PNOPEMION AL MAN VAS 
+
+fc FUN OS ri" SnmmA) 
+
+EXPIRATION 
+
+FISCAL 
+
+73 
+
+1 .65 
+
+136 
+
+A AMOUNT: 
+
+VS AA 
+
+f. CUM. AMT. 
+
+71* 
+
+1 .65 
+
+109 ; 
+
+It NEtfOwtIBLC OOO OABAMIIATlON 
+
+
+BB. ACAfOAtAMOONSANIIATIOM 
+
+
+,VWaiter Reed Army Institute of Research 
+
+
+• ••MU • 
+
+
+Washington, DC 20012 
+
+
+MLOMtaiC IMOIVtOUAL 
+
+»*«•. Buescher, COL E. L. 
+TELEPHONE: 202-576-3551 
+
+
+Foreign intelligence not considered 
+
+
+.•.••Walter Reed Army Institute of Research 
+Div of Medicinal Chemistry 
+*■*«*“• Washington, DC 20012 
+
+ANINCIAAL IM VCt TIB A TO A A MAM tl V %. 4wAal( 
+
+•“«* Kinnamon, K. E. LTC 
+
+Ttc«..o.< 202-576-2292 
+
+SOCIAL BCCUHITt ACCOUNT MUMBCH 
+AMOCIATC IM VCtTIO A TOAI 
+
+MAMC: Lolzeaux, P. S., LTC 
+
+»•»■ DA 
+
+
+ie kevVoao* Each mii 1 TSSHr TO55TJ ISSH? TJX J 
+
+(U) Activity; (U) Chemical; (U) Compound; (111 Protection; (U) Radiation 
+
+
+I TECHNICAL OBJBC Tl VE • It Af f AO ACM, 21 ABOOACU fPMmlaA IiyAWAmaI pA« I4mtlttr* *r niwtw «•«» •< w«» wf» irtmlty C«M* J 
+
+23. (U) The objective of this research is to develop a militarily useful pill to 
+protect personnel against lethal effects of ionizing radiation. Such a drug would 
+reduce the initial effect of nuclear radiation as well as provide a margin of safety 
+for personnel operating in a contaminated terrain. An efficient antiradiation com- 
+pound would also be useful to the Army from a clinical standpoint. 
+
+24. (U) Approach to the objectives is through accepted drug development protocols. 
+Test drugs are evaluated for ability to protect mice against lethal doses of ionizing 
+radiation. Promising compounds are further evaluated in larger animals. 
+
+25. (U) 73 07 - 74 06 Testing of 300 drugs synthesized specifically to exploit 
+
+known structure-activity relationships identified 100 drugs which protected 50^ cr 
+more of mice exposed to lethal doses of ionizing radiation. Of the 100 active oora- 
+pounds, 40 gave protection when administered orally. The identification of classes 
+of chemicals producing levels of protection as high as 100” in mice following orai 
+administration is considered a major breakthrough. Of even greater significance 
+was the first successful demonstration of protection of rhesus monkeys from lethal 
+irradiation by an orally administered drug. Work is being terminated due to emphasis 
+being shifted to other problems of Military significance. For technical report see 
+Walter Reed Army Institute of Research Annual Progress Report, 1 July 73 - 30 June 74 
+
+
+'amIIsM* to contr*cto*a uwow art|A«lw,i approx I 
+
+
+dd,:°.:“J498 
+
+
+PAEVIOUS EDITIONS OF THIS FOAM AAE OBSOLETE DO FOAMS 1 40# A 1 NOV 6 6 
+AND I ABE- I 1 MAA 61 IFOA ARMY USE) ARE OBSOLETE 
+
+
+989 
+
+
+Project 3A762758A824 RADIATION INJURY AND PROTECTION 
+Task 01 Radiation Injury and Protection 
+
