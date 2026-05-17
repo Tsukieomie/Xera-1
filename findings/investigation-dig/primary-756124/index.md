@@ -293,3 +293,11 @@ Eighth-pass research note finding and exercising a **practical no-key route to U
 
 Effect on Section 1 / Section 7: **sharpened on the assignment lane and on the secrecy-order behavioral-fingerprint, not closed on agency attribution.** The eighth pass exhausts no-key bibliographic-level recovery and identifies the NARA Kansas City paper-mail channel as the remaining no-key path to the certified file wrapper itself.
 
+---
+
+## Addendum 2026-05-17 (ninth-pass NARA Kansas City no-key request package)
+
+Companion file: [`FLANAGAN_NINTH_PASS_ADDENDUM_20260517.md`](FLANAGAN_NINTH_PASS_ADDENDUM_20260517.md) (this directory).
+
+Operationalizes the no-key paper-mail channel identified at the end of the eighth pass. Provides a copy-ready records-request package to `kansascity.archives@nara.gov` for the **RG 241 / NAID 302050** patent case file for **US 3,647,970 / application serial 756,124 (Gillis Patrick Flanagan, filed Aug 29, 1968)**, with exact request wording asking whether the file contains (1) the April 25, 1969 secrecy-order notice and any rescission correspondence including the March 7, 1972 rescission, (2) Group 220 / Licensing & Review correspondence, (3) ASPAB referral / concurrence papers, (4) sponsoring-agency communication from DoD / DIA / NSA / Army / Navy / Air Force, (5) the Jan 11, 1971 Notice of Allowability, and (6) any classified or referred enclosures. Includes a $150 fee authorization ceiling under the standard NARA fee schedule. A positive return on items 1, 3, or 4 would be the first primary-source record identifying (or excluding) the sponsoring agency and would close the DIA-vs-NSA-vs-ASPAB/Service-channel attribution question. Does not revise Section 1 / Section 7 conclusions.
+
