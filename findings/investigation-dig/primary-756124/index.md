@@ -213,3 +213,19 @@ Fourth-pass research note updating three evidence lanes — Biolectron patent-as
 
 Next records targets recorded in the addendum file: USPTO assignment image for reel/frame 004271/0859; NARA/USPTO secrecy-order correspondence for application 756,124; full text of *Acta Otolaryngologica* 1969 67(1):69-83; full text of Brooks/Harrison 1975 80(1):79-84; primary LIFE page image. None of this addendum revises Section 1 / Section 7 attribution conclusions; agency attribution for the 756,124 order remains unresolved on the present record.
 
+---
+
+## Addendum 2026-05-17 (fifth-pass LIFE and USPTO addendum)
+
+Companion file: [`FLANAGAN_FIFTH_PASS_ADDENDUM_20260517.md`](FLANAGAN_FIFTH_PASS_ADDENDUM_20260517.md) (this directory). Local page-image captures: [`LIFE_Sep14_1962_p69_WhizKid_Flanagan.jpg`](LIFE_Sep14_1962_p69_WhizKid_Flanagan.jpg), [`LIFE_Sep14_1962_p69_full_WhizKid.jpg`](LIFE_Sep14_1962_p69_full_WhizKid.jpg).
+
+Fifth-pass research note updating two evidence lanes — LIFE Magazine "Whiz Kid, Hands Down" provenance and the USPTO assignment image path for reel/frame 004271/0859 — plus a status check on the Puharich/Lawrence 1969 full-text retrieval. Headline points (conservative):
+
+1. **LIFE "Whiz Kid, Hands Down" upgraded to page-resolved near-primary scan.** Google Books exposes the LIFE September 14, 1962 issue at page **69**, where the article title "Whiz Kid, Hands Down" is visible and the opening text names **Pat Flanagan** as a 17-year-old inventor from Bellaire, Texas (`https://books.google.com/books?id=z00EAAAAMBAJ&pg=PA69`). Page **72** is the article continuation (`https://books.google.com/books?id=z00EAAAAMBAJ&pg=PA72`), giving a stable two-page citation path. Two screenshots are now committed in this directory: `LIFE_Sep14_1962_p69_WhizKid_Flanagan.jpg` (page/snippet view confirming page-resolved Google Books access) and `LIFE_Sep14_1962_p69_full_WhizKid.jpg` (full page 69 view with photo, title, page selector, issue sidebar, and opening text). The **William Moeser** byline is still best supported by the PhiSciences transcript/mirror unless a sharper page-image crop captures the byline directly.
+
+2. **USPTO assignment lane: procedural support gained, image still unrecovered.** Data.gov's catalog record for the **Patent Assignment Search API Version 1.4** identifies the API as public, names the documentation endpoint `https://assignment-api.uspto.gov/documentation-patent/`, and gives temporal coverage **1980-08-01 to 2025-12-31** (which covers the 1984 Biolectron assignment) (`https://catalog.data.gov/dataset/patent-assignment-search-api-version-1-4`). The USPTO AOTW help page documents correct reel/frame search behavior (`https://www.uspto.gov/patents/laws/power-attorney-and-assignment/assignments-web-aotw`). However, both `assignment.uspto.gov` and `assignment-api.uspto.gov` failed DNS resolution from the current environment, so the assignment image for reel/frame **004271/0859** remains an open primary-record target.
+
+3. **Clinical full-text lane unchanged.** Puharich/Lawrence 1969 DOI resolver confirms title "Hearing Rehabilitation By Means Of Transdermal Electrotherapy In Human Hearing Loss Of Sensorineural Origin: Preliminary Report" (`https://doi.org/10.3109/00016486909124370`), matching PubMed (PMID 4906301). Full text not retrieved during this pass; best next steps are library/database/interlibrary-loan rather than further open-web search.
+
+None of this addendum revises Section 1 / Section 7 attribution conclusions; agency attribution for the 756,124 order remains unresolved on the present record. The LIFE upgrade is bibliographic provenance for Flanagan's 1962 press profile and does not bear on the 1969-1972 secrecy-order claim.
+
