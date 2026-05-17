@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Primary-source extract from USPTO Patent Assignment Annual Backfile,
+partition 01 (ad19800101-20231231-01.xml), recovered without an API key
+via Wayback Machine mirror of bulkdata.uspto.gov, 2026-05-17.
+
+Source URL pattern:
+https://web.archive.org/web/2024/https://bulkdata.uspto.gov/data/patent/assignment/ad19800101-20231231-01.zip
+
+The extracted record is the complete <patent-assignment> for reel/frame
+4271/859 (recorded 1984-06-04, executed 1984-05-30), CHEN, C.Y. to
+BIOLECTRON, INC., listing seven patent properties. This record extends
+the previously documented Biolectron 1984 portfolio consolidation from
+three patents (US3393279A, US3563246A, US3629521A as known from Google
+Patents Legal Events table) to seven patents.
+
+This file is provided as primary-source evidence within the Flanagan /
+756,124 investigation ledger (see FLANAGAN_EIGHTH_PASS_ADDENDUM_20260517.md).
+-->
+<patent-assignment>
+  <assignment-record>
+    <reel-no>4271</reel-no>
+    <frame-no>859</frame-no>
+    <last-update-date>
+      <date>20090713</date>
+    </last-update-date>
+    <purge-indicator>N</purge-indicator>
+    <recorded-date>
+      <date>19840604</date>
+    </recorded-date>
+    <page-count>2</page-count>
+    <correspondent>
+      <name>BRUMBAUGH, GRAVES DONOHUE, ET AL</name>
+      <address-1>30 ROCKEFELLER PLAZA</address-1>
+      <address-2>NEW YORK, NY 10112</address-2>
+    </correspondent>
+    <conveyance-text>ASSIGNMENT OF ASSIGNORS INTEREST.</conveyance-text>
+  </assignment-record>
+  <patent-assignors>
+    <patent-assignor>
+      <name>CHEN, C.Y.</name>
+      <execution-date>
+        <date>19840530</date>
+      </execution-date>
+    </patent-assignor>
+  </patent-assignors>
+  <patent-assignees>
+    <patent-assignee>
+      <name>BIOLECTRON, INC., 200 HOLT ST., HACKENSACK, NJ 07601 A DE CORP.</name>
+      <state>DELAWARE</state>
+    </patent-assignee>
+  </patent-assignees>
+  <patent-properties>
+    <patent-property>
+      <document-id>
+        <country>US</country>
+        <doc-number>05144996</doc-number>
+        <kind>X0</kind>
+      </document-id>
+      <document-id>
+        <country>US</country>
+        <doc-number>3726762</doc-number>
+        <kind>B1</kind>
+      </document-id>
+    </patent-property>
+    <patent-property>
+      <document-id>
+        <country>US</country>
+        <doc-number>04179337</doc-number>
+        <kind>X0</kind>
+      </document-id>
+      <document-id>
+        <country>US</country>
+        <doc-number>3393279</doc-number>
+        <kind>B1</kind>
+      </document-id>
+    </patent-property>
+    <patent-property>
+      <document-id>
+        <country>US</country>
+        <doc-number>04682152</doc-number>
+        <kind>X0</kind>
+      </document-id>
+      <document-id>
+        <country>US</country>
+        <doc-number>3497637</doc-number>
+        <kind>B1</kind>
+      </document-id>
+    </patent-property>
+    <patent-property>
+      <document-id>
+        <country>US</country>
+        <doc-number>04887676</doc-number>
+        <kind>X0</kind>
+      </document-id>
+      <document-id>
+        <country>US</country>
+        <doc-number>3586791</doc-number>
+        <kind>B1</kind>
+      </document-id>
+    </patent-property>
+    <patent-property>
+      <document-id>
+        <country>US</country>
+        <doc-number>05001334</doc-number>
+        <kind>X0</kind>
+      </document-id>
+      <document-id>
+        <country>US</country>
+        <doc-number>3629521</doc-number>
+        <kind>B1</kind>
+      </document-id>
+    </patent-property>
+    <patent-property>
+      <document-id>
+        <country>US</country>
+        <doc-number>04810593</doc-number>
+        <kind>X0</kind>
+      </document-id>
+      <document-id>
+        <country>US</country>
+        <doc-number>3673037</doc-number>
+        <kind>B1</kind>
+      </document-id>
+    </patent-property>
+    <patent-property>
+      <document-id>
+        <country>US</country>
+        <doc-number>04633035</doc-number>
+        <kind>X0</kind>
+      </document-id>
+      <document-id>
+        <country>US</country>
+        <doc-number>3563246</doc-number>
+        <kind>B1</kind>
+      </document-id>
+    </patent-property>
+  </patent-properties>
+</patent-assignment>

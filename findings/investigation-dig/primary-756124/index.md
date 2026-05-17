@@ -269,3 +269,27 @@ Seventh-pass research note advancing four lanes — USPTO Open Data Portal API m
 
 Effect on Section 1 / Section 7: **sharpened, not closed.** NSA reading provisionally favored on documentary grounds. DIA reading provisionally disfavored on structural grounds. Agency attribution remains formally unresolved on the present public record. The certified USPTO file wrapper (via ODP API or NARA Kansas City) remains the closure target.
 
+---
+
+## Addendum 2026-05-17 (eighth-pass no-key primary-source recovery)
+
+Companion file: [`FLANAGAN_EIGHTH_PASS_ADDENDUM_20260517.md`](FLANAGAN_EIGHTH_PASS_ADDENDUM_20260517.md). Primary-source artifact: [`biolectron_4271_859_assignment.xml`](biolectron_4271_859_assignment.xml).
+
+Eighth-pass research note finding and exercising a **practical no-key route to USPTO primary-source data** via the Wayback-mirrored **bulkdata.uspto.gov Patent Assignment Annual Backfile (1980-2023)**. Headline points (conservative):
+
+1. **Biolectron 1984 assignment recovered as primary-source XML without an API key.** Downloaded `ad19800101-20231231-01.zip` (95 MB) via `https://web.archive.org/web/2024/https://bulkdata.uspto.gov/data/patent/assignment/`, extracted the 1.2 GB XML, and grep-located the full `<patent-assignment>` record at line 13849610. Reel/frame **4271/859**, recorded **1984-06-04**, executed **1984-05-30**, CHEN, C.Y. → BIOLECTRON, INC. (200 Holt St., Hackensack, NJ 07601, Delaware corp.), correspondent **BRUMBAUGH, GRAVES DONOHUE, ET AL, 30 Rockefeller Plaza, NY**, page-count **2**, conveyance text "ASSIGNMENT OF ASSIGNORS INTEREST." The portfolio is **7 patents** (not the previously documented 3): US3393279, US3497637, US3586791, US3629521, US3673037, US3726762, US3563246. Raw XML extract committed to repo as `biolectron_4271_859_assignment.xml`.
+
+2. **Primary-source negative for US 3,647,970 across the entire 1980-2023 backfile.** Exact-string grep `<doc-number>3647970</doc-number>` across partitions 01, 07, and 14 of the Annual Backfile returns zero hits. **Flanagan retained sole personal ownership of the speech-waveform patent through its 1989 expiration**, independently confirmed against the Google Patents bibliographic record listing original and current assignee as "Individual."
+
+3. **Foreign-filing analytical wedge.** US 3,393,279 (Neurophone, no secrecy) has family members **BE629478A** and **FR1359198A (granted 1964-04-24)**. US 3,647,970 (secrecy ordered) has **family size 1, US-only**. Under 35 U.S.C. § 184, a § 181-ordered application cannot be filed abroad without a foreign-filing license. Flanagan's filing pattern changed exactly at the secrecy-ordered application — a behavioral fingerprint **consistent with the secrecy-order claim** from a source class (patent family data) independent of the form-face scans, the FAS spreadsheets, and the Begich / NEXUS tradition.
+
+4. **DEPATISnet bibliographic and INPADOC legal-status without auth.** `https://depatisnet.dpma.de/DepatisNet/depatisnet?action=bibdat&docid=US003647970A` returns full INID record. INPADOC legal-status returns **"no data for this document"** — EPO has no legal-event coverage of this US patent's secrecy-order rescission.
+
+5. **Biolectron federal-contract footprint via USAspending.** FY2007-2009 contracts with the **Department of Veterans Affairs** (prosthetics, infusion kits, "SMALL PURCHASE DATA" totaling $700K+). **Medical-device supplier, not defense contractor.** Successor-entity context corroborates that the 1984 portfolio consolidation was a private medical-device transaction.
+
+6. **No-key route map (tested).** WORKING: bulkdata.uspto.gov via Wayback (assignment XML); DEPATISnet bibliographic; Google Patents + patentimages.storage.googleapis.com (issued patent PDF); USAspending; the NARA Kansas City mail-order channel as the conventional paper-mail no-key path. BLOCKED: Patent Center retrieval API (SPA fallback); Public PAIR / patft / pdfaiw legacy hosts (decommissioned, no Wayback captures of specific queries); legacy-assignments.uspto.gov query results (only empty-form captures in Wayback); Espacenet REST anonymous (rate limited).
+
+7. **Best next no-key step:** email request to `kansascity.archives@nara.gov` for the RG 241 / NAID 302050 patent case file for US 3,647,970 (Gillis P. Flanagan, application 756,124, issued March 7, 1972), explicitly asking whether the case file contains the secrecy-order notice, Group 220 / Licensing & Review correspondence, ASPAB referral or concurrence papers, sponsoring-agency communication, and rescission correspondence. $20 mail-order minimum.
+
+Effect on Section 1 / Section 7: **sharpened on the assignment lane and on the secrecy-order behavioral-fingerprint, not closed on agency attribution.** The eighth pass exhausts no-key bibliographic-level recovery and identifies the NARA Kansas City paper-mail channel as the remaining no-key path to the certified file wrapper itself.
+
