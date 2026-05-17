@@ -229,3 +229,21 @@ Fifth-pass research note updating two evidence lanes — LIFE Magazine "Whiz Kid
 
 None of this addendum revises Section 1 / Section 7 attribution conclusions; agency attribution for the 756,124 order remains unresolved on the present record. The LIFE upgrade is bibliographic provenance for Flanagan's 1962 press profile and does not bear on the 1969-1972 secrecy-order claim.
 
+---
+
+## Addendum 2026-05-17 (sixth-pass Raborn-archive negative result and LIFE Internet Archive citation)
+
+Companion file: [`FLANAGAN_SIXTH_PASS_ADDENDUM_20260517.md`](FLANAGAN_SIXTH_PASS_ADDENDUM_20260517.md) (this directory).
+
+Sixth-pass research note testing the Flanagan Rense-video claim (`FLANAGAN_RENSE_VIDEO_CLUE_REVIEW_20260516.md`) that Adm. William F. "Red" Raborn Jr. personally intervened to lift the 756,124 secrecy order. Headline points (conservative):
+
+1. **Raborn-archive negative result with testability gap mapped.** Two public Raborn finding aids were read end-to-end: Syracuse University's William F. Raborn Papers (collection 1916-1963; correspondence 1945-1963) and U.S. Naval Academy Nimitz Library MS 490 (1932-1964). Neither contains any reference to Patrick / G. Patrick / Gillis Flanagan, Neurophone, speech waveform, "speech scrambler," secrecy order, application 756,124, or patents 3,393,279 / 3,647,970. Both finding aids **end before the April 25, 1969 order and the March 7, 1972 rescission**, so they cannot corroborate or refute Flanagan's personal-intervention narrative from their own contents. The pass did not locate any public finding aid for Aerojet-era Raborn (1968-1972) personal or business correspondence. The video claim remains **untested by primary archival evidence**, with the testability gap now explicitly mapped.
+
+2. **LIFE September 14, 1962 Internet Archive item confirmed.** Internet Archive identifier `sim_life_1962-09-14_53_11` exists with metadata matching the issue (Vol 53 Iss 11, 143 pages, digitized from microfilm IA1642314-03), but is marked `Access-restricted-item: true` with bookreader-only access from the IA page. Adds a supplementary bibliographic citation alongside the fifth-pass Google Books page-resolved scan; does not yet recover an openly downloadable page image of page 69 / page 72.
+
+3. **Academy of Achievement honoree-list re-check.** Patrick / G. Patrick / Gillis Flanagan still does not appear; Raborn and Gell-Mann are present as 1962 honorees. PhiSciences-tradition claim of a December 29, 1962 Golden Plate Award to Flanagan remains uncorroborated by the official Academy list.
+
+4. **USPTO assignment image (004271/0859) and Acta Otolaryngologica 1969 (PMID 4906301) full text — unchanged.** Both remain open primary-record targets per the fourth/fifth-pass notes.
+
+Next records targets refreshed in the addendum file include Aerojet-era Raborn correspondence (Hagley / Gencorp / LBJ Library / private papers), the USPTO certified file wrapper for application 756,124 as the primary closure target for the agency-attribution question, USPTO Assignment Services manual request for reel/frame 004271/0859, and Houston Chronicle / Houston Post 1961-1962 newspaper archives for the science-fair / atomic-bomb-detector narrative. None of this addendum revises Section 1 / Section 7 attribution conclusions; agency attribution for the 756,124 order remains unresolved on the present record.
+
