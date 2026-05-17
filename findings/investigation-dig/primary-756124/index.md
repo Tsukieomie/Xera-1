@@ -195,3 +195,21 @@ Direct read of the two SF-115 PDFs corrects two narrower sub-claims in the third
 
 4. **Section 1 / section 7 conclusions unchanged.** DIA attribution unproven; NSA / ASPAB / Service-channel attribution better supported than DIA-as-formal-sponsor on the present record.
 
+---
+
+## Addendum 2026-05-17 (fourth-pass archival addendum)
+
+Companion file: [`FLANAGAN_FOURTH_PASS_ARCHIVAL_ADDENDUM_20260517.md`](FLANAGAN_FOURTH_PASS_ARCHIVAL_ADDENDUM_20260517.md) (this directory).
+
+Fourth-pass research note updating three evidence lanes — Biolectron patent-assignment cluster, US3647970A secrecy-order provenance, and clinical hearing-therapy literature — plus a status update on the LIFE "Whiz Kid" article provenance. Headline points (conservative):
+
+1. **Biolectron assignment cluster.** Google Patents legal-events pages mirror the same reel/frame **004271/0859**, recorded **1984-06-04**, "ASSIGNMENT OF ASSIGNORS INTEREST" from **C.Y. Chen** to **Biolectron, Inc.** (200 Holt St., Hackensack, NJ), effective **1984-05-30**, across Flanagan's **US3393279A** and Puharich/Lawrence's **US3563246A** and **US3629521A**. Supports a 1984 portfolio-consolidation pathway linking Listening / Intelectron / Flanagan assets under Biolectron; does **not** prove original-1960s ownership. The USPTO Assignment Search page did not load during this pass — assignment instrument image remains a next-records target.
+
+2. **US3647970A secrecy-order provenance.** The hosted "Patrick Flanagan High Security Speech Scrambler" PDF (same artifact previously logged as E-016 / E-024) reproduces a Patent Office secrecy-order text block for **Serial No. 756,124**, filed **Aug. 29, 1968**, applicant **Gillis P. Flanagan**, title **Method and System for Simplifying Speech Waveforms** — matching the official **US3647970A** metadata (Application US756124A, filed Aug. 29, 1968). Confidence label: **credible secondary document image aligned to official patent metadata; primary record not yet recovered.** The FAS 1982-1988 rescinded-orders spreadsheet does not include this application — unsurprising given the claimed ~1972 rescission falls outside that spreadsheet's coverage window; not disproof.
+
+3. **Clinical hearing-therapy literature is mixed.** PubMed confirms Puharich/Lawrence 1969, *Acta Otolaryngologica* 67(1):69-83, PMID **4906301**, DOI **10.3109/00016486909124370**, but provides no abstract. The 1974 JAMA *Transdermal Electrostimulation in Sensory Hearing Loss* reported 16-25% W-22 improvements for 35-40% of subjects' better ears under placebo control; a same-issue Glattke/Simmons JAMA double-blind study reported **no discernible treatment effects** and no significant control-vs-treated differences. A 1975 Brooks/Harrison clinical trial (PMID **1092039**, *Trans Sect Otolaryngol Am Acad Ophthalmol Otolaryngol* 80(1):79-84) exists bibliographically but PubMed offers no abstract. Best characterization: real clinical literature with controlled trials existed; publicly accessible abstracts show inconsistent outcomes and do **not** establish durable hearing restoration.
+
+4. **LIFE "Whiz Kid, Hands Down" (Sep 14 1962, William Moeser) status unchanged.** Mirror/transcript page (PhiSciences) preserves title, date, author, and text; a stable Google Books page-image citation for the spread was not recovered. Pass status: **likely but still needs primary page-image capture.**
+
+Next records targets recorded in the addendum file: USPTO assignment image for reel/frame 004271/0859; NARA/USPTO secrecy-order correspondence for application 756,124; full text of *Acta Otolaryngologica* 1969 67(1):69-83; full text of Brooks/Harrison 1975 80(1):79-84; primary LIFE page image. None of this addendum revises Section 1 / Section 7 attribution conclusions; agency attribution for the 756,124 order remains unresolved on the present record.
+
