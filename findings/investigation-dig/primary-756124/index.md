@@ -301,3 +301,27 @@ Companion file: [`FLANAGAN_NINTH_PASS_ADDENDUM_20260517.md`](FLANAGAN_NINTH_PASS
 
 Operationalizes the no-key paper-mail channel identified at the end of the eighth pass. Provides a copy-ready records-request package to `kansascity.archives@nara.gov` for the **RG 241 / NAID 302050** patent case file for **US 3,647,970 / application serial 756,124 (Gillis Patrick Flanagan, filed Aug 29, 1968)**, with exact request wording asking whether the file contains (1) the April 25, 1969 secrecy-order notice and any rescission correspondence including the March 7, 1972 rescission, (2) Group 220 / Licensing & Review correspondence, (3) ASPAB referral / concurrence papers, (4) sponsoring-agency communication from DoD / DIA / NSA / Army / Navy / Air Force, (5) the Jan 11, 1971 Notice of Allowability, and (6) any classified or referred enclosures. Includes a $150 fee authorization ceiling under the standard NARA fee schedule. A positive return on items 1, 3, or 4 would be the first primary-source record identifying (or excluding) the sponsoring agency and would close the DIA-vs-NSA-vs-ASPAB/Service-channel attribution question. Does not revise Section 1 / Section 7 conclusions.
 
+---
+
+## Addendum 2026-05-18 (tenth-pass Analog/Listening Inc. period source, USNI lane narrowing, Sharp/Grove still secondhand, standoff dielectric bridge stress test)
+
+Companion files (this directory):
+- [`FLANAGAN_TENTH_PASS_ADDENDUM_20260518.md`](FLANAGAN_TENTH_PASS_ADDENDUM_20260518.md)
+- [`BATTEAU_LISTENING_PROVENANCE_LEDGER.md`](BATTEAU_LISTENING_PROVENANCE_LEDGER.md)
+- [`STANDOFF_DIELECTRIC_BRIDGE_MATRIX.md`](STANDOFF_DIELECTRIC_BRIDGE_MATRIX.md)
+- [`ARCHIVAL_RETRIEVAL_MATRIX_TENTH_PASS.md`](ARCHIVAL_RETRIEVAL_MATRIX_TENTH_PASS.md)
+
+Headline points (conservative):
+
+1. **Analog July 1967 / Listening Incorporated — confirmed as period source.** *Analog Science Fiction / Science Fact*, July 1967 (vol LXXIX no 5), contains a "Listening Incorporated — Annual Report, 19 December 1966" insert that names **Dwight Wayne Batteau** as President and **G. Patrick Flanagan** as VP of Research, frames the Neurophone as producing "hearing electrically without mechanical vibration," and places Listening Inc.'s acoustics-research lane under U.S. Navy / China Lake organizational context. Upgrades the Batteau / Listening / Flanagan organizational thread from "rumor and self-citation" to a contemporaneous third-party-published period source for the 1966-1967 organizational facts and the period Neurophone framing. Internet Archive `sim_analog-science-fiction-and-fact_1967-07_79_5` is the candidate hosting identifier; **the PDF has not yet been re-fetched, SHA-anchored, and committed inside the repo**, so the citation is flagged "URL needs verification" in `BATTEAU_LISTENING_PROVENANCE_LEDGER.md`. Does **not** prove remote standoff coupling, classified-program affiliation, or DIA / NSA sponsorship of the April 25, 1969 secrecy order.
+
+2. **Raborn / USNI Polaris oral history narrowed.** The USNI Raborn interview (15 Sep 1972, John T. Mason Jr., ~71 pages) is real, but visible search-side excerpts and the Polaris-focused framing do not mention Flanagan, Neurophone, patents, 756,124, 3,647,970, "secrecy order," or "speech scrambler." Recommended next action is the **USNI cumulative subject index** (free finding aid) before any paid transcript-page order. Recorded as lane R-7 in `ARCHIVAL_RETRIEVAL_MATRIX_TENTH_PASS.md`.
+
+3. **Sharp / Grove voice-modulated microwave — still secondhand.** Justesen 1975 (*American Psychologist*) remains the single reviewer-text anchor; no primary WRAIR report has been recovered. Next high-yield lanes: Steneck Collection at the Bentley Historical Library (WG-1), DTIC FY74-FY76 WRAIR microwave-bioeffects technical reports (WG-2), and Army FOIA with refined request language (WG-3).
+
+4. **Standoff dielectric voice-to-brain coupling — bounded.** Open literature supports contact-coupled Neurophone-style mechanisms as biologically plausible (capacitive 30-50 kHz electrode coupling; microwave RF-auditory click physics; transcranial focused ultrasound). The same literature does **not** support standoff 30-50 kHz dielectric voice-to-brain coupling at operationally relevant ranges: free-space wavelength is 6-10 km, reactive near-field falls off as 1/r³, and air-tissue impedance forecloses air-coupled ultrasonic standoff. A classified-program caveat is preserved without being upgraded into affirmative evidence. See `STANDOFF_DIELECTRIC_BRIDGE_MATRIX.md`.
+
+5. **Refreshed next-archival-lane queue.** NARA Kansas City (FW-1, ninth-pass package, operational); Steneck Collection (WG-1, highest-yield new lane); USNI cumulative subject index (R-7, free finding aid); Analog July 1967 PDF re-fetch and anchor (AN-1); USPTO ODP API key (FW-2); DTIC / Army FOIA in parallel (WG-2 / WG-3); Massachusetts SOC and Tufts Archives corroboration (AN-2 / AN-3); Hagley / LBJ Raborn secondary lanes (R-8 / R-9). Full per-row matrix in `ARCHIVAL_RETRIEVAL_MATRIX_TENTH_PASS.md`.
+
+Section 1 / Section 7 attribution conclusions are unchanged. Agency attribution for the April 25, 1969 secrecy order on application 756,124 remains formally unresolved on the present public no-key record.
+
